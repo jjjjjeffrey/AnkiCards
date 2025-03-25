@@ -1,0 +1,1155 @@
+[
+  {
+    "word": "fibre",
+    "pronunciation": "/ˈfaɪbər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "fibre",
+            "plural": "fibres"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A thread or filament from which a vegetable tissue, mineral substance, or textile is formed.",
+        "chineseDefinition": "由植物组织、矿物质或纺织品形成的纤维或丝状物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Vegetables are a good source of dietary fibre.",
+            "chinese": "蔬菜是膳食纤维的良好来源。"
+          }
+        ],
+        "synonyms": ["fiber"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "suburb",
+    "pronunciation": "/ˈsʌbɜːrb/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "suburb",
+            "plural": "suburbs"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An outlying district of a city, especially a residential one.",
+        "chineseDefinition": "城市外缘的地区，特别是住宅区。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They live in a quiet suburb outside the city.",
+            "chinese": "他们住在城市外一个安静的郊区。"
+          }
+        ],
+        "synonyms": ["outskirts"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "pulverise",
+    "pronunciation": "/ˈpʌlvəraɪz/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "pulverise",
+            "thirdPersonSingular": "pulverises",
+            "presentParticiple": "pulverising",
+            "pastTense": "pulverised",
+            "pastParticiple": "pulverised"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Reduce to fine particles.",
+        "chineseDefinition": "研磨成细小颗粒。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They used the machine to pulverise the rocks into powder.",
+            "chinese": "他们用机器把岩石研磨成粉末。"
+          }
+        ],
+        "synonyms": ["crush", "grind"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "inductive",
+    "pronunciation": "/ɪnˈdʌktɪv/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "inductive",
+            "comparative": "more inductive",
+            "superlative": "most inductive"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Characterized by the inference of general laws from particular instances.",
+        "chineseDefinition": "从特定实例推断一般规律的特征。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He employed an inductive method to reach his conclusion.",
+            "chinese": "他使用归纳法得出了结论。"
+          }
+        ],
+        "synonyms": ["inferential"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "fertilise",
+    "pronunciation": "/ˈfɜːtɪlaɪz/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "fertilise",
+            "thirdPersonSingular": "fertilises",
+            "presentParticiple": "fertilising",
+            "pastTense": "fertilised",
+            "pastParticiple": "fertilised"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Cause (an egg, female animal, or plant) to develop a new individual by introducing male reproductive material.",
+        "chineseDefinition": "通过引进雄性生殖物质使（卵、雌性动物或植物）孕育新的个体。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Bees help to fertilise the flowers.",
+            "chinese": "蜜蜂帮助给花授粉。"
+          }
+        ],
+        "synonyms": ["pollinate", "inseminate"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "ration",
+    "pronunciation": "/ˈræʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "ration",
+            "plural": "rations"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "ration",
+            "thirdPersonSingular": "rations",
+            "presentParticiple": "rationing",
+            "pastTense": "rationed",
+            "pastParticiple": "rationed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A fixed amount of a commodity officially allowed to each person during a time of shortage.",
+        "chineseDefinition": "在物质短缺时期, 官方规定每人可获得的固定数量的物资。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Each soldier received a daily ration of water and bread.",
+            "chinese": "每名士兵每天都能领到固定份额的水和面包。"
+          }
+        ],
+        "synonyms": ["allowance", "quota"],
+        "antonyms": []
+      },
+      {
+        "definition": "Allow each person to have only a fixed amount of (a certain commodity).",
+        "chineseDefinition": "让每个人只能使用固定数量的(某种物资)。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They had to ration the remaining supplies.",
+            "chinese": "他们不得不定量供应剩余的物资。"
+          }
+        ],
+        "synonyms": ["allocate", "apportion"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "debt",
+    "pronunciation": "/dɛt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "debt",
+            "plural": "debts"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Something, typically money, that is owed or due.",
+        "chineseDefinition": "欠下或到期需要偿还的东西，通常是金钱。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He managed to pay off all his debts last year.",
+            "chinese": "他去年还清了所有的债务。"
+          }
+        ],
+        "synonyms": ["liability", "obligation"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "attractive",
+    "pronunciation": "/əˈtræktɪv/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "attractive",
+            "comparative": "more attractive",
+            "superlative": "most attractive"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Pleasing or appealing to the senses.",
+        "chineseDefinition": "令人愉悦或对感官具有吸引力的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She had an attractive smile.",
+            "chinese": "她有迷人的笑容。"
+          }
+        ],
+        "synonyms": ["appealing", "charming"],
+        "antonyms": ["ugly"]
+      }
+    ]
+  },
+  {
+    "word": "conquest",
+    "pronunciation": "/ˈkɒŋkwɛst/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "conquest",
+            "plural": "conquests"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The subjugation and assumption of control of a place or people by military force.",
+        "chineseDefinition": "通过武力对一个地区或人群的制服和控制。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The conquest of the city was swift.",
+            "chinese": "对这座城市的征服非常迅速。"
+          }
+        ],
+        "synonyms": ["subjugation"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "sophisticate",
+    "pronunciation": "/səˈfɪstɪkeɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "sophisticate",
+            "thirdPersonSingular": "sophisticates",
+            "presentParticiple": "sophisticating",
+            "pastTense": "sophisticated",
+            "pastParticiple": "sophisticated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Make (someone or something) more sophisticated.",
+        "chineseDefinition": "使（某人或某物）更加老练或复杂。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Travel can sophisticate a person's worldview.",
+            "chinese": "旅行可以让一个人的世界观更加成熟。"
+          }
+        ],
+        "synonyms": ["refine"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "snap",
+    "pronunciation": "/snæp/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "snap",
+            "plural": "snaps"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "snap",
+            "thirdPersonSingular": "snaps",
+            "presentParticiple": "snapping",
+            "pastTense": "snapped",
+            "pastParticiple": "snapped"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A sudden, sharp cracking sound or movement.",
+        "chineseDefinition": "突如其来的锐利折断声或动作。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He heard a snap of a twig under his foot.",
+            "chinese": "他听到脚下树枝发出的折断声。"
+          }
+        ],
+        "synonyms": ["click", "pop"],
+        "antonyms": []
+      },
+      {
+        "definition": "Break suddenly and completely, typically with a sharp cracking sound.",
+        "chineseDefinition": "突然完全折断，通常伴随锐利折断声。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Be careful not to snap the branch.",
+            "chinese": "小心不要把树枝折断了。"
+          }
+        ],
+        "synonyms": ["break", "fracture"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "express",
+    "pronunciation": "/ɪkˈsprɛs/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "express",
+            "thirdPersonSingular": "expresses",
+            "presentParticiple": "expressing",
+            "pastTense": "expressed",
+            "pastParticiple": "expressed"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "express",
+            "comparative": "more express",
+            "superlative": "most express"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Convey (a thought or feeling) in words or by gestures and conduct.",
+        "chineseDefinition": "通过语言、手势或行为表达想法或感受。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He expressed his gratitude for their support.",
+            "chinese": "他表达了对他们支持的感激之情。"
+          }
+        ],
+        "synonyms": ["communicate", "convey"],
+        "antonyms": []
+      },
+      {
+        "definition": "Operating at high speed with few stops.",
+        "chineseDefinition": "速度快且中途停站少的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He took the express train to the city.",
+            "chinese": "他搭乘了去往城市的特快列车。"
+          }
+        ],
+        "synonyms": ["fast", "rapid"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "identifiable",
+    "pronunciation": "/aɪˌdɛntɪˈfaɪəbl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "identifiable",
+            "comparative": "more identifiable",
+            "superlative": "most identifiable"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Able to be recognized or distinguished.",
+        "chineseDefinition": "能够被识别或区分。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "His voice was easily identifiable among the crowd.",
+            "chinese": "他的声音在人群中很容易辨认。"
+          }
+        ],
+        "synonyms": ["recognizable"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "nominal",
+    "pronunciation": "/ˈnɒmɪnəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "nominal",
+            "comparative": "more nominal",
+            "superlative": "most nominal"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Existing in name only.",
+        "chineseDefinition": "仅在名义上存在。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He is the nominal head of the department.",
+            "chinese": "他只是这个部门名义上的负责人。"
+          }
+        ],
+        "synonyms": ["titular"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "acquire",
+    "pronunciation": "/əˈkwaɪər/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "acquire",
+            "thirdPersonSingular": "acquires",
+            "presentParticiple": "acquiring",
+            "pastTense": "acquired",
+            "pastParticiple": "acquired"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Buy or obtain (an asset or object) for oneself.",
+        "chineseDefinition": "购买或获得（资产或物品）。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She managed to acquire a rare painting at the auction.",
+            "chinese": "她在拍卖会上成功得到了一幅珍贵的画作。"
+          }
+        ],
+        "synonyms": ["obtain", "gain"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "bump",
+    "pronunciation": "/bʌmp/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "bump",
+            "plural": "bumps"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "bump",
+            "thirdPersonSingular": "bumps",
+            "presentParticiple": "bumping",
+            "pastTense": "bumped",
+            "pastParticiple": "bumped"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A light blow or a jolting collision.",
+        "chineseDefinition": "轻微的撞击或颠簸相撞。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He felt a bump as the car went over a pothole.",
+            "chinese": "汽车开过坑洼时他感到一阵颠簸。"
+          }
+        ],
+        "synonyms": ["knock", "hit"],
+        "antonyms": []
+      },
+      {
+        "definition": "Knock or run into someone or something with a jolt.",
+        "chineseDefinition": "轻撞或撞到某人或某物。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "I bumped into an old friend today.",
+            "chinese": "我今天偶遇了一位老朋友。"
+          }
+        ],
+        "synonyms": ["collide", "impact"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "graphology",
+    "pronunciation": "/ɡrəˈfɒlədʒi/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "graphology",
+            "plural": "graphologies"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The study of handwriting, especially as used to infer a person's character.",
+        "chineseDefinition": "对笔迹的研究，尤其是用来推断一个人的性格。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She took a course in graphology to analyze handwriting.",
+            "chinese": "她参加了一个笔迹学课程来分析书写特征。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "register",
+    "pronunciation": "/ˈrɛdʒɪstər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "register",
+            "plural": "registers"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "register",
+            "thirdPersonSingular": "registers",
+            "presentParticiple": "registering",
+            "pastTense": "registered",
+            "pastParticiple": "registered"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An official list or record of names or items.",
+        "chineseDefinition": "正式的姓名或项目列表。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She signed her name in the guest register.",
+            "chinese": "她在来宾登记簿上签下了名字。"
+          }
+        ],
+        "synonyms": ["record", "log"],
+        "antonyms": []
+      },
+      {
+        "definition": "Enter or record on an official list or directory.",
+        "chineseDefinition": "在正式名单或目录中进行登记或记录。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "You must register for the course by Friday.",
+            "chinese": "你必须在周五之前登记注册这门课程。"
+          }
+        ],
+        "synonyms": ["enroll", "record"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "extremely",
+    "pronunciation": "/ɪkˈstriːmli/",
+    "forms": [
+      {
+        "partOfSpeech": "adverb",
+        "form": {
+          "type": "invariable",
+          "data": "extremely"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To a very great degree; very.",
+        "chineseDefinition": "程度非常高；非常。",
+        "partOfSpeech": "adverb",
+        "examples": [
+          {
+            "english": "The weather was extremely cold.",
+            "chinese": "天气极其寒冷。"
+          }
+        ],
+        "synonyms": ["very", "highly"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "rot",
+    "pronunciation": "/rɒt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "rot",
+            "plural": "rots"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "rot",
+            "thirdPersonSingular": "rots",
+            "presentParticiple": "rotting",
+            "pastTense": "rotted",
+            "pastParticiple": "rotted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The process of decaying.",
+        "chineseDefinition": "腐烂的过程。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Fungal rot damaged the wooden beams.",
+            "chinese": "真菌腐烂破坏了木梁。"
+          }
+        ],
+        "synonyms": ["decay"],
+        "antonyms": []
+      },
+      {
+        "definition": "Undergo or cause to undergo decay.",
+        "chineseDefinition": "进行或使进行腐烂。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "If fruit is stored too long, it will rot.",
+            "chinese": "如果水果存放太久，会腐烂。"
+          }
+        ],
+        "synonyms": ["decompose"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "ambulance",
+    "pronunciation": "/ˈæmbjʊləns/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "ambulance",
+            "plural": "ambulances"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A vehicle equipped for taking sick or injured people to and from hospital.",
+        "chineseDefinition": "用于接送病患或受伤者往返医院的车辆。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They called an ambulance after the accident.",
+            "chinese": "事故发生后他们叫了救护车。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "miserable",
+    "pronunciation": "/ˈmɪzərəbəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "miserable",
+            "comparative": "more miserable",
+            "superlative": "most miserable"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Wretchedly unhappy or uncomfortable.",
+        "chineseDefinition": "悲惨的不幸福或不舒服。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She felt miserable after catching a cold.",
+            "chinese": "感冒后她感到很难受。"
+          }
+        ],
+        "synonyms": ["unhappy", "sad"],
+        "antonyms": ["cheerful"]
+      }
+    ]
+  },
+  {
+    "word": "continuous",
+    "pronunciation": "/kənˈtɪnjuəs/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "continuous",
+            "comparative": "more continuous",
+            "superlative": "most continuous"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Forming an unbroken whole; without interruption.",
+        "chineseDefinition": "形成一个不间断的整体；没有中断。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The machine can operate in continuous mode.",
+            "chinese": "这台机器可以连续运行。"
+          }
+        ],
+        "synonyms": ["uninterrupted", "ongoing"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "divide",
+    "pronunciation": "/dɪˈvaɪd/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "divide",
+            "plural": "divides"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "divide",
+            "thirdPersonSingular": "divides",
+            "presentParticiple": "dividing",
+            "pastTense": "divided",
+            "pastParticiple": "divided"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A difference or disagreement between two groups, typically producing tension.",
+        "chineseDefinition": "在两组之间的差异或分歧，通常会产生紧张关系。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "There is a deep cultural divide between them.",
+            "chinese": "他们之间存在着深刻的文化差异。"
+          }
+        ],
+        "synonyms": ["gap", "rift"],
+        "antonyms": []
+      },
+      {
+        "definition": "Separate or be separated into parts.",
+        "chineseDefinition": "分开或被分成若干部分。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "We need to divide the cake into eight pieces.",
+            "chinese": "我们需要把蛋糕分成八块。"
+          }
+        ],
+        "synonyms": ["split", "separate"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "gross",
+    "pronunciation": "/ɡroʊs/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "gross",
+            "comparative": "grosser",
+            "superlative": "grossest"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "gross",
+            "plural": "grosses"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Very obvious and unacceptable; blatant.",
+        "chineseDefinition": "非常明显且不可接受的；公然的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "It was a gross injustice.",
+            "chinese": "这是一个极其严重的不公正。"
+          }
+        ],
+        "synonyms": ["egregious", "flagrant"],
+        "antonyms": []
+      },
+      {
+        "definition": "An amount equal to twelve dozen; 144.",
+        "chineseDefinition": "等于12打的数量；144个单位。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We ordered a gross of pencils for the office.",
+            "chinese": "我们为办公室订购了一罗（144支）铅笔。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "cloakroom",
+    "pronunciation": "/ˈkloʊkruːm/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "cloakroom",
+            "plural": "cloakrooms"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A room in which coats and other belongings may be left temporarily.",
+        "chineseDefinition": "一个可以临时寄放外套和其他物品的房间。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Please leave your coat in the cloakroom.",
+            "chinese": "请将你的外套放在衣帽间。"
+          }
+        ],
+        "synonyms": ["coatroom"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "short-term",
+    "pronunciation": "/ˈʃɔːrt tɜːrm/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "short-term",
+            "comparative": "more short-term",
+            "superlative": "most short-term"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Occurring over or relating to a short period of time.",
+        "chineseDefinition": "在短时间内发生或与短期相关的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "We need a short-term solution for this issue.",
+            "chinese": "我们需要一个短期的解决方案。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "refusal",
+    "pronunciation": "/rɪˈfjuːzəl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "refusal",
+            "plural": "refusals"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An act or an instance of refusing.",
+        "chineseDefinition": "拒绝的行为或实例。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "His refusal to apologize caused further tension.",
+            "chinese": "他拒绝道歉导致了进一步的紧张局势。"
+          }
+        ],
+        "synonyms": ["rejection", "denial"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "coupon",
+    "pronunciation": "/ˈkuːpɒn/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "coupon",
+            "plural": "coupons"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A voucher entitling the holder to a discount off a particular product.",
+        "chineseDefinition": "持有人可享受特定商品折扣的凭证。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Use this coupon to get 10% off your purchase.",
+            "chinese": "使用这张优惠券可享受九折优惠。"
+          }
+        ],
+        "synonyms": ["voucher", "ticket"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "tome",
+    "pronunciation": "/toʊm/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "tome",
+            "plural": "tomes"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A book, especially a large, heavy, scholarly one.",
+        "chineseDefinition": "一本书，尤其是大而厚重的学术著作。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He spent hours reading the old tome in the library.",
+            "chinese": "他在图书馆花了数小时阅读那本古老的大部头书。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  }
+]

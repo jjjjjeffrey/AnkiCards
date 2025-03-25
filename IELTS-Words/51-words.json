@@ -1,0 +1,1102 @@
+[
+  {
+    "word": "rim",
+    "pronunciation": "/rɪm/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "rim",
+            "plural": "rims"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "rim",
+            "thirdPersonSingular": "rims",
+            "presentParticiple": "rimming",
+            "pastTense": "rimmed",
+            "pastParticiple": "rimmed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The outer edge of something, especially of a circular object.",
+        "chineseDefinition": "某物的外边缘，尤其是圆形物体的外边缘。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He ran around the rim of the stadium.",
+            "chinese": "他在体育场的边缘跑了一圈。"
+          }
+        ],
+        "synonyms": ["edge", "border"],
+        "antonyms": ["center"]
+      },
+      {
+        "definition": "To form an edge or border around something.",
+        "chineseDefinition": "在某物周围形成边缘或边界。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She rimmed the glass with salt.",
+            "chinese": "她在玻璃杯边缘撒了盐。"
+          }
+        ],
+        "synonyms": ["border", "edge"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "motivate",
+    "pronunciation": "/ˈmoʊtɪveɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "motivate",
+            "thirdPersonSingular": "motivates",
+            "presentParticiple": "motivating",
+            "pastTense": "motivated",
+            "pastParticiple": "motivated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Provide someone with a reason for doing something; inspire.",
+        "chineseDefinition": "为某人提供做某事的理由；激励。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Her speech motivated the team to work harder.",
+            "chinese": "她的演讲激励了团队更加努力工作。"
+          }
+        ],
+        "synonyms": ["inspire", "encourage"],
+        "antonyms": ["discourage", "demotivate"]
+      }
+    ]
+  },
+  {
+    "word": "patent",
+    "pronunciation": "/ˈpætənt/ or /ˈpeɪtənt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "patent",
+            "plural": "patents"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "patent",
+            "thirdPersonSingular": "patents",
+            "presentParticiple": "patenting",
+            "pastTense": "patented",
+            "pastParticiple": "patented"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "patent",
+            "comparative": "more patent",
+            "superlative": "most patent"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A government authority or license conferring a right or title for a set period.",
+        "chineseDefinition": "授予在一定时期内享有权利或所有权的政府许可。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He filed a patent for his new invention.",
+            "chinese": "他为他的新发明申请了专利。"
+          }
+        ],
+        "synonyms": ["license"],
+        "antonyms": []
+      },
+      {
+        "definition": "Obtain a patent for (an invention).",
+        "chineseDefinition": "为（发明）获得专利。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They decided to patent the innovative design.",
+            "chinese": "他们决定为这个创新设计申请专利。"
+          }
+        ],
+        "synonyms": ["register"],
+        "antonyms": []
+      },
+      {
+        "definition": "Easily recognizable; obvious.",
+        "chineseDefinition": "容易识别的；明显的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "It was a patent lie, clear to everyone.",
+            "chinese": "那是一个显而易见的谎言，所有人都很清楚。"
+          }
+        ],
+        "synonyms": ["obvious", "clear"],
+        "antonyms": ["hidden"]
+      }
+    ]
+  },
+  {
+    "word": "architect",
+    "pronunciation": "/ˈɑːrkɪtekt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "architect",
+            "plural": "architects"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "architect",
+            "thirdPersonSingular": "architects",
+            "presentParticiple": "architecting",
+            "pastTense": "architected",
+            "pastParticiple": "architected"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person who designs buildings and in many cases also supervises their construction.",
+        "chineseDefinition": "设计建筑物并通常监督其施工的人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He is a renowned architect known for sustainable designs.",
+            "chinese": "他是一位以可持续设计而闻名的建筑师。"
+          }
+        ],
+        "synonyms": ["designer"],
+        "antonyms": []
+      },
+      {
+        "definition": "To design or oversee the structure of something (often used in computing contexts).",
+        "chineseDefinition": "设计或监督某物的结构（常用于计算机领域）。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She architected the entire software solution.",
+            "chinese": "她设计了整个软件解决方案的结构。"
+          }
+        ],
+        "synonyms": ["design", "plan"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "symptom",
+    "pronunciation": "/ˈsɪmptəm/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "symptom",
+            "plural": "symptoms"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A physical or mental feature indicating a condition of disease.",
+        "chineseDefinition": "表明疾病状态的身体或心理特征。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Fever is a common symptom of the flu.",
+            "chinese": "发烧是流感常见的症状。"
+          }
+        ],
+        "synonyms": ["indicator"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "tremendous",
+    "pronunciation": "/trɪˈmɛndəs/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "tremendous",
+            "comparative": "more tremendous",
+            "superlative": "most tremendous"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Very great in amount, scale, or intensity.",
+        "chineseDefinition": "数量、规模或强度非常大。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "They achieved tremendous success with the new product.",
+            "chinese": "他们的新产品取得了巨大的成功。"
+          }
+        ],
+        "synonyms": ["huge", "enormous"],
+        "antonyms": ["tiny", "insignificant"]
+      }
+    ]
+  },
+  {
+    "word": "in",
+    "pronunciation": "/ɪn/",
+    "forms": [
+      {
+        "partOfSpeech": "preposition",
+        "form": {
+          "type": "invariable",
+          "data": "in"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Expressing movement with the result that someone or something becomes enclosed or surrounded.",
+        "chineseDefinition": "表示移动产生将某人或某物封闭或包围的结果。",
+        "partOfSpeech": "preposition",
+        "examples": [
+          {
+            "english": "They arrived in the city late at night.",
+            "chinese": "他们深夜到达了那座城市。"
+          }
+        ],
+        "synonyms": ["inside", "within"],
+        "antonyms": ["out"]
+      }
+    ]
+  },
+  {
+    "word": "destination",
+    "pronunciation": "/ˌdɛstəˈneɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "destination",
+            "plural": "destinations"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The place to which someone or something is going or being sent.",
+        "chineseDefinition": "某人或某物前往或被送往的地方。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Paris is a popular travel destination.",
+            "chinese": "巴黎是一个热门的旅游目的地。"
+          }
+        ],
+        "synonyms": ["goal", "end"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "welfare",
+    "pronunciation": "/ˈwɛlfeər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "welfare",
+            "plural": "welfares"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The health, happiness, and fortunes of a person or group.",
+        "chineseDefinition": "一个人或群体的健康、幸福与福祉。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We are concerned about the welfare of the children.",
+            "chinese": "我们关心这些孩子的福利。"
+          }
+        ],
+        "synonyms": ["well-being"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "envisage",
+    "pronunciation": "/ɪnˈvɪzɪdʒ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "envisage",
+            "thirdPersonSingular": "envisages",
+            "presentParticiple": "envisaging",
+            "pastTense": "envisaged",
+            "pastParticiple": "envisaged"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To form a mental image of something; to imagine.",
+        "chineseDefinition": "在脑海中形成某物的形象；想象。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She envisages a bright future for the company.",
+            "chinese": "她为公司设想了一个光明的未来。"
+          }
+        ],
+        "synonyms": ["imagine", "envision"],
+        "antonyms": ["ignore"]
+      }
+    ]
+  },
+  {
+    "word": "binoculars",
+    "pronunciation": "/bɪˈnɒkjʊlərz/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "binoculars",
+            "plural": "binoculars"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An optical instrument with a lens for each eye, used for viewing distant objects.",
+        "chineseDefinition": "带有双目镜头的光学仪器，用于观测远处物体。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He used binoculars to watch the birds more closely.",
+            "chinese": "他用双筒望远镜更仔细地观察鸟类。"
+          }
+        ],
+        "synonyms": ["field glasses"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "glutamate",
+    "pronunciation": "/ˈɡluːtəmeɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "glutamate",
+            "plural": "glutamates"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A salt or ester of glutamic acid.",
+        "chineseDefinition": "谷氨酸的盐或酯。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Monosodium glutamate is often used as a flavor enhancer.",
+            "chinese": "谷氨酸钠常被用作调味增鲜剂。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "spoilage",
+    "pronunciation": "/ˈspɔɪlɪdʒ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "spoilage",
+            "plural": "spoilages"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The process or result of decaying or going bad.",
+        "chineseDefinition": "腐坏或变质的过程或结果。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Proper storage can reduce food spoilage.",
+            "chinese": "适当的储存可以减少食物变质。"
+          }
+        ],
+        "synonyms": ["decay"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "misconception",
+    "pronunciation": "/ˌmɪskənˈsɛpʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "misconception",
+            "plural": "misconceptions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A view or opinion that is incorrect because it is based on faulty thinking or understanding.",
+        "chineseDefinition": "由于错误的思维或理解而产生的不正确观点或看法。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "There's a misconception that vaccines are unsafe.",
+            "chinese": "认为疫苗不安全是一种错误观念。"
+          }
+        ],
+        "synonyms": ["fallacy"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "vegetation",
+    "pronunciation": "/ˌvɛdʒɪˈteɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "vegetation",
+            "plural": "vegetations"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Plants considered collectively, especially those found in a particular area or habitat.",
+        "chineseDefinition": "整体性地考虑的植物，尤其是在特定地区或栖息地发现的植物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The region is known for its dense vegetation.",
+            "chinese": "该地区以其茂密的植被而闻名。"
+          }
+        ],
+        "synonyms": ["flora"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "conceptual",
+    "pronunciation": "/kənˈsɛptʃuəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "conceptual",
+            "comparative": "more conceptual",
+            "superlative": "most conceptual"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Relating to or based on mental concepts.",
+        "chineseDefinition": "与概念相关或基于概念的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "They discussed the conceptual framework of the study.",
+            "chinese": "他们讨论了这项研究的概念框架。"
+          }
+        ],
+        "synonyms": ["abstract", "theoretical"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "modification",
+    "pronunciation": "/ˌmɒdɪfɪˈkeɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "modification",
+            "plural": "modifications"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The action of modifying something.",
+        "chineseDefinition": "对某物进行修改的行为。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "A small modification to the design made it safer.",
+            "chinese": "对设计进行的一点小修改使其更安全。"
+          }
+        ],
+        "synonyms": ["alteration", "adjustment"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "erroneous",
+    "pronunciation": "/ɪˈroʊniəs/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "erroneous",
+            "comparative": "more erroneous",
+            "superlative": "most erroneous"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Wrong; incorrect.",
+        "chineseDefinition": "错误的；不正确的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "They made an erroneous assumption about the data.",
+            "chinese": "他们对数据做出了一个错误的假设。"
+          }
+        ],
+        "synonyms": ["incorrect", "false"],
+        "antonyms": ["correct"]
+      }
+    ]
+  },
+  {
+    "word": "robust",
+    "pronunciation": "/roʊˈbʌst/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "robust",
+            "comparative": "more robust",
+            "superlative": "most robust"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Strong and healthy; vigorous.",
+        "chineseDefinition": "强壮且健康；精力充沛。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He has a robust constitution and rarely gets sick.",
+            "chinese": "他体格强健，很少生病。"
+          }
+        ],
+        "synonyms": ["strong", "sturdy"],
+        "antonyms": ["weak"]
+      }
+    ]
+  },
+  {
+    "word": "get",
+    "pronunciation": "/ɡɛt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "get",
+            "thirdPersonSingular": "gets",
+            "presentParticiple": "getting",
+            "pastTense": "got",
+            "pastParticiple": "gotten"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Come to have or hold (something); receive.",
+        "chineseDefinition": "得到或拥有（某物）；接收。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "I need to get some groceries after work.",
+            "chinese": "下班后我需要去买些杂货。"
+          }
+        ],
+        "synonyms": ["obtain", "gain"],
+        "antonyms": ["lose"]
+      }
+    ]
+  },
+  {
+    "word": "immense",
+    "pronunciation": "/ɪˈmɛns/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "immense",
+            "comparative": "more immense",
+            "superlative": "most immense"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Extremely large or great, especially in scale or degree.",
+        "chineseDefinition": "极度巨大或伟大，尤指规模或程度上。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The universe is immensely vast.",
+            "chinese": "宇宙广袤无垠。"
+          }
+        ],
+        "synonyms": ["huge", "enormous"],
+        "antonyms": ["small"]
+      }
+    ]
+  },
+  {
+    "word": "pull",
+    "pronunciation": "/pʊl/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "pull",
+            "thirdPersonSingular": "pulls",
+            "presentParticiple": "pulling",
+            "pastTense": "pulled",
+            "pastParticiple": "pulled"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "pull",
+            "plural": "pulls"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Exert force on someone or something so as to cause movement toward oneself.",
+        "chineseDefinition": "对某人或某物施加力，使其移动到自己这边。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He pulled the door open.",
+            "chinese": "他把门拉开了。"
+          }
+        ],
+        "synonyms": ["drag", "tug"],
+        "antonyms": ["push"]
+      },
+      {
+        "definition": "An act of pulling something.",
+        "chineseDefinition": "拉某物的动作。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He gave the rope a strong pull.",
+            "chinese": "他用力拉了一下绳子。"
+          }
+        ],
+        "synonyms": ["tug"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "baron",
+    "pronunciation": "/ˈbærən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "baron",
+            "plural": "barons"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A member of the lowest order of British nobility or a similar rank in other countries.",
+        "chineseDefinition": "英国最低等级贵族或其他国家的类似头衔。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He was made a baron for his services to the country.",
+            "chinese": "他因对国家的贡献而被封为男爵。"
+          }
+        ],
+        "synonyms": ["nobleman"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "independence",
+    "pronunciation": "/ˌɪndɪˈpɛndəns/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "independence",
+            "plural": "independences"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The fact or state of being independent.",
+        "chineseDefinition": "独立的事实或状态。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The country declared its independence many years ago.",
+            "chinese": "这个国家在许多年前宣布了独立。"
+          }
+        ],
+        "synonyms": ["freedom"],
+        "antonyms": ["dependence"]
+      }
+    ]
+  },
+  {
+    "word": "intense",
+    "pronunciation": "/ɪnˈtɛns/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "intense",
+            "comparative": "more intense",
+            "superlative": "most intense"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Of extreme force, degree, or strength.",
+        "chineseDefinition": "具有极大的力量、程度或强度。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She felt intense pain in her arm.",
+            "chinese": "她的手臂感到剧烈的疼痛。"
+          }
+        ],
+        "synonyms": ["extreme", "severe"],
+        "antonyms": ["mild"]
+      }
+    ]
+  },
+  {
+    "word": "thesis",
+    "pronunciation": "/ˈθiːsɪs/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "thesis",
+            "plural": "theses"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A statement or theory put forward as a premise to be maintained or proved.",
+        "chineseDefinition": "提出作为需要论证或维护前提的陈述或理论。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Her thesis explores new approaches to data analysis.",
+            "chinese": "她的论文探讨了数据分析的新方法。"
+          }
+        ],
+        "synonyms": ["dissertation"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "withdraw",
+    "pronunciation": "/wɪðˈdrɔː/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "withdraw",
+            "thirdPersonSingular": "withdraws",
+            "presentParticiple": "withdrawing",
+            "pastTense": "withdrew",
+            "pastParticiple": "withdrawn"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Remove or take away something from a particular place or position.",
+        "chineseDefinition": "将某物从特定地点或位置移除或拿走。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He withdrew his application for the job.",
+            "chinese": "他撤回了对那份工作的申请。"
+          }
+        ],
+        "synonyms": ["remove", "retreat"],
+        "antonyms": ["advance", "deposit"]
+      }
+    ]
+  },
+  {
+    "word": "sceptical",
+    "pronunciation": "/ˈskɛptɪkəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "sceptical",
+            "comparative": "more sceptical",
+            "superlative": "most sceptical"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Not easily convinced; having doubts or reservations.",
+        "chineseDefinition": "不易相信，怀疑或保留意见。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He was sceptical about the new investment strategy.",
+            "chinese": "他对新的投资策略持怀疑态度。"
+          }
+        ],
+        "synonyms": ["doubtful", "questioning"],
+        "antonyms": ["convinced"]
+      }
+    ]
+  },
+  {
+    "word": "flicker",
+    "pronunciation": "/ˈflɪkər/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "flicker",
+            "thirdPersonSingular": "flickers",
+            "presentParticiple": "flickering",
+            "pastTense": "flickered",
+            "pastParticiple": "flickered"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "flicker",
+            "plural": "flickers"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Make small, quick movements of light or flame; to shine unsteadily.",
+        "chineseDefinition": "使光或火焰快速地、小范围地晃动；摇曳不定。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The candle flame flickered in the draft.",
+            "chinese": "蜡烛的火焰在气流中闪烁。"
+          }
+        ],
+        "synonyms": ["flutter", "blink"],
+        "antonyms": []
+      },
+      {
+        "definition": "An unsteady movement of a flame or light causing rapid variations in brightness.",
+        "chineseDefinition": "火光或光线不稳定的晃动，导致亮度快速变化。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "A slight flicker lit the dark room momentarily.",
+            "chinese": "一丝闪烁让漆黑的房间暂时亮了一下。"
+          }
+        ],
+        "synonyms": ["sparkle"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "cord",
+    "pronunciation": "/kɔːrd/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "cord",
+            "plural": "cords"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Long, thin, flexible string or rope made from several twisted strands.",
+        "chineseDefinition": "由多股扭在一起形成的又长又细且有弹性的绳或线。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He tied the package with a strong cord.",
+            "chinese": "他用一根结实的绳子把包裹系起来。"
+          }
+        ],
+        "synonyms": ["rope", "string"],
+        "antonyms": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,1851 @@
+[
+  {
+    "word": "exhibit",
+    "pronunciation": "/ɪɡˈzɪbɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "exhibit",
+            "thirdPersonSingular": "exhibits",
+            "presentParticiple": "exhibiting",
+            "pastTense": "exhibited",
+            "pastParticiple": "exhibited"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "exhibit",
+            "plural": "exhibits"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To show or display something publicly",
+        "chineseDefinition": "公开展示或显示某物",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The artist will exhibit her paintings at the gallery next month.",
+            "chinese": "这位艺术家下个月将在画廊展出她的画作。"
+          }
+        ],
+        "synonyms": ["display", "show", "present", "demonstrate"],
+        "antonyms": ["hide", "conceal"]
+      },
+      {
+        "definition": "An item or collection of items shown publicly in a museum or art gallery",
+        "chineseDefinition": "在博物馆或美术馆公开展示的物品或物品集合",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The dinosaur exhibit attracted thousands of visitors.",
+            "chinese": "恐龙展览吸引了数千名游客。"
+          }
+        ],
+        "synonyms": ["display", "presentation", "exposition", "showing"],
+        "antonyms": []
+      },
+      {
+        "definition": "A document or material object produced and identified in court as evidence",
+        "chineseDefinition": "在法庭上出示并作为证据的文件或实物",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The defense presented several exhibits to support their case.",
+            "chinese": "辩方提交了几份证物来支持他们的案件。"
+          }
+        ],
+        "synonyms": ["evidence", "proof", "document"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "irrevocable",
+    "pronunciation": "/ɪˈrɛvəkəbl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "irrevocable",
+            "comparative": "more irrevocable",
+            "superlative": "most irrevocable"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Not able to be changed, reversed, or recovered; final and unalterable",
+        "chineseDefinition": "不能更改、撤销或恢复的；最终的和不可变更的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Once signed, the contract becomes irrevocable.",
+            "chinese": "一旦签署，合同就变成不可撤销的。"
+          }
+        ],
+        "synonyms": ["irreversible", "unalterable", "unchangeable", "permanent", "final"],
+        "antonyms": ["revocable", "reversible", "alterable", "changeable"]
+      }
+    ]
+  },
+  {
+    "word": "shelter",
+    "pronunciation": "/ˈʃɛltər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "shelter",
+            "plural": "shelters"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "shelter",
+            "thirdPersonSingular": "shelters",
+            "presentParticiple": "sheltering",
+            "pastTense": "sheltered",
+            "pastParticiple": "sheltered"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A structure that provides protection from weather, danger, or attack",
+        "chineseDefinition": "提供防护，使免受恶劣天气、危险或攻击的结构物",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They built a temporary shelter in the woods.",
+            "chinese": "他们在树林中搭建了临时避难所。"
+          }
+        ],
+        "synonyms": ["refuge", "haven", "sanctuary", "protection", "cover"],
+        "antonyms": ["exposure"]
+      },
+      {
+        "definition": "To provide with shelter; to protect from harm or bad weather",
+        "chineseDefinition": "提供庇护；保护免受伤害或恶劣天气",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The family sheltered the refugees during the war.",
+            "chinese": "这家人在战争期间收留了难民。"
+          }
+        ],
+        "synonyms": ["protect", "shield", "harbor", "house", "accommodate"],
+        "antonyms": ["expose", "abandon"]
+      },
+      {
+        "definition": "A place providing temporary accommodation for homeless people",
+        "chineseDefinition": "为无家可归者提供临时住所的地方",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The city opened a new homeless shelter downtown.",
+            "chinese": "这座城市在市中心开设了一个新的无家可归者收容所。"
+          }
+        ],
+        "synonyms": ["hostel", "refuge", "accommodation"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "stock",
+    "pronunciation": "/stɒk/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "stock",
+            "plural": "stocks"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "stock",
+            "thirdPersonSingular": "stocks",
+            "presentParticiple": "stocking",
+            "pastTense": "stocked",
+            "pastParticiple": "stocked"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "stock"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The total goods or merchandise kept on the premises of a business or warehouse and available for sale or distribution",
+        "chineseDefinition": "企业或仓库内保存的可供销售或分配的全部商品或货物",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The store has a large stock of winter clothing.",
+            "chinese": "这家商店有大量冬季服装库存。"
+          }
+        ],
+        "synonyms": ["inventory", "supply", "store", "reserve", "stockpile"],
+        "antonyms": ["shortage"]
+      },
+      {
+        "definition": "A share of the value of a company which can be bought, sold, or traded as an investment",
+        "chineseDefinition": "公司价值的股份，可以作为投资买卖或交易",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He invested in technology stocks.",
+            "chinese": "他投资了科技股。"
+          }
+        ],
+        "synonyms": ["share", "equity", "security"],
+        "antonyms": []
+      },
+      {
+        "definition": "To have or keep a supply of something",
+        "chineseDefinition": "拥有或保持某物的供应",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The pharmacy stocks a wide range of medicines.",
+            "chinese": "这家药店备有各种药品。"
+          }
+        ],
+        "synonyms": ["supply", "provide", "furnish", "equip"],
+        "antonyms": ["deplete"]
+      },
+      {
+        "definition": "Regularly or commonly used or provided",
+        "chineseDefinition": "经常或普遍使用或提供的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She gave a stock answer to the question.",
+            "chinese": "她对这个问题给出了一个套话回答。"
+          }
+        ],
+        "synonyms": ["standard", "conventional", "typical", "usual"],
+        "antonyms": ["unusual", "unique", "custom"]
+      }
+    ]
+  },
+  {
+    "word": "devise",
+    "pronunciation": "/dɪˈvaɪz/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "devise",
+            "thirdPersonSingular": "devises",
+            "presentParticiple": "devising",
+            "pastTense": "devised",
+            "pastParticiple": "devised"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "devise",
+            "plural": "devises"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To plan or invent by careful thought",
+        "chineseDefinition": "通过仔细思考来计划或发明",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They devised a new method for solving the problem.",
+            "chinese": "他们设计了一种解决这个问题的新方法。"
+          }
+        ],
+        "synonyms": ["create", "formulate", "contrive", "invent", "develop"],
+        "antonyms": []
+      },
+      {
+        "definition": "To leave real property to someone by the terms of a will",
+        "chineseDefinition": "通过遗嘱条款将不动产留给某人",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She devised her estate to her niece.",
+            "chinese": "她通过遗嘱将房产留给了她的侄女。"
+          }
+        ],
+        "synonyms": ["bequeath", "leave", "will"],
+        "antonyms": []
+      },
+      {
+        "definition": "The act of leaving real property in a will",
+        "chineseDefinition": "在遗嘱中留下不动产的行为",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The devise of the property was contested by the family.",
+            "chinese": "这项财产的遗赠被家人提出异议。"
+          }
+        ],
+        "synonyms": ["bequest", "legacy", "inheritance"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "career",
+    "pronunciation": "/kəˈrɪər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "career",
+            "plural": "careers"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "career",
+            "thirdPersonSingular": "careers",
+            "presentParticiple": "careering",
+            "pastTense": "careered",
+            "pastParticiple": "careered"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An occupation undertaken for a significant period of a person's life, usually with opportunities for progress",
+        "chineseDefinition": "一个人生命中相当长时期从事的职业，通常有晋升机会",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She had a successful career in medicine.",
+            "chinese": "她在医学领域有着成功的职业生涯。"
+          }
+        ],
+        "synonyms": ["profession", "occupation", "vocation", "calling", "métier"],
+        "antonyms": []
+      },
+      {
+        "definition": "To move rapidly and in an uncontrolled way",
+        "chineseDefinition": "快速且不受控制地移动",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The car careered down the hill.",
+            "chinese": "汽车沿着山坡飞驰而下。"
+          }
+        ],
+        "synonyms": ["rush", "hurtle", "speed", "bolt", "dash"],
+        "antonyms": ["crawl", "creep"]
+      },
+      {
+        "definition": "The progress through life or in a particular profession",
+        "chineseDefinition": "在生活或特定职业中的进步",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "His career as an actor spanned over four decades.",
+            "chinese": "他作为演员的职业生涯跨越了四十多年。"
+          }
+        ],
+        "synonyms": ["progress", "advancement", "development", "course"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "humidity",
+    "pronunciation": "/hjuːˈmɪdɪti/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "humidity",
+            "plural": "humidities"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The amount of water vapor present in the air",
+        "chineseDefinition": "空气中存在的水蒸气量",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The humidity in the rainforest was almost unbearable.",
+            "chinese": "雨林中的湿度几乎令人无法忍受。"
+          }
+        ],
+        "synonyms": ["dampness", "moistness", "mugginess", "clamminess"],
+        "antonyms": ["dryness", "aridity"]
+      },
+      {
+        "definition": "A measure of how much water vapor is in the air compared to the maximum amount it could hold at that temperature",
+        "chineseDefinition": "空气中水蒸气含量与该温度下可能含有的最大量相比的度量",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The relative humidity today is 85%.",
+            "chinese": "今天的相对湿度是85%。"
+          }
+        ],
+        "synonyms": ["moisture content", "water vapor content"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "hollow",
+    "pronunciation": "/ˈhɒləʊ/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "hollow",
+            "comparative": "hollower",
+            "superlative": "hollowest"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "hollow",
+            "plural": "hollows"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "hollow",
+            "thirdPersonSingular": "hollows",
+            "presentParticiple": "hollowing",
+            "pastTense": "hollowed",
+            "pastParticiple": "hollowed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Having a hole or empty space inside",
+        "chineseDefinition": "内部有洞或空间的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The chocolate Easter egg was hollow inside.",
+            "chinese": "这个巧克力复活节彩蛋里面是空心的。"
+          }
+        ],
+        "synonyms": ["empty", "void", "unfilled", "vacant"],
+        "antonyms": ["solid", "filled"]
+      },
+      {
+        "definition": "A depression or cavity in a surface",
+        "chineseDefinition": "表面上的凹陷或空腔",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The bird built its nest in a hollow in the tree trunk.",
+            "chinese": "这只鸟在树干的凹洞中筑巢。"
+          }
+        ],
+        "synonyms": ["cavity", "hole", "depression", "dent", "concavity"],
+        "antonyms": ["bump", "protrusion"]
+      },
+      {
+        "definition": "To make hollow by removing the inside",
+        "chineseDefinition": "通过移除内部使其变空",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He hollowed out the log to make a canoe.",
+            "chinese": "他把原木掏空做成了独木舟。"
+          }
+        ],
+        "synonyms": ["excavate", "scoop out", "gouge out", "empty"],
+        "antonyms": ["fill", "stuff"]
+      },
+      {
+        "definition": "Without real or sincere feeling; insincere",
+        "chineseDefinition": "没有真实或真诚的感情；不真诚的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "His promises sounded hollow after he had broken so many before.",
+            "chinese": "在他之前违背了那么多承诺后，他的承诺听起来很空洞。"
+          }
+        ],
+        "synonyms": ["empty", "meaningless", "insincere", "false"],
+        "antonyms": ["sincere", "genuine", "heartfelt"]
+      }
+    ]
+  },
+  {
+    "word": "statistic",
+    "pronunciation": "/stəˈtɪstɪk/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "statistic",
+            "plural": "statistics"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A numerical fact or datum, especially one computed from a sample",
+        "chineseDefinition": "数字事实或数据，尤指从样本中计算出的数据",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "According to recent statistics, unemployment has decreased by 2%.",
+            "chinese": "根据最近的统计数据，失业率下降了2%。"
+          }
+        ],
+        "synonyms": ["figure", "number", "data", "information"],
+        "antonyms": []
+      },
+      {
+        "definition": "A person or thing regarded merely as a piece of data",
+        "chineseDefinition": "仅被视为数据的人或物",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He didn't want to become just another statistic in the crime report.",
+            "chinese": "他不想成为犯罪报告中的又一个统计数字。"
+          }
+        ],
+        "synonyms": ["number", "figure", "data point"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "bark",
+    "pronunciation": "/bɑːrk/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "bark",
+            "plural": "barks"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "bark",
+            "thirdPersonSingular": "barks",
+            "presentParticiple": "barking",
+            "pastTense": "barked",
+            "pastParticiple": "barked"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The sharp, explosive cry of a dog, fox, or other animal",
+        "chineseDefinition": "狗、狐狸或其他动物发出的尖锐、爆发性的叫声",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We were woken by the bark of a dog in the distance.",
+            "chinese": "我们被远处一只狗的吠叫声吵醒了。"
+          }
+        ],
+        "synonyms": ["yelp", "yap", "woof", "bay"],
+        "antonyms": []
+      },
+      {
+        "definition": "The tough outer covering of the woody stems and roots of trees and other woody plants",
+        "chineseDefinition": "树木和其他木本植物的木质茎和根的坚韧外皮",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The bark of this tree is used to make a medicinal tea.",
+            "chinese": "这种树的树皮被用来制作药茶。"
+          }
+        ],
+        "synonyms": ["rind", "skin", "peel", "husk", "cortex"],
+        "antonyms": []
+      },
+      {
+        "definition": "To make the sharp, explosive sound characteristic of a dog",
+        "chineseDefinition": "发出狗特有的尖锐、爆发性声音",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The dog barked at the stranger.",
+            "chinese": "狗朝陌生人吠叫。"
+          }
+        ],
+        "synonyms": ["yelp", "yap", "woof", "bay"],
+        "antonyms": []
+      },
+      {
+        "definition": "To speak or shout in a harsh, abrupt way",
+        "chineseDefinition": "以刺耳、突兀的方式说话或喊叫",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The sergeant barked orders at the new recruits.",
+            "chinese": "军士向新兵大声发出命令。"
+          }
+        ],
+        "synonyms": ["shout", "yell", "snap", "snarl"],
+        "antonyms": ["whisper", "murmur"]
+      }
+    ]
+  },
+  {
+    "word": "burrow",
+    "pronunciation": "/ˈbʌrəʊ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "burrow",
+            "plural": "burrows"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "burrow",
+            "thirdPersonSingular": "burrows",
+            "presentParticiple": "burrowing",
+            "pastTense": "burrowed",
+            "pastParticiple": "burrowed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A hole or tunnel dug in the ground by an animal for habitation or refuge",
+        "chineseDefinition": "动物为居住或避难而在地下挖的洞或隧道",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The rabbits disappeared into their burrow.",
+            "chinese": "兔子们消失在它们的洞穴中。"
+          }
+        ],
+        "synonyms": ["hole", "tunnel", "den", "lair", "warren"],
+        "antonyms": []
+      },
+      {
+        "definition": "To dig a hole or tunnel, especially for use as a dwelling",
+        "chineseDefinition": "挖洞或隧道，尤指用作住所",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Moles burrow beneath the surface of the lawn.",
+            "chinese": "鼹鼠在草坪表面下挖洞。"
+          }
+        ],
+        "synonyms": ["dig", "tunnel", "excavate", "mine"],
+        "antonyms": []
+      },
+      {
+        "definition": "To move through something by or as if by digging",
+        "chineseDefinition": "通过或仿佛通过挖掘来穿过某物",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She burrowed under the blankets to get warm.",
+            "chinese": "她钻进毯子下面取暖。"
+          }
+        ],
+        "synonyms": ["delve", "root", "nestle", "snuggle"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "equivalent",
+    "pronunciation": "/ɪˈkwɪvələnt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "equivalent",
+            "plural": "equivalents"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "equivalent"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Equal in value, amount, function, or meaning",
+        "chineseDefinition": "在价值、数量、功能或意义上相等的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "One kilogram is equivalent to 2.2 pounds.",
+            "chinese": "一公斤相当于2.2磅。"
+          }
+        ],
+        "synonyms": ["equal", "identical", "the same", "comparable"],
+        "antonyms": ["different", "unequal", "dissimilar"]
+      },
+      {
+        "definition": "A person or thing that is equal to or corresponds with another in value, amount, function, or meaning",
+        "chineseDefinition": "在价值、数量、功能或意义上与另一个相等或相对应的人或物",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The English word 'book' is the equivalent of 'livre' in French.",
+            "chinese": "英语单词'book'相当于法语中的'livre'。"
+          }
+        ],
+        "synonyms": ["counterpart", "equal", "match", "parallel", "twin"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "fatigue",
+    "pronunciation": "/fəˈtiːɡ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "fatigue",
+            "plural": "fatigues"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "fatigue",
+            "thirdPersonSingular": "fatigues",
+            "presentParticiple": "fatiguing",
+            "pastTense": "fatigued",
+            "pastParticiple": "fatigued"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Extreme tiredness resulting from mental or physical exertion or illness",
+        "chineseDefinition": "由精神或身体劳累或疾病导致的极度疲劳",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "After the marathon, she was overcome with fatigue.",
+            "chinese": "马拉松比赛后，她被疲劳所压倒。"
+          }
+        ],
+        "synonyms": ["tiredness", "exhaustion", "weariness", "lethargy"],
+        "antonyms": ["energy", "vigor", "vitality"]
+      },
+      {
+        "definition": "Weakness in materials, especially metals, caused by repeated variations of stress",
+        "chineseDefinition": "材料中的弱点，尤其是金属中由重复应力变化引起的弱点",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Metal fatigue was determined to be the cause of the bridge collapse.",
+            "chinese": "金属疲劳被确定为桥梁倒塌的原因。"
+          }
+        ],
+        "synonyms": ["stress", "strain", "wear"],
+        "antonyms": []
+      },
+      {
+        "definition": "To cause someone to feel tired or exhausted",
+        "chineseDefinition": "使某人感到疲倦或精疲力竭",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The long journey fatigued the travelers.",
+            "chinese": "长途旅行使旅行者疲惫不堪。"
+          }
+        ],
+        "synonyms": ["tire", "exhaust", "wear out", "drain", "weary"],
+        "antonyms": ["energize", "invigorate", "refresh"]
+      },
+      {
+        "definition": "The uniform or work clothes worn by military personnel for ordinary duties",
+        "chineseDefinition": "军事人员日常职责穿着的制服或工作服",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The soldiers were dressed in combat fatigues.",
+            "chinese": "士兵们穿着作战服。"
+          }
+        ],
+        "synonyms": ["uniform", "battle dress", "combat dress"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "bibliography",
+    "pronunciation": "/ˌbɪbliˈɒɡrəfi/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "bibliography",
+            "plural": "bibliographies"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A list of the books and articles that have been used by someone when writing a particular book or article",
+        "chineseDefinition": "某人在写特定书籍或文章时使用的书籍和文章的列表",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The dissertation includes an extensive bibliography.",
+            "chinese": "这篇论文包含了一份详尽的参考书目。"
+          }
+        ],
+        "synonyms": ["references", "sources", "works cited", "reading list"],
+        "antonyms": []
+      },
+      {
+        "definition": "A list of books or documents on a particular subject or by a particular author",
+        "chineseDefinition": "关于特定主题或由特定作者撰写的书籍或文档的列表",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The professor provided a bibliography of recommended reading on ancient Rome.",
+            "chinese": "教授提供了一份关于古罗马的推荐阅读书目。"
+          }
+        ],
+        "synonyms": ["book list", "catalog", "reading list"],
+        "antonyms": []
+      },
+      {
+        "definition": "The study of books as physical objects and the details of their production",
+        "chineseDefinition": "作为物理对象的书籍及其生产细节的研究",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She specialized in the bibliography of 18th-century French literature.",
+            "chinese": "她专攻18世纪法国文学的书目学研究。"
+          }
+        ],
+        "synonyms": ["bibliology", "book history"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "probable",
+    "pronunciation": "/ˈprɒbəbl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "probable",
+            "comparative": "more probable",
+            "superlative": "most probable"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "probable",
+            "plural": "probables"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Likely to happen or to be true",
+        "chineseDefinition": "可能发生或可能是真的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "It's probable that the train will be late due to the storm.",
+            "chinese": "由于暴风雨，火车很可能会晚点。"
+          }
+        ],
+        "synonyms": ["likely", "expected", "anticipated", "foreseeable"],
+        "antonyms": ["improbable", "unlikely", "doubtful"]
+      },
+      {
+        "definition": "A person or thing considered likely to succeed or to be chosen",
+        "chineseDefinition": "被认为可能成功或被选中的人或事物",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He's considered a probable for the national team.",
+            "chinese": "他被认为很可能入选国家队。"
+          }
+        ],
+        "synonyms": ["candidate", "prospect", "possibility"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "fortnight",
+    "pronunciation": "/ˈfɔːtnaɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "fortnight",
+            "plural": "fortnights"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A period of two weeks",
+        "chineseDefinition": "两周的时间",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They're going on vacation for a fortnight.",
+            "chinese": "他们要去度假两周。"
+          }
+        ],
+        "synonyms": ["two weeks", "fourteen days", "bi-weekly period"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "treadmill",
+    "pronunciation": "/ˈtrɛdmɪl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "treadmill",
+            "plural": "treadmills"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An exercise machine for walking or running in place",
+        "chineseDefinition": "原地行走或跑步的健身器材",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She runs on the treadmill for 30 minutes every morning.",
+            "chinese": "她每天早上在跑步机上跑30分钟。"
+          }
+        ],
+        "synonyms": ["running machine", "exercise machine"],
+        "antonyms": []
+      },
+      {
+        "definition": "A monotonous, wearisome, or unpleasant situation, task, or routine that is repeated over and over",
+        "chineseDefinition": "单调、令人厌烦或不愉快的情况、任务或例行公事，反复重复",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "His job had become a treadmill of endless meetings and paperwork.",
+            "chinese": "他的工作已经变成了无休止的会议和文书工作的枯燥循环。"
+          }
+        ],
+        "synonyms": ["grind", "drudgery", "routine", "rat race"],
+        "antonyms": []
+      },
+      {
+        "definition": "A device formerly used for punishment, consisting of a large wheel that prisoners had to walk on",
+        "chineseDefinition": "以前用于惩罚的装置，由一个大轮子组成，囚犯必须在上面行走",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "In the 19th century, prisoners were often forced to work on treadmills.",
+            "chinese": "在19世纪，囚犯经常被迫在踏车上工作。"
+          }
+        ],
+        "synonyms": ["penal mill", "prison wheel"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "flavour",
+    "pronunciation": "/ˈfleɪvər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "flavour",
+            "plural": "flavours"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "flavour",
+            "thirdPersonSingular": "flavours",
+            "presentParticiple": "flavouring",
+            "pastTense": "flavoured",
+            "pastParticiple": "flavoured"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The distinctive taste of a food or drink",
+        "chineseDefinition": "食物或饮料的独特味道",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "This ice cream has a delicious chocolate flavour.",
+            "chinese": "这个冰淇淋有美味的巧克力味道。"
+          }
+        ],
+        "synonyms": ["taste", "savor", "relish", "tang"],
+        "antonyms": ["blandness", "tastelessness"]
+      },
+      {
+        "definition": "To add something to food or drink to give it a particular taste",
+        "chineseDefinition": "向食物或饮料中添加某物以赋予其特定味道",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She flavoured the soup with fresh herbs.",
+            "chinese": "她用新鲜香草调味汤。"
+          }
+        ],
+        "synonyms": ["season", "spice", "add taste to", "enhance"],
+        "antonyms": []
+      },
+      {
+        "definition": "The distinctive quality or character of something",
+        "chineseDefinition": "某物的独特品质或特性",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The novel captures the flavour of life in rural Italy.",
+            "chinese": "这部小说捕捉了意大利乡村生活的风味。"
+          }
+        ],
+        "synonyms": ["character", "quality", "essence", "spirit", "atmosphere"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "asymmetry",
+    "pronunciation": "/eɪˈsɪmətri/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "asymmetry",
+            "plural": "asymmetries"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Lack of equality or equivalence between parts or aspects of something; lack of symmetry",
+        "chineseDefinition": "事物的部分或方面之间缺乏平等或等价；缺乏对称性",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The asymmetry of her face became more noticeable after the accident.",
+            "chinese": "事故后，她脸部的不对称变得更加明显。"
+          }
+        ],
+        "synonyms": ["imbalance", "unevenness", "disproportion", "lopsidedness"],
+        "antonyms": ["symmetry", "balance", "evenness", "proportion"]
+      },
+      {
+        "definition": "In mathematics and physics, the absence of symmetry in a physical system, equation, etc.",
+        "chineseDefinition": "在数学和物理学中，物理系统、方程式等中缺乏对称性",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The asymmetry in the quantum field equations led to new theoretical insights.",
+            "chinese": "量子场方程中的不对称性带来了新的理论见解。"
+          }
+        ],
+        "synonyms": ["dissymmetry", "non-symmetry"],
+        "antonyms": ["symmetry"]
+      },
+      {
+        "definition": "Lack of balance or proportion in the power or size of different parts of something",
+        "chineseDefinition": "事物不同部分的力量或大小缺乏平衡或比例",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "There is a clear asymmetry in the bargaining power between employers and individual workers.",
+            "chinese": "雇主和个体工人之间的谈判能力存在明显的不对称性。"
+          }
+        ],
+        "synonyms": ["inequality", "disparity", "unevenness", "imbalance"],
+        "antonyms": ["equality", "parity", "balance"]
+      }
+    ]
+  },
+  {
+    "word": "lethal",
+    "pronunciation": "/ˈliːθəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "lethal",
+            "comparative": "more lethal",
+            "superlative": "most lethal"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Sufficient to cause death",
+        "chineseDefinition": "足以导致死亡的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The snake's venom is lethal if not treated quickly.",
+            "chinese": "如果不迅速治疗，这种蛇的毒液是致命的。"
+          }
+        ],
+        "synonyms": ["deadly", "fatal", "mortal", "killing", "murderous"],
+        "antonyms": ["harmless", "benign", "nonlethal"]
+      },
+      {
+        "definition": "Extremely harmful or destructive",
+        "chineseDefinition": "极其有害或破坏性的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The company faces a lethal combination of high costs and falling sales.",
+            "chinese": "该公司面临着高成本和销售下滑的致命组合。"
+          }
+        ],
+        "synonyms": ["devastating", "catastrophic", "disastrous", "ruinous"],
+        "antonyms": ["beneficial", "helpful", "constructive"]
+      },
+      {
+        "definition": "Very effective or powerful",
+        "chineseDefinition": "非常有效或强大的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She has a lethal forehand shot in tennis.",
+            "chinese": "她在网球中有一个致命的正手击球。"
+          }
+        ],
+        "synonyms": ["potent", "powerful", "effective", "formidable"],
+        "antonyms": ["ineffective", "weak", "feeble"]
+      }
+    ]
+  },
+  {
+    "word": "stare",
+    "pronunciation": "/steər/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "stare",
+            "thirdPersonSingular": "stares",
+            "presentParticiple": "staring",
+            "pastTense": "stared",
+            "pastParticiple": "stared"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "stare",
+            "plural": "stares"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To look fixedly or vacantly at someone or something with one's eyes wide open",
+        "chineseDefinition": "睁大眼睛注视或茫然地看着某人或某物",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He stared at the painting, trying to understand its meaning.",
+            "chinese": "他凝视着那幅画，试图理解它的含义。"
+          }
+        ],
+        "synonyms": ["gaze", "look fixedly", "peer", "gape"],
+        "antonyms": ["glance", "glimpse"]
+      },
+      {
+        "definition": "A fixed or vacant gaze with eyes wide open",
+        "chineseDefinition": "睁大眼睛的固定或茫然的注视",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She gave him a cold stare that made him uncomfortable.",
+            "chinese": "她给了他一个冷冷的凝视，让他感到不舒服。"
+          }
+        ],
+        "synonyms": ["gaze", "look", "glare", "regard"],
+        "antonyms": []
+      },
+      {
+        "definition": "To be extremely obvious or conspicuous",
+        "chineseDefinition": "非常明显或显眼",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The facts stare us in the face.",
+            "chinese": "事实明摆在我们面前。"
+          }
+        ],
+        "synonyms": ["be obvious", "be evident", "be apparent"],
+        "antonyms": ["be hidden", "be obscure"]
+      }
+    ]
+  },
+  {
+    "word": "bungalow",
+    "pronunciation": "/ˈbʌŋɡələʊ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "bungalow",
+            "plural": "bungalows"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A low house having only one storey or, in some cases, upper rooms set in the roof, typically with dormer windows",
+        "chineseDefinition": "一座低矮的房子，只有一层或在某些情况下，上层房间设在屋顶中，通常带有窗户",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They retired to a small bungalow by the sea.",
+            "chinese": "他们退休后住进了海边的一座小平房。"
+          }
+        ],
+        "synonyms": ["cottage", "single-storey house", "ranch house"],
+        "antonyms": []
+      },
+      {
+        "definition": "In South Asia, a spacious detached house with a veranda",
+        "chineseDefinition": "在南亚，一座宽敞的独立房屋，带有阳台",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The colonial administrator lived in a large bungalow with servants' quarters.",
+            "chinese": "殖民地管理员住在一座带有仆人宿舍的大平房里。"
+          }
+        ],
+        "synonyms": ["villa", "residence"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "colony",
+    "pronunciation": "/ˈkɒləni/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "colony",
+            "plural": "colonies"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A country or area under the full or partial political control of another country and occupied by settlers from that country",
+        "chineseDefinition": "在另一个国家的全部或部分政治控制下，并被该国定居者占领的国家或地区",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "India was once a British colony.",
+            "chinese": "印度曾经是英国的殖民地。"
+          }
+        ],
+        "synonyms": ["dependency", "possession", "dominion", "protectorate", "territory"],
+        "antonyms": []
+      },
+      {
+        "definition": "A group of people of one nationality or ethnic group living in a foreign city or country",
+        "chineseDefinition": "居住在外国城市或国家的一群具有相同国籍或民族的人",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "There's a large Italian colony in this part of the city.",
+            "chinese": "城市的这个部分有一个大型的意大利人社区。"
+          }
+        ],
+        "synonyms": ["community", "enclave", "settlement", "expatriate community"],
+        "antonyms": []
+      },
+      {
+        "definition": "A group of animals or plants living or growing together",
+        "chineseDefinition": "一群共同生活或生长的动物或植物",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "A colony of ants built a nest under the porch.",
+            "chinese": "一群蚂蚁在门廊下筑巢。"
+          }
+        ],
+        "synonyms": ["group", "cluster", "community", "population"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "stab",
+    "pronunciation": "/stæb/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "stab",
+            "thirdPersonSingular": "stabs",
+            "presentParticiple": "stabbing",
+            "pastTense": "stabbed",
+            "pastParticiple": "stabbed"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "stab",
+            "plural": "stabs"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To pierce or wound someone with a pointed weapon or object",
+        "chineseDefinition": "用尖锐的武器或物体刺伤某人",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The victim was stabbed three times in the chest.",
+            "chinese": "受害者胸部被刺了三刀。"
+          }
+        ],
+        "synonyms": ["pierce", "puncture", "knife", "impale"],
+        "antonyms": []
+      },
+      {
+        "definition": "An act of stabbing or a wound made by stabbing",
+        "chineseDefinition": "刺的行为或刺造成的伤口",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The doctor counted five stab wounds on the body.",
+            "chinese": "医生在尸体上数了五处刺伤。"
+          }
+        ],
+        "synonyms": ["puncture", "wound", "gash", "incision"],
+        "antonyms": []
+      },
+      {
+        "definition": "A sudden sharp pain",
+        "chineseDefinition": "突然的剧痛",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She felt a stab of pain in her lower back.",
+            "chinese": "她感到腰部一阵剧痛。"
+          }
+        ],
+        "synonyms": ["pang", "twinge", "shoot", "spasm"],
+        "antonyms": []
+      },
+      {
+        "definition": "To make an attempt or try to do something",
+        "chineseDefinition": "尝试或试图做某事",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "I'll stab at answering the question, but I'm not sure I'm right.",
+            "chinese": "我会尝试回答这个问题，但我不确定我是否正确。"
+          }
+        ],
+        "synonyms": ["attempt", "try", "have a go at", "make an effort"],
+        "antonyms": []
+      },
+      {
+        "definition": "An attempt or effort",
+        "chineseDefinition": "尝试或努力",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He took a stab at fixing the car himself.",
+            "chinese": "他尝试自己修理汽车。"
+          }
+        ],
+        "synonyms": ["attempt", "effort", "try", "shot"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "fingerprint",
+    "pronunciation": "/ˈfɪŋɡərprɪnt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "fingerprint",
+            "plural": "fingerprints"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "fingerprint",
+            "thirdPersonSingular": "fingerprints",
+            "presentParticiple": "fingerprinting",
+            "pastTense": "fingerprinted",
+            "pastParticiple": "fingerprinted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The impression or mark made on a surface by a person's fingertip, especially as used for identifying individuals from the unique pattern of whorls and lines",
+        "chineseDefinition": "一个人的指尖在表面上留下的印记或痕迹，尤其是用于通过独特的旋纹和线条图案来识别个人",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The police found fingerprints on the murder weapon.",
+            "chinese": "警方在凶器上发现了指纹。"
+          }
+        ],
+        "synonyms": ["thumbprint", "digital impression", "finger mark"],
+        "antonyms": []
+      },
+      {
+        "definition": "A distinctive identifying characteristic",
+        "chineseDefinition": "独特的识别特征",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The writing style is the author's unique fingerprint.",
+            "chinese": "这种写作风格是作者独特的标志。"
+          }
+        ],
+        "synonyms": ["hallmark", "trademark", "signature", "characteristic"],
+        "antonyms": []
+      },
+      {
+        "definition": "To take the fingerprints of someone, especially for police records",
+        "chineseDefinition": "采集某人的指纹，尤其是用于警方记录",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The suspect was fingerprinted at the police station.",
+            "chinese": "嫌疑人在警察局被采集了指纹。"
+          }
+        ],
+        "synonyms": ["take the fingerprints of", "record the fingerprints of"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "enthusiasm",
+    "pronunciation": "/ɪnˈθjuːziæzəm/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "enthusiasm",
+            "plural": "enthusiasms"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Intense and eager enjoyment, interest, or approval",
+        "chineseDefinition": "强烈而热切的享受、兴趣或赞同",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The children showed great enthusiasm for the new playground.",
+            "chinese": "孩子们对新游乐场表现出极大的热情。"
+          }
+        ],
+        "synonyms": ["eagerness", "excitement", "passion", "zeal", "fervor"],
+        "antonyms": ["apathy", "indifference", "disinterest"]
+      },
+      {
+        "definition": "A thing that arouses feelings of intense and eager enjoyment",
+        "chineseDefinition": "引起强烈而热切享受感的事物",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Gardening is one of her greatest enthusiasms.",
+            "chinese": "园艺是她最大的爱好之一。"
+          }
+        ],
+        "synonyms": ["passion", "interest", "hobby", "pursuit"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "briefly",
+    "pronunciation": "/ˈbriːfli/",
+    "forms": [
+      {
+        "partOfSpeech": "adverb",
+        "form": {
+          "type": "invariable",
+          "data": "briefly"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "For a short time",
+        "chineseDefinition": "短时间内",
+        "partOfSpeech": "adverb",
+        "examples": [
+          {
+            "english": "She paused briefly before answering the question.",
+            "chinese": "她在回答问题前短暂停顿了一下。"
+          }
+        ],
+        "synonyms": ["momentarily", "fleetingly", "temporarily", "for a moment"],
+        "antonyms": ["lengthily", "extensively", "at length"]
+      },
+      {
+        "definition": "In a concise manner; in few words",
+        "chineseDefinition": "简洁地；用几句话",
+        "partOfSpeech": "adverb",
+        "examples": [
+          {
+            "english": "He explained briefly what had happened.",
+            "chinese": "他简要地解释了发生的事情。"
+          }
+        ],
+        "synonyms": ["concisely", "succinctly", "in short", "in brief"],
+        "antonyms": ["verbosely", "elaborately", "in detail"]
+      }
+    ]
+  },
+  {
+    "word": "flint",
+    "pronunciation": "/flɪnt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "flint",
+            "plural": "flints"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A hard grey rock consisting of nearly pure silica, able to produce sparks when struck against steel",
+        "chineseDefinition": "一种由几乎纯硅组成的坚硬灰色岩石，能在与钢铁撞击时产生火花",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Early humans used flint to make tools and weapons.",
+            "chinese": "早期人类使用燧石制作工具和武器。"
+          }
+        ],
+        "synonyms": ["chert", "silica", "quartz"],
+        "antonyms": []
+      },
+      {
+        "definition": "A piece of flint used as a tool or weapon, especially in prehistoric times",
+        "chineseDefinition": "用作工具或武器的一块燧石，尤其是在史前时期",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Archaeologists discovered several flints at the excavation site.",
+            "chinese": "考古学家在发掘现场发现了几块燧石。"
+          }
+        ],
+        "synonyms": ["stone tool", "arrowhead", "scraper"],
+        "antonyms": []
+      },
+      {
+        "definition": "A small piece of flint used in a cigarette lighter or similar device",
+        "chineseDefinition": "香烟打火机或类似装置中使用的一小块燧石",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He replaced the flint in his lighter.",
+            "chinese": "他更换了打火机中的火石。"
+          }
+        ],
+        "synonyms": ["lighter flint", "spark stone"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "commodity",
+    "pronunciation": "/kəˈmɒdɪti/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "commodity",
+            "plural": "commodities"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A raw material or primary agricultural product that can be bought and sold, such as copper or coffee",
+        "chineseDefinition": "可以买卖的原材料或初级农产品，如铜或咖啡",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Oil is one of the world's most valuable commodities.",
+            "chinese": "石油是世界上最有价值的商品之一。"
+          }
+        ],
+        "synonyms": ["product", "good", "article", "material", "resource"],
+        "antonyms": []
+      },
+      {
+        "definition": "A useful or valuable thing",
+        "chineseDefinition": "有用或有价值的东西",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "In the desert, water is a precious commodity.",
+            "chinese": "在沙漠中，水是珍贵的资源。"
+          }
+        ],
+        "synonyms": ["asset", "resource", "benefit", "advantage"],
+        "antonyms": []
+      },
+      {
+        "definition": "An article of trade or commerce, especially an agricultural or mining product that can be processed and resold",
+        "chineseDefinition": "贸易或商业物品，尤指可以加工和转售的农产品或矿产品",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The country's economy depends heavily on commodity exports.",
+            "chinese": "该国的经济严重依赖商品出口。"
+          }
+        ],
+        "synonyms": ["merchandise", "wares", "goods", "produce"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "mixture",
+    "pronunciation": "/ˈmɪkstʃər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "mixture",
+            "plural": "mixtures"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A substance made by mixing other substances together",
+        "chineseDefinition": "由混合其他物质制成的物质",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The cake is made from a mixture of flour, sugar, and eggs.",
+            "chinese": "这个蛋糕是由面粉、糖和鸡蛋的混合物制成的。"
+          }
+        ],
+        "synonyms": ["blend", "combination", "composite", "amalgam"],
+        "antonyms": ["element", "pure substance"]
+      },
+      {
+        "definition": "The act of mixing or the process of being mixed",
+        "chineseDefinition": "混合的行为或被混合的过程",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The mixture of the ingredients should take about five minutes.",
+            "chinese": "这些原料的混合应该需要大约五分钟。"
+          }
+        ],
+        "synonyms": ["blending", "combining", "mixing", "amalgamation"],
+        "antonyms": ["separation", "division"]
+      },
+      {
+        "definition": "A combination of different things in which the components remain distinct",
+        "chineseDefinition": "不同事物的组合，其中各组成部分保持独特",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The population is a mixture of people from different cultural backgrounds.",
+            "chinese": "人口是来自不同文化背景的人的混合体。"
+          }
+        ],
+        "synonyms": ["assortment", "variety", "medley", "diversity"],
+        "antonyms": ["uniformity", "homogeneity"]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1151 @@
+[
+  {
+    "word": "restrict",
+    "pronunciation": "/rɪˈstrɪkt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "restrict",
+            "thirdPersonSingular": "restricts",
+            "presentParticiple": "restricting",
+            "pastTense": "restricted",
+            "pastParticiple": "restricted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To limit or control the size, amount, or range of something.",
+        "chineseDefinition": "限制或控制某事物的大小、数量或范围。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The new rules restrict entry to the building after 9 PM.",
+            "chinese": "新规定限制了9点后进入大楼。"
+          },
+          {
+            "english": "She restricts her calorie intake to maintain her weight.",
+            "chinese": "她限制她的卡路里摄入量以保持体重。"
+          }
+        ],
+        "synonyms": ["limit","confine"],
+        "antonyms": ["allow","permit"]
+      }
+    ]
+  },
+  {
+    "word": "waist",
+    "pronunciation": "/weɪst/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "waist",
+            "plural": "waists"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The part of the human body below the ribs and above the hips.",
+        "chineseDefinition": "人体在肋骨以下、臀部以上的部分。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He wore a belt around his waist.",
+            "chinese": "他在腰间系了一条腰带。"
+          }
+        ],
+        "synonyms": ["midsection"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "calibre",
+    "pronunciation": "/ˈkælɪbər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "calibre",
+            "plural": "calibres"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The quality of someone's character or the level of someone's ability.",
+        "chineseDefinition": "某人的品格或才干的水平。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We need a player of the highest calibre for this match.",
+            "chinese": "我们需要一位高水平的选手参加这场比赛。"
+          }
+        ],
+        "synonyms": ["quality","ability"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "harsh",
+    "pronunciation": "/hɑːrʃ/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "harsh",
+            "comparative": "harsher",
+            "superlative": "harshest"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Unpleasantly rough or jarring to the senses.",
+        "chineseDefinition": "对感官造成不愉快的粗糙或刺耳之感。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He received harsh criticism for his actions.",
+            "chinese": "他的行为受到了严厉的批评。"
+          },
+          {
+            "english": "The winter is harsher in the northern region.",
+            "chinese": "北部地区的冬天更加严酷。"
+          }
+        ],
+        "synonyms": ["severe","cruel"],
+        "antonyms": ["mild","gentle"]
+      }
+    ]
+  },
+  {
+    "word": "parliament",
+    "pronunciation": "/ˈpɑːrləmənt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "parliament",
+            "plural": "parliaments"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The highest legislature, consisting of the sovereign, the House of Lords, and the House of Commons.",
+        "chineseDefinition": "最高立法机关，由君主、上议院和下议院组成。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The bill was debated in parliament for several weeks.",
+            "chinese": "这项法案在议会中被讨论了好几周。"
+          }
+        ],
+        "synonyms": ["legislature","assembly"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "flight",
+    "pronunciation": "/flaɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "flight",
+            "plural": "flights"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The action or process of flying through the air.",
+        "chineseDefinition": "在空中飞行的动作或过程。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "My flight was delayed due to bad weather.",
+            "chinese": "由于恶劣天气，我的航班被延误了。"
+          },
+          {
+            "english": "Several flights were canceled yesterday.",
+            "chinese": "昨天有几班航班被取消。"
+          }
+        ],
+        "synonyms": ["air travel"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "remind",
+    "pronunciation": "/rɪˈmaɪnd/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "remind",
+            "thirdPersonSingular": "reminds",
+            "presentParticiple": "reminding",
+            "pastTense": "reminded",
+            "pastParticiple": "reminded"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Cause (someone) to remember someone or something.",
+        "chineseDefinition": "使（某人）想起某人或某事。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Please remind me to call my mother later.",
+            "chinese": "请提醒我晚点给我妈妈打电话。"
+          },
+          {
+            "english": "He always reminds his team about the deadline.",
+            "chinese": "他总是提醒他的团队关于截止日期。"
+          }
+        ],
+        "synonyms": ["prompt","make aware"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "aquarium",
+    "pronunciation": "/əˈkweəriəm/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "aquarium",
+            "plural": "aquariums"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A transparent tank of water in which fish and other water creatures and plants are kept.",
+        "chineseDefinition": "一个透明的水箱，用来饲养鱼类及其他水生生物与植物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We visited the public aquarium last weekend.",
+            "chinese": "我们上周末参观了公共水族馆。"
+          }
+        ],
+        "synonyms": ["fish tank"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "cell",
+    "pronunciation": "/sel/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "cell",
+            "plural": "cells"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The smallest structural and functional unit of an organism.",
+        "chineseDefinition": "有机体中最小的结构和功能单位。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Human cells contain DNA in their nucleus.",
+            "chinese": "人体细胞的细胞核中含有DNA。"
+          }
+        ],
+        "synonyms": ["unit","compartment"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "dweller",
+    "pronunciation": "/ˈdwelər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "dweller",
+            "plural": "dwellers"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person or animal that lives in or at a specified place.",
+        "chineseDefinition": "居住在特定地点的人或动物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "City dwellers often have a fast-paced lifestyle.",
+            "chinese": "城市居民的生活节奏往往很快。"
+          }
+        ],
+        "synonyms": ["inhabitant","resident"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "declare",
+    "pronunciation": "/dɪˈkleər/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "declare",
+            "thirdPersonSingular": "declares",
+            "presentParticiple": "declaring",
+            "pastTense": "declared",
+            "pastParticiple": "declared"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Say something in a solemn and emphatic manner.",
+        "chineseDefinition": "以庄严而强调的方式陈述某事。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He declared his intentions to run for office.",
+            "chinese": "他宣布了自己参选的意图。"
+          }
+        ],
+        "synonyms": ["announce","proclaim"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "suitcase",
+    "pronunciation": "/ˈsuːtkeɪs/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "suitcase",
+            "plural": "suitcases"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A case with a handle and a hinged lid, used for carrying clothes and other personal possessions.",
+        "chineseDefinition": "一种带手柄和合盖的箱子，用于携带衣物和其他个人物品。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She packed her suitcase for the trip.",
+            "chinese": "她为这次旅行收拾了行李箱。"
+          }
+        ],
+        "synonyms": ["luggage","bag"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "graduate",
+    "pronunciation": "/ˈɡrædʒuˌeɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "graduate",
+            "plural": "graduates"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "graduate",
+            "thirdPersonSingular": "graduates",
+            "presentParticiple": "graduating",
+            "pastTense": "graduated",
+            "pastParticiple": "graduated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person who has successfully completed a course of study.",
+        "chineseDefinition": "成功完成学业的人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He is a graduate of Harvard University.",
+            "chinese": "他是哈佛大学的毕业生。"
+          }
+        ],
+        "synonyms": ["alumnus"],
+        "antonyms": []
+      },
+      {
+        "definition": "Successfully complete an academic degree, course, or training.",
+        "chineseDefinition": "成功完成学位、课程或培训。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She will graduate next spring.",
+            "chinese": "她明年春天毕业。"
+          }
+        ],
+        "synonyms": ["finish","complete"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "predict",
+    "pronunciation": "/prɪˈdɪkt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "predict",
+            "thirdPersonSingular": "predicts",
+            "presentParticiple": "predicting",
+            "pastTense": "predicted",
+            "pastParticiple": "predicted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Say or estimate that a specified thing will happen in the future.",
+        "chineseDefinition": "预测或估计将来会发生某事。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They predict heavy rain for tomorrow.",
+            "chinese": "他们预测明天会下大雨。"
+          }
+        ],
+        "synonyms": ["forecast","prophesy"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "headquarters",
+    "pronunciation": "/ˈhɛdˌkwɔːrtərz/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "headquarters",
+            "plural": "headquarters"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The premises serving as the managerial and administrative center of an organization.",
+        "chineseDefinition": "作为组织管理和行政中心的地点或场所。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The company's headquarters is located in New York.",
+            "chinese": "该公司的总部位于纽约。"
+          }
+        ],
+        "synonyms": ["main office","base"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "coverage",
+    "pronunciation": "/ˈkʌvərɪdʒ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "coverage",
+            "plural": "coverages"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The extent to which something deals with or applies to something else.",
+        "chineseDefinition": "某事物涉及或适用于另一事物的范围。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The news channel had extensive coverage of the election.",
+            "chinese": "该新闻频道对选举进行了广泛的报道。"
+          }
+        ],
+        "synonyms": ["report","scope"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "enforce",
+    "pronunciation": "/ɪnˈfɔːrs/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "enforce",
+            "thirdPersonSingular": "enforces",
+            "presentParticiple": "enforcing",
+            "pastTense": "enforced",
+            "pastParticiple": "enforced"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Compel observance of or compliance with a law, rule, or obligation.",
+        "chineseDefinition": "强制遵守或执行法律、规则或义务。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The police enforce the speed limit on this road.",
+            "chinese": "警方在这条道路上执行限速规定。"
+          }
+        ],
+        "synonyms": ["implement","apply"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "specialty",
+    "pronunciation": "/ˈspɛʃəlti/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "specialty",
+            "plural": "specialties"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A pursuit, area of study, or skill to which someone has devoted much time and effort and in which they are expert.",
+        "chineseDefinition": "一个人花费大量时间和精力并具有专业水平的追求、研究领域或技能。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Her specialty is molecular biology.",
+            "chinese": "她的专长是分子生物学。"
+          }
+        ],
+        "synonyms": ["expertise","field"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "intrinsic",
+    "pronunciation": "/ɪnˈtrɪnzɪk/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "intrinsic",
+            "comparative": "more intrinsic",
+            "superlative": "most intrinsic"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Belonging naturally; essential.",
+        "chineseDefinition": "本质上就属于的；必不可少的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The intrinsic value of the painting is significant.",
+            "chinese": "这幅画本身具有相当重要的价值。"
+          }
+        ],
+        "synonyms": ["inherent","innate"],
+        "antonyms": ["extrinsic","external"]
+      }
+    ]
+  },
+  {
+    "word": "medical",
+    "pronunciation": "/ˈmɛdɪkəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "medical",
+            "comparative": "more medical",
+            "superlative": "most medical"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Relating to the science or practice of medicine.",
+        "chineseDefinition": "与医学或医疗实践相关。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He studied medical sciences in college.",
+            "chinese": "他在大学学习了医学。"
+          }
+        ],
+        "synonyms": ["clinical"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "stick",
+    "pronunciation": "/stɪk/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "stick",
+            "plural": "sticks"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "stick",
+            "thirdPersonSingular": "sticks",
+            "presentParticiple": "sticking",
+            "pastTense": "stuck",
+            "pastParticiple": "stuck"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A thin piece of wood that has fallen or been cut from a tree.",
+        "chineseDefinition": "从树上掉落或被砍下的一小段木头。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He picked up a stick to draw in the sand.",
+            "chinese": "他捡起一根树枝在沙子上画画。"
+          }
+        ],
+        "synonyms": ["branch","rod"],
+        "antonyms": []
+      },
+      {
+        "definition": "Push or insert (something) into or through a thing.",
+        "chineseDefinition": "将（某物）推入或插入另一物体里面。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Don't stick your hand into the cage.",
+            "chinese": "不要把手伸进笼子里。"
+          }
+        ],
+        "synonyms": ["adhere","cling"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "realistic",
+    "pronunciation": "/ˌriːəˈlɪstɪk/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "realistic",
+            "comparative": "more realistic",
+            "superlative": "most realistic"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Having or showing a sensible and practical idea of what can be achieved or expected.",
+        "chineseDefinition": "对能实现或期望的事物有着理性且务实的认识。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "We need a realistic plan for this project.",
+            "chinese": "我们需要一个切实可行的项目计划。"
+          }
+        ],
+        "synonyms": ["practical","down-to-earth"],
+        "antonyms": ["unrealistic","impractical"]
+      }
+    ]
+  },
+  {
+    "word": "indifferent",
+    "pronunciation": "/ɪnˈdɪfərənt/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "indifferent",
+            "comparative": "more indifferent",
+            "superlative": "most indifferent"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Having no particular interest or sympathy; unconcerned.",
+        "chineseDefinition": "对某事无特别兴趣或同情；漠不关心。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He was indifferent to the outcome of the election.",
+            "chinese": "他对选举结果漠不关心。"
+          }
+        ],
+        "synonyms": ["apathetic","uninterested"],
+        "antonyms": ["concerned","caring"]
+      }
+    ]
+  },
+  {
+    "word": "retailer",
+    "pronunciation": "/ˈriːteɪlər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "retailer",
+            "plural": "retailers"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person or business that sells goods to the public in relatively small quantities.",
+        "chineseDefinition": "以相对少量向公众出售商品的个人或企业。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "This retailer offers a wide range of electronic products.",
+            "chinese": "这家零售商提供各种各样的电子产品。"
+          }
+        ],
+        "synonyms": ["merchant"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "turnover",
+    "pronunciation": "/ˈtɜːrnˌoʊvər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "turnover",
+            "plural": "turnovers"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The amount of money taken by a business in a particular period.",
+        "chineseDefinition": "在特定时间内企业获得的营业额或收入。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The company's turnover increased significantly last quarter.",
+            "chinese": "该公司的营业额上季度大幅增长。"
+          }
+        ],
+        "synonyms": ["revenue"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "brand",
+    "pronunciation": "/brænd/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "brand",
+            "plural": "brands"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "brand",
+            "thirdPersonSingular": "brands",
+            "presentParticiple": "branding",
+            "pastTense": "branded",
+            "pastParticiple": "branded"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A type of product manufactured by a particular company under a particular name.",
+        "chineseDefinition": "由特定公司以特定名称生产的一种产品。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "This brand is known for its high quality.",
+            "chinese": "该品牌以高质量著称。"
+          }
+        ],
+        "synonyms": ["label","trademark"],
+        "antonyms": []
+      },
+      {
+        "definition": "Mark with a branding iron.",
+        "chineseDefinition": "用烙印打标记。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Farmers used to brand their cattle for identification.",
+            "chinese": "农场主过去常给牛打烙印以便识别。"
+          }
+        ],
+        "synonyms": ["mark","label"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "accompany",
+    "pronunciation": "/əˈkʌmpəni/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "accompany",
+            "thirdPersonSingular": "accompanies",
+            "presentParticiple": "accompanying",
+            "pastTense": "accompanied",
+            "pastParticiple": "accompanied"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Go somewhere with (someone) as a companion or escort.",
+        "chineseDefinition": "以同伴或护送者的身份与某人同行。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She asked her friend to accompany her to the doctor.",
+            "chinese": "她让朋友陪她去看医生。"
+          }
+        ],
+        "synonyms": ["escort","join"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "cheat",
+    "pronunciation": "/tʃiːt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "cheat",
+            "plural": "cheats"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "cheat",
+            "thirdPersonSingular": "cheats",
+            "presentParticiple": "cheating",
+            "pastTense": "cheated",
+            "pastParticiple": "cheated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person who behaves dishonestly in order to gain an advantage.",
+        "chineseDefinition": "为获得好处而不诚实行事的人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He was called a cheat after using unfair methods to win.",
+            "chinese": "他使用不正当的手段获胜后被称为骗子。"
+          }
+        ],
+        "synonyms": ["fraud"],
+        "antonyms": []
+      },
+      {
+        "definition": "Act dishonestly or unfairly in order to gain an advantage.",
+        "chineseDefinition": "以不诚实或不公平的方式行事以获取好处。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She was caught cheating on the test.",
+            "chinese": "她被发现考试作弊。"
+          }
+        ],
+        "synonyms": ["deceive","trick"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "mention",
+    "pronunciation": "/ˈmɛnʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "mention",
+            "plural": "mentions"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "mention",
+            "thirdPersonSingular": "mentions",
+            "presentParticiple": "mentioning",
+            "pastTense": "mentioned",
+            "pastParticiple": "mentioned"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A reference to someone or something.",
+        "chineseDefinition": "对某人或某事的提及。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He received a special mention for his bravery.",
+            "chinese": "他因勇敢而受到特别表扬。"
+          }
+        ],
+        "synonyms": ["reference","note"],
+        "antonyms": []
+      },
+      {
+        "definition": "Refer to (something) briefly and without going into detail.",
+        "chineseDefinition": "简要地提及（某事），并且不做详细说明。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She mentioned her plans during the meeting.",
+            "chinese": "她在会议期间提到了她的计划。"
+          }
+        ],
+        "synonyms": ["refer to","bring up"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "level",
+    "pronunciation": "/ˈlɛvəl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "level",
+            "plural": "levels"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "level",
+            "thirdPersonSingular": "levels",
+            "presentParticiple": "leveling",
+            "pastTense": "leveled",
+            "pastParticiple": "leveled"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "level",
+            "comparative": "more level",
+            "superlative": "most level"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A position on a real or imaginary scale of amount, quantity, extent, or quality.",
+        "chineseDefinition": "在数量、程度或质量等方面的真实或想象尺度上的一个位置。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Our water supply is at a critical level.",
+            "chinese": "我们的水供应处于一个关键水平。"
+          }
+        ],
+        "synonyms": ["stage","degree"],
+        "antonyms": []
+      },
+      {
+        "definition": "Give a flat and even surface to.",
+        "chineseDefinition": "使表面平坦。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They used a roller to level the concrete.",
+            "chinese": "他们使用压路机把混凝土铺平。"
+          }
+        ],
+        "synonyms": ["flatten","even out"],
+        "antonyms": []
+      },
+      {
+        "definition": "Having a flat, horizontal surface.",
+        "chineseDefinition": "具有平坦、水平表面的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Make sure the table is level before setting the glasses.",
+            "chinese": "在放置玻璃杯之前，确保桌子是平的。"
+          }
+        ],
+        "synonyms": ["flat","even"],
+        "antonyms": ["uneven","rough"]
+      }
+    ]
+  }
+]

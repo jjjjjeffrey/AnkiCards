@@ -1,0 +1,1078 @@
+[
+  {
+    "word": "barrier",
+    "pronunciation": "/ˈbæriər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "barrier",
+            "plural": "barriers"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A fence or other obstacle that prevents movement or access.",
+        "chineseDefinition": "阻止移动或访问的围栏或其他障碍。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "There was a barrier blocking the road.",
+            "chinese": "有一个障碍物封锁了道路。"
+          }
+        ],
+        "synonyms": ["obstacle", "block"],
+        "antonyms": ["gateway"]
+      }
+    ]
+  },
+  {
+    "word": "replace",
+    "pronunciation": "/rɪˈpleɪs/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "replace",
+            "thirdPersonSingular": "replaces",
+            "presentParticiple": "replacing",
+            "pastTense": "replaced",
+            "pastParticiple": "replaced"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To take the place of something else.",
+        "chineseDefinition": "取代其他事物的位置。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He decided to replace the old chair with a new one.",
+            "chinese": "他决定用一把新的椅子替换旧椅子。"
+          }
+        ],
+        "synonyms": ["substitute", "exchange"],
+        "antonyms": ["maintain"]
+      }
+    ]
+  },
+  {
+    "word": "justice",
+    "pronunciation": "/ˈdʒʌstɪs/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "justice",
+            "plural": "justices"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Just behavior or treatment, the quality of being fair and reasonable.",
+        "chineseDefinition": "公正或合理的行为或待遇。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They demanded justice for the wronged citizens.",
+            "chinese": "他们为受委屈的公民寻求正义。"
+          }
+        ],
+        "synonyms": ["fairness", "equity"],
+        "antonyms": ["injustice"]
+      }
+    ]
+  },
+  {
+    "word": "diploma",
+    "pronunciation": "/dɪˈploʊmə/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "diploma",
+            "plural": "diplomas"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A certificate awarded by an educational establishment to show that someone has successfully completed a course of study.",
+        "chineseDefinition": "由教育机构颁发的证书，用以证明某人已成功完成某一课程。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She received her diploma at graduation.",
+            "chinese": "她在毕业时收到了毕业证书。"
+          }
+        ],
+        "synonyms": ["certificate"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "visa",
+    "pronunciation": "/ˈviːzə/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "visa",
+            "plural": "visas"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An endorsement on a passport indicating that the holder is allowed to enter, leave, or stay for a specified period of time in a country.",
+        "chineseDefinition": "护照上的一种签注，显示持有人被允许在特定时间内进入、离开或停留在某个国家。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He applied for a tourist visa to visit Europe.",
+            "chinese": "他申请了旅游签证前往欧洲。"
+          }
+        ],
+        "synonyms": ["entry permit"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "cosmic",
+    "pronunciation": "/ˈkɑːzmɪk/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "cosmic",
+            "comparative": "more cosmic",
+            "superlative": "most cosmic"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Relating to the universe or cosmos, especially as distinct from the earth.",
+        "chineseDefinition": "与宇宙或大宇宙相关，尤其与地球不同。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "They discussed cosmic phenomena like black holes.",
+            "chinese": "他们讨论了诸如黑洞之类的宇宙现象。"
+          }
+        ],
+        "synonyms": ["universal"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "extendable",
+    "pronunciation": "/ɪkˈstɛndəbəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "extendable",
+            "comparative": "more extendable",
+            "superlative": "most extendable"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Capable of being extended or stretched out.",
+        "chineseDefinition": "可以延长或拉伸的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "This table has extendable legs for added height.",
+            "chinese": "这张桌子有可以伸长的桌腿来增加高度。"
+          }
+        ],
+        "synonyms": ["stretchable", "expandable"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "abundance",
+    "pronunciation": "/əˈbʌndəns/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "abundance",
+            "plural": "abundances"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A very large quantity of something.",
+        "chineseDefinition": "大量的某种事物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "That region has an abundance of natural resources.",
+            "chinese": "那个地区有丰富的自然资源。"
+          }
+        ],
+        "synonyms": ["plenty", "profusion"],
+        "antonyms": ["lack"]
+      }
+    ]
+  },
+  {
+    "word": "supervisor",
+    "pronunciation": "/ˈsuːpərvaɪzər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "supervisor",
+            "plural": "supervisors"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person who supervises a person or an activity.",
+        "chineseDefinition": "监督他人或活动的人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The supervisor checked our work progress.",
+            "chinese": "主管检查了我们的工作进度。"
+          }
+        ],
+        "synonyms": ["manager", "overseer"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "jumble",
+    "pronunciation": "/ˈdʒʌmbəl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "jumble",
+            "plural": "jumbles"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "jumble",
+            "thirdPersonSingular": "jumbles",
+            "presentParticiple": "jumbling",
+            "pastTense": "jumbled",
+            "pastParticiple": "jumbled"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An untidy collection or pile of things.",
+        "chineseDefinition": "杂乱无章的一堆东西。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She found a jumble of papers on her desk.",
+            "chinese": "她发现桌面上有一堆杂乱的文件。"
+          }
+        ],
+        "synonyms": ["mess", "clutter"],
+        "antonyms": []
+      },
+      {
+        "definition": "To mix up in a confused manner.",
+        "chineseDefinition": "混在一起，使混乱。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Don’t jumble the puzzle pieces, or we can’t solve it.",
+            "chinese": "不要把拼图碎片搅乱，否则我们就不能完成它了。"
+          }
+        ],
+        "synonyms": ["mix", "confuse"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "equip",
+    "pronunciation": "/ɪˈkwɪp/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "equip",
+            "thirdPersonSingular": "equips",
+            "presentParticiple": "equipping",
+            "pastTense": "equipped",
+            "pastParticiple": "equipped"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To supply with what is needed for a purpose.",
+        "chineseDefinition": "为某一目的提供所需的物品或工具。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "We need to equip the team with proper safety gear.",
+            "chinese": "我们需要为球队配备适当的安全装备。"
+          }
+        ],
+        "synonyms": ["furnish", "provide"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "permanent",
+    "pronunciation": "/ˈpɜːrmənənt/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "permanent",
+            "comparative": "more permanent",
+            "superlative": "most permanent"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Lasting or intended to last or remain unchanged indefinitely.",
+        "chineseDefinition": "持久或无限期地保持不变。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "They decided to make it a permanent arrangement.",
+            "chinese": "他们决定让它成为一个永久的安排。"
+          }
+        ],
+        "synonyms": ["everlasting", "constant"],
+        "antonyms": ["temporary"]
+      }
+    ]
+  },
+  {
+    "word": "embed",
+    "pronunciation": "/ɪmˈbɛd/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "embed",
+            "thirdPersonSingular": "embeds",
+            "presentParticiple": "embedding",
+            "pastTense": "embedded",
+            "pastParticiple": "embedded"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To fix or set securely or deeply.",
+        "chineseDefinition": "牢固地或深入地固定或植入。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He managed to embed the post firmly in the ground.",
+            "chinese": "他成功地将杆子牢牢地插进地里。"
+          }
+        ],
+        "synonyms": ["implant", "insert"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "orientation",
+    "pronunciation": "/ˌɔːriənˈteɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "orientation",
+            "plural": "orientations"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The action of orienting someone or something relative to the points of a compass or other specified positions.",
+        "chineseDefinition": "帮助某人或某物相对于罗盘或其他指定位置进行定位的行为。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The orientation for new students starts tomorrow.",
+            "chinese": "新生的迎新会明天开始。"
+          }
+        ],
+        "synonyms": ["introduction", "positioning"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "deprive",
+    "pronunciation": "/dɪˈpraɪv/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "deprive",
+            "thirdPersonSingular": "deprives",
+            "presentParticiple": "depriving",
+            "pastTense": "deprived",
+            "pastParticiple": "deprived"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To deny a person or place the possession or use of something.",
+        "chineseDefinition": "剥夺某人或某地拥有或使用某物的权利。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They were deprived of their rights.",
+            "chinese": "他们的权利被剥夺了。"
+          }
+        ],
+        "synonyms": ["strip", "deny"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "amaze",
+    "pronunciation": "/əˈmeɪz/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "amaze",
+            "thirdPersonSingular": "amazes",
+            "presentParticiple": "amazing",
+            "pastTense": "amazed",
+            "pastParticiple": "amazed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To fill someone with astonishment or wonder.",
+        "chineseDefinition": "使某人十分惊奇或惊叹。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Her performance continued to amaze the audience.",
+            "chinese": "她的表演持续让观众感到惊叹。"
+          }
+        ],
+        "synonyms": ["astonish", "astound"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "dividend",
+    "pronunciation": "/ˈdɪvɪdɛnd/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "dividend",
+            "plural": "dividends"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A sum of money paid regularly by a company to its shareholders out of its profits.",
+        "chineseDefinition": "公司定期从利润中支付给股东的一笔资金。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Investors received an annual dividend from the corporation.",
+            "chinese": "投资者从公司获得了年度股息。"
+          }
+        ],
+        "synonyms": ["payout", "share"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "preference",
+    "pronunciation": "/ˈprɛfərəns/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "preference",
+            "plural": "preferences"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A greater liking for one alternative over another or others.",
+        "chineseDefinition": "对一种选择比其他选择更大的偏好。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "His preference is for tea rather than coffee.",
+            "chinese": "他更喜欢茶而不是咖啡。"
+          }
+        ],
+        "synonyms": ["choice", "inclination"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "contract",
+    "pronunciation": "/ˈkɑːntrækt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "contract",
+            "plural": "contracts"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "contract",
+            "thirdPersonSingular": "contracts",
+            "presentParticiple": "contracting",
+            "pastTense": "contracted",
+            "pastParticiple": "contracted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A written or spoken agreement that is intended to be enforceable by law.",
+        "chineseDefinition": "一种书面或口头协议，旨在具备法律约束力。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They signed a new employment contract yesterday.",
+            "chinese": "他们昨天签署了一份新的雇佣合同。"
+          }
+        ],
+        "synonyms": ["agreement", "deal"],
+        "antonyms": []
+      },
+      {
+        "definition": "To decrease in size, number, or range.",
+        "chineseDefinition": "在大小、数量或范围上缩小。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Cold weather can cause metal to contract.",
+            "chinese": "寒冷的天气会使金属收缩。"
+          }
+        ],
+        "synonyms": ["shrink", "narrow"],
+        "antonyms": ["expand"]
+      }
+    ]
+  },
+  {
+    "word": "uneasy",
+    "pronunciation": "/ʌnˈiːzi/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "uneasy",
+            "comparative": "uneasier",
+            "superlative": "uneasiest"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Causing or feeling anxiety; troubled or uncomfortable.",
+        "chineseDefinition": "引起或感到焦虑、不安或不舒适。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He felt uneasy about the upcoming exam.",
+            "chinese": "他对即将到来的考试感到不安。"
+          }
+        ],
+        "synonyms": ["anxious", "uncomfortable"],
+        "antonyms": ["calm"]
+      }
+    ]
+  },
+  {
+    "word": "automatically",
+    "pronunciation": "/ˌɔːtəˈmætɪkli/",
+    "forms": [
+      {
+        "partOfSpeech": "adverb",
+        "form": {
+          "type": "invariable",
+          "data": "automatically"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "In a manner done by a machine or device, without direct human control.",
+        "chineseDefinition": "通过机器或设备自动执行，不需要人的直接控制。",
+        "partOfSpeech": "adverb",
+        "examples": [
+          {
+            "english": "The program saves your progress automatically.",
+            "chinese": "程序会自动保存你的进度。"
+          }
+        ],
+        "synonyms": ["mechanically"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "female",
+    "pronunciation": "/ˈfiːmeɪl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "female",
+            "comparative": "more female",
+            "superlative": "most female"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "female",
+            "plural": "females"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Of or denoting the sex that can bear offspring or produce eggs.",
+        "chineseDefinition": "可以生育后代或产生卵的性别。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She is a female athlete with remarkable achievements.",
+            "chinese": "她是一位成就卓著的女运动员。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "definition": "A female animal or plant.",
+        "chineseDefinition": "雌性动物或雌株植物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The shelter takes in stray females and neuters them.",
+            "chinese": "收容所收留流浪的雌性动物并为它们做节育手术。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "asset",
+    "pronunciation": "/ˈæset/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "asset",
+            "plural": "assets"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A useful or valuable thing, person, or quality.",
+        "chineseDefinition": "有用或有价值的事物、人或品质。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Her communication skills are a real asset to the team.",
+            "chinese": "她的沟通技巧对团队来说是一大优势。"
+          }
+        ],
+        "synonyms": ["advantage", "benefit"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "athlete",
+    "pronunciation": "/ˈæθliːt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "athlete",
+            "plural": "athletes"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person who is proficient in sports and other forms of physical exercise.",
+        "chineseDefinition": "在体育和其他形式的体能训练中表现出色的人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He is a professional athlete specializing in track and field.",
+            "chinese": "他是一名专业的田径运动员。"
+          }
+        ],
+        "synonyms": ["sportsperson"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "clarity",
+    "pronunciation": "/ˈklærɪti/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "clarity",
+            "plural": "clarities"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The quality of being coherent and intelligible.",
+        "chineseDefinition": "清晰和易于理解的品质。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The clarity of her explanation helped everyone understand.",
+            "chinese": "她的解释非常清晰，帮助所有人理解了内容。"
+          }
+        ],
+        "synonyms": ["lucidity", "clearness"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "swap",
+    "pronunciation": "/swɒp/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "swap",
+            "plural": "swaps"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "swap",
+            "thirdPersonSingular": "swaps",
+            "presentParticiple": "swapping",
+            "pastTense": "swapped",
+            "pastParticiple": "swapped"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An act of exchanging one thing for another.",
+        "chineseDefinition": "用一个东西交换另一个东西的行为。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They did a book swap at the community center.",
+            "chinese": "他们在社区中心进行了图书交换活动。"
+          }
+        ],
+        "synonyms": ["exchange"],
+        "antonyms": []
+      },
+      {
+        "definition": "To exchange one thing with another.",
+        "chineseDefinition": "把一个东西和另一个东西进行交换。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "We can swap seats if you like.",
+            "chinese": "如果你愿意的话，我们可以换座位。"
+          }
+        ],
+        "synonyms": ["trade"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "sophisticated",
+    "pronunciation": "/səˈfɪstɪkeɪtɪd/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "sophisticated",
+            "comparative": "more sophisticated",
+            "superlative": "most sophisticated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Having, revealing, or involving a great deal of worldly experience and knowledge.",
+        "chineseDefinition": "拥有或展示了很多世俗经验和知识。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She is a sophisticated traveler who has visited many countries.",
+            "chinese": "她是一位见多识广的旅行者，去过很多国家。"
+          }
+        ],
+        "synonyms": ["worldly", "refined"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "bulk",
+    "pronunciation": "/bʌlk/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "bulk",
+            "plural": "bulks"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "bulk",
+            "thirdPersonSingular": "bulks",
+            "presentParticiple": "bulking",
+            "pastTense": "bulked",
+            "pastParticiple": "bulked"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The mass or size of something large.",
+        "chineseDefinition": "某种庞大事物的大量或体积。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The bulk of the cargo was stored in the warehouse.",
+            "chinese": "大部分货物存放在仓库里。"
+          }
+        ],
+        "synonyms": ["mass", "volume"],
+        "antonyms": []
+      },
+      {
+        "definition": "To gather or build up in large quantity.",
+        "chineseDefinition": "大量聚集或增加。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They plan to bulk their orders to get a discount.",
+            "chinese": "他们打算把订单合起来以获得折扣。"
+          }
+        ],
+        "synonyms": ["accumulate", "aggregate"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "machinery",
+    "pronunciation": "/məˈʃiːnəri/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "machinery",
+            "plural": "machineries"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Machines collectively, especially those in a factory or industrial setting.",
+        "chineseDefinition": "集合体的机器，尤其是在工厂或工业环境中的机器。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "All the machinery in the plant needs regular maintenance.",
+            "chinese": "工厂里的所有机器都需要定期维护。"
+          }
+        ],
+        "synonyms": ["equipment"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "intimate",
+    "pronunciation": "/ˈɪntɪmət/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "intimate",
+            "comparative": "more intimate",
+            "superlative": "most intimate"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Closely acquainted; familiar, close.",
+        "chineseDefinition": "关系密切的，熟悉且亲密。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "They share an intimate friendship that spans decades.",
+            "chinese": "他们有一段跨越数十年的亲密友谊。"
+          }
+        ],
+        "synonyms": ["close", "personal"],
+        "antonyms": []
+      }
+    ]
+  }
+]

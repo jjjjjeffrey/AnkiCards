@@ -1,0 +1,1323 @@
+[
+  {
+    "word": "crush",
+    "pronunciation": "/krʌʃ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "crush",
+            "thirdPersonSingular": "crushes",
+            "presentParticiple": "crushing",
+            "pastTense": "crushed",
+            "pastParticiple": "crushed"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "crush",
+            "plural": "crushes"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A strong but temporary feeling of love or admiration.",
+        "chineseDefinition": "对某人的短暂爱慕或迷恋。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She has a crush on her coworker.",
+            "chinese": "她暗恋她的同事。"
+          },
+          {
+            "english": "My teenage crush lasted for a few months.",
+            "chinese": "我青少年的迷恋持续了几个月。"
+          }
+        ],
+        "synonyms": ["infatuation", "puppy love"],
+        "antonyms": ["indifference", "disinterest"]
+      },
+      {
+        "definition": "To press something so hard that it breaks or is damaged.",
+        "chineseDefinition": "用力挤压某物以致其破裂或损坏。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He crushes the can before recycling it.",
+            "chinese": "他在回收之前压扁易拉罐。"
+          },
+          {
+            "english": "I am crushing the garlic for the sauce.",
+            "chinese": "我正在为酱料捣碎大蒜。"
+          }
+        ],
+        "synonyms": ["compress", "squeeze"],
+        "antonyms": ["expand", "release"]
+      }
+    ]
+  },
+  {
+    "word": "stream",
+    "pronunciation": "/striːm/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "stream",
+            "plural": "streams"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "stream",
+            "thirdPersonSingular": "streams",
+            "presentParticiple": "streaming",
+            "pastTense": "streamed",
+            "pastParticiple": "streamed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A small narrow river.",
+        "chineseDefinition": "一条狭窄的小河。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We followed the stream up into the mountains.",
+            "chinese": "我们沿着小溪一路上山。"
+          },
+          {
+            "english": "The stream flows gently through the valley.",
+            "chinese": "溪流在山谷中缓缓流淌。"
+          }
+        ],
+        "synonyms": ["brook", "creek"],
+        "antonyms": ["ocean", "sea"]
+      },
+      {
+        "definition": "To transmit or receive data (especially video or audio) over the Internet as a steady flow.",
+        "chineseDefinition": "通过互联网以连续不断的方式传输或接收（尤其是视频或音频）数据。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They streamed the live concert online.",
+            "chinese": "他们在网上直播了音乐会。"
+          },
+          {
+            "english": "I'm streaming my favorite TV series at home.",
+            "chinese": "我正在家串流我喜欢的电视剧。"
+          }
+        ],
+        "synonyms": ["broadcast", "transmit"],
+        "antonyms": ["download", "stop"]
+      }
+    ]
+  },
+  {
+    "word": "urgent",
+    "pronunciation": "/ˈɜːdʒənt/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "urgent",
+            "comparative": "more urgent",
+            "superlative": "most urgent"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Requiring immediate action or attention.",
+        "chineseDefinition": "需要立即采取行动或引起重视的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "This is an urgent matter that needs to be addressed.",
+            "chinese": "这是一个需要立即处理的紧急问题。"
+          },
+          {
+            "english": "She sent an urgent email to the manager.",
+            "chinese": "她给经理发了一封紧急的电子邮件。"
+          }
+        ],
+        "synonyms": ["pressing", "critical"],
+        "antonyms": ["minor", "unimportant"]
+      }
+    ]
+  },
+  {
+    "word": "thigh",
+    "pronunciation": "/θaɪ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "thigh",
+            "plural": "thighs"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The part of the leg between the hip and the knee.",
+        "chineseDefinition": "位于胯部和膝盖之间的腿部区域。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He got a tattoo on his thigh.",
+            "chinese": "他在大腿上纹了一幅图案。"
+          },
+          {
+            "english": "My thigh muscles are sore after the workout.",
+            "chinese": "锻炼后我大腿肌肉酸痛。"
+          }
+        ],
+        "synonyms": ["femur area", "upper leg"],
+        "antonyms": ["arm", "forearm"]
+      }
+    ]
+  },
+  {
+    "word": "maximise",
+    "pronunciation": "/ˈmæksɪmaɪz/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "maximise",
+            "thirdPersonSingular": "maximises",
+            "presentParticiple": "maximising",
+            "pastTense": "maximised",
+            "pastParticiple": "maximised"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To make as large or great as possible.",
+        "chineseDefinition": "使之变得尽可能地大或多。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "We need to maximise our productivity this quarter.",
+            "chinese": "我们需要在本季度最大化我们的生产力。"
+          },
+          {
+            "english": "He's maximising his study time by creating a strict schedule.",
+            "chinese": "他通过制定严格的时间表来最大化学习时间。"
+          }
+        ],
+        "synonyms": ["increase", "enhance"],
+        "antonyms": ["minimise", "reduce"]
+      }
+    ]
+  },
+  {
+    "word": "sleek",
+    "pronunciation": "/sliːk/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "sleek",
+            "comparative": "sleeker",
+            "superlative": "sleekest"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Smooth and glossy; having an elegant or streamlined shape or design.",
+        "chineseDefinition": "光滑有光泽；拥有优雅或流线型的外形或设计。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She owns a sleek sports car.",
+            "chinese": "她拥有一辆外形流畅的跑车。"
+          },
+          {
+            "english": "The cat’s fur is very sleek after grooming.",
+            "chinese": "这只猫的毛发在梳理后变得非常光滑。"
+          }
+        ],
+        "synonyms": ["smooth", "shiny"],
+        "antonyms": ["dull", "rough"]
+      }
+    ]
+  },
+  {
+    "word": "entrust",
+    "pronunciation": "/ɪnˈtrʌst/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "entrust",
+            "thirdPersonSingular": "entrusts",
+            "presentParticiple": "entrusting",
+            "pastTense": "entrusted",
+            "pastParticiple": "entrusted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To assign the responsibility for doing something to someone.",
+        "chineseDefinition": "将某事的责任交给他人。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "I entrusted him with the keys to my apartment.",
+            "chinese": "我把我公寓的钥匙交给他保管。"
+          },
+          {
+            "english": "They entrusted the project to an experienced team.",
+            "chinese": "他们将项目交给了一个有经验的团队。"
+          }
+        ],
+        "synonyms": ["delegate", "assign"],
+        "antonyms": ["withhold", "keep"]
+      }
+    ]
+  },
+  {
+    "word": "pamper",
+    "pronunciation": "/ˈpæmpər/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "pamper",
+            "thirdPersonSingular": "pampers",
+            "presentParticiple": "pampering",
+            "pastTense": "pampered",
+            "pastParticiple": "pampered"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To indulge with every attention, comfort, and kindness; spoil.",
+        "chineseDefinition": "给予充分关怀、舒适和体贴；宠爱。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She pampers herself with a spa day once a month.",
+            "chinese": "她每个月都会到水疗中心好好犒劳自己。"
+          },
+          {
+            "english": "He pampers his dog with special treats.",
+            "chinese": "他用特别的零食来宠爱他的狗。"
+          }
+        ],
+        "synonyms": ["spoil", "indulge"],
+        "antonyms": ["neglect", "ignore"]
+      }
+    ]
+  },
+  {
+    "word": "veterinarian",
+    "pronunciation": "/ˌvɛtərɪˈnɛəriən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "veterinarian",
+            "plural": "veterinarians"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person qualified to treat diseased or injured animals.",
+        "chineseDefinition": "有资格为患病或受伤的动物提供治疗的人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She took her cat to the veterinarian for a check-up.",
+            "chinese": "她带猫去看兽医做检查。"
+          },
+          {
+            "english": "He dreams of becoming a veterinarian one day.",
+            "chinese": "他梦想有一天成为一名兽医。"
+          }
+        ],
+        "synonyms": ["vet", "animal doctor"],
+        "antonyms": ["patient", "client"]
+      }
+    ]
+  },
+  {
+    "word": "demolition",
+    "pronunciation": "/ˌdɛməˈlɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "demolition",
+            "plural": "demolitions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The action or process of demolishing or being demolished.",
+        "chineseDefinition": "拆除或被拆除的行为或过程。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The demolition of the old building started yesterday.",
+            "chinese": "那座旧建筑的拆除工作在昨天开始。"
+          },
+          {
+            "english": "Safety measures during a demolition are crucial.",
+            "chinese": "拆除过程中采取安全措施至关重要。"
+          }
+        ],
+        "synonyms": ["destruction", "wrecking"],
+        "antonyms": ["construction", "creation"]
+      }
+    ]
+  },
+  {
+    "word": "derelict",
+    "pronunciation": "/ˈdɛrɪlɪkt/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "derelict",
+            "comparative": "more derelict",
+            "superlative": "most derelict"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "derelict",
+            "plural": "derelicts"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "In a very poor condition as a result of disuse and neglect.",
+        "chineseDefinition": "由于废弃或忽视而处于非常糟糕状态。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The derelict house was covered in graffiti.",
+            "chinese": "那座废弃的房子满是涂鸦。"
+          },
+          {
+            "english": "They explored a derelict warehouse by the docks.",
+            "chinese": "他们在码头附近探访了一座废弃的仓库。"
+          }
+        ],
+        "synonyms": ["abandoned", "dilapidated"],
+        "antonyms": ["maintained", "occupied"]
+      },
+      {
+        "definition": "A person without a home, job, or property.",
+        "chineseDefinition": "无家、无业或无财产的人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The shelter provides food and lodging for derelicts.",
+            "chinese": "收容所为流浪者提供食物和住宿。"
+          },
+          {
+            "english": "He felt empathy for the derelicts he saw on the street.",
+            "chinese": "他对他在街上看到的流浪者感到同情。"
+          }
+        ],
+        "synonyms": ["vagrant", "homeless person"],
+        "antonyms": ["resident", "homeowner"]
+      }
+    ]
+  },
+  {
+    "word": "synchronise",
+    "pronunciation": "/ˈsɪŋkrənaɪz/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "synchronise",
+            "thirdPersonSingular": "synchronises",
+            "presentParticiple": "synchronising",
+            "pastTense": "synchronised",
+            "pastParticiple": "synchronised"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Cause to occur or operate at the same time or rate.",
+        "chineseDefinition": "使同步或以相同速率运作。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "We need to synchronise our watches before the mission.",
+            "chinese": "我们需要在任务开始前对表。"
+          },
+          {
+            "english": "The dancers synchronised their movements perfectly.",
+            "chinese": "舞者们将动作完美地同步。"
+          }
+        ],
+        "synonyms": ["coordinate", "match"],
+        "antonyms": ["disorder", "unsync"]
+      }
+    ]
+  },
+  {
+    "word": "ornamental",
+    "pronunciation": "/ˌɔːnəˈmɛntl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "ornamental",
+            "comparative": "more ornamental",
+            "superlative": "most ornamental"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Serving or intended as an ornament; decorative.",
+        "chineseDefinition": "作为或旨在作为装饰的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She placed an ornamental vase on the mantel.",
+            "chinese": "她在壁炉台上放了一个装饰花瓶。"
+          },
+          {
+            "english": "Ornamental shrubs line the walkway.",
+            "chinese": "装饰性灌木丛排在小径两旁。"
+          }
+        ],
+        "synonyms": ["decorative", "adorned"],
+        "antonyms": ["functional", "plain"]
+      }
+    ]
+  },
+  {
+    "word": "estuary",
+    "pronunciation": "/ˈɛstjʊəri/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "estuary",
+            "plural": "estuaries"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The tidal mouth of a large river, where the tide meets the stream.",
+        "chineseDefinition": "大河的入海口，潮汐与河流交汇之处。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Many marine species thrive in the estuary.",
+            "chinese": "许多海洋物种在河口繁衍生息。"
+          },
+          {
+            "english": "The city is built around a wide estuary.",
+            "chinese": "这座城市依傍宽阔的河口而建。"
+          }
+        ],
+        "synonyms": ["river mouth", "delta"],
+        "antonyms": ["source", "headwater"]
+      }
+    ]
+  },
+  {
+    "word": "leaflet",
+    "pronunciation": "/ˈliːflɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "leaflet",
+            "plural": "leaflets"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "leaflet",
+            "thirdPersonSingular": "leaflets",
+            "presentParticiple": "leafleting",
+            "pastTense": "leafleted",
+            "pastParticiple": "leafleted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A printed sheet of paper containing information or advertising, usually distributed free.",
+        "chineseDefinition": "一张印有信息或广告的纸张，通常免费分发。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They handed out leaflets about the upcoming concert.",
+            "chinese": "他们分发了关于即将举行的音乐会的小册子。"
+          },
+          {
+            "english": "I found a leaflet for a new gym in my mailbox.",
+            "chinese": "我在邮箱里发现了一家新健身房的宣传单。"
+          }
+        ],
+        "synonyms": ["pamphlet", "flyer"],
+        "antonyms": ["book", "volume"]
+      },
+      {
+        "definition": "To distribute leaflets to people.",
+        "chineseDefinition": "向人们分发传单。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They leafleted the neighborhood to raise awareness.",
+            "chinese": "他们在社区发放传单以提高人们的意识。"
+          },
+          {
+            "english": "We spent the afternoon leafleting in the town center.",
+            "chinese": "我们花了一下午在市中心派发传单。"
+          }
+        ],
+        "synonyms": ["distribute pamphlets", "hand out flyers"],
+        "antonyms": ["collect", "withhold"]
+      }
+    ]
+  },
+  {
+    "word": "cascade",
+    "pronunciation": "/kæˈskeɪd/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "cascade",
+            "plural": "cascades"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "cascade",
+            "thirdPersonSingular": "cascades",
+            "presentParticiple": "cascading",
+            "pastTense": "cascaded",
+            "pastParticiple": "cascaded"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A small waterfall, typically one of several that fall in stages down a steep rocky slope.",
+        "chineseDefinition": "一种小型瀑布，通常在陡峭的岩石斜坡上分多级落下。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We hiked up to see the beautiful cascades in the forest.",
+            "chinese": "我们爬山到森林里看美丽的小瀑布。"
+          },
+          {
+            "english": "The cascades glistened in the morning sun.",
+            "chinese": "这些小瀑布在晨光下闪闪发光。"
+          }
+        ],
+        "synonyms": ["waterfall", "cataract"],
+        "antonyms": ["still water", "pond"]
+      },
+      {
+        "definition": "To pour downward rapidly and in large quantities.",
+        "chineseDefinition": "快速且大量地向下倾泻。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Her hair cascaded over her shoulders.",
+            "chinese": "她的头发倾泻在肩上。"
+          },
+          {
+            "english": "The water cascaded down the rocks.",
+            "chinese": "水从岩石上倾泻而下。"
+          }
+        ],
+        "synonyms": ["pour", "flow"],
+        "antonyms": ["trickle", "drip"]
+      }
+    ]
+  },
+  {
+    "word": "irritate",
+    "pronunciation": "/ˈɪrɪteɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "irritate",
+            "thirdPersonSingular": "irritates",
+            "presentParticiple": "irritating",
+            "pastTense": "irritated",
+            "pastParticiple": "irritated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Make (someone) annoyed or a little angry.",
+        "chineseDefinition": "使某人感到烦躁或略生气。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "His constant humming irritates me.",
+            "chinese": "他不停的哼唱让我感到烦躁。"
+          },
+          {
+            "english": "Don't irritate the wound by touching it too much.",
+            "chinese": "不要过度触碰伤口，以免刺激它。"
+          }
+        ],
+        "synonyms": ["annoy", "aggravate"],
+        "antonyms": ["calm", "soothe"]
+      }
+    ]
+  },
+  {
+    "word": "hatch",
+    "pronunciation": "/hætʃ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "hatch",
+            "plural": "hatches"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "hatch",
+            "thirdPersonSingular": "hatches",
+            "presentParticiple": "hatching",
+            "pastTense": "hatched",
+            "pastParticiple": "hatched"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An opening of restricted size allowing for passage from one area to another.",
+        "chineseDefinition": "一个尺寸有限的开口，用于从一个区域通向另一个区域。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He climbed through the hatch on the ship's deck.",
+            "chinese": "他从船甲板上的舱口爬了进去。"
+          },
+          {
+            "english": "The attic hatch is right above the hallway.",
+            "chinese": "阁楼的天窗正好在走廊上方。"
+          }
+        ],
+        "synonyms": ["trapdoor", "opening"],
+        "antonyms": ["barrier", "wall"]
+      },
+      {
+        "definition": "To (cause an egg to) break open so that a young animal can come out.",
+        "chineseDefinition": "（使蛋）破壳，以便幼体出生。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The chicks hatched after three weeks of incubation.",
+            "chinese": "小鸡在孵化三周后破壳而出。"
+          },
+          {
+            "english": "We watched the turtle eggs hatching on the beach.",
+            "chinese": "我们看着海龟蛋在海滩上孵化。"
+          }
+        ],
+        "synonyms": ["emerge", "birth"],
+        "antonyms": ["seal", "close"]
+      }
+    ]
+  },
+  {
+    "word": "commence",
+    "pronunciation": "/kəˈmɛns/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "commence",
+            "thirdPersonSingular": "commences",
+            "presentParticiple": "commencing",
+            "pastTense": "commenced",
+            "pastParticiple": "commenced"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To begin; start.",
+        "chineseDefinition": "开始；着手。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The ceremony will commence at noon.",
+            "chinese": "典礼将在正午开始。"
+          },
+          {
+            "english": "They will commence construction next month.",
+            "chinese": "他们将于下个月开始施工。"
+          }
+        ],
+        "synonyms": ["begin", "start"],
+        "antonyms": ["end", "conclude"]
+      }
+    ]
+  },
+  {
+    "word": "initiative",
+    "pronunciation": "/ɪˈnɪʃətɪv/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "initiative",
+            "plural": "initiatives"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The ability to assess and initiate things independently.",
+        "chineseDefinition": "独立评估并发起事务的能力。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She took the initiative to organize the meeting.",
+            "chinese": "她主动组织了这次会议。"
+          },
+          {
+            "english": "His initiative in solving the problem was highly appreciated.",
+            "chinese": "他主动解决问题的行为受到高度赞赏。"
+          }
+        ],
+        "synonyms": ["enterprise", "drive"],
+        "antonyms": ["inertia", "laziness"]
+      }
+    ]
+  },
+  {
+    "word": "track",
+    "pronunciation": "/træk/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "track",
+            "plural": "tracks"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "track",
+            "thirdPersonSingular": "tracks",
+            "presentParticiple": "tracking",
+            "pastTense": "tracked",
+            "pastParticiple": "tracked"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A rough path or minor road, typically one beaten by use rather than constructed.",
+        "chineseDefinition": "一条简易或小型道路，通常因人们行走而形成。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We followed the muddy track through the forest.",
+            "chinese": "我们沿着这条泥泞的小路穿过森林。"
+          },
+          {
+            "english": "There is a running track around the stadium.",
+            "chinese": "体育场周围有一条跑道。"
+          }
+        ],
+        "synonyms": ["path", "trail"],
+        "antonyms": ["highway", "expressway"]
+      },
+      {
+        "definition": "To follow the trail or movements of someone or something.",
+        "chineseDefinition": "跟踪某人或某物的踪迹或活动。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "We tracked the car using GPS.",
+            "chinese": "我们用GPS跟踪这辆车。"
+          },
+          {
+            "english": "He is tracking his fitness progress with an app.",
+            "chinese": "他正在用应用程序来跟踪自己的健身进展。"
+          }
+        ],
+        "synonyms": ["follow", "monitor"],
+        "antonyms": ["ignore", "discard"]
+      }
+    ]
+  },
+  {
+    "word": "fruitful",
+    "pronunciation": "/ˈfruːt.fʊl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "fruitful",
+            "comparative": "more fruitful",
+            "superlative": "most fruitful"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Producing good or helpful results; productive.",
+        "chineseDefinition": "产生良好或有用结果的；富有成效的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "They had a fruitful discussion about the project.",
+            "chinese": "他们就该项目进行了富有成效的讨论。"
+          },
+          {
+            "english": "Our collaboration has been very fruitful.",
+            "chinese": "我们的合作非常富有成果。"
+          }
+        ],
+        "synonyms": ["productive", "profitable"],
+        "antonyms": ["unproductive", "barren"]
+      }
+    ]
+  },
+  {
+    "word": "stationary",
+    "pronunciation": "/ˈsteɪʃənəri/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "stationary",
+            "comparative": "more stationary",
+            "superlative": "most stationary"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Not moving or not intended to be moved.",
+        "chineseDefinition": "不移动或不打算移动的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The car remained stationary in the parking lot.",
+            "chinese": "这辆车一直停在停车场，没有移动。"
+          },
+          {
+            "english": "He exercises on a stationary bike every morning.",
+            "chinese": "他每天早上都会在固定自行车上锻炼。"
+          }
+        ],
+        "synonyms": ["still", "motionless"],
+        "antonyms": ["moving", "mobile"]
+      }
+    ]
+  },
+  {
+    "word": "superficial",
+    "pronunciation": "/ˌsuːpəˈfɪʃəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "superficial",
+            "comparative": "more superficial",
+            "superlative": "most superficial"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Existing or occurring at or on the surface; shallow.",
+        "chineseDefinition": "存在或发生在表面的；肤浅的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Their conversation was polite but superficial.",
+            "chinese": "他们的对话很客气但很肤浅。"
+          },
+          {
+            "english": "The damage to the car was only superficial.",
+            "chinese": "汽车的损伤只是表面的。"
+          }
+        ],
+        "synonyms": ["shallow", "surface-level"],
+        "antonyms": ["deep", "profound"]
+      }
+    ]
+  },
+  {
+    "word": "crawl",
+    "pronunciation": "/krɔːl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "crawl",
+            "plural": "crawls"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "crawl",
+            "thirdPersonSingular": "crawls",
+            "presentParticiple": "crawling",
+            "pastTense": "crawled",
+            "pastParticiple": "crawled"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Move forward on the hands and knees or by dragging the body close to the ground.",
+        "chineseDefinition": "用手和膝盖或贴近地面拖动身体向前移动。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The baby is crawling across the floor.",
+            "chinese": "婴儿正在地板上爬。"
+          },
+          {
+            "english": "He crawled under the fence to retrieve the ball.",
+            "chinese": "他爬到围栏下面去捡球。"
+          }
+        ],
+        "synonyms": ["creep", "clamber"],
+        "antonyms": ["run", "sprint"]
+      },
+      {
+        "definition": "An act of moving on one's hands and knees or dragging one's body along the ground.",
+        "chineseDefinition": "用手和膝盖或贴地爬行的动作。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Her slow crawl took her to the edge of the room.",
+            "chinese": "她缓慢地爬到房间的另一侧。"
+          },
+          {
+            "english": "The soldier made a crawl towards the safety zone.",
+            "chinese": "士兵匍匐前进到安全区。"
+          }
+        ],
+        "synonyms": ["creep", "clamber"],
+        "antonyms": ["dash", "sprint"]
+      }
+    ]
+  },
+  {
+    "word": "rotate",
+    "pronunciation": "/rə(ʊ)ˈteɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "rotate",
+            "thirdPersonSingular": "rotates",
+            "presentParticiple": "rotating",
+            "pastTense": "rotated",
+            "pastParticiple": "rotated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Move or cause to move in a circle around an axis or center.",
+        "chineseDefinition": "围绕轴或中心旋转或使其旋转。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Earth rotates on its axis once every 24 hours.",
+            "chinese": "地球每24小时自转一周。"
+          },
+          {
+            "english": "Rotate the knob to open the valve.",
+            "chinese": "转动旋钮以打开阀门。"
+          }
+        ],
+        "synonyms": ["spin", "turn"],
+        "antonyms": ["still", "remain"]
+      }
+    ]
+  },
+  {
+    "word": "spoil",
+    "pronunciation": "/spɔɪl/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "spoil",
+            "thirdPersonSingular": "spoils",
+            "presentParticiple": "spoiling",
+            "pastTense": "spoiled",
+            "pastParticiple": "spoiled"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Diminish or destroy the value or quality of.",
+        "chineseDefinition": "降低或破坏某物的价值或质量。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Don't spoil the movie for me by telling the ending.",
+            "chinese": "不要告诉我结局，这样会破坏看电影的乐趣。"
+          },
+          {
+            "english": "The food will spoil if left out in the sun.",
+            "chinese": "食物如果放在阳光下会变质。"
+          }
+        ],
+        "synonyms": ["ruin", "damage"],
+        "antonyms": ["improve", "enhance"]
+      }
+    ]
+  },
+  {
+    "word": "flask",
+    "pronunciation": "/flɑːsk/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "flask",
+            "plural": "flasks"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A container for liquids.",
+        "chineseDefinition": "用于盛装液体的容器。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He carried a flask of water on the hike.",
+            "chinese": "他在徒步旅行时带了一个水壶。"
+          },
+          {
+            "english": "She keeps a flask of tea on her desk.",
+            "chinese": "她在桌上放了一个保温瓶装茶。"
+          }
+        ],
+        "synonyms": ["bottle", "container"],
+        "antonyms": ["cup", "plate"]
+      }
+    ]
+  },
+  {
+    "word": "camper",
+    "pronunciation": "/ˈkæmpər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "camper",
+            "plural": "campers"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person who spends a holiday in a tent or a camper van.",
+        "chineseDefinition": "在帐篷或露营车里度假的人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The campsite is full of happy campers.",
+            "chinese": "营地里到处都是快乐的露营者。"
+          },
+          {
+            "english": "He is an experienced camper who enjoys the wilderness.",
+            "chinese": "他是一位经验丰富的露营者，喜欢荒野。"
+          }
+        ],
+        "synonyms": ["outdoorsman", "traveler"],
+        "antonyms": ["homebody", "city dwellers"]
+      }
+    ]
+  },
+  {
+    "word": "attend",
+    "pronunciation": "/əˈtɛnd/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "attend",
+            "thirdPersonSingular": "attends",
+            "presentParticiple": "attending",
+            "pastTense": "attended",
+            "pastParticiple": "attended"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Be present at (an event, meeting, or function).",
+        "chineseDefinition": "出席（某个活动、会议或聚会）。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "I plan to attend the conference next week.",
+            "chinese": "我打算下周参加那个会议。"
+          },
+          {
+            "english": "She attends a weekly yoga class.",
+            "chinese": "她每周都会去上瑜伽课。"
+          }
+        ],
+        "synonyms": ["go to", "participate in"],
+        "antonyms": ["miss", "ignore"]
+      }
+    ]
+  }
+]

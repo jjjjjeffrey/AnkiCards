@@ -1,0 +1,1525 @@
+[
+  {
+    "word": "lenient",
+    "pronunciation": "/ˈliːniənt/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "lenient",
+            "comparative": "more lenient",
+            "superlative": "most lenient"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Not strict or severe in the way you punish someone or apply rules",
+        "chineseDefinition": "宽大的，仁慈的，不严格的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The judge was lenient in sentencing the first-time offender.",
+            "chinese": "法官对这个初犯判刑时很宽大。"
+          }
+        ],
+        "synonyms": ["merciful", "forgiving", "compassionate", "gentle"],
+        "antonyms": ["strict", "severe", "harsh"]
+      },
+      {
+        "definition": "Showing tolerance or mercy, especially in giving punishment",
+        "chineseDefinition": "宽容的，仁慈的，尤其是在惩罚方面",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The teacher was lenient with students who forgot their homework.",
+            "chinese": "老师对忘记带作业的学生很宽容。"
+          }
+        ],
+        "synonyms": ["tolerant", "permissive", "indulgent"],
+        "antonyms": ["rigorous", "stern", "unyielding"]
+      }
+    ]
+  },
+  {
+    "word": "synthetic",
+    "pronunciation": "/sɪnˈθɛtɪk/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "synthetic"
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "synthetic",
+            "plural": "synthetics"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Made by chemical synthesis, especially to imitate a natural product",
+        "chineseDefinition": "合成的，人造的，尤其是用来模仿天然产品的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The jacket is made of synthetic materials that resist water.",
+            "chinese": "这件夹克是由防水的合成材料制成的。"
+          }
+        ],
+        "synonyms": ["artificial", "man-made", "manufactured"],
+        "antonyms": ["natural", "organic", "genuine"]
+      },
+      {
+        "definition": "A synthetic material or chemical, especially a textile fiber",
+        "chineseDefinition": "合成材料或化学品，尤其是纺织纤维",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Synthetics are often less expensive than natural fibers.",
+            "chinese": "合成纤维通常比天然纤维便宜。"
+          }
+        ],
+        "synonyms": ["artificial fiber", "polymer", "plastic"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "enact",
+    "pronunciation": "/ɪˈnækt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "enact",
+            "thirdPersonSingular": "enacts",
+            "presentParticiple": "enacting",
+            "pastTense": "enacted",
+            "pastParticiple": "enacted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To make a bill or proposal into law",
+        "chineseDefinition": "制定（法律等），使成为法律",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Congress enacted new legislation to protect the environment.",
+            "chinese": "国会制定了新的法律来保护环境。"
+          }
+        ],
+        "synonyms": ["pass", "legislate", "approve", "ratify"],
+        "antonyms": ["repeal", "revoke", "rescind"]
+      },
+      {
+        "definition": "To act out or perform a role or scene",
+        "chineseDefinition": "扮演，表演（角色或场景）",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The students enacted a scene from Shakespeare's play.",
+            "chinese": "学生们表演了莎士比亚戏剧中的一个场景。"
+          }
+        ],
+        "synonyms": ["perform", "act out", "portray", "play"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "resent",
+    "pronunciation": "/rɪˈzɛnt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "resent",
+            "thirdPersonSingular": "resents",
+            "presentParticiple": "resenting",
+            "pastTense": "resented",
+            "pastParticiple": "resented"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To feel bitter, indignant, or aggrieved at something",
+        "chineseDefinition": "对某事感到愤恨、愤慨或委屈",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She resented his criticism of her work.",
+            "chinese": "她对他批评她的工作感到愤恨。"
+          }
+        ],
+        "synonyms": ["be annoyed at", "be angry at", "take offense at"],
+        "antonyms": ["appreciate", "welcome", "accept"]
+      },
+      {
+        "definition": "To feel or express displeasure or indignation at an action or person",
+        "chineseDefinition": "对某一行为或人表示不满或愤慨",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "I resent being treated like a child.",
+            "chinese": "我讨厌被当作小孩子对待。"
+          }
+        ],
+        "synonyms": ["begrudge", "be bitter about", "be displeased with"],
+        "antonyms": ["tolerate", "forgive"]
+      }
+    ]
+  },
+  {
+    "word": "affluent",
+    "pronunciation": "/ˈæfluənt/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "affluent",
+            "comparative": "more affluent",
+            "superlative": "most affluent"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "affluent",
+            "plural": "affluents"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Having a great deal of money, property, or other material wealth",
+        "chineseDefinition": "富裕的，富有的，有钱的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "They live in an affluent neighborhood with large houses.",
+            "chinese": "他们住在一个有大房子的富裕社区。"
+          }
+        ],
+        "synonyms": ["wealthy", "rich", "prosperous", "well-off"],
+        "antonyms": ["poor", "impoverished", "destitute"]
+      },
+      {
+        "definition": "A tributary stream or river that flows into a larger one",
+        "chineseDefinition": "支流，流入较大河流的支流",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The Rhine has many affluents that contribute to its flow.",
+            "chinese": "莱茵河有许多支流汇入其中。"
+          }
+        ],
+        "synonyms": ["tributary", "branch", "feeder"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "trunk",
+    "pronunciation": "/trʌŋk/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "trunk",
+            "plural": "trunks"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The main woody stem of a tree",
+        "chineseDefinition": "树干，树的主要木质茎",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The trunk of the oak tree was over three feet in diameter.",
+            "chinese": "这棵橡树的树干直径超过三英尺。"
+          }
+        ],
+        "synonyms": ["stem", "bole", "stalk"],
+        "antonyms": []
+      },
+      {
+        "definition": "A large box or case for storing or transporting clothes and other personal belongings",
+        "chineseDefinition": "大箱子，用于存放或运输衣物和其他个人物品",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She packed her clothes in a trunk before leaving for college.",
+            "chinese": "她在去上大学前把衣服装进了一个大箱子里。"
+          }
+        ],
+        "synonyms": ["chest", "case", "coffer"],
+        "antonyms": []
+      },
+      {
+        "definition": "The elongated, prehensile nose of an elephant",
+        "chineseDefinition": "象鼻，大象的长鼻子",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The elephant used its trunk to pick up food.",
+            "chinese": "大象用它的鼻子拾取食物。"
+          }
+        ],
+        "synonyms": ["proboscis", "snout"],
+        "antonyms": []
+      },
+      {
+        "definition": "The luggage compartment of a car",
+        "chineseDefinition": "汽车的行李箱",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He put the groceries in the trunk of his car.",
+            "chinese": "他把杂货放在了汽车的后备箱里。"
+          }
+        ],
+        "synonyms": ["boot", "luggage compartment"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "coexist",
+    "pronunciation": "/ˌkoʊɪɡˈzɪst/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "coexist",
+            "thirdPersonSingular": "coexists",
+            "presentParticiple": "coexisting",
+            "pastTense": "coexisted",
+            "pastParticiple": "coexisted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To exist together or at the same time",
+        "chineseDefinition": "共存，同时存在",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Different species coexist in this ecosystem.",
+            "chinese": "不同的物种在这个生态系统中共存。"
+          }
+        ],
+        "synonyms": ["live together", "exist together", "live side by side"],
+        "antonyms": ["conflict", "clash"]
+      },
+      {
+        "definition": "To live in peace with others despite differences",
+        "chineseDefinition": "尽管有差异，仍和平共处",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "People of different religions must learn to coexist peacefully.",
+            "chinese": "不同宗教的人必须学会和平共处。"
+          }
+        ],
+        "synonyms": ["get along", "harmonize", "cooperate"],
+        "antonyms": ["compete", "oppose"]
+      }
+    ]
+  },
+  {
+    "word": "aviation",
+    "pronunciation": "/ˌeɪviˈeɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "invariable",
+          "data": "aviation"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The flying or operation of aircraft",
+        "chineseDefinition": "航空，飞行或操作飞机",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He has worked in aviation for twenty years.",
+            "chinese": "他在航空业工作了二十年。"
+          }
+        ],
+        "synonyms": ["aeronautics", "flying", "air transport"],
+        "antonyms": []
+      },
+      {
+        "definition": "The design, development, production, operation, and use of aircraft",
+        "chineseDefinition": "飞机的设计、开发、生产、操作和使用",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Aviation technology has advanced rapidly in recent decades.",
+            "chinese": "航空技术在最近几十年发展迅速。"
+          }
+        ],
+        "synonyms": ["aircraft industry", "aerospace"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "rampant",
+    "pronunciation": "/ˈræmpənt/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "rampant"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Flourishing or spreading unchecked, especially in a harmful way",
+        "chineseDefinition": "猖獗的，泛滥的，特别是以有害的方式蔓延",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Corruption was rampant in the local government.",
+            "chinese": "腐败在地方政府中猖獗。"
+          }
+        ],
+        "synonyms": ["uncontrolled", "unchecked", "widespread"],
+        "antonyms": ["contained", "controlled", "restrained"]
+      },
+      {
+        "definition": "In heraldry, standing on one hind leg with forelegs raised",
+        "chineseDefinition": "在纹章学中，指动物以一条后腿站立，前腿抬起的姿势",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The coat of arms featured a rampant lion.",
+            "chinese": "这个徽章上有一只直立的狮子。"
+          }
+        ],
+        "synonyms": ["standing", "erect", "upright"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "prolonged",
+    "pronunciation": "/prəˈlɔŋd/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "prolonged"
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "prolong",
+            "thirdPersonSingular": "prolongs",
+            "presentParticiple": "prolonging",
+            "pastTense": "prolonged",
+            "pastParticiple": "prolonged"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Continuing for a long time or longer than expected",
+        "chineseDefinition": "持续很长时间的，比预期更长的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Prolonged exposure to the sun can damage your skin.",
+            "chinese": "长时间暴露在阳光下会损伤皮肤。"
+          }
+        ],
+        "synonyms": ["extended", "lengthy", "protracted"],
+        "antonyms": ["brief", "short", "temporary"]
+      },
+      {
+        "definition": "To extend the duration or validity of something",
+        "chineseDefinition": "延长某事物的持续时间或有效性",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They prolonged the meeting to discuss additional topics.",
+            "chinese": "他们延长了会议时间以讨论额外的话题。"
+          }
+        ],
+        "synonyms": ["extend", "lengthen", "continue"],
+        "antonyms": ["shorten", "curtail", "abbreviate"]
+      }
+    ]
+  },
+  {
+    "word": "crushing",
+    "pronunciation": "/ˈkrʌʃɪŋ/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "crushing"
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "crush",
+            "thirdPersonSingular": "crushes",
+            "presentParticiple": "crushing",
+            "pastTense": "crushed",
+            "pastParticiple": "crushed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Overwhelming or devastating",
+        "chineseDefinition": "压倒性的，毁灭性的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The team suffered a crushing defeat in the championship game.",
+            "chinese": "这支队伍在冠军赛中遭遇了惨败。"
+          }
+        ],
+        "synonyms": ["devastating", "overwhelming", "catastrophic"],
+        "antonyms": ["mild", "insignificant", "trivial"]
+      },
+      {
+        "definition": "The action of pressing or squeezing something with force",
+        "chineseDefinition": "用力压或挤某物的动作",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The machine is crushing the grapes to make wine.",
+            "chinese": "这台机器正在压榨葡萄以制作葡萄酒。"
+          }
+        ],
+        "synonyms": ["squeezing", "pressing", "compressing"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "futile",
+    "pronunciation": "/ˈfjuːtaɪl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "futile",
+            "comparative": "more futile",
+            "superlative": "most futile"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Incapable of producing any useful result; pointless",
+        "chineseDefinition": "无用的，徒劳的，不能产生任何有用结果的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "It was futile to argue with someone who wouldn't listen.",
+            "chinese": "与不愿倾听的人争论是徒劳的。"
+          }
+        ],
+        "synonyms": ["pointless", "useless", "fruitless"],
+        "antonyms": ["effective", "productive", "useful"]
+      },
+      {
+        "definition": "Serving no useful purpose; completely ineffective",
+        "chineseDefinition": "没有任何用途的；完全无效的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Their futile attempts to save the company from bankruptcy failed.",
+            "chinese": "他们试图挽救公司免于破产的努力失败了。"
+          }
+        ],
+        "synonyms": ["vain", "ineffectual", "unavailing"],
+        "antonyms": ["worthwhile", "successful", "meaningful"]
+      }
+    ]
+  },
+  {
+    "word": "edify",
+    "pronunciation": "/ˈɛdɪfaɪ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "edify",
+            "thirdPersonSingular": "edifies",
+            "presentParticiple": "edifying",
+            "pastTense": "edified",
+            "pastParticiple": "edified"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To instruct or improve someone morally or intellectually",
+        "chineseDefinition": "教育或在道德上、智力上提高某人",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The purpose of the lecture was to edify the students about ethical research practices.",
+            "chinese": "这次讲座的目的是教育学生了解道德研究实践。"
+          }
+        ],
+        "synonyms": ["enlighten", "educate", "instruct"],
+        "antonyms": ["mislead", "confuse", "corrupt"]
+      },
+      {
+        "definition": "To build or establish, especially with moral and intellectual foundation",
+        "chineseDefinition": "建立或确立，尤其是道德和智力基础",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The program aims to edify character in young people.",
+            "chinese": "该项目旨在培养年轻人的品格。"
+          }
+        ],
+        "synonyms": ["build up", "strengthen", "improve"],
+        "antonyms": ["tear down", "weaken", "degrade"]
+      }
+    ]
+  },
+  {
+    "word": "vulgar",
+    "pronunciation": "/ˈvʌlɡər/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "vulgar",
+            "comparative": "more vulgar",
+            "superlative": "most vulgar"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Lacking sophistication or good taste; unrefined",
+        "chineseDefinition": "缺乏教养或品味的；粗俗的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He found their vulgar display of wealth distasteful.",
+            "chinese": "他觉得他们炫耀财富的行为很粗俗。"
+          }
+        ],
+        "synonyms": ["crude", "coarse", "unrefined"],
+        "antonyms": ["refined", "sophisticated", "cultured"]
+      },
+      {
+        "definition": "Making explicit and offensive reference to sex or bodily functions",
+        "chineseDefinition": "明确且冒犯性地提及性或身体功能的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The comedian's vulgar jokes offended many in the audience.",
+            "chinese": "这位喜剧演员的粗俗笑话冒犯了观众中的许多人。"
+          }
+        ],
+        "synonyms": ["obscene", "lewd", "indecent"],
+        "antonyms": ["decent", "proper", "tasteful"]
+      },
+      {
+        "definition": "Characteristic of or belonging to ordinary people",
+        "chineseDefinition": "普通人的特点或属于普通人的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Latin evolved into the vulgar languages of Romance.",
+            "chinese": "拉丁语演变成了罗曼语族的通俗语言。"
+          }
+        ],
+        "synonyms": ["common", "ordinary", "vernacular"],
+        "antonyms": ["elite", "aristocratic", "highbrow"]
+      }
+    ]
+  },
+  {
+    "word": "core",
+    "pronunciation": "/kɔːr/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "core",
+            "plural": "cores"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "core",
+            "thirdPersonSingular": "cores",
+            "presentParticiple": "coring",
+            "pastTense": "cored",
+            "pastParticiple": "cored"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "core"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The central or most important part of something",
+        "chineseDefinition": "中心的或最重要的部分",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The core of his argument was based on scientific evidence.",
+            "chinese": "他论点的核心是基于科学证据的。"
+          }
+        ],
+        "synonyms": ["center", "heart", "essence"],
+        "antonyms": ["periphery", "exterior", "surface"]
+      },
+      {
+        "definition": "The central part of a fruit containing the seeds",
+        "chineseDefinition": "水果的中心部分，含有种子",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She cut the apple and removed its core.",
+            "chinese": "她切开苹果并去掉了果核。"
+          }
+        ],
+        "synonyms": ["pit", "seed", "stone"],
+        "antonyms": []
+      },
+      {
+        "definition": "To remove the core from a fruit",
+        "chineseDefinition": "去除水果的核",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She cored the apples before baking the pie.",
+            "chinese": "她在烤派之前去掉了苹果的核。"
+          }
+        ],
+        "synonyms": ["pit", "seed", "stone"],
+        "antonyms": []
+      },
+      {
+        "definition": "Forming the central or most important part",
+        "chineseDefinition": "构成中心或最重要部分的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Honesty is a core value in our company.",
+            "chinese": "诚实是我们公司的核心价值观。"
+          }
+        ],
+        "synonyms": ["central", "essential", "fundamental"],
+        "antonyms": ["peripheral", "minor", "secondary"]
+      }
+    ]
+  },
+  {
+    "word": "inborn",
+    "pronunciation": "/ˈɪnbɔːrn/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "inborn"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Existing from birth; innate",
+        "chineseDefinition": "天生的；先天的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She has an inborn talent for music.",
+            "chinese": "她有天生的音乐才能。"
+          }
+        ],
+        "synonyms": ["innate", "natural", "congenital"],
+        "antonyms": ["acquired", "learned", "developed"]
+      },
+      {
+        "definition": "Naturally occurring or inherent in someone",
+        "chineseDefinition": "自然发生的或某人固有的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "His inborn curiosity led him to explore the sciences.",
+            "chinese": "他与生俱来的好奇心引导他探索科学。"
+          }
+        ],
+        "synonyms": ["inherent", "intrinsic", "hereditary"],
+        "antonyms": ["environmental", "external", "cultivated"]
+      }
+    ]
+  },
+  {
+    "word": "habitable",
+    "pronunciation": "/ˈhæbɪtəbl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "habitable"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Suitable or good enough to live in",
+        "chineseDefinition": "适合居住的，适宜居住的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The old house was renovated to make it habitable again.",
+            "chinese": "这座老房子经过翻修，再次适合居住。"
+          }
+        ],
+        "synonyms": ["livable", "inhabitable", "occupiable"],
+        "antonyms": ["uninhabitable", "unlivable", "derelict"]
+      },
+      {
+        "definition": "Capable of being lived in or on",
+        "chineseDefinition": "能够被居住的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Scientists are searching for habitable planets in other solar systems.",
+            "chinese": "科学家正在其他太阳系中寻找适合居住的行星。"
+          }
+        ],
+        "synonyms": ["hospitable", "suitable for habitation"],
+        "antonyms": ["inhospitable", "hostile"]
+      }
+    ]
+  },
+  {
+    "word": "ecological",
+    "pronunciation": "/ˌiːkəˈlɒdʒɪkəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "ecological"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Relating to or concerned with the relation of living organisms to one another and to their physical surroundings",
+        "chineseDefinition": "生态的，与生物体之间以及与其物理环境之间的关系有关的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The construction project caused ecological damage to the wetlands.",
+            "chinese": "这个建设项目对湿地造成了生态损害。"
+          }
+        ],
+        "synonyms": ["environmental", "green", "eco-friendly"],
+        "antonyms": ["polluting", "harmful", "destructive"]
+      },
+      {
+        "definition": "Relating to the science of ecology",
+        "chineseDefinition": "与生态学相关的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She conducted ecological research in the Amazon rainforest.",
+            "chinese": "她在亚马逊雨林进行生态学研究。"
+          }
+        ],
+        "synonyms": ["ecosystem-based", "biospheric"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "stipulate",
+    "pronunciation": "/ˈstɪpjuleɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "stipulate",
+            "thirdPersonSingular": "stipulates",
+            "presentParticiple": "stipulating",
+            "pastTense": "stipulated",
+            "pastParticiple": "stipulated"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "stipulate"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To demand or specify a requirement as part of an agreement",
+        "chineseDefinition": "规定，明确要求（作为协议的一部分）",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The contract stipulates that payment must be made within 30 days.",
+            "chinese": "合同规定付款必须在30天内完成。"
+          }
+        ],
+        "synonyms": ["specify", "set down", "state"],
+        "antonyms": []
+      },
+      {
+        "definition": "In botany, having stipules (small leaf-like appendages)",
+        "chineseDefinition": "在植物学中，有托叶的（小的叶状附属物）",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Roses have stipulate leaves with thorns on their stems.",
+            "chinese": "玫瑰有托叶的叶子，茎上有刺。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": ["exstipulate"]
+      }
+    ]
+  },
+  {
+    "word": "legitimize",
+    "pronunciation": "/lɪˈdʒɪtɪmaɪz/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "legitimize",
+            "thirdPersonSingular": "legitimizes",
+            "presentParticiple": "legitimizing",
+            "pastTense": "legitimized",
+            "pastParticiple": "legitimized"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To make legitimate, lawful, or valid",
+        "chineseDefinition": "使合法化，使正当化",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The government tried to legitimize its actions through a public referendum.",
+            "chinese": "政府试图通过公民投票使其行动合法化。"
+          }
+        ],
+        "synonyms": ["validate", "authorize", "sanction"],
+        "antonyms": ["delegitimize", "invalidate", "prohibit"]
+      },
+      {
+        "definition": "To give official or formal status to",
+        "chineseDefinition": "给予官方或正式地位",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The new law legitimized the use of certain alternative medical treatments.",
+            "chinese": "新法律使某些替代医疗治疗的使用合法化。"
+          }
+        ],
+        "synonyms": ["formalize", "recognize", "approve"],
+        "antonyms": ["ban", "outlaw", "forbid"]
+      }
+    ]
+  },
+  {
+    "word": "crystallize",
+    "pronunciation": "/ˈkrɪstəlaɪz/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "crystallize",
+            "thirdPersonSingular": "crystallizes",
+            "presentParticiple": "crystallizing",
+            "pastTense": "crystallized",
+            "pastParticiple": "crystallized"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To form or cause to form crystals",
+        "chineseDefinition": "结晶，使结晶",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The solution will crystallize if left in a cold environment.",
+            "chinese": "如果放在冷环境中，溶液会结晶。"
+          }
+        ],
+        "synonyms": ["solidify", "freeze", "congeal"],
+        "antonyms": ["dissolve", "liquefy", "melt"]
+      },
+      {
+        "definition": "To make or become definite and clear",
+        "chineseDefinition": "使或变得明确和清晰",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Her ideas began to crystallize after months of research.",
+            "chinese": "经过数月的研究，她的想法开始变得清晰。"
+          }
+        ],
+        "synonyms": ["clarify", "take shape", "become clear"],
+        "antonyms": ["confuse", "muddle", "obscure"]
+      }
+    ]
+  },
+  {
+    "word": "solar-powered",
+    "pronunciation": "/ˈsoʊlər ˈpaʊərd/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "solar-powered"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Powered by energy derived from the sun",
+        "chineseDefinition": "太阳能驱动的，由太阳能提供动力的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "They installed solar-powered lights in their garden.",
+            "chinese": "他们在花园里安装了太阳能灯。"
+          }
+        ],
+        "synonyms": ["sun-powered", "photovoltaic", "solar-energized"],
+        "antonyms": ["fuel-powered", "gas-powered", "electric-powered"]
+      },
+      {
+        "definition": "Using photovoltaic cells to convert sunlight into electricity",
+        "chineseDefinition": "使用光伏电池将阳光转化为电能的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The building has a solar-powered heating system.",
+            "chinese": "这座建筑有一个太阳能供暖系统。"
+          }
+        ],
+        "synonyms": ["solar-energized", "sun-driven"],
+        "antonyms": ["grid-dependent", "fossil-fuel-powered"]
+      }
+    ]
+  },
+  {
+    "word": "cosy",
+    "pronunciation": "/ˈkoʊzi/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "cosy",
+            "comparative": "cosier",
+            "superlative": "cosiest"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "cosy",
+            "plural": "cosies"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "cosy",
+            "thirdPersonSingular": "cosies",
+            "presentParticiple": "cosying",
+            "pastTense": "cosied",
+            "pastParticiple": "cosied"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Giving a feeling of comfort, warmth, and relaxation",
+        "chineseDefinition": "舒适的，温暖的，让人放松的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "We sat by the fire in the cosy living room.",
+            "chinese": "我们坐在舒适的客厅里的火炉旁。"
+          }
+        ],
+        "synonyms": ["comfortable", "snug", "warm"],
+        "antonyms": ["uncomfortable", "cold", "unwelcoming"]
+      },
+      {
+        "definition": "A cover for a teapot to keep the tea hot",
+        "chineseDefinition": "茶壶保温套，用来保持茶的热度",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She put a knitted cosy over the teapot.",
+            "chinese": "她在茶壶上套了一个针织的保温套。"
+          }
+        ],
+        "synonyms": ["tea cozy", "tea warmer"],
+        "antonyms": []
+      },
+      {
+        "definition": "To make oneself comfortable and warm",
+        "chineseDefinition": "使自己舒适和温暖",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They cosied up together on the sofa to watch a movie.",
+            "chinese": "他们在沙发上依偎在一起看电影。"
+          }
+        ],
+        "synonyms": ["snuggle", "cuddle", "nestle"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "roller",
+    "pronunciation": "/ˈroʊlər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "roller",
+            "plural": "rollers"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A cylinder that rotates about a central axis and is used in various machines and devices",
+        "chineseDefinition": "滚筒，在各种机器和设备中使用的绕中心轴旋转的圆柱体",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He used a paint roller to paint the wall quickly.",
+            "chinese": "他用油漆滚筒快速地粉刷墙壁。"
+          }
+        ],
+        "synonyms": ["cylinder", "drum", "wheel"],
+        "antonyms": []
+      },
+      {
+        "definition": "A large wave that curls over as it approaches the shore",
+        "chineseDefinition": "大浪，接近海岸时卷起的大波浪",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The surfers were waiting for the perfect roller to ride.",
+            "chinese": "冲浪者们正在等待完美的大浪来冲浪。"
+          }
+        ],
+        "synonyms": ["breaker", "wave", "surf"],
+        "antonyms": []
+      },
+      {
+        "definition": "A cylindrical curler for hair",
+        "chineseDefinition": "卷发器，圆柱形的头发卷筒",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She put rollers in her hair before going to bed.",
+            "chinese": "她在睡觉前在头发上装了卷发器。"
+          }
+        ],
+        "synonyms": ["curler", "hair roller", "hair curler"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "unsanitary",
+    "pronunciation": "/ʌnˈsænɪtəri/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "unsanitary"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Not clean or hygienic; harmful to health",
+        "chineseDefinition": "不干净的或不卫生的；对健康有害的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The restaurant was closed due to unsanitary conditions in the kitchen.",
+            "chinese": "由于厨房环境不卫生，这家餐厅被关闭了。"
+          }
+        ],
+        "synonyms": ["unhygienic", "dirty", "unclean"],
+        "antonyms": ["sanitary", "hygienic", "clean"]
+      },
+      {
+        "definition": "Lacking proper facilities for disposal of sewage and other waste",
+        "chineseDefinition": "缺乏适当的污水和其他废物处理设施的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Many people in developing countries live in unsanitary housing.",
+            "chinese": "许多发展中国家的人们生活在不卫生的住房中。"
+          }
+        ],
+        "synonyms": ["insalubrious", "unhealthy", "filthy"],
+        "antonyms": ["clean", "sterile", "antiseptic"]
+      }
+    ]
+  },
+  {
+    "word": "condone",
+    "pronunciation": "/kənˈdoʊn/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "condone",
+            "thirdPersonSingular": "condones",
+            "presentParticiple": "condoning",
+            "pastTense": "condoned",
+            "pastParticiple": "condoned"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To accept and allow behavior that is considered morally wrong or offensive",
+        "chineseDefinition": "容忍，宽恕被认为在道德上错误或冒犯的行为",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The school does not condone cheating in exams.",
+            "chinese": "学校不容忍考试作弊。"
+          }
+        ],
+        "synonyms": ["accept", "tolerate", "approve"],
+        "antonyms": ["condemn", "denounce", "censure"]
+      },
+      {
+        "definition": "To overlook, forgive, or disregard an offense without protest or censure",
+        "chineseDefinition": "忽视，宽恕或不顾忌冒犯行为而不抗议或谴责",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "By remaining silent, you are condoning their behavior.",
+            "chinese": "保持沉默，你就是在纵容他们的行为。"
+          }
+        ],
+        "synonyms": ["excuse", "pardon", "overlook"],
+        "antonyms": ["punish", "penalize", "criticize"]
+      }
+    ]
+  },
+  {
+    "word": "bereave",
+    "pronunciation": "/bɪˈriːv/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "bereave",
+            "thirdPersonSingular": "bereaves",
+            "presentParticiple": "bereaving",
+            "pastTense": "bereaved",
+            "pastParticiple": "bereaved"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To deprive of a loved one through death",
+        "chineseDefinition": "使失去亲人，使丧亲",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She was bereaved of her husband in the accident.",
+            "chinese": "她在那场事故中失去了丈夫。"
+          }
+        ],
+        "synonyms": ["deprive", "rob", "strip"],
+        "antonyms": []
+      },
+      {
+        "definition": "To leave in a sad or lonely state, especially due to death",
+        "chineseDefinition": "使处于悲伤或孤独状态，尤其是因死亡",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The war bereaved many families of their sons.",
+            "chinese": "战争使许多家庭失去了儿子。"
+          }
+        ],
+        "synonyms": ["grieve", "mourn", "lament"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "faulty",
+    "pronunciation": "/ˈfɔːlti/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "faulty",
+            "comparative": "faultier",
+            "superlative": "faultiest"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Having defects; imperfect or not working properly",
+        "chineseDefinition": "有缺陷的；不完美的或不能正常工作的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The product was recalled due to faulty wiring.",
+            "chinese": "由于接线故障，该产品被召回。"
+          }
+        ],
+        "synonyms": ["defective", "flawed", "malfunctioning"],
+        "antonyms": ["perfect", "flawless", "sound"]
+      },
+      {
+        "definition": "Containing errors or mistakes",
+        "chineseDefinition": "包含错误或失误的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "His argument was based on faulty reasoning.",
+            "chinese": "他的论点是基于错误的推理。"
+          }
+        ],
+        "synonyms": ["incorrect", "erroneous", "unsound"],
+        "antonyms": ["correct", "accurate", "valid"]
+      }
+    ]
+  },
+  {
+    "word": "enigma",
+    "pronunciation": "/ɪˈnɪɡmə/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "enigma",
+            "plural": "enigmas"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Something that is mysterious and seems impossible to understand completely",
+        "chineseDefinition": "谜，难以完全理解的神秘事物",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The origin of the universe remains an enigma to scientists.",
+            "chinese": "宇宙的起源对科学家来说仍然是个谜。"
+          }
+        ],
+        "synonyms": ["mystery", "puzzle", "riddle"],
+        "antonyms": ["explanation", "solution", "answer"]
+      },
+      {
+        "definition": "A person whose behavior, motives, or character are mysterious or difficult to understand",
+        "chineseDefinition": "行为、动机或性格神秘或难以理解的人",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Despite working with him for years, he remained an enigma to his colleagues.",
+            "chinese": "尽管与他共事多年，他对同事们来说仍然是个谜。"
+          }
+        ],
+        "synonyms": ["conundrum", "paradox", "question"],
+        "antonyms": ["open book", "straightforward person"]
+      }
+    ]
+  },
+  {
+    "word": "gill",
+    "pronunciation": "/ɡɪl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "gill",
+            "plural": "gills"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The respiratory organ of aquatic animals, especially fish",
+        "chineseDefinition": "水生动物的呼吸器官，尤其是鱼的鳃",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Fish extract oxygen from water using their gills.",
+            "chinese": "鱼类使用鳃从水中提取氧气。"
+          }
+        ],
+        "synonyms": ["branchia", "respiratory organ"],
+        "antonyms": []
+      },
+      {
+        "definition": "A unit of measurement for liquids, equal to a quarter of a pint",
+        "chineseDefinition": "液体的计量单位，等于四分之一品脱",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The recipe calls for a gill of cream.",
+            "chinese": "这个食谱需要四分之一品脱的奶油。"
+          }
+        ],
+        "synonyms": ["measure", "unit"],
+        "antonyms": []
+      },
+      {
+        "definition": "The vertical plates under the cap of a mushroom",
+        "chineseDefinition": "蘑菇帽下的垂直薄片",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The mushroom's gills release spores for reproduction.",
+            "chinese": "蘑菇的菌褶释放孢子进行繁殖。"
+          }
+        ],
+        "synonyms": ["lamella", "lamina"],
+        "antonyms": []
+      }
+    ]
+  }
+]

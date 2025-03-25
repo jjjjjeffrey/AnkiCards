@@ -1,0 +1,1686 @@
+[
+  {
+    "word": "autobiography",
+    "pronunciation": "/ˌɔːtəbaɪˈɒɡrəfi/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "autobiography",
+            "plural": "autobiographies"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An account of a person's life written by that person.",
+        "chineseDefinition": "一个人自己写的关于自己生平的记述。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She published her autobiography last year, detailing her childhood experiences.",
+            "chinese": "她去年出版了自传，详细描述了她的童年经历。"
+          }
+        ],
+        "synonyms": ["memoir", "life story", "personal history"],
+        "antonyms": ["biography"]
+      }
+    ]
+  },
+  {
+    "word": "browse",
+    "pronunciation": "/braʊz/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "browse",
+            "thirdPersonSingular": "browses",
+            "presentParticiple": "browsing",
+            "pastTense": "browsed",
+            "pastParticiple": "browsed"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "browse",
+            "plural": "browses"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To survey, scan, or look through casually.",
+        "chineseDefinition": "随意浏览、扫描或查看。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She spent the afternoon browsing through old photo albums.",
+            "chinese": "她花了一下午浏览旧相册。"
+          }
+        ],
+        "synonyms": ["scan", "skim", "glance through"],
+        "antonyms": ["study", "scrutinize"]
+      },
+      {
+        "definition": "To look through a collection of items in a casual or leisurely way.",
+        "chineseDefinition": "以随意或悠闲的方式查看物品集合。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "I like to browse in bookstores without any specific purchase in mind.",
+            "chinese": "我喜欢在书店里随意浏览，没有特定的购买目标。"
+          }
+        ],
+        "synonyms": ["peruse", "look through", "leaf through"],
+        "antonyms": []
+      },
+      {
+        "definition": "The act of browsing or casually looking through something.",
+        "chineseDefinition": "浏览或随意查看某物的行为。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "I'm just having a quick browse through these magazines.",
+            "chinese": "我只是在快速浏览这些杂志。"
+          }
+        ],
+        "synonyms": ["look", "glance", "scan"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "dot",
+    "pronunciation": "/dɒt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "dot",
+            "plural": "dots"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "dot",
+            "thirdPersonSingular": "dots",
+            "presentParticiple": "dotting",
+            "pastTense": "dotted",
+            "pastParticiple": "dotted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A small round mark or spot.",
+        "chineseDefinition": "一个小圆形标记或斑点。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The ladybug had black dots on its red wings.",
+            "chinese": "瓢虫的红色翅膀上有黑点。"
+          }
+        ],
+        "synonyms": ["spot", "speck", "point"],
+        "antonyms": []
+      },
+      {
+        "definition": "To mark with small spots or dots.",
+        "chineseDefinition": "用小斑点或圆点标记。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The landscape was dotted with small cottages.",
+            "chinese": "风景中点缀着小平房。"
+          }
+        ],
+        "synonyms": ["speckle", "stipple", "spot"],
+        "antonyms": []
+      },
+      {
+        "definition": "A small amount or portion of something.",
+        "chineseDefinition": "少量或一部分。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Add a dot of glue to secure the paper in place.",
+            "chinese": "加一点胶水固定纸张。"
+          }
+        ],
+        "synonyms": ["bit", "touch", "dab"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "emotional",
+    "pronunciation": "/ɪˈməʊʃənl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "emotional",
+            "comparative": "more emotional",
+            "superlative": "most emotional"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Relating to or characterized by emotion or emotions.",
+        "chineseDefinition": "与情感或情绪有关或以情感或情绪为特征。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The film had a strong emotional impact on the audience.",
+            "chinese": "这部电影对观众产生了强烈的情感冲击。"
+          }
+        ],
+        "synonyms": ["passionate", "expressive", "sensitive"],
+        "antonyms": ["unemotional", "stoic", "impassive"]
+      },
+      {
+        "definition": "Easily affected by emotions; displaying emotion.",
+        "chineseDefinition": "容易受情绪影响的；表现情感的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She became very emotional during the graduation ceremony.",
+            "chinese": "她在毕业典礼上变得非常情绪化。"
+          }
+        ],
+        "synonyms": ["demonstrative", "temperamental", "volatile"],
+        "antonyms": ["reserved", "controlled", "composed"]
+      }
+    ]
+  },
+  {
+    "word": "extrovert",
+    "pronunciation": "/ˈɛkstrəvɜːrt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "extrovert",
+            "plural": "extroverts"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "extrovert"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person who is energized by being around other people and tends to be enthusiastic, talkative, and assertive.",
+        "chineseDefinition": "一个通过与他人相处而获得能量，倾向于热情、健谈和自信的人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "As an extrovert, she thrives in social gatherings and enjoys meeting new people.",
+            "chinese": "作为一个外向的人，她在社交聚会中表现出色，喜欢结识新朋友。"
+          }
+        ],
+        "synonyms": ["outgoing person", "sociable person", "life of the party"],
+        "antonyms": ["introvert", "shy person"]
+      },
+      {
+        "definition": "Characterized by extroversion; outgoing and sociable.",
+        "chineseDefinition": "以外向性为特征的；外向和善于社交的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "His extrovert personality made him popular at parties.",
+            "chinese": "他外向的性格使他在聚会上很受欢迎。"
+          }
+        ],
+        "synonyms": ["outgoing", "sociable", "gregarious"],
+        "antonyms": ["introverted", "reserved", "shy"]
+      }
+    ]
+  },
+  {
+    "word": "favourite",
+    "pronunciation": "/ˈfeɪvərɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "favourite",
+            "plural": "favourites"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "favourite"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person or thing that is preferred to all others of the same kind.",
+        "chineseDefinition": "在同类中最受喜爱的人或物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Chocolate ice cream is my favourite among all desserts.",
+            "chinese": "在所有甜点中，巧克力冰淇淋是我的最爱。"
+          }
+        ],
+        "synonyms": ["preference", "choice", "pick"],
+        "antonyms": []
+      },
+      {
+        "definition": "Preferred to all others of the same kind.",
+        "chineseDefinition": "在同类中最受青睐的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "This is my favourite book; I've read it many times.",
+            "chinese": "这是我最喜欢的书；我已经读了很多遍。"
+          }
+        ],
+        "synonyms": ["preferred", "favored", "beloved"],
+        "antonyms": ["least favorite", "disliked"]
+      }
+    ]
+  },
+  {
+    "word": "hang",
+    "pronunciation": "/hæŋ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "hang",
+            "thirdPersonSingular": "hangs",
+            "presentParticiple": "hanging",
+            "pastTense": "hung",
+            "pastParticiple": "hung"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "hang",
+            "plural": "hangs"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To suspend or be suspended from above with the lower part dangling free.",
+        "chineseDefinition": "悬挂或被悬挂，下部自由下垂。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She hung the painting on the wall.",
+            "chinese": "她把画挂在墙上。"
+          }
+        ],
+        "synonyms": ["suspend", "dangle", "drape"],
+        "antonyms": ["remove", "detach"]
+      },
+      {
+        "definition": "To attach or be attached so as to allow free movement at the point of attachment.",
+        "chineseDefinition": "附着或被附着，使其在附着点可以自由移动。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The door hangs on three hinges.",
+            "chinese": "门挂在三个铰链上。"
+          }
+        ],
+        "synonyms": ["fasten", "fix", "attach"],
+        "antonyms": []
+      },
+      {
+        "definition": "The way something hangs or is arranged.",
+        "chineseDefinition": "某物悬挂或排列的方式。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The hang of the curtains wasn't quite right.",
+            "chinese": "窗帘的悬挂方式不太对。"
+          }
+        ],
+        "synonyms": ["arrangement", "drape", "fall"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "harmony",
+    "pronunciation": "/ˈhɑːməni/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "harmony",
+            "plural": "harmonies"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The combination of simultaneously sounded musical notes to produce a pleasing effect.",
+        "chineseDefinition": "同时发出的音符的组合，产生悦耳的效果。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The choir sang in perfect harmony.",
+            "chinese": "合唱团唱出了完美的和声。"
+          }
+        ],
+        "synonyms": ["consonance", "accord", "concord"],
+        "antonyms": ["dissonance", "discord"]
+      },
+      {
+        "definition": "Agreement or concord between people or things.",
+        "chineseDefinition": "人或事物之间的一致或和谐。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The family lived in harmony despite their differences.",
+            "chinese": "尽管有分歧，这家人仍然和睦相处。"
+          }
+        ],
+        "synonyms": ["peace", "agreement", "cooperation"],
+        "antonyms": ["conflict", "discord", "tension"]
+      },
+      {
+        "definition": "The quality of forming a pleasing and consistent whole.",
+        "chineseDefinition": "形成令人愉悦且一致整体的品质。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The garden was designed with harmony and balance in mind.",
+            "chinese": "这个花园的设计考虑了和谐与平衡。"
+          }
+        ],
+        "synonyms": ["balance", "symmetry", "congruity"],
+        "antonyms": ["disarray", "chaos"]
+      }
+    ]
+  },
+  {
+    "word": "hospitable",
+    "pronunciation": "/hɒˈspɪtəbl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "hospitable",
+            "comparative": "more hospitable",
+            "superlative": "most hospitable"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Friendly and welcoming to visitors or guests.",
+        "chineseDefinition": "对访客或客人友好且热情。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The locals were very hospitable and invited us to dinner.",
+            "chinese": "当地人非常好客，邀请我们共进晚餐。"
+          }
+        ],
+        "synonyms": ["welcoming", "friendly", "generous"],
+        "antonyms": ["inhospitable", "unwelcoming", "unfriendly"]
+      },
+      {
+        "definition": "Providing or affording a comfortable environment.",
+        "chineseDefinition": "提供或营造舒适环境的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The climate in this region is not very hospitable for growing crops.",
+            "chinese": "这个地区的气候对种植农作物不太适宜。"
+          }
+        ],
+        "synonyms": ["accommodating", "favorable", "congenial"],
+        "antonyms": ["hostile", "harsh", "unfavorable"]
+      }
+    ]
+  },
+  {
+    "word": "inflate",
+    "pronunciation": "/ɪnˈfleɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "inflate",
+            "thirdPersonSingular": "inflates",
+            "presentParticiple": "inflating",
+            "pastTense": "inflated",
+            "pastParticiple": "inflated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To fill with air or gas so as to make larger or distended.",
+        "chineseDefinition": "充入空气或气体使其变大或膨胀。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He inflated the balloon for the party.",
+            "chinese": "他为聚会充气了气球。"
+          }
+        ],
+        "synonyms": ["blow up", "pump up", "expand"],
+        "antonyms": ["deflate", "collapse", "shrink"]
+      },
+      {
+        "definition": "To increase or enlarge abnormally, especially prices, currency, or estimates.",
+        "chineseDefinition": "异常增加或扩大，尤指价格、货币或估计。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The company inflated its profit figures to attract investors.",
+            "chinese": "该公司夸大了利润数字以吸引投资者。"
+          }
+        ],
+        "synonyms": ["exaggerate", "magnify", "overstate"],
+        "antonyms": ["reduce", "minimize", "understate"]
+      }
+    ]
+  },
+  {
+    "word": "influential",
+    "pronunciation": "/ˌɪnfluˈɛnʃl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "influential",
+            "comparative": "more influential",
+            "superlative": "most influential"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "influential",
+            "plural": "influentials"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Having great influence on someone or something.",
+        "chineseDefinition": "对某人或某事有很大影响的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She is one of the most influential writers of her generation.",
+            "chinese": "她是她那一代最有影响力的作家之一。"
+          }
+        ],
+        "synonyms": ["powerful", "significant", "important"],
+        "antonyms": ["insignificant", "unimportant", "powerless"]
+      },
+      {
+        "definition": "A person who has the power to influence others.",
+        "chineseDefinition": "有能力影响他人的人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The campaign targeted social media influentials to spread their message.",
+            "chinese": "该活动针对社交媒体有影响力的人来传播他们的信息。"
+          }
+        ],
+        "synonyms": ["leader", "trendsetter", "opinion-maker"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "insane",
+    "pronunciation": "/ɪnˈseɪn/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "insane",
+            "comparative": "more insane",
+            "superlative": "most insane"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "In a state of mind which prevents normal perception, behavior, or social interaction; seriously mentally ill.",
+        "chineseDefinition": "处于阻碍正常感知、行为或社交互动的精神状态；严重精神疾病。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He was declared legally insane and committed to a psychiatric hospital.",
+            "chinese": "他被宣布为法律上的精神病患者，并被送入精神病院。"
+          }
+        ],
+        "synonyms": ["mentally ill", "deranged", "demented"],
+        "antonyms": ["sane", "rational", "lucid"]
+      },
+      {
+        "definition": "Extremely foolish or irrational; absurd.",
+        "chineseDefinition": "极其愚蠢或不理性的；荒谬的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "It would be insane to go outside during the hurricane.",
+            "chinese": "在飓风期间出门是疯狂的。"
+          }
+        ],
+        "synonyms": ["crazy", "mad", "lunatic"],
+        "antonyms": ["sensible", "reasonable", "logical"]
+      },
+      {
+        "definition": "Astonishingly good or impressive; amazing.",
+        "chineseDefinition": "令人惊讶地好或令人印象深刻的；惊人的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The guitarist's solo was absolutely insane!",
+            "chinese": "吉他手的独奏绝对是疯狂的！"
+          }
+        ],
+        "synonyms": ["incredible", "unbelievable", "extraordinary"],
+        "antonyms": ["ordinary", "mediocre", "unremarkable"]
+      }
+    ]
+  },
+  {
+    "word": "inscribe",
+    "pronunciation": "/ɪnˈskraɪb/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "inscribe",
+            "thirdPersonSingular": "inscribes",
+            "presentParticiple": "inscribing",
+            "pastTense": "inscribed",
+            "pastParticiple": "inscribed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To write or carve words or symbols on something, especially as a formal or permanent record.",
+        "chineseDefinition": "在某物上书写或雕刻文字或符号，尤指作为正式或永久记录。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The names of the fallen soldiers were inscribed on the memorial.",
+            "chinese": "阵亡士兵的名字被铭刻在纪念碑上。"
+          }
+        ],
+        "synonyms": ["engrave", "carve", "etch"],
+        "antonyms": ["erase", "efface"]
+      },
+      {
+        "definition": "To write a short message in a book or on a photograph when giving it as a present.",
+        "chineseDefinition": "在赠送书籍或照片时，在上面写下简短的留言。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The author inscribed the book with a personal message to her fan.",
+            "chinese": "作者在书上题写了给粉丝的个人留言。"
+          }
+        ],
+        "synonyms": ["autograph", "dedicate", "sign"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "hostel",
+    "pronunciation": "/ˈhɒstl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "hostel",
+            "plural": "hostels"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An inexpensive lodging place for travelers, typically with dormitory-style sleeping arrangements and shared facilities.",
+        "chineseDefinition": "为旅行者提供的廉价住宿场所，通常有宿舍式睡眠安排和共享设施。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We stayed in a youth hostel to save money during our European trip.",
+            "chinese": "在欧洲旅行期间，我们住在青年旅舍以节省开支。"
+          }
+        ],
+        "synonyms": ["inn", "lodge", "dormitory"],
+        "antonyms": ["hotel", "resort"]
+      },
+      {
+        "definition": "A supervised lodging place for students, workers, or the homeless.",
+        "chineseDefinition": "为学生、工人或无家可归者提供的有监督的住宿场所。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The university provides hostels for international students.",
+            "chinese": "大学为国际学生提供宿舍。"
+          }
+        ],
+        "synonyms": ["residence", "accommodation", "shelter"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "substance",
+    "pronunciation": "/ˈsʌbstəns/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "substance",
+            "plural": "substances"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A particular kind of matter with uniform properties.",
+        "chineseDefinition": "具有均匀性质的特定物质。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Water is a substance composed of hydrogen and oxygen.",
+            "chinese": "水是由氢和氧组成的物质。"
+          }
+        ],
+        "synonyms": ["material", "matter", "stuff"],
+        "antonyms": []
+      },
+      {
+        "definition": "The real physical matter of which a person or thing consists.",
+        "chineseDefinition": "构成人或物的真实物质。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The substance of the building was damaged in the fire.",
+            "chinese": "建筑物的实体在火灾中受损。"
+          }
+        ],
+        "synonyms": ["essence", "core", "foundation"],
+        "antonyms": []
+      },
+      {
+        "definition": "The most important or essential part of something; the real meaning.",
+        "chineseDefinition": "某事物最重要或最本质的部分；真正的含义。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Let's focus on the substance of the argument rather than minor details.",
+            "chinese": "让我们关注论点的实质，而不是次要细节。"
+          }
+        ],
+        "synonyms": ["gist", "heart", "crux"],
+        "antonyms": ["triviality", "nonessential"]
+      }
+    ]
+  },
+  {
+    "word": "refectory",
+    "pronunciation": "/rɪˈfɛktəri/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "refectory",
+            "plural": "refectories"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A dining hall in a monastery, convent, or educational institution.",
+        "chineseDefinition": "修道院、女修道院或教育机构中的餐厅。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Students gathered in the refectory for lunch.",
+            "chinese": "学生们聚集在食堂吃午饭。"
+          }
+        ],
+        "synonyms": ["dining hall", "cafeteria", "mess hall"],
+        "antonyms": []
+      },
+      {
+        "definition": "A long dining table, often used in monasteries or institutions.",
+        "chineseDefinition": "长餐桌，通常用于修道院或机构。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The monks sat on benches along the refectory.",
+            "chinese": "僧侣们坐在长餐桌旁的长凳上。"
+          }
+        ],
+        "synonyms": ["dining table", "communal table"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "fuse",
+    "pronunciation": "/fjuːz/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "fuse",
+            "plural": "fuses"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "fuse",
+            "thirdPersonSingular": "fuses",
+            "presentParticiple": "fusing",
+            "pastTense": "fused",
+            "pastParticiple": "fused"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A safety device consisting of a strip of wire that melts and breaks an electric circuit if the current exceeds a safe level.",
+        "chineseDefinition": "安全装置，由一条金属丝组成，如果电流超过安全水平，它会熔化并切断电路。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The power surge caused the fuse to blow.",
+            "chinese": "电涌导致保险丝熔断。"
+          }
+        ],
+        "synonyms": ["circuit breaker", "safety device"],
+        "antonyms": []
+      },
+      {
+        "definition": "A cord or tube for setting off an explosive charge.",
+        "chineseDefinition": "引爆炸药的导火索或管道。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The demolition expert lit the fuse and everyone ran for cover.",
+            "chinese": "爆破专家点燃了导火索，所有人都跑去寻找掩护。"
+          }
+        ],
+        "synonyms": ["detonator", "igniter", "primer"],
+        "antonyms": []
+      },
+      {
+        "definition": "To join or blend to form a single entity.",
+        "chineseDefinition": "连接或混合形成单一实体。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The chef fused traditional and modern cooking techniques.",
+            "chinese": "厨师融合了传统和现代烹饪技术。"
+          }
+        ],
+        "synonyms": ["merge", "blend", "combine"],
+        "antonyms": ["separate", "divide", "split"]
+      }
+    ]
+  },
+  {
+    "word": "contemporary",
+    "pronunciation": "/kənˈtɛmpərəri/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "contemporary"
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "contemporary",
+            "plural": "contemporaries"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Living or occurring at the same time.",
+        "chineseDefinition": "同时生活或发生的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Shakespeare and Cervantes were contemporary writers.",
+            "chinese": "莎士比亚和塞万提斯是同时代的作家。"
+          }
+        ],
+        "synonyms": ["concurrent", "simultaneous", "coexisting"],
+        "antonyms": ["historical", "ancient", "past"]
+      },
+      {
+        "definition": "Belonging to or occurring in the present.",
+        "chineseDefinition": "属于或发生在当前的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The exhibition features contemporary art from around the world.",
+            "chinese": "展览展示了来自世界各地的当代艺术。"
+          }
+        ],
+        "synonyms": ["modern", "current", "present-day"],
+        "antonyms": ["outdated", "old-fashioned", "obsolete"]
+      },
+      {
+        "definition": "A person living at the same time or of approximately the same age as another.",
+        "chineseDefinition": "与他人同时生活或大约同龄的人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Newton and Leibniz were contemporaries who both developed calculus.",
+            "chinese": "牛顿和莱布尼茨是同时代人，他们都发展了微积分。"
+          }
+        ],
+        "synonyms": ["peer", "coeval", "contemporary"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "continuity",
+    "pronunciation": "/ˌkɒntɪˈnjuːɪti/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "continuity",
+            "plural": "continuities"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The unbroken and consistent existence or operation of something over a period of time.",
+        "chineseDefinition": "某事物在一段时间内不间断和一致的存在或运作。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The company has maintained continuity in its leadership for over fifty years.",
+            "chinese": "该公司在五十多年里保持了领导层的连续性。"
+          }
+        ],
+        "synonyms": ["constancy", "stability", "persistence"],
+        "antonyms": ["discontinuity", "interruption", "break"]
+      },
+      {
+        "definition": "The maintenance of continuous action or self-consistent detail in the various scenes of a film or broadcast.",
+        "chineseDefinition": "在电影或广播的各个场景中保持连续动作或自洽细节。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "There was a problem with continuity when the actor's hairstyle changed between scenes.",
+            "chinese": "当演员的发型在场景之间发生变化时，出现了连续性问题。"
+          }
+        ],
+        "synonyms": ["consistency", "coherence", "flow"],
+        "antonyms": ["inconsistency", "incoherence"]
+      }
+    ]
+  },
+  {
+    "word": "advantage",
+    "pronunciation": "/ədˈvɑːntɪdʒ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "advantage",
+            "plural": "advantages"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "advantage",
+            "thirdPersonSingular": "advantages",
+            "presentParticiple": "advantaging",
+            "pastTense": "advantaged",
+            "pastParticiple": "advantaged"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A condition or circumstance that puts one in a favorable or superior position.",
+        "chineseDefinition": "使人处于有利或优越地位的条件或情况。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The home team had the advantage of familiar surroundings.",
+            "chinese": "主队拥有熟悉环境的优势。"
+          }
+        ],
+        "synonyms": ["benefit", "edge", "upper hand"],
+        "antonyms": ["disadvantage", "drawback", "handicap"]
+      },
+      {
+        "definition": "A favorable or desirable feature or condition.",
+        "chineseDefinition": "有利或理想的特征或条件。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "One advantage of living in the city is the proximity to cultural events.",
+            "chinese": "住在城市的一个优点是靠近文化活动。"
+          }
+        ],
+        "synonyms": ["asset", "bonus", "plus"],
+        "antonyms": ["liability", "minus", "downside"]
+      },
+      {
+        "definition": "To put in a favorable position; to benefit or profit.",
+        "chineseDefinition": "使处于有利地位；使受益或获利。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The new policy will advantage those with higher incomes.",
+            "chinese": "新政策将使高收入者受益。"
+          }
+        ],
+        "synonyms": ["benefit", "favor", "help"],
+        "antonyms": ["disadvantage", "harm", "hinder"]
+      }
+    ]
+  },
+  {
+    "word": "tube",
+    "pronunciation": "/tjuːb/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "tube",
+            "plural": "tubes"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "tube",
+            "thirdPersonSingular": "tubes",
+            "presentParticiple": "tubing",
+            "pastTense": "tubed",
+            "pastParticiple": "tubed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A long, hollow cylinder of metal, plastic, glass, etc., for holding or transporting something, chiefly liquids or gases.",
+        "chineseDefinition": "金属、塑料、玻璃等制成的长空心圆柱体，用于容纳或输送物质，主要是液体或气体。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The plumber replaced the copper tubes in the heating system.",
+            "chinese": "水管工更换了供暖系统中的铜管。"
+          }
+        ],
+        "synonyms": ["pipe", "cylinder", "duct"],
+        "antonyms": []
+      },
+      {
+        "definition": "A flexible container, sealed at one end and having a screw cap at the other, for holding a semi-liquid substance ready for use.",
+        "chineseDefinition": "一端密封，另一端有螺旋盖的柔性容器，用于盛装半液体物质以备使用。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She squeezed some toothpaste from the tube.",
+            "chinese": "她从管子里挤出一些牙膏。"
+          }
+        ],
+        "synonyms": ["container", "dispenser"],
+        "antonyms": []
+      },
+      {
+        "definition": "To provide with or enclose in a tube.",
+        "chineseDefinition": "提供管道或将其封闭在管中。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The patient was tubed to help with breathing.",
+            "chinese": "病人被插管以帮助呼吸。"
+          }
+        ],
+        "synonyms": ["pipe", "channel", "conduct"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "beneficial",
+    "pronunciation": "/ˌbɛnɪˈfɪʃl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "beneficial",
+            "comparative": "more beneficial",
+            "superlative": "most beneficial"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Favorable or advantageous; resulting in good.",
+        "chineseDefinition": "有利的或有益的；产生好结果的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Regular exercise is beneficial to your health.",
+            "chinese": "定期锻炼对健康有益。"
+          }
+        ],
+        "synonyms": ["helpful", "advantageous", "favorable"],
+        "antonyms": ["harmful", "detrimental", "adverse"]
+      },
+      {
+        "definition": "Promoting or enhancing well-being; salutary.",
+        "chineseDefinition": "促进或增强福祉的；有益健康的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The new policy has had a beneficial effect on the economy.",
+            "chinese": "新政策对经济产生了有益的影响。"
+          }
+        ],
+        "synonyms": ["constructive", "positive", "useful"],
+        "antonyms": ["destructive", "negative", "useless"]
+      }
+    ]
+  },
+  {
+    "word": "inhibit",
+    "pronunciation": "/ɪnˈhɪbɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "inhibit",
+            "thirdPersonSingular": "inhibits",
+            "presentParticiple": "inhibiting",
+            "pastTense": "inhibited",
+            "pastParticiple": "inhibited"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To restrain, hinder, or prevent an action or process.",
+        "chineseDefinition": "抑制、阻碍或防止行动或过程。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The drug inhibits the growth of cancer cells.",
+            "chinese": "这种药物抑制癌细胞的生长。"
+          }
+        ],
+        "synonyms": ["restrain", "hinder", "impede"],
+        "antonyms": ["encourage", "facilitate", "promote"]
+      },
+      {
+        "definition": "To make someone feel self-conscious and unable to act in a relaxed and natural way.",
+        "chineseDefinition": "使某人感到拘谨，无法以放松自然的方式行动。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "His presence inhibited her from speaking freely.",
+            "chinese": "他的存在使她无法自由地说话。"
+          }
+        ],
+        "synonyms": ["constrain", "restrict", "repress"],
+        "antonyms": ["embolden", "liberate", "free"]
+      }
+    ]
+  },
+  {
+    "word": "damage",
+    "pronunciation": "/ˈdæmɪdʒ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "damage",
+            "plural": "damages"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "damage",
+            "thirdPersonSingular": "damages",
+            "presentParticiple": "damaging",
+            "pastTense": "damaged",
+            "pastParticiple": "damaged"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Physical harm caused to something in such a way as to impair its value, usefulness, or normal function.",
+        "chineseDefinition": "对某物造成的物理伤害，以致损害其价值、用途或正常功能。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The storm caused significant damage to the roof.",
+            "chinese": "风暴对屋顶造成了重大损害。"
+          }
+        ],
+        "synonyms": ["harm", "injury", "impairment"],
+        "antonyms": ["repair", "restoration", "healing"]
+      },
+      {
+        "definition": "To inflict physical harm on something so as to impair its value, usefulness, or normal function.",
+        "chineseDefinition": "对某物造成物理伤害，以致损害其价值、用途或正常功能。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The fire damaged several buildings in the neighborhood.",
+            "chinese": "火灾损坏了社区中的几栋建筑物。"
+          }
+        ],
+        "synonyms": ["harm", "injure", "impair"],
+        "antonyms": ["repair", "restore", "fix"]
+      },
+      {
+        "definition": "Compensation, usually monetary, for harm or injury suffered.",
+        "chineseDefinition": "赔偿，通常是金钱形式，用于所遭受的伤害或损失。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The court awarded damages to the plaintiff.",
+            "chinese": "法院判给原告赔偿金。"
+          }
+        ],
+        "synonyms": ["compensation", "reparation", "restitution"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "vibrate",
+    "pronunciation": "/vaɪˈbreɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "vibrate",
+            "thirdPersonSingular": "vibrates",
+            "presentParticiple": "vibrating",
+            "pastTense": "vibrated",
+            "pastParticiple": "vibrated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To move rapidly to and fro; to oscillate.",
+        "chineseDefinition": "快速来回移动；振动。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The bridge began to vibrate as the heavy trucks passed over it.",
+            "chinese": "当重型卡车经过时，桥开始振动。"
+          }
+        ],
+        "synonyms": ["oscillate", "shake", "quiver"],
+        "antonyms": ["stabilize", "steady"]
+      },
+      {
+        "definition": "To cause to move rapidly to and fro; to shake.",
+        "chineseDefinition": "使快速来回移动；摇动。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The machine vibrates the mixture to remove air bubbles.",
+            "chinese": "机器振动混合物以去除气泡。"
+          }
+        ],
+        "synonyms": ["shake", "agitate", "tremble"],
+        "antonyms": []
+      },
+      {
+        "definition": "To produce a vibrating or resonating effect in sound.",
+        "chineseDefinition": "在声音中产生振动或共鸣效果。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Her voice vibrated with emotion as she sang the final note.",
+            "chinese": "当她唱最后一个音符时，她的声音因情感而颤抖。"
+          }
+        ],
+        "synonyms": ["resonate", "reverberate", "thrum"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "inspire",
+    "pronunciation": "/ɪnˈspaɪə/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "inspire",
+            "thirdPersonSingular": "inspires",
+            "presentParticiple": "inspiring",
+            "pastTense": "inspired",
+            "pastParticiple": "inspired"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To fill someone with the urge or ability to do or feel something, especially to do something creative.",
+        "chineseDefinition": "使某人充满做某事或感受某事的冲动或能力，尤其是做创造性的事情。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The teacher's words inspired the students to pursue their dreams.",
+            "chinese": "老师的话激励学生们追求自己的梦想。"
+          }
+        ],
+        "synonyms": ["motivate", "stimulate", "encourage"],
+        "antonyms": ["discourage", "dishearten", "deter"]
+      },
+      {
+        "definition": "To create a feeling, especially a positive one, in a person.",
+        "chineseDefinition": "在人心中创造一种感觉，尤其是积极的感觉。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "His courage in the face of adversity inspired admiration.",
+            "chinese": "他在逆境中的勇气引起了钦佩。"
+          }
+        ],
+        "synonyms": ["arouse", "awaken", "kindle"],
+        "antonyms": ["extinguish", "suppress", "quench"]
+      },
+      {
+        "definition": "To breathe in; to inhale.",
+        "chineseDefinition": "吸入；吸气。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The patient was having difficulty inspiring enough oxygen.",
+            "chinese": "病人难以吸入足够的氧气。"
+          }
+        ],
+        "synonyms": ["inhale", "breathe in", "draw in"],
+        "antonyms": ["exhale", "breathe out", "expel"]
+      }
+    ]
+  },
+  {
+    "word": "introvert",
+    "pronunciation": "/ˈɪntrəvɜːrt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "introvert",
+            "plural": "introverts"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "introvert"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person who is predominantly concerned with their own thoughts and feelings rather than with external things.",
+        "chineseDefinition": "一个主要关注自己的思想和感受而非外部事物的人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "As an introvert, she prefers quiet evenings at home to large social gatherings.",
+            "chinese": "作为一个内向的人，她更喜欢在家度过安静的夜晚，而不是参加大型社交聚会。"
+          }
+        ],
+        "synonyms": ["shy person", "reserved person", "loner"],
+        "antonyms": ["extrovert", "outgoing person"]
+      },
+      {
+        "definition": "Characterized by introversion; shy or reserved.",
+        "chineseDefinition": "以内向为特征的；害羞或内敛的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "His introvert personality made it difficult for him to speak in public.",
+            "chinese": "他内向的性格使他难以在公共场合讲话。"
+          }
+        ],
+        "synonyms": ["reserved", "quiet", "introspective"],
+        "antonyms": ["extroverted", "outgoing", "sociable"]
+      }
+    ]
+  },
+  {
+    "word": "pedestrian",
+    "pronunciation": "/pəˈdɛstriən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "pedestrian",
+            "plural": "pedestrians"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "pedestrian"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person walking rather than traveling in a vehicle.",
+        "chineseDefinition": "步行而非乘坐交通工具的人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The driver stopped to let the pedestrians cross the road.",
+            "chinese": "司机停下来让行人过马路。"
+          }
+        ],
+        "synonyms": ["walker", "foot traveler", "passerby"],
+        "antonyms": ["driver", "passenger", "motorist"]
+      },
+      {
+        "definition": "Lacking inspiration or excitement; dull or ordinary.",
+        "chineseDefinition": "缺乏灵感或激情的；平淡或普通的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The critic described the film as pedestrian and predictable.",
+            "chinese": "评论家将这部电影描述为平庸且可预测的。"
+          }
+        ],
+        "synonyms": ["commonplace", "mundane", "unremarkable"],
+        "antonyms": ["exciting", "inspiring", "remarkable"]
+      },
+      {
+        "definition": "Relating to or designed for walking.",
+        "chineseDefinition": "与步行有关或为步行设计的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The city has created a pedestrian zone in the downtown area.",
+            "chinese": "该市在市中心区域创建了一个步行区。"
+          }
+        ],
+        "synonyms": ["walking", "foot", "on foot"],
+        "antonyms": ["vehicular", "motorized"]
+      }
+    ]
+  },
+  {
+    "word": "punch",
+    "pronunciation": "/pʌntʃ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "punch",
+            "plural": "punches"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "punch",
+            "thirdPersonSingular": "punches",
+            "presentParticiple": "punching",
+            "pastTense": "punched",
+            "pastParticiple": "punched"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A blow with the fist.",
+        "chineseDefinition": "用拳头打的一击。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He delivered a powerful punch to his opponent's jaw.",
+            "chinese": "他对对手的下巴给予了有力的一拳。"
+          }
+        ],
+        "synonyms": ["hit", "blow", "strike"],
+        "antonyms": []
+      },
+      {
+        "definition": "To strike with the fist.",
+        "chineseDefinition": "用拳头打击。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He punched the wall in frustration.",
+            "chinese": "他沮丧地用拳头打墙。"
+          }
+        ],
+        "synonyms": ["hit", "strike", "thump"],
+        "antonyms": []
+      },
+      {
+        "definition": "A tool or machine for making holes or indentations.",
+        "chineseDefinition": "用于打孔或压痕的工具或机器。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She used a hole punch to prepare the documents for filing.",
+            "chinese": "她用打孔器准备文件以便归档。"
+          }
+        ],
+        "synonyms": ["perforator", "hole puncher", "piercer"],
+        "antonyms": []
+      },
+      {
+        "definition": "A mixed drink, typically containing fruit juices, wine or spirits, and other ingredients.",
+        "chineseDefinition": "混合饮料，通常含有果汁、葡萄酒或烈酒和其他成分。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They served a delicious fruit punch at the party.",
+            "chinese": "他们在派对上提供了美味的水果宾治酒。"
+          }
+        ],
+        "synonyms": ["mixed drink", "cocktail", "beverage"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "rectangle",
+    "pronunciation": "/ˈrɛktæŋɡl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "rectangle",
+            "plural": "rectangles"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A plane figure with four straight sides and four right angles, especially one with unequal adjacent sides.",
+        "chineseDefinition": "一个有四条直边和四个直角的平面图形，尤指相邻边不等长的。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The teacher drew a rectangle on the board to illustrate the concept.",
+            "chinese": "老师在黑板上画了一个长方形来说明这个概念。"
+          }
+        ],
+        "synonyms": ["oblong", "quadrilateral", "tetragon"],
+        "antonyms": []
+      },
+      {
+        "definition": "A rectangular object or area.",
+        "chineseDefinition": "长方形的物体或区域。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The garden is a rectangle of about 20 by 30 meters.",
+            "chinese": "花园是一个约20×30米的长方形。"
+          }
+        ],
+        "synonyms": ["box", "rectangular shape"],
+        "antonyms": []
+      }
+    ]
+  }
+]

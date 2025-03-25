@@ -1,0 +1,1292 @@
+[
+  {
+    "word": "confront",
+    "pronunciation": "/kənˈfrʌnt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "confront",
+            "thirdPersonSingular": "confronts",
+            "presentParticiple": "confronting",
+            "pastTense": "confronted",
+            "pastParticiple": "confronted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To face or deal with a problem or difficult situation directly.",
+        "chineseDefinition": "直接面对或处理问题或困难情况。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "I had to confront my fears to move on.",
+            "chinese": "我必须直面我的恐惧才能继续前进。"
+          },
+          {
+            "english": "She confronted him about the missing files.",
+            "chinese": "她就那些丢失的文件质问了他。"
+          }
+        ],
+        "synonyms": ["face", "challenge"],
+        "antonyms": ["avoid", "ignore"]
+      }
+    ]
+  },
+  {
+    "word": "exhibition",
+    "pronunciation": "/ˌɛksɪˈbɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "exhibition",
+            "plural": "exhibitions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A public display of works of art or items of interest.",
+        "chineseDefinition": "公开展示艺术品或有趣物品的活动或场合。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We visited a photography exhibition last weekend.",
+            "chinese": "上周末我们参观了一个摄影展览。"
+          },
+          {
+            "english": "The exhibition drew large crowds to the gallery.",
+            "chinese": "这次展览吸引了大量参观者前往画廊。"
+          }
+        ],
+        "synonyms": ["display", "show"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "whereas",
+    "pronunciation": "/wɛərˈæz/",
+    "forms": [
+      {
+        "partOfSpeech": "conjunction",
+        "form": {
+          "type": "invariable",
+          "data": "whereas"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Used to contrast two different facts or statements.",
+        "chineseDefinition": "用于对比两种不同的事实或陈述。",
+        "partOfSpeech": "conjunction",
+        "examples": [
+          {
+            "english": "He enjoys classical music, whereas I prefer rock.",
+            "chinese": "他喜欢古典音乐，而我更喜欢摇滚。"
+          },
+          {
+            "english": "Whereas some people find it easy, others struggle.",
+            "chinese": "有些人觉得这很容易，而其他人则很费力。"
+          }
+        ],
+        "synonyms": ["while", "although"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "oak",
+    "pronunciation": "/oʊk/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "oak",
+            "plural": "oaks"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A large tree of the beech family that bears acorns.",
+        "chineseDefinition": "一种会结橡实的山毛榉科大树。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The oak in our yard is over a century old.",
+            "chinese": "我们院子里的橡树已有一个多世纪的历史。"
+          },
+          {
+            "english": "He built a table using solid oak.",
+            "chinese": "他用橡木制作了一张桌子。"
+          }
+        ],
+        "synonyms": ["quercus"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "additional",
+    "pronunciation": "/əˈdɪʃənəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "additional",
+            "comparative": "more additional",
+            "superlative": "most additional"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Added or extra, beyond what is already present or available.",
+        "chineseDefinition": "额外的，附加在已有内容或资源之上。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "We have some additional instructions for the project.",
+            "chinese": "我们对该项目还有一些额外的说明。"
+          },
+          {
+            "english": "More additional details will be provided tomorrow.",
+            "chinese": "更多额外细节将于明天提供。"
+          }
+        ],
+        "synonyms": ["extra", "supplementary"],
+        "antonyms": ["basic", "primary"]
+      }
+    ]
+  },
+  {
+    "word": "overlapping",
+    "pronunciation": "/ˌoʊvərˈlæpɪŋ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "overlap",
+            "thirdPersonSingular": "overlaps",
+            "presentParticiple": "overlapping",
+            "pastTense": "overlapped",
+            "pastParticiple": "overlapped"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "overlapping",
+            "comparative": "more overlapping",
+            "superlative": "most overlapping"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Extend over and cover a part of something else.",
+        "chineseDefinition": "延伸覆盖或与另一部分部分重叠。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The plates overlapped slightly on the shelf.",
+            "chinese": "盘子在架子上稍微重叠了。"
+          },
+          {
+            "english": "Our schedules overlapped, causing confusion.",
+            "chinese": "我们的日程相互重叠，导致了混乱。"
+          }
+        ],
+        "synonyms": ["overlay", "cover"],
+        "antonyms": ["separate"]
+      },
+      {
+        "definition": "Covering part of the same space; lying over something else.",
+        "chineseDefinition": "覆盖在相同空间的一部分上；叠加在其他事物之上。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "We used overlapping tiles for the roof design.",
+            "chinese": "我们在屋顶设计中使用了重叠的瓦片。"
+          },
+          {
+            "english": "Overlapping layers can provide extra insulation.",
+            "chinese": "重叠的层可以提供额外的隔热。"
+          }
+        ],
+        "synonyms": ["overlaid", "stacked"],
+        "antonyms": ["distinct"]
+      }
+    ]
+  },
+  {
+    "word": "poultry",
+    "pronunciation": "/ˈpoʊltri/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "poultry",
+            "plural": "poultries"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Domestic fowl, such as chickens and turkeys, raised for meat or eggs.",
+        "chineseDefinition": "家禽，如鸡和火鸡，饲养来获取肉类或鸡蛋。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They keep poultry in the backyard for fresh eggs.",
+            "chinese": "他们在后院饲养家禽以获取新鲜鸡蛋。"
+          },
+          {
+            "english": "Poultry farming is a major industry in this region.",
+            "chinese": "家禽饲养在这个地区是一项重要产业。"
+          }
+        ],
+        "synonyms": ["fowl"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "pregnancy",
+    "pronunciation": "/ˈprɛɡnənsi/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "pregnancy",
+            "plural": "pregnancies"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The condition of carrying a developing embryo or fetus within the body.",
+        "chineseDefinition": "身体内怀有发育中的胚胎或胎儿的状态。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Her pregnancy was confirmed by a doctor.",
+            "chinese": "她的怀孕已由医生确认。"
+          },
+          {
+            "english": "Regular check-ups are important during pregnancy.",
+            "chinese": "怀孕期间定期检查非常重要。"
+          }
+        ],
+        "synonyms": ["gestation"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "confirmation",
+    "pronunciation": "/ˌkɒnfərˈmeɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "confirmation",
+            "plural": "confirmations"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Proof that something is true or valid.",
+        "chineseDefinition": "证明某事为真或有效的证据。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We received confirmation of our hotel booking via email.",
+            "chinese": "我们收到了酒店预订的邮件确认。"
+          },
+          {
+            "english": "The lab test provided confirmation of the diagnosis.",
+            "chinese": "实验室检测为诊断提供了确认。"
+          }
+        ],
+        "synonyms": ["verification", "affirmation"],
+        "antonyms": ["denial", "rejection"]
+      }
+    ]
+  },
+  {
+    "word": "unquote",
+    "pronunciation": "/ˌʌnˈkwoʊt/",
+    "forms": [
+      {
+        "partOfSpeech": "interjection",
+        "form": {
+          "type": "invariable",
+          "data": "unquote"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Used to indicate the end of a quotation spoken aloud.",
+        "chineseDefinition": "用于口述引用结束时的用语。",
+        "partOfSpeech": "interjection",
+        "examples": [
+          {
+            "english": "He said, quote 'This is the end', unquote.",
+            "chinese": "他说，“这是结尾”，结束引用。"
+          },
+          {
+            "english": "Quote, best of luck, unquote.",
+            "chinese": "“祝你好运”，结束引用。"
+          }
+        ],
+        "synonyms": ["end quote"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "embezzlement",
+    "pronunciation": "/ɪmˈbɛzəlmənt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "embezzlement",
+            "plural": "embezzlements"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The fraudulent appropriation of funds or property entrusted to one's care.",
+        "chineseDefinition": "对受托管理的资金或财产进行欺诈性占用的行为。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He was found guilty of embezzlement of company funds.",
+            "chinese": "他被判定挪用公司资金。"
+          },
+          {
+            "english": "Embezzlement is a serious white-collar crime.",
+            "chinese": "挪用公款是一种严重的白领犯罪。"
+          }
+        ],
+        "synonyms": ["misappropriation"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "acrobatic",
+    "pronunciation": "/ˌækrəˈbætɪk/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "acrobatic",
+            "comparative": "more acrobatic",
+            "superlative": "most acrobatic"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Involving or performing difficult and impressive physical acts.",
+        "chineseDefinition": "包含或表演高难度和令人印象深刻的身体动作的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The acrobatic performance stunned the audience.",
+            "chinese": "那场杂技表演令观众惊叹。"
+          },
+          {
+            "english": "Gymnasts are known for their acrobatic skills.",
+            "chinese": "体操运动员以其高超的杂技技巧而闻名。"
+          }
+        ],
+        "synonyms": ["gymnastic"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "numerous",
+    "pronunciation": "/ˈnuːmərəs/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "numerous",
+            "comparative": "more numerous",
+            "superlative": "most numerous"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Great in number; many.",
+        "chineseDefinition": "数量庞大；很多。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He has numerous books on philosophy.",
+            "chinese": "他有很多关于哲学的书籍。"
+          },
+          {
+            "english": "There are numerous ways to solve this problem.",
+            "chinese": "有很多方法可以解决这个问题。"
+          }
+        ],
+        "synonyms": ["many", "countless"],
+        "antonyms": ["few", "scarce"]
+      }
+    ]
+  },
+  {
+    "word": "balcony",
+    "pronunciation": "/ˈbælkəni/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "balcony",
+            "plural": "balconies"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A platform enclosed by a wall or balustrade on the outside of a building.",
+        "chineseDefinition": "在建筑物外壁由墙或栏杆围住的平台。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She stood on the balcony to watch the sunset.",
+            "chinese": "她站在阳台上看日落。"
+          },
+          {
+            "english": "The apartment has a spacious balcony overlooking the park.",
+            "chinese": "这间公寓有一个宽敞的阳台，可俯瞰公园。"
+          }
+        ],
+        "synonyms": ["terrace"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "postgraduate",
+    "pronunciation": "/ˌpoʊstˈɡrædʒuɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "postgraduate",
+            "plural": "postgraduates"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "postgraduate",
+            "comparative": "more postgraduate",
+            "superlative": "most postgraduate"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A student engaged in a course of study beyond a first degree.",
+        "chineseDefinition": "在取得首个学位后继续深造的学生。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She is a postgraduate at the university studying linguistics.",
+            "chinese": "她是这所大学的研究生，主修语言学。"
+          },
+          {
+            "english": "Many postgraduates attend international conferences.",
+            "chinese": "许多研究生会参加国际会议。"
+          }
+        ],
+        "synonyms": ["graduate student"],
+        "antonyms": []
+      },
+      {
+        "definition": "Relating to or denoting a course of study undertaken after completing a first degree.",
+        "chineseDefinition": "指或与完成首个学位后进行的进阶课程相关。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She enrolled in a postgraduate program in biology.",
+            "chinese": "她申请了一个生物学的研究生课程。"
+          },
+          {
+            "english": "Postgraduate research can be quite intensive.",
+            "chinese": "研究生阶段的研究通常非常深入。"
+          }
+        ],
+        "synonyms": ["graduate-level"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "well-being",
+    "pronunciation": "/ˌwɛlˈbiːɪŋ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "well-being",
+            "plural": "well-beings"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The state of being comfortable, healthy, or happy.",
+        "chineseDefinition": "处于舒适、健康或幸福的状态。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We aim to improve the well-being of all our employees.",
+            "chinese": "我们的目标是提升所有员工的身心健康。"
+          },
+          {
+            "english": "Mental well-being is just as important as physical health.",
+            "chinese": "心理健康与身体健康同等重要。"
+          }
+        ],
+        "synonyms": ["welfare", "health"],
+        "antonyms": ["distress"]
+      }
+    ]
+  },
+  {
+    "word": "at",
+    "pronunciation": "/æt/",
+    "forms": [
+      {
+        "partOfSpeech": "preposition",
+        "form": {
+          "type": "invariable",
+          "data": "at"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Expressing location or arrival in a particular place or position.",
+        "chineseDefinition": "表示在特定位置或到达某处。",
+        "partOfSpeech": "preposition",
+        "examples": [
+          {
+            "english": "I will meet you at the entrance.",
+            "chinese": "我将在入口处与你碰面。"
+          },
+          {
+            "english": "She is waiting at the corner of the street.",
+            "chinese": "她在街角处等着。"
+          }
+        ],
+        "synonyms": ["in", "on"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "prime",
+    "pronunciation": "/praɪm/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "prime",
+            "comparative": "more prime",
+            "superlative": "most prime"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "prime",
+            "plural": "primes"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "prime",
+            "thirdPersonSingular": "primes",
+            "presentParticiple": "priming",
+            "pastTense": "primed",
+            "pastParticiple": "primed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Of first importance; main.",
+        "chineseDefinition": "最重要的；主要的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "This is a prime example of teamwork.",
+            "chinese": "这是团队合作的一个典型范例。"
+          },
+          {
+            "english": "The restaurant serves prime cuts of steak.",
+            "chinese": "这家餐厅提供优质的牛排部位。"
+          }
+        ],
+        "synonyms": ["main", "principal"],
+        "antonyms": ["secondary"]
+      },
+      {
+        "definition": "A state or time of greatest strength or success.",
+        "chineseDefinition": "最强或最成功的时期或状态。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He peaked in his prime as an athlete.",
+            "chinese": "他在运动生涯的巅峰时期达到了顶峰。"
+          },
+          {
+            "english": "She was in her prime during those years.",
+            "chinese": "那些年她正值巅峰状态。"
+          }
+        ],
+        "synonyms": ["peak"],
+        "antonyms": []
+      },
+      {
+        "definition": "Make ready for use or action.",
+        "chineseDefinition": "预先做好使用或行动的准备。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He primed the wall before painting.",
+            "chinese": "他在上漆前对墙面进行了底漆处理。"
+          },
+          {
+            "english": "They primed the pump to start the flow of water.",
+            "chinese": "他们为水泵加压，使水开始流动。"
+          }
+        ],
+        "synonyms": ["prepare", "ready"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "settle",
+    "pronunciation": "/ˈsɛtəl/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "settle",
+            "thirdPersonSingular": "settles",
+            "presentParticiple": "settling",
+            "pastTense": "settled",
+            "pastParticiple": "settled"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Resolve or reach an agreement about an argument or problem.",
+        "chineseDefinition": "解决或就争论或问题达成一致。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They finally settled their differences.",
+            "chinese": "他们最终解决了分歧。"
+          },
+          {
+            "english": "We settled on the price without much negotiation.",
+            "chinese": "我们没费太多功夫就谈妥了价格。"
+          }
+        ],
+        "synonyms": ["resolve", "agree"],
+        "antonyms": ["dispute", "quarrel"]
+      }
+    ]
+  },
+  {
+    "word": "fallow",
+    "pronunciation": "/ˈfæloʊ/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "fallow",
+            "comparative": "more fallow",
+            "superlative": "most fallow"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "fallow",
+            "plural": "fallows"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Left unplowed and unseeded during a growing season.",
+        "chineseDefinition": "在生长季节未犁耕和播种的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The farmer left the field fallow to restore its fertility.",
+            "chinese": "农民让这片地休耕以恢复肥力。"
+          },
+          {
+            "english": "Fallow land can help prevent soil exhaustion.",
+            "chinese": "休耕的土地可以帮助防止土壤衰竭。"
+          }
+        ],
+        "synonyms": ["uncultivated"],
+        "antonyms": ["cultivated"]
+      },
+      {
+        "definition": "Land that is left without sowing after plowing.",
+        "chineseDefinition": "犁过但没有播种的闲置土地。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They rotated crops and used fallow in alternate seasons.",
+            "chinese": "他们进行轮作，并在交替的季节里使用休耕地。"
+          },
+          {
+            "english": "This fallow had been untouched for years.",
+            "chinese": "这片休耕地已经多年没被耕种了。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "troupe",
+    "pronunciation": "/truːp/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "troupe",
+            "plural": "troupes"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A group of dancers, actors, or other entertainers who tour to different venues.",
+        "chineseDefinition": "一群跳舞家、演员或其他表演者组成的团队，巡回至不同场所演出。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The ballet troupe is performing in five cities this month.",
+            "chinese": "这个芭蕾舞团本月将在五个城市演出。"
+          },
+          {
+            "english": "A traveling troupe entertained the village with their performance.",
+            "chinese": "一个巡回演出的剧团带来了他们的表演，给村子带来欢乐。"
+          }
+        ],
+        "synonyms": ["company", "group"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "premise",
+    "pronunciation": "/ˈprɛmɪs/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "premise",
+            "plural": "premises"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "premise",
+            "thirdPersonSingular": "premises",
+            "presentParticiple": "premising",
+            "pastTense": "premised",
+            "pastParticiple": "premised"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A previous statement or proposition from which another is inferred or follows as a conclusion.",
+        "chineseDefinition": "先前的陈述或主张，据此可推断或得出结论。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "His argument is based on a false premise.",
+            "chinese": "他的论点基于一个错误的前提。"
+          },
+          {
+            "english": "We need to check the premise of this theory.",
+            "chinese": "我们需要检验一下这个理论的前提。"
+          }
+        ],
+        "synonyms": ["assumption", "foundation"],
+        "antonyms": []
+      },
+      {
+        "definition": "To base an argument or theory on a specific statement or idea.",
+        "chineseDefinition": "将论点或理论建立在特定陈述或想法之上。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They premised their conclusion on extensive research.",
+            "chinese": "他们将结论建立在广泛的研究基础上。"
+          },
+          {
+            "english": "The plan was premised on customer feedback.",
+            "chinese": "这个计划是根据客户反馈而形成的。"
+          }
+        ],
+        "synonyms": ["base", "found"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "discerning",
+    "pronunciation": "/dɪˈsɜːrnɪŋ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "discern",
+            "thirdPersonSingular": "discerns",
+            "presentParticiple": "discerning",
+            "pastTense": "discerned",
+            "pastParticiple": "discerned"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "discerning",
+            "comparative": "more discerning",
+            "superlative": "most discerning"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Perceive or recognize something, often with difficulty or subtlety.",
+        "chineseDefinition": "觉察或辨别某物，通常带有一定困难或微妙性。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He could barely discern the figure in the fog.",
+            "chinese": "他几乎无法在雾中看清那个人影。"
+          },
+          {
+            "english": "They are discerning the impact of new regulations.",
+            "chinese": "他们正在识别新规对其的影响。"
+          }
+        ],
+        "synonyms": ["perceive", "distinguish"],
+        "antonyms": ["overlook", "miss"]
+      },
+      {
+        "definition": "Showing good judgment, especially about style and quality.",
+        "chineseDefinition": "展现出良好的判断力，尤其针对风格和品质。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She is a discerning reader who only chooses high-quality books.",
+            "chinese": "她是一个有鉴别力的读者，只读高质量的书籍。"
+          },
+          {
+            "english": "Discerning customers appreciate the craftsmanship.",
+            "chinese": "有眼光的顾客能够欣赏这种工艺。"
+          }
+        ],
+        "synonyms": ["judicious", "perceptive"],
+        "antonyms": ["unwise"]
+      }
+    ]
+  },
+  {
+    "word": "niggle",
+    "pronunciation": "/ˈnɪɡəl/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "niggle",
+            "thirdPersonSingular": "niggles",
+            "presentParticiple": "niggling",
+            "pastTense": "niggled",
+            "pastParticiple": "niggled"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "niggle",
+            "plural": "niggles"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To cause slight but persistent annoyance, discomfort, or anxiety.",
+        "chineseDefinition": "引起细微但持续的烦恼、不适或焦虑。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Little details niggled at him all day.",
+            "chinese": "一些小细节让他一整天都心神不宁。"
+          },
+          {
+            "english": "She was niggling about the minor expenses.",
+            "chinese": "她一直为琐碎的开销而烦恼。"
+          }
+        ],
+        "synonyms": ["bother", "irk"],
+        "antonyms": []
+      },
+      {
+        "definition": "A small criticism or complaint.",
+        "chineseDefinition": "一个小小的批评或抱怨。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He had a few niggles about the service.",
+            "chinese": "他对服务有一些小小的不满。"
+          },
+          {
+            "english": "Despite minor niggles, the event was a success.",
+            "chinese": "尽管有一些小问题，这次活动仍然十分成功。"
+          }
+        ],
+        "synonyms": ["complaint", "issue"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "prospectus",
+    "pronunciation": "/prəˈspɛktəs/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "prospectus",
+            "plural": "prospectuses"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A printed document that advertises or describes a school, commercial enterprise, etc., to attract or inform clients or members.",
+        "chineseDefinition": "用于宣传或介绍学校、商业机构等，吸引或告知顾客或成员的印刷文件。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The university prospectus highlights all the courses offered.",
+            "chinese": "这所大学的招生简章列出了所有提供的课程。"
+          },
+          {
+            "english": "Read the fund prospectus before investing.",
+            "chinese": "在投资之前阅读基金招股章程。"
+          }
+        ],
+        "synonyms": ["brochure", "catalog"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "liaise",
+    "pronunciation": "/liˈeɪz/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "liaise",
+            "thirdPersonSingular": "liaises",
+            "presentParticiple": "liaising",
+            "pastTense": "liaised",
+            "pastParticiple": "liaised"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To communicate and maintain contact between groups or organizations.",
+        "chineseDefinition": "在团体或组织之间进行交流并保持联系。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She will liaise with the marketing department on the new campaign.",
+            "chinese": "她将就新活动与市场部进行联络。"
+          },
+          {
+            "english": "We need someone to liaise between the teams to ensure efficiency.",
+            "chinese": "我们需要一个人来协助团队间的联络，以确保效率。"
+          }
+        ],
+        "synonyms": ["coordinate", "mediate"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "excavation",
+    "pronunciation": "/ˌɛkskəˈveɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "excavation",
+            "plural": "excavations"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The action of excavating something, especially an archaeological site.",
+        "chineseDefinition": "挖掘某物的行动，尤指对考古遗址的挖掘。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Excavation of the ancient ruins revealed hidden artifacts.",
+            "chinese": "对古遗址的挖掘揭示了隐藏的文物。"
+          },
+          {
+            "english": "The excavation will start after the permits are granted.",
+            "chinese": "获得许可后将开始进行挖掘工作。"
+          }
+        ],
+        "synonyms": ["digging", "unearthing"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "continental",
+    "pronunciation": "/ˌkɒntɪˈnɛntəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "continental",
+            "comparative": "more continental",
+            "superlative": "most continental"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Forming or belonging to a continent.",
+        "chineseDefinition": "属于或构成大陆的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Continental Europe has diverse cultures and languages.",
+            "chinese": "欧洲大陆在文化和语言上多元化。"
+          },
+          {
+            "english": "The continental climate is quite different from the coastal one.",
+            "chinese": "大陆性气候与沿海气候截然不同。"
+          }
+        ],
+        "synonyms": ["mainland"],
+        "antonyms": ["maritime"]
+      }
+    ]
+  },
+  {
+    "word": "modernism",
+    "pronunciation": "/ˈmɒdərnɪzəm/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "modernism",
+            "plural": "modernisms"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A style or movement in the arts that aims to break with classical and traditional forms.",
+        "chineseDefinition": "一种艺术风格或运动，旨在打破古典和传统形式。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Modernism greatly influenced 20th-century literature.",
+            "chinese": "现代主义对20世纪文学影响深远。"
+          },
+          {
+            "english": "He studied modernism in architecture.",
+            "chinese": "他研究了建筑学中的现代主义。"
+          }
+        ],
+        "synonyms": ["avant-garde"],
+        "antonyms": ["traditionalism"]
+      }
+    ]
+  },
+  {
+    "word": "artery",
+    "pronunciation": "/ˈɑːrtəri/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "artery",
+            "plural": "arteries"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Any of the muscular-walled tubes forming part of the circulation system by which blood is conveyed from the heart to all parts of the body.",
+        "chineseDefinition": "循环系统中将血液由心脏输送到全身的肌肉管道之一。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "A blockage in an artery can lead to serious health issues.",
+            "chinese": "动脉堵塞会导致严重的健康问题。"
+          },
+          {
+            "english": "The main artery supplies blood to the brain.",
+            "chinese": "这条主要动脉为大脑供应血液。"
+          }
+        ],
+        "synonyms": ["blood vessel"],
+        "antonyms": []
+      }
+    ]
+  }
+]

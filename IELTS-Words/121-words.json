@@ -1,0 +1,507 @@
+[
+  {
+    "word": "enlist",
+    "pronunciation": "/ɪnˈlɪst/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "enlist",
+            "thirdPersonSingular": "enlists",
+            "presentParticiple": "enlisting",
+            "pastTense": "enlisted",
+            "pastParticiple": "enlisted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To sign up or join a military force or organization",
+        "chineseDefinition": "参军；征募；入伍",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He decided to enlist in the army after graduating from high school.",
+            "chinese": "他高中毕业后决定参军。"
+          }
+        ],
+        "synonyms": ["join", "sign up", "register", "volunteer"],
+        "antonyms": ["discharge", "resign", "quit"]
+      },
+      {
+        "definition": "To secure the support or help of someone for a cause or activity",
+        "chineseDefinition": "争取某人的支持或帮助",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "We need to enlist more volunteers for the community project.",
+            "chinese": "我们需要为社区项目招募更多志愿者。"
+          }
+        ],
+        "synonyms": ["recruit", "engage", "employ", "mobilize"],
+        "antonyms": ["dismiss", "release"]
+      }
+    ]
+  },
+  {
+    "word": "curb",
+    "pronunciation": "/kɜːrb/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "curb",
+            "plural": "curbs"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "curb",
+            "thirdPersonSingular": "curbs",
+            "presentParticiple": "curbing",
+            "pastTense": "curbed",
+            "pastParticiple": "curbed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A raised edge along the side of a street, often forming part of a sidewalk",
+        "chineseDefinition": "路缘；路边",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She parked her car by the curb and walked to the store.",
+            "chinese": "她把车停在路边，然后走向商店。"
+          }
+        ],
+        "synonyms": ["kerb", "edging", "border"],
+        "antonyms": []
+      },
+      {
+        "definition": "To control or restrain something",
+        "chineseDefinition": "控制；抑制；约束",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The government introduced new regulations to curb inflation.",
+            "chinese": "政府出台了新规定以抑制通货膨胀。"
+          }
+        ],
+        "synonyms": ["restrain", "check", "control", "limit"],
+        "antonyms": ["encourage", "promote", "stimulate"]
+      }
+    ]
+  },
+  {
+    "word": "elaboration",
+    "pronunciation": "/ɪˌlæbəˈreɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "elaboration",
+            "plural": "elaborations"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The act of elaborating or adding more detail to something",
+        "chineseDefinition": "详述；阐述；详细说明",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "His elaboration of the theory made it easier to understand.",
+            "chinese": "他对这个理论的详细阐述使其更容易理解。"
+          }
+        ],
+        "synonyms": ["explanation", "expansion", "development", "clarification"],
+        "antonyms": ["simplification", "reduction"]
+      },
+      {
+        "definition": "The process of being developed or worked out in detail",
+        "chineseDefinition": "精心制作；精心设计",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The elaboration of the architectural plans took several months.",
+            "chinese": "这些建筑图纸的详细设计花了几个月的时间。"
+          }
+        ],
+        "synonyms": ["development", "refinement", "working out"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "snobbish",
+    "pronunciation": "/ˈsnɒbɪʃ/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "snobbish",
+            "comparative": "more snobbish",
+            "superlative": "most snobbish"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Relating to or characteristic of a person who believes they are superior to others, especially in matters of taste or intellect",
+        "chineseDefinition": "势利的；自命不凡的；瞧不起人的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He had a snobbish attitude toward people who hadn't attended university.",
+            "chinese": "他对没上过大学的人持有一种势利的态度。"
+          }
+        ],
+        "synonyms": ["elitist", "pretentious", "condescending", "supercilious"],
+        "antonyms": ["unpretentious", "humble", "egalitarian"]
+      },
+      {
+        "definition": "Showing excessive pride in one's own tastes, wealth, or position",
+        "chineseDefinition": "傲慢的；自命清高的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Her snobbish remarks about the neighborhood made everyone uncomfortable.",
+            "chinese": "她对这个社区的势利评论让所有人都感到不舒服。"
+          }
+        ],
+        "synonyms": ["haughty", "arrogant", "disdainful", "pompous"],
+        "antonyms": ["modest", "unassuming", "down-to-earth"]
+      }
+    ]
+  },
+  {
+    "word": "magnet",
+    "pronunciation": "/ˈmæɡnɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "magnet",
+            "plural": "magnets"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A piece of iron or other material that has its component atoms ordered so that the material exhibits properties of magnetism, such as attracting other iron-containing objects",
+        "chineseDefinition": "磁铁；磁体",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She used a magnet to pick up the scattered paper clips.",
+            "chinese": "她用磁铁捡起散落的回形针。"
+          }
+        ],
+        "synonyms": ["lodestone", "magnetic"],
+        "antonyms": []
+      },
+      {
+        "definition": "A person or thing that has a powerful attraction for something or someone",
+        "chineseDefinition": "有吸引力的人或物",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The new shopping mall has become a magnet for teenagers.",
+            "chinese": "这个新购物中心已经成为青少年的聚集地。"
+          }
+        ],
+        "synonyms": ["attraction", "lure", "draw", "pull"],
+        "antonyms": ["repellent", "deterrent"]
+      }
+    ]
+  },
+  {
+    "word": "prevalence",
+    "pronunciation": "/ˈprɛvələns/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "prevalence",
+            "plural": "prevalences"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The fact or condition of being widespread or common",
+        "chineseDefinition": "流行；普遍；盛行",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The prevalence of smartphones has changed how people communicate.",
+            "chinese": "智能手机的普及改变了人们的沟通方式。"
+          }
+        ],
+        "synonyms": ["commonness", "frequency", "pervasiveness", "ubiquity"],
+        "antonyms": ["rarity", "scarcity", "uncommonness"]
+      },
+      {
+        "definition": "The proportion of a population having a particular condition at a specific time, especially a disease",
+        "chineseDefinition": "（疾病等的）流行率；发病率",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Researchers are studying the prevalence of diabetes in different age groups.",
+            "chinese": "研究人员正在研究不同年龄组糖尿病的发病率。"
+          }
+        ],
+        "synonyms": ["rate", "incidence", "occurrence", "extent"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "bleak",
+    "pronunciation": "/bliːk/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "bleak",
+            "comparative": "bleaker",
+            "superlative": "bleakest"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "bleak",
+            "plural": "bleaks"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Cold, exposed, and windswept; bare and lacking vegetation",
+        "chineseDefinition": "寒冷的；荒凉的；不毛的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The hikers faced a bleak landscape of rocks and ice.",
+            "chinese": "徒步旅行者面对着一片岩石和冰雪的荒凉景象。"
+          }
+        ],
+        "synonyms": ["desolate", "barren", "stark", "harsh"],
+        "antonyms": ["lush", "verdant", "hospitable"]
+      },
+      {
+        "definition": "Without hope or encouragement; depressing or pessimistic",
+        "chineseDefinition": "阴郁的；悲观的；无望的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The economic forecast for next year looks bleak.",
+            "chinese": "明年的经济预测看起来很悲观。"
+          }
+        ],
+        "synonyms": ["gloomy", "dismal", "grim", "cheerless"],
+        "antonyms": ["hopeful", "optimistic", "bright", "promising"]
+      },
+      {
+        "definition": "A small European freshwater fish with silvery scales",
+        "chineseDefinition": "欧洲淡水鱼的一种",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Bleaks are commonly found in lakes and slow-flowing rivers.",
+            "chinese": "鲭鱼通常生活在湖泊和缓流的河流中。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "ecliptic",
+    "pronunciation": "/ɪˈklɪptɪk/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "ecliptic",
+            "plural": "ecliptics"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "ecliptic"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The great circle on the celestial sphere that represents the apparent path of the sun during the year",
+        "chineseDefinition": "黄道；日道",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The planets in our solar system orbit the sun roughly along the plane of the ecliptic.",
+            "chinese": "我们太阳系中的行星大致沿着黄道平面绕太阳运行。"
+          }
+        ],
+        "synonyms": ["sun's path", "solar path"],
+        "antonyms": []
+      },
+      {
+        "definition": "Relating to an eclipse",
+        "chineseDefinition": "日食的；月食的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The ecliptic alignment of the sun, moon, and Earth creates a solar eclipse.",
+            "chinese": "太阳、月球和地球的黄道排列形成了日食。"
+          }
+        ],
+        "synonyms": ["eclipse-related"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "vicious",
+    "pronunciation": "/ˈvɪʃəs/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "vicious",
+            "comparative": "more vicious",
+            "superlative": "most vicious"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Deliberately cruel or violent",
+        "chineseDefinition": "残忍的；凶恶的；暴力的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The victim suffered a vicious attack that left him hospitalized.",
+            "chinese": "受害者遭受了一次凶残的袭击，导致他住院。"
+          }
+        ],
+        "synonyms": ["brutal", "savage", "ferocious", "merciless"],
+        "antonyms": ["gentle", "kind", "compassionate", "merciful"]
+      },
+      {
+        "definition": "Having the nature of vice; immoral or depraved",
+        "chineseDefinition": "邪恶的；堕落的；不道德的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She had developed some vicious habits during her time in prison.",
+            "chinese": "她在监狱期间养成了一些恶习。"
+          }
+        ],
+        "synonyms": ["wicked", "evil", "corrupt", "depraved"],
+        "antonyms": ["virtuous", "moral", "upright", "righteous"]
+      },
+      {
+        "definition": "Severe or intense in force or effect",
+        "chineseDefinition": "猛烈的；强烈的；剧烈的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The coastal towns were hit by a vicious storm.",
+            "chinese": "沿海城镇遭受了一场猛烈的风暴袭击。"
+          }
+        ],
+        "synonyms": ["fierce", "intense", "severe", "violent"],
+        "antonyms": ["mild", "gentle", "moderate"]
+      }
+    ]
+  },
+  {
+    "word": "begrudge",
+    "pronunciation": "/bɪˈɡrʌdʒ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "begrudge",
+            "thirdPersonSingular": "begrudges",
+            "presentParticiple": "begrudging",
+            "pastTense": "begrudged",
+            "pastParticiple": "begrudged"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To envy or resent the pleasure or good fortune of someone",
+        "chineseDefinition": "嫉妒；不满；怨恨",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "I don't begrudge him his success; he worked hard for it.",
+            "chinese": "我不嫉妒他的成功；他为此付出了努力。"
+          }
+        ],
+        "synonyms": ["envy", "resent", "grudge", "covet"],
+        "antonyms": ["celebrate", "appreciate", "welcome"]
+      },
+      {
+        "definition": "To give or allow with reluctance or resentment",
+        "chineseDefinition": "勉强给予；不情愿地允许",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She begrudged every penny she had to spend on car repairs.",
+            "chinese": "她对每一分用于汽车修理的钱都感到肉痛。"
+          }
+        ],
+        "synonyms": ["reluctantly give", "unwillingly provide", "give grudgingly"],
+        "antonyms": ["gladly give", "willingly provide", "generously offer"]
+      }
+    ]
+  }
+]

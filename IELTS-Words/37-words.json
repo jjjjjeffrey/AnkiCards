@@ -1,0 +1,1133 @@
+[
+  {
+    "word": "succeed",
+    "pronunciation": "/səkˈsiːd/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "succeed",
+            "thirdPersonSingular": "succeeds",
+            "presentParticiple": "succeeding",
+            "pastTense": "succeeded",
+            "pastParticiple": "succeeded"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To achieve the desired aim or result.",
+        "chineseDefinition": "达到预期目标或结果。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "If you work hard, you can succeed in anything.",
+            "chinese": "如果你努力，你可以在任何事情上取得成功。"
+          },
+          {
+            "english": "They are succeeding where others have failed.",
+            "chinese": "他们在他人失败的地方取得了成功。"
+          }
+        ],
+        "synonyms": ["achieve", "accomplish"],
+        "antonyms": ["fail", "lose"]
+      }
+    ]
+  },
+  {
+    "word": "gender",
+    "pronunciation": "/ˈdʒendər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "gender",
+            "plural": "genders"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The state of being male, female, or another identity, often used with reference to social and cultural differences.",
+        "chineseDefinition": "指男性、女性或其他身份，通常与社会和文化差异有关。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The study explores how gender influences career choices.",
+            "chinese": "该研究探讨了性别如何影响职业选择。"
+          },
+          {
+            "english": "Different cultures have varied views on gender roles.",
+            "chinese": "不同文化对性别角色有不同的看法。"
+          }
+        ],
+        "synonyms": ["sex", "identity"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "consecutive",
+    "pronunciation": "/kənˈsɛkjʊtɪv/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "consecutive",
+            "comparative": "more consecutive",
+            "superlative": "most consecutive"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Following continuously; in unbroken or logical sequence.",
+        "chineseDefinition": "连续的；按顺序保持不间断。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He won the race for three consecutive years.",
+            "chinese": "他连续三年赢得了这场比赛。"
+          },
+          {
+            "english": "We had five consecutive days of rain.",
+            "chinese": "我们连续下了五天雨。"
+          }
+        ],
+        "synonyms": ["sequential", "serial"],
+        "antonyms": ["interrupted", "discontinuous"]
+      }
+    ]
+  },
+  {
+    "word": "diversion",
+    "pronunciation": "/daɪˈvɜːrʒən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "diversion",
+            "plural": "diversions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An action or event that diverts the mind from tedious or serious concerns; a recreation or pastime.",
+        "chineseDefinition": "使人从繁琐或严肃的事情上分心的活动或事件；消遣或娱乐。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Reading can be a pleasant diversion from work.",
+            "chinese": "阅读可以成为工作之余的愉快消遣。"
+          },
+          {
+            "english": "They created a diversion to distract the guards.",
+            "chinese": "他们制造了一次转移注意力的行动来分散警卫的注意力。"
+          }
+        ],
+        "synonyms": ["distraction", "entertainment"],
+        "antonyms": ["focus", "concentration"]
+      }
+    ]
+  },
+  {
+    "word": "donate",
+    "pronunciation": "/doʊˈneɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "donate",
+            "thirdPersonSingular": "donates",
+            "presentParticiple": "donating",
+            "pastTense": "donated",
+            "pastParticiple": "donated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To give money or goods for a good cause, for example to a charity.",
+        "chineseDefinition": "为慈善等站点目的捐款或捐赠物品。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "I plan to donate to the children's hospital.",
+            "chinese": "我打算向儿童医院捐款。"
+          },
+          {
+            "english": "They are donating clothes to the shelter.",
+            "chinese": "他们正在向收容所捐赠衣物。"
+          }
+        ],
+        "synonyms": ["contribute", "give"],
+        "antonyms": ["withhold", "keep"]
+      }
+    ]
+  },
+  {
+    "word": "defence",
+    "pronunciation": "/dɪˈfɛns/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "defence",
+            "plural": "defences"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The action of defending from or resisting attack.",
+        "chineseDefinition": "阻止或抵抗攻击的行为。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Their strong defence frustrated the attacking team.",
+            "chinese": "他们坚固的防线让进攻球队非常头疼。"
+          },
+          {
+            "english": "We need a better defence plan.",
+            "chinese": "我们需要一个更好的防御计划。"
+          }
+        ],
+        "synonyms": ["protection", "shield"],
+        "antonyms": ["attack", "assault"]
+      }
+    ]
+  },
+  {
+    "word": "volume",
+    "pronunciation": "/ˈvɒljuːm/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "volume",
+            "plural": "volumes"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A book forming part of a work or series.",
+        "chineseDefinition": "由多卷组成的系列中的一卷书。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "That encyclopedia has 20 volumes.",
+            "chinese": "那套百科全书共有20卷。"
+          },
+          {
+            "english": "I'm reading the second volume of the history series.",
+            "chinese": "我在读这套历史系列的第二卷。"
+          }
+        ],
+        "synonyms": ["tome", "book"],
+        "antonyms": []
+      },
+      {
+        "definition": "The amount of space that a substance or object occupies.",
+        "chineseDefinition": "某种物质或物体占据的空间量。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Measure the volume of the liquid using the beaker.",
+            "chinese": "用烧杯测量液体的体积。"
+          },
+          {
+            "english": "The volume of traffic is increasing daily.",
+            "chinese": "每日的交通流量都在增加。"
+          }
+        ],
+        "synonyms": ["capacity", "size"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "refund",
+    "pronunciation": "/ˈriːfʌnd/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "refund",
+            "plural": "refunds"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "refund",
+            "thirdPersonSingular": "refunds",
+            "presentParticiple": "refunding",
+            "pastTense": "refunded",
+            "pastParticiple": "refunded"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A repayment of a sum of money.",
+        "chineseDefinition": "退回的款项。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "I requested a refund because the product was defective.",
+            "chinese": "由于产品有缺陷，我申请了退款。"
+          }
+        ],
+        "synonyms": ["repayment", "reimbursement"],
+        "antonyms": []
+      },
+      {
+        "definition": "To pay back money received.",
+        "chineseDefinition": "退还已收取的款项。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The company will refund your purchase if you are not satisfied.",
+            "chinese": "如果你不满意，公司将退还你的购买金额。"
+          }
+        ],
+        "synonyms": ["repay", "return"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "regardless",
+    "pronunciation": "/rɪˈɡɑːrdləs/",
+    "forms": [
+      {
+        "partOfSpeech": "adverb",
+        "form": {
+          "type": "invariable",
+          "data": "regardless"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Without paying attention to the present situation; despite the prevailing circumstances.",
+        "chineseDefinition": "不顾当前情况；尽管形势如此。",
+        "partOfSpeech": "adverb",
+        "examples": [
+          {
+            "english": "We will continue the project regardless of the difficulties.",
+            "chinese": "无论困难如何，我们都会继续这个项目。"
+          },
+          {
+            "english": "They proceeded regardless, ignoring the warnings.",
+            "chinese": "他们无视警告，依旧继续。"
+          }
+        ],
+        "synonyms": ["anyway", "nonetheless"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "emboss",
+    "pronunciation": "/ɪmˈbɒs/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "emboss",
+            "thirdPersonSingular": "embosses",
+            "presentParticiple": "embossing",
+            "pastTense": "embossed",
+            "pastParticiple": "embossed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To carve, mold, or stamp a design on a surface so that it stands out.",
+        "chineseDefinition": "在表面进行雕刻、模制或冲压，使其突出。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They emboss the company logo on every notebook.",
+            "chinese": "他们在每本笔记本上都压印了公司徽标。"
+          },
+          {
+            "english": "She embossed her initials on the leather cover.",
+            "chinese": "她在皮革封面上压印了她的首字母。"
+          }
+        ],
+        "synonyms": ["engrave", "imprint"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "internationalist",
+    "pronunciation": "/ˌɪntərˈnæʃənəlɪst/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "internationalist",
+            "plural": "internationalists"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person who advocates or believes in cooperation and understanding between nations.",
+        "chineseDefinition": "主张或相信国际合作与理解的人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "As an internationalist, she supports global initiatives for peace.",
+            "chinese": "作为一名国际主义者，她支持全球和平倡议。"
+          },
+          {
+            "english": "Internationalists often promote cultural exchange programs.",
+            "chinese": "国际主义者通常推动文化交流项目。"
+          }
+        ],
+        "synonyms": ["globalist", "cosmopolitan"],
+        "antonyms": ["nationalist"]
+      }
+    ]
+  },
+  {
+    "word": "scatter",
+    "pronunciation": "/ˈskætər/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "scatter",
+            "thirdPersonSingular": "scatters",
+            "presentParticiple": "scattering",
+            "pastTense": "scattered",
+            "pastParticiple": "scattered"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To throw in various random directions.",
+        "chineseDefinition": "向各个随机方向抛洒或分散。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The wind scattered the leaves across the yard.",
+            "chinese": "风把树叶吹得满院子都是。"
+          },
+          {
+            "english": "They scattered seeds in the field.",
+            "chinese": "他们在田里播撒种子。"
+          }
+        ],
+        "synonyms": ["disperse", "spread"],
+        "antonyms": ["collect", "gather"]
+      }
+    ]
+  },
+  {
+    "word": "appetite",
+    "pronunciation": "/ˈæpɪtaɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "appetite",
+            "plural": "appetites"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A natural desire to satisfy a bodily need, especially for food.",
+        "chineseDefinition": "对满足身体需求，尤其是食物的渴望。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He lost his appetite after feeling unwell.",
+            "chinese": "他感觉不舒服后就没了食欲。"
+          },
+          {
+            "english": "Their appetite for adventure is insatiable.",
+            "chinese": "他们对冒险的渴望是无法满足的。"
+          }
+        ],
+        "synonyms": ["hunger", "desire"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "prevail",
+    "pronunciation": "/prɪˈveɪl/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "prevail",
+            "thirdPersonSingular": "prevails",
+            "presentParticiple": "prevailing",
+            "pastTense": "prevailed",
+            "pastParticiple": "prevailed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To prove more powerful or superior; to be widespread or current.",
+        "chineseDefinition": "表现得更强大或更优越；普遍存在或流行。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "In the end, justice will prevail.",
+            "chinese": "最终，正义会取得胜利。"
+          },
+          {
+            "english": "Such beliefs still prevail in some regions.",
+            "chinese": "这些信念在一些地区依然流行。"
+          }
+        ],
+        "synonyms": ["triumph", "overcome"],
+        "antonyms": ["lose", "fail"]
+      }
+    ]
+  },
+  {
+    "word": "glossary",
+    "pronunciation": "/ˈɡlɒsərɪ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "glossary",
+            "plural": "glossaries"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An alphabetical list of words relating to a specific subject, text, or dialect, with explanations; a brief dictionary.",
+        "chineseDefinition": "与特定学科、文本或方言相关的术语按字母顺序排列并附解释的列表；简要词典。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Check the glossary for unfamiliar terms.",
+            "chinese": "对于不熟悉的词汇，请查阅词汇表。"
+          },
+          {
+            "english": "This book includes a handy glossary of legal terms.",
+            "chinese": "这本书附带了一个实用的法律术语词汇表。"
+          }
+        ],
+        "synonyms": ["wordlist", "lexicon"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "consolidation",
+    "pronunciation": "/kənˌsɒlɪˈdeɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "consolidation",
+            "plural": "consolidations"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The action or process of making something stronger or more solid.",
+        "chineseDefinition": "使某事物变得更牢固或稳定的行为或过程。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The company’s consolidation of its brands minimized expenses.",
+            "chinese": "该公司对品牌进行整合后减少了开支。"
+          },
+          {
+            "english": "He focused on the consolidation of his business enterprises.",
+            "chinese": "他专注于巩固其商业企业。"
+          }
+        ],
+        "synonyms": ["strengthening", "unification"],
+        "antonyms": ["division", "separation"]
+      }
+    ]
+  },
+  {
+    "word": "sulphuric",
+    "pronunciation": "/sʌlˈfjʊərɪk/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "sulphuric",
+            "comparative": "more sulphuric",
+            "superlative": "most sulphuric"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Relating to or containing sulphur, especially with a valence of six.",
+        "chineseDefinition": "与硫相关或含有硫的，尤其是价态为六价时。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Sulphuric acid is highly corrosive.",
+            "chinese": "硫酸具有很强的腐蚀性。"
+          },
+          {
+            "english": "The chemical plant specializes in sulphuric compounds.",
+            "chinese": "这家化工厂专门生产硫化合物。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "goodwill",
+    "pronunciation": "/ˌɡʊdˈwɪl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "goodwill",
+            "plural": "goodwills"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Friendly, helpful, or cooperative feelings or attitude.",
+        "chineseDefinition": "友好、乐于助人或合作的心态或态度。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They donated supplies out of goodwill.",
+            "chinese": "他们出于善意捐赠物资。"
+          },
+          {
+            "english": "Goodwill among the neighbors kept the community united.",
+            "chinese": "邻里之间的友好使社区团结一致。"
+          }
+        ],
+        "synonyms": ["kindness", "benevolence"],
+        "antonyms": ["hostility", "malevolence"]
+      }
+    ]
+  },
+  {
+    "word": "amass",
+    "pronunciation": "/əˈmæs/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "amass",
+            "thirdPersonSingular": "amasses",
+            "presentParticiple": "amassing",
+            "pastTense": "amassed",
+            "pastParticiple": "amassed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To gather together or accumulate over a period of time.",
+        "chineseDefinition": "在一段时间内收集或积累。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He managed to amass a great fortune.",
+            "chinese": "他成功积累了大量财产。"
+          },
+          {
+            "english": "They are amassing data for a major research project.",
+            "chinese": "他们正在为一个大型研究项目收集数据。"
+          }
+        ],
+        "synonyms": ["collect", "gather"],
+        "antonyms": ["disperse", "scatter"]
+      }
+    ]
+  },
+  {
+    "word": "federal",
+    "pronunciation": "/ˈfɛdərəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "federal",
+            "comparative": "more federal",
+            "superlative": "most federal"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Having or relating to a system of government in which several states form a unity but remain independent in internal affairs.",
+        "chineseDefinition": "指在若干州组成统一体且在内部事务上仍保持独立的政府体系或与之相关的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He works for the federal government.",
+            "chinese": "他在联邦政府工作。"
+          },
+          {
+            "english": "Federal laws supersede local regulations in some cases.",
+            "chinese": "在某些情况下，联邦法律优先于地方条例。"
+          }
+        ],
+        "synonyms": ["national", "governmental"],
+        "antonyms": ["local", "regional"]
+      }
+    ]
+  },
+  {
+    "word": "consideration",
+    "pronunciation": "/kənˌsɪdəˈreɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "consideration",
+            "plural": "considerations"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Careful thought, typically over a period of time.",
+        "chineseDefinition": "经过一段时间的仔细思考。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "After much consideration, they decided to adopt the proposal.",
+            "chinese": "经过充分考量后，他们决定采纳该提案。"
+          },
+          {
+            "english": "Your feelings will be taken into consideration.",
+            "chinese": "我们会考虑你的感受。"
+          }
+        ],
+        "synonyms": ["thought", "deliberation"],
+        "antonyms": ["disregard", "neglect"]
+      }
+    ]
+  },
+  {
+    "word": "grip",
+    "pronunciation": "/ɡrɪp/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "grip",
+            "plural": "grips"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "grip",
+            "thirdPersonSingular": "grips",
+            "presentParticiple": "gripping",
+            "pastTense": "gripped",
+            "pastParticiple": "gripped"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A firm hold; a tight grasp.",
+        "chineseDefinition": "牢牢抓住；紧抓。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He maintained a strong grip on the steering wheel.",
+            "chinese": "他紧紧握住方向盘。"
+          }
+        ],
+        "synonyms": ["hold", "clutch"],
+        "antonyms": []
+      },
+      {
+        "definition": "To hold tightly.",
+        "chineseDefinition": "牢牢地握住。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Fear gripped her, but she continued forward.",
+            "chinese": "她被恐惧紧紧困住，但仍继续前行。"
+          }
+        ],
+        "synonyms": ["clench", "grasp"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "mansion",
+    "pronunciation": "/ˈmænʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "mansion",
+            "plural": "mansions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A large, impressive house.",
+        "chineseDefinition": "宏伟而气派的大房子。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The old mansion dates back to the 18th century.",
+            "chinese": "这座古老的豪宅可以追溯到18世纪。"
+          },
+          {
+            "english": "They hosted the event in their sprawling mansion.",
+            "chinese": "他们在自家宽敞的豪宅里举办了这次活动。"
+          }
+        ],
+        "synonyms": ["manor", "estate"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "galaxy",
+    "pronunciation": "/ˈɡæləksi/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "galaxy",
+            "plural": "galaxies"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A system of millions or billions of stars, together with gas and dust, held together by gravitational attraction.",
+        "chineseDefinition": "由数百万或数十亿颗恒星以及气体和尘埃构成的系统，因引力而聚合。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The Milky Way is the galaxy that contains our Solar System.",
+            "chinese": "银河系是包含我们太阳系的星系。"
+          },
+          {
+            "english": "They observed distant galaxies through the telescope.",
+            "chinese": "他们通过望远镜观测到遥远的星系。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "route",
+    "pronunciation": "/ruːt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "route",
+            "plural": "routes"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A way or course taken in getting from a starting point to a destination.",
+        "chineseDefinition": "从起点到目的地所采取的路径或路线。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We took the scenic route to enjoy the view.",
+            "chinese": "我们选择了一条风景优美的路线来欣赏风景。"
+          },
+          {
+            "english": "The delivery route covers several neighborhoods.",
+            "chinese": "送货路线途经好几个社区。"
+          }
+        ],
+        "synonyms": ["path", "course"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "deficiency",
+    "pronunciation": "/dɪˈfɪʃənsi/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "deficiency",
+            "plural": "deficiencies"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A lack or shortage, especially of something essential to health.",
+        "chineseDefinition": "缺乏或不足，尤其是对健康至关重要的事物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He developed anemia due to an iron deficiency.",
+            "chinese": "由于缺铁，他患上了贫血。"
+          },
+          {
+            "english": "The plan has a few deficiencies that need to be addressed.",
+            "chinese": "这个方案有一些不足之处需要解决。"
+          }
+        ],
+        "synonyms": ["lack", "shortage"],
+        "antonyms": ["abundance", "surplus"]
+      }
+    ]
+  },
+  {
+    "word": "opposite",
+    "pronunciation": "/ˈɒpəzɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "opposite",
+            "comparative": "more opposite",
+            "superlative": "most opposite"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Having a position on the other or further side of something; completely different.",
+        "chineseDefinition": "位于某物的另一面或更远的一面；完全不同。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "They have opposite views on the matter.",
+            "chinese": "他们在这个问题上持相反观点。"
+          },
+          {
+            "english": "He sat opposite her at the table.",
+            "chinese": "他坐在桌子的对面。"
+          }
+        ],
+        "synonyms": ["contrary", "reverse"],
+        "antonyms": ["similar", "like"]
+      }
+    ]
+  },
+  {
+    "word": "sensational",
+    "pronunciation": "/sɛnˈseɪʃənəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "sensational",
+            "comparative": "more sensational",
+            "superlative": "most sensational"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Causing great public interest and excitement.",
+        "chineseDefinition": "引起极大公众兴趣和兴奋的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The play received sensational reviews.",
+            "chinese": "这部戏剧获得了轰动性的好评。"
+          },
+          {
+            "english": "She made a sensational discovery in the lab.",
+            "chinese": "她在实验室里做出了惊人的发现。"
+          }
+        ],
+        "synonyms": ["astonishing", "startling"],
+        "antonyms": ["ordinary", "unimpressive"]
+      }
+    ]
+  },
+  {
+    "word": "participation",
+    "pronunciation": "/pɑːrˌtɪsɪˈpeɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "participation",
+            "plural": "participations"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The action of taking part in something.",
+        "chineseDefinition": "参与某事的行为。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Your active participation is crucial for the success of the event.",
+            "chinese": "你积极的参与对活动的成功至关重要。"
+          },
+          {
+            "english": "Public participation in decision-making is encouraged.",
+            "chinese": "鼓励公众参与决策。"
+          }
+        ],
+        "synonyms": ["involvement", "engagement"],
+        "antonyms": ["exclusion", "absence"]
+      }
+    ]
+  },
+  {
+    "word": "relief",
+    "pronunciation": "/rɪˈliːf/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "relief",
+            "plural": "reliefs"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A feeling of reassurance and relaxation following release from anxiety or distress.",
+        "chineseDefinition": "从焦虑或紧张中释放后的安心和放松感。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "It was such a relief to hear that she was safe.",
+            "chinese": "听到她安全的消息真是一种宽慰。"
+          },
+          {
+            "english": "They provided relief to the flood victims.",
+            "chinese": "他们向洪水灾民提供了救援。"
+          }
+        ],
+        "synonyms": ["comfort", "respite"],
+        "antonyms": ["stress", "anxiety"]
+      }
+    ]
+  }
+]

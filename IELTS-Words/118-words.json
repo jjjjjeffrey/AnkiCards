@@ -1,0 +1,1697 @@
+[
+  {
+    "word": "spare",
+    "pronunciation": "/spɛər/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "spare",
+            "thirdPersonSingular": "spares",
+            "presentParticiple": "sparing",
+            "pastTense": "spared",
+            "pastParticiple": "spared"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "spare",
+            "plural": "spares"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "spare"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To refrain from harming or destroying; to save from experiencing something unpleasant.",
+        "chineseDefinition": "避免伤害或破坏；使免受不愉快的经历。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The judge decided to spare him from a prison sentence.",
+            "chinese": "法官决定免除他的监禁。"
+          }
+        ],
+        "synonyms": ["save", "exempt", "excuse"],
+        "antonyms": ["harm", "punish"]
+      },
+      {
+        "definition": "To give up or provide (something) for another's use or benefit.",
+        "chineseDefinition": "为他人的使用或利益而放弃或提供（某物）。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Could you spare a few minutes to help me with this project?",
+            "chinese": "你能抽出几分钟帮我完成这个项目吗？"
+          }
+        ],
+        "synonyms": ["provide", "give", "afford"],
+        "antonyms": ["withhold", "keep"]
+      },
+      {
+        "definition": "An extra item available for use when needed.",
+        "chineseDefinition": "在需要时可用的额外物品。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "I always carry a spare in my car in case of a flat tire.",
+            "chinese": "我的车里总是备有一个备用轮胎，以防轮胎漏气。"
+          }
+        ],
+        "synonyms": ["extra", "backup", "reserve"],
+        "antonyms": ["essential", "primary"]
+      },
+      {
+        "definition": "Additional or extra, beyond what is needed for normal use.",
+        "chineseDefinition": "额外的，超出正常使用所需的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "I keep spare batteries in the drawer for emergencies.",
+            "chinese": "我在抽屉里放了备用电池，以备急用。"
+          }
+        ],
+        "synonyms": ["extra", "additional", "surplus"],
+        "antonyms": ["necessary", "essential"]
+      },
+      {
+        "definition": "Lean or thin in appearance.",
+        "chineseDefinition": "外表瘦削或苗条。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He has a spare frame despite eating well.",
+            "chinese": "尽管他吃得不错，但他的身材仍然瘦削。"
+          }
+        ],
+        "synonyms": ["lean", "thin", "slender"],
+        "antonyms": ["plump", "stout", "heavy"]
+      }
+    ]
+  },
+  {
+    "word": "nursery",
+    "pronunciation": "/ˈnɜːrsəri/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "nursery",
+            "plural": "nurseries"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A room in a house set apart for young children.",
+        "chineseDefinition": "住宅中专为幼儿设置的房间。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They painted the nursery blue before the baby arrived.",
+            "chinese": "他们在宝宝到来之前把育儿室刷成了蓝色。"
+          }
+        ],
+        "synonyms": ["baby's room", "child's room"],
+        "antonyms": []
+      },
+      {
+        "definition": "A place where young children are cared for during the day while their parents are at work.",
+        "chineseDefinition": "在父母工作期间照顾幼儿的地方。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She drops her son off at the nursery every morning before work.",
+            "chinese": "她每天早上上班前把儿子送到托儿所。"
+          }
+        ],
+        "synonyms": ["daycare", "preschool", "kindergarten"],
+        "antonyms": []
+      },
+      {
+        "definition": "A place where plants, especially young plants, are grown for sale or for planting elsewhere.",
+        "chineseDefinition": "种植植物（尤其是幼苗）以供销售或移植到其他地方的场所。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We bought some rose bushes from the local nursery.",
+            "chinese": "我们从当地苗圃买了一些玫瑰灌木。"
+          }
+        ],
+        "synonyms": ["garden center", "plant nursery", "greenhouse"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "semantic",
+    "pronunciation": "/sɪˈmæntɪk/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "semantic"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Relating to meaning in language or logic.",
+        "chineseDefinition": "与语言或逻辑中的含义有关。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The semantic difference between these two words is subtle but important.",
+            "chinese": "这两个词在语义上的区别很微妙但很重要。"
+          }
+        ],
+        "synonyms": ["linguistic", "meaningful", "significative"],
+        "antonyms": ["meaningless", "insignificant"]
+      },
+      {
+        "definition": "Of or relating to semantics, the branch of linguistics and logic concerned with meaning.",
+        "chineseDefinition": "与语义学（语言学和逻辑学中关注意义的分支）有关的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "His research focuses on semantic analysis of ancient texts.",
+            "chinese": "他的研究重点是古代文本的语义分析。"
+          }
+        ],
+        "synonyms": ["denotative", "connotative", "referential"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "barren",
+    "pronunciation": "/ˈbærən/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "barren",
+            "comparative": "more barren",
+            "superlative": "most barren"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Too poor to produce much or any vegetation; unproductive.",
+        "chineseDefinition": "贫瘠得几乎或完全不能生长植物；不产出的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The expedition crossed miles of barren desert.",
+            "chinese": "探险队穿越了数英里的贫瘠沙漠。"
+          }
+        ],
+        "synonyms": ["infertile", "sterile", "unproductive"],
+        "antonyms": ["fertile", "productive", "fruitful"]
+      },
+      {
+        "definition": "Unable to produce offspring; sterile.",
+        "chineseDefinition": "无法生育后代；不育的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She was devastated to learn she was barren.",
+            "chinese": "得知自己不能生育，她非常伤心。"
+          }
+        ],
+        "synonyms": ["infertile", "sterile", "childless"],
+        "antonyms": ["fertile", "fruitful"]
+      },
+      {
+        "definition": "Devoid of interest or charm; bleak and lifeless.",
+        "chineseDefinition": "缺乏兴趣或魅力；荒凉和无生气的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "His writing was technically correct but barren of emotion.",
+            "chinese": "他的写作技术上正确，但缺乏情感。"
+          }
+        ],
+        "synonyms": ["empty", "stark", "desolate"],
+        "antonyms": ["rich", "vibrant", "lively"]
+      }
+    ]
+  },
+  {
+    "word": "conductive",
+    "pronunciation": "/kənˈdʌktɪv/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "conductive"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Having the property or capability of conducting heat, electricity, or sound.",
+        "chineseDefinition": "具有传导热、电或声音的特性或能力。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Copper is highly conductive, making it ideal for electrical wiring.",
+            "chinese": "铜的导电性很强，使其成为电线的理想材料。"
+          }
+        ],
+        "synonyms": ["conducting", "transmitting"],
+        "antonyms": ["non-conductive", "insulating", "resistant"]
+      },
+      {
+        "definition": "Tending to promote or facilitate; contributory.",
+        "chineseDefinition": "倾向于促进或便利；有助于的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The relaxed atmosphere was conductive to creative thinking.",
+            "chinese": "轻松的氛围有助于创造性思维。"
+          }
+        ],
+        "synonyms": ["favorable", "beneficial", "helpful"],
+        "antonyms": ["unfavorable", "detrimental", "unhelpful"]
+      }
+    ]
+  },
+  {
+    "word": "eccentric",
+    "pronunciation": "/ɪkˈsɛntrɪk/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "eccentric",
+            "comparative": "more eccentric",
+            "superlative": "most eccentric"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "eccentric",
+            "plural": "eccentrics"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Deviating from the established or customary pattern or style; unconventional or odd.",
+        "chineseDefinition": "偏离既定或习惯性模式或风格；非传统或奇怪的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Her eccentric clothing choices always made her stand out in a crowd.",
+            "chinese": "她古怪的服装选择总是让她在人群中脱颖而出。"
+          }
+        ],
+        "synonyms": ["unconventional", "quirky", "peculiar"],
+        "antonyms": ["conventional", "normal", "ordinary"]
+      },
+      {
+        "definition": "A person with unconventional and slightly strange views or behavior.",
+        "chineseDefinition": "具有非传统且略显奇怪的观点或行为的人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The village was home to several eccentrics who added color to local life.",
+            "chinese": "这个村庄住着几个怪人，为当地生活增添了色彩。"
+          }
+        ],
+        "synonyms": ["oddball", "nonconformist", "character"],
+        "antonyms": ["conformist", "traditionalist"]
+      },
+      {
+        "definition": "Not placed centrally or not having its axis placed centrally.",
+        "chineseDefinition": "未居中放置或其轴未居中放置。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The eccentric orbit of the comet brings it close to Earth only once every 76 years.",
+            "chinese": "彗星的偏心轨道使它只有每76年才接近地球一次。"
+          }
+        ],
+        "synonyms": ["off-center", "asymmetric", "non-concentric"],
+        "antonyms": ["concentric", "centered", "aligned"]
+      }
+    ]
+  },
+  {
+    "word": "inferior",
+    "pronunciation": "/ɪnˈfɪriər/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "inferior",
+            "comparative": "more inferior",
+            "superlative": "most inferior"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "inferior",
+            "plural": "inferiors"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Lower in rank, status, or quality.",
+        "chineseDefinition": "等级、地位或质量较低的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The generic product was inferior to the brand name version.",
+            "chinese": "仿制产品不如品牌产品。"
+          }
+        ],
+        "synonyms": ["lower", "lesser", "poorer"],
+        "antonyms": ["superior", "better", "higher"]
+      },
+      {
+        "definition": "A person lower in rank or status to another.",
+        "chineseDefinition": "等级或地位低于他人的人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He treated his inferiors with the same respect he showed to his superiors.",
+            "chinese": "他对待下级的尊重与对待上级的一样。"
+          }
+        ],
+        "synonyms": ["subordinate", "junior", "underling"],
+        "antonyms": ["superior", "senior", "boss"]
+      },
+      {
+        "definition": "Located below or beneath something else, especially anatomically.",
+        "chineseDefinition": "位于其他物体下方或下面，尤指解剖学上。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The inferior vena cava returns blood from the lower body to the heart.",
+            "chinese": "下腔静脉将血液从下半身输送回心脏。"
+          }
+        ],
+        "synonyms": ["lower", "underneath", "below"],
+        "antonyms": ["superior", "upper", "above"]
+      }
+    ]
+  },
+  {
+    "word": "slacken",
+    "pronunciation": "/ˈslækən/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "slacken",
+            "thirdPersonSingular": "slackens",
+            "presentParticiple": "slackening",
+            "pastTense": "slackened",
+            "pastParticiple": "slackened"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To make or become less tense, tight, or strict.",
+        "chineseDefinition": "使或变得不那么紧张、紧绷或严格。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He slackened his grip on the rope, allowing it to slide through his hands.",
+            "chinese": "他放松了对绳子的握力，让它从手中滑过。"
+          }
+        ],
+        "synonyms": ["loosen", "relax", "ease"],
+        "antonyms": ["tighten", "increase", "intensify"]
+      },
+      {
+        "definition": "To reduce in speed, intensity, or activity.",
+        "chineseDefinition": "减少速度、强度或活动。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The pace of economic growth has slackened in recent months.",
+            "chinese": "近几个月经济增长的速度已经放缓。"
+          }
+        ],
+        "synonyms": ["decrease", "diminish", "abate"],
+        "antonyms": ["accelerate", "intensify", "increase"]
+      },
+      {
+        "definition": "To become less diligent or attentive; to become negligent.",
+        "chineseDefinition": "变得不那么勤奋或专注；变得疏忽。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Don't slacken in your efforts just because you're ahead.",
+            "chinese": "不要因为你领先就放松努力。"
+          }
+        ],
+        "synonyms": ["neglect", "relax", "ease off"],
+        "antonyms": ["concentrate", "focus", "intensify"]
+      }
+    ]
+  },
+  {
+    "word": "mentor",
+    "pronunciation": "/ˈmɛntɔːr/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "mentor",
+            "plural": "mentors"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "mentor",
+            "thirdPersonSingular": "mentors",
+            "presentParticiple": "mentoring",
+            "pastTense": "mentored",
+            "pastParticiple": "mentored"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An experienced and trusted adviser who trains and counsels others.",
+        "chineseDefinition": "训练和指导他人的有经验且值得信赖的顾问。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She credits her success to having a good mentor early in her career.",
+            "chinese": "她将自己的成功归功于在职业生涯早期有一位好导师。"
+          }
+        ],
+        "synonyms": ["adviser", "guide", "counselor"],
+        "antonyms": ["mentee", "protégé", "student"]
+      },
+      {
+        "definition": "To advise or train someone, especially a younger colleague.",
+        "chineseDefinition": "指导或培训某人，尤其是年轻的同事。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He has mentored dozens of young scientists throughout his career.",
+            "chinese": "在他的职业生涯中，他指导过数十位年轻科学家。"
+          }
+        ],
+        "synonyms": ["guide", "coach", "counsel"],
+        "antonyms": ["discourage", "mislead"]
+      }
+    ]
+  },
+  {
+    "word": "pad",
+    "pronunciation": "/pæd/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "pad",
+            "plural": "pads"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "pad",
+            "thirdPersonSingular": "pads",
+            "presentParticiple": "padding",
+            "pastTense": "padded",
+            "pastParticiple": "padded"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A soft cushioned mass of material used as a cushion, for protection, or to stop something from slipping.",
+        "chineseDefinition": "用作垫子、保护或防止滑动的柔软材料垫。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She placed a pad under the vase to protect the wooden table.",
+            "chinese": "她在花瓶下放了一个垫子以保护木桌。"
+          }
+        ],
+        "synonyms": ["cushion", "pillow", "mat"],
+        "antonyms": []
+      },
+      {
+        "definition": "A number of sheets of paper glued together at one edge, used for writing or drawing.",
+        "chineseDefinition": "一叠在一边粘合在一起的纸，用于书写或绘画。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He always carries a notepad to jot down ideas.",
+            "chinese": "他总是随身携带一个记事本来记录想法。"
+          }
+        ],
+        "synonyms": ["notepad", "tablet", "notebook"],
+        "antonyms": []
+      },
+      {
+        "definition": "To fill out or extend, especially with unnecessary material.",
+        "chineseDefinition": "填充或扩展，尤其是用不必要的材料。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He padded his resume with fake accomplishments.",
+            "chinese": "他在简历中添加了虚假的成就。"
+          }
+        ],
+        "synonyms": ["stuff", "fill out", "bulk up"],
+        "antonyms": ["trim", "reduce", "condense"]
+      },
+      {
+        "definition": "To walk with a soft, quiet step.",
+        "chineseDefinition": "以柔软、安静的步伐行走。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The cat padded silently across the room.",
+            "chinese": "猫无声地走过房间。"
+          }
+        ],
+        "synonyms": ["tiptoe", "creep", "tread softly"],
+        "antonyms": ["stomp", "clump", "trudge"]
+      }
+    ]
+  },
+  {
+    "word": "unblemished",
+    "pronunciation": "/ʌnˈblɛmɪʃt/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "unblemished"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Not marked by any flaws or imperfections; perfect.",
+        "chineseDefinition": "没有任何缺陷或瑕疵；完美的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She had an unblemished driving record for over thirty years.",
+            "chinese": "她有着三十多年无瑕疵的驾驶记录。"
+          }
+        ],
+        "synonyms": ["flawless", "perfect", "spotless"],
+        "antonyms": ["blemished", "flawed", "imperfect"]
+      },
+      {
+        "definition": "Having no marks, stains, or discolorations; clean or pure.",
+        "chineseDefinition": "没有标记、污渍或变色；干净或纯净的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The antique vase was in unblemished condition despite its age.",
+            "chinese": "尽管年代久远，这个古董花瓶仍然完好无损。"
+          }
+        ],
+        "synonyms": ["pristine", "immaculate", "untarnished"],
+        "antonyms": ["stained", "marked", "damaged"]
+      },
+      {
+        "definition": "Having a reputation free from any negative associations or criticism.",
+        "chineseDefinition": "拥有不受任何负面联想或批评的声誉。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "His unblemished reputation made him the ideal candidate for the position.",
+            "chinese": "他无瑕的声誉使他成为该职位的理想人选。"
+          }
+        ],
+        "synonyms": ["untainted", "unsullied", "irreproachable"],
+        "antonyms": ["tarnished", "sullied", "disgraced"]
+      }
+    ]
+  },
+  {
+    "word": "lounge",
+    "pronunciation": "/laʊndʒ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "lounge",
+            "plural": "lounges"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "lounge",
+            "thirdPersonSingular": "lounges",
+            "presentParticiple": "lounging",
+            "pastTense": "lounged",
+            "pastParticiple": "lounged"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A public room in a hotel, theater, or club where people can sit and relax.",
+        "chineseDefinition": "酒店、剧院或俱乐部中供人们坐下放松的公共房间。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We met in the hotel lounge for drinks before dinner.",
+            "chinese": "晚餐前我们在酒店休息室喝饮料。"
+          }
+        ],
+        "synonyms": ["sitting room", "living room", "salon"],
+        "antonyms": []
+      },
+      {
+        "definition": "A comfortable sofa or couch.",
+        "chineseDefinition": "舒适的沙发。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They bought a new leather lounge for their living room.",
+            "chinese": "他们为客厅买了一个新的皮沙发。"
+          }
+        ],
+        "synonyms": ["sofa", "couch", "settee"],
+        "antonyms": []
+      },
+      {
+        "definition": "To lie, sit, or stand in a relaxed or lazy way.",
+        "chineseDefinition": "以放松或懒散的方式躺、坐或站立。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He was lounging on the beach, soaking up the sun.",
+            "chinese": "他懒洋洋地躺在沙滩上，沐浴阳光。"
+          }
+        ],
+        "synonyms": ["recline", "relax", "laze"],
+        "antonyms": ["work", "hustle", "rush"]
+      }
+    ]
+  },
+  {
+    "word": "axle",
+    "pronunciation": "/ˈæksəl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "axle",
+            "plural": "axles"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A rod or spindle, either fixed or rotating, passing through the center of a wheel or group of wheels.",
+        "chineseDefinition": "穿过车轮或一组车轮中心的固定或旋转的杆或轴。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The car needed a new rear axle after the accident.",
+            "chinese": "事故后，这辆车需要更换后轴。"
+          }
+        ],
+        "synonyms": ["shaft", "spindle", "pivot"],
+        "antonyms": []
+      },
+      {
+        "definition": "A fixed bar or beam with bearings at its ends, on which wheels revolve.",
+        "chineseDefinition": "两端有轴承的固定杆或梁，车轮在其上旋转。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The wagon's wooden axle creaked under the heavy load.",
+            "chinese": "在重载下，马车的木轴发出吱吱声。"
+          }
+        ],
+        "synonyms": ["axis", "arbor", "mandrel"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "dietary",
+    "pronunciation": "/ˈdaɪətəri/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "dietary"
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "dietary",
+            "plural": "dietaries"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Relating to diet or the regulation of food intake.",
+        "chineseDefinition": "与饮食或食物摄入调节有关的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The doctor recommended several dietary changes to help lower his cholesterol.",
+            "chinese": "医生建议进行一些饮食改变，以帮助降低他的胆固醇。"
+          }
+        ],
+        "synonyms": ["nutritional", "food-related", "diet-based"],
+        "antonyms": []
+      },
+      {
+        "definition": "A regulated course of food intake; a diet.",
+        "chineseDefinition": "受调节的食物摄入过程；饮食。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The hospital provides different dietaries for patients with various health conditions.",
+            "chinese": "医院为患有各种健康状况的患者提供不同的饮食方案。"
+          }
+        ],
+        "synonyms": ["diet", "nutrition plan", "food regimen"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "hamper",
+    "pronunciation": "/ˈhæmpər/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "hamper",
+            "thirdPersonSingular": "hampers",
+            "presentParticiple": "hampering",
+            "pastTense": "hampered",
+            "pastParticiple": "hampered"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "hamper",
+            "plural": "hampers"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To impede or restrict the movement, progress, or freedom of action of someone or something.",
+        "chineseDefinition": "阻碍或限制某人或某物的移动、进展或行动自由。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The investigation was hampered by a lack of evidence.",
+            "chinese": "调查因缺乏证据而受到阻碍。"
+          }
+        ],
+        "synonyms": ["hinder", "impede", "obstruct"],
+        "antonyms": ["facilitate", "help", "assist"]
+      },
+      {
+        "definition": "A large basket or wickerwork container with a lid, typically used for food, laundry, or picnic items.",
+        "chineseDefinition": "带盖的大篮子或柳条容器，通常用于盛放食物、洗衣物或野餐物品。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She received a gift hamper filled with gourmet foods and wine.",
+            "chinese": "她收到了一个装满美食和葡萄酒的礼品篮。"
+          }
+        ],
+        "synonyms": ["basket", "container", "pannier"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "disparage",
+    "pronunciation": "/dɪˈspærɪdʒ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "disparage",
+            "thirdPersonSingular": "disparages",
+            "presentParticiple": "disparaging",
+            "pastTense": "disparaged",
+            "pastParticiple": "disparaged"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To speak of in a slighting or disrespectful way; belittle.",
+        "chineseDefinition": "以轻蔑或不尊重的方式谈论；贬低。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He never disparages his competitors in public.",
+            "chinese": "他从不在公开场合贬低他的竞争对手。"
+          }
+        ],
+        "synonyms": ["belittle", "criticize", "denigrate"],
+        "antonyms": ["praise", "compliment", "extol"]
+      },
+      {
+        "definition": "To lower in esteem or reputation; bring discredit upon.",
+        "chineseDefinition": "降低在尊重或声誉方面；使蒙受耻辱。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The scandal disparaged the entire organization's reputation.",
+            "chinese": "这起丑闻玷污了整个组织的声誉。"
+          }
+        ],
+        "synonyms": ["discredit", "degrade", "dishonor"],
+        "antonyms": ["honor", "respect", "elevate"]
+      }
+    ]
+  },
+  {
+    "word": "corporal",
+    "pronunciation": "/ˈkɔːrpərəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "corporal"
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "corporal",
+            "plural": "corporals"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Of or relating to the human body.",
+        "chineseDefinition": "与人体有关的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Corporal punishment involves the deliberate infliction of physical pain.",
+            "chinese": "体罚涉及故意造成身体疼痛。"
+          }
+        ],
+        "synonyms": ["bodily", "physical", "corporeal"],
+        "antonyms": ["mental", "spiritual", "psychological"]
+      },
+      {
+        "definition": "A non-commissioned officer in the army, air force, or marines, ranking above a private but below a sergeant.",
+        "chineseDefinition": "陆军、空军或海军陆战队中的一名士官，军衔高于列兵但低于中士。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The corporal was responsible for leading a small squad of soldiers.",
+            "chinese": "这名下士负责带领一个小分队的士兵。"
+          }
+        ],
+        "synonyms": ["non-commissioned officer", "NCO"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "libel",
+    "pronunciation": "/ˈlaɪbəl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "libel",
+            "plural": "libels"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "libel",
+            "thirdPersonSingular": "libels",
+            "presentParticiple": "libeling",
+            "pastTense": "libeled",
+            "pastParticiple": "libeled"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A published false statement that is damaging to a person's reputation; a written defamation.",
+        "chineseDefinition": "已发表的损害他人名誉的虚假陈述；书面诽谤。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The newspaper was sued for libel after publishing the inaccurate story.",
+            "chinese": "报纸因发表不实报道而被控诽谤。"
+          }
+        ],
+        "synonyms": ["defamation", "slander", "calumny"],
+        "antonyms": ["praise", "compliment", "tribute"]
+      },
+      {
+        "definition": "To defame or damage someone's reputation by publishing a libel.",
+        "chineseDefinition": "通过发表诽谤性文字来诋毁或损害某人的声誉。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The journalist was accused of libeling the politician in his article.",
+            "chinese": "这位记者被指控在文章中诽谤该政治家。"
+          }
+        ],
+        "synonyms": ["defame", "slander", "malign"],
+        "antonyms": ["praise", "compliment", "honor"]
+      }
+    ]
+  },
+  {
+    "word": "criterion",
+    "pronunciation": "/kraɪˈtɪəriən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "criterion",
+            "plural": "criteria"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A standard or principle by which something is judged, or a reference point against which other things can be evaluated.",
+        "chineseDefinition": "判断事物的标准或原则，或评估其他事物的参考点。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Academic excellence is the main criterion for admission to the program.",
+            "chinese": "学术优秀是该项目录取的主要标准。"
+          }
+        ],
+        "synonyms": ["standard", "measure", "benchmark"],
+        "antonyms": []
+      },
+      {
+        "definition": "A distinguishing characteristic or feature by which something can be identified or assessed.",
+        "chineseDefinition": "可以识别或评估事物的显著特征或特点。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The ability to work independently is an important criterion for this position.",
+            "chinese": "独立工作的能力是这个职位的一个重要标准。"
+          }
+        ],
+        "synonyms": ["requirement", "qualification", "specification"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "eco-friendly",
+    "pronunciation": "/ˌiːkoʊˈfrɛndli/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "eco-friendly",
+            "comparative": "more eco-friendly",
+            "superlative": "most eco-friendly"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Not harmful to the environment; designed to have minimal impact on the ecosystem.",
+        "chineseDefinition": "对环境无害；设计为对生态系统影响最小。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "They use eco-friendly packaging made from recycled materials.",
+            "chinese": "他们使用由回收材料制成的环保包装。"
+          }
+        ],
+        "synonyms": ["environmentally friendly", "green", "sustainable"],
+        "antonyms": ["environmentally harmful", "polluting", "toxic"]
+      },
+      {
+        "definition": "Designed or operating in a way that minimizes damage to the natural environment.",
+        "chineseDefinition": "以最小化对自然环境的损害的方式设计或运行。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The company has invested in eco-friendly manufacturing processes.",
+            "chinese": "该公司已投资环保制造工艺。"
+          }
+        ],
+        "synonyms": ["environmentally conscious", "ecological", "earth-friendly"],
+        "antonyms": ["environmentally destructive", "wasteful"]
+      }
+    ]
+  },
+  {
+    "word": "predator",
+    "pronunciation": "/ˈprɛdətər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "predator",
+            "plural": "predators"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An animal that naturally preys on others for food.",
+        "chineseDefinition": "以其他动物为食的动物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Lions are apex predators in the African savanna ecosystem.",
+            "chinese": "狮子是非洲草原生态系统中的顶级捕食者。"
+          }
+        ],
+        "synonyms": ["hunter", "carnivore", "killer"],
+        "antonyms": ["prey", "herbivore"]
+      },
+      {
+        "definition": "A person who ruthlessly exploits others.",
+        "chineseDefinition": "无情剥削他人的人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The financial predators took advantage of elderly investors.",
+            "chinese": "这些金融掠夺者利用了年长的投资者。"
+          }
+        ],
+        "synonyms": ["exploiter", "abuser", "oppressor"],
+        "antonyms": ["protector", "guardian", "benefactor"]
+      }
+    ]
+  },
+  {
+    "word": "telegraph",
+    "pronunciation": "/ˈtɛlɪɡræf/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "telegraph",
+            "plural": "telegraphs"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "telegraph",
+            "thirdPersonSingular": "telegraphs",
+            "presentParticiple": "telegraphing",
+            "pastTense": "telegraphed",
+            "pastParticiple": "telegraphed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A system for transmitting messages from a distance along a wire, especially one creating signals by making and breaking an electrical connection.",
+        "chineseDefinition": "一种沿着电线从远处传输信息的系统，尤其是通过接通和断开电路连接来创建信号的系统。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Before telephones became common, people communicated via telegraph.",
+            "chinese": "在电话普及之前，人们通过电报进行通信。"
+          }
+        ],
+        "synonyms": ["wire", "ticker", "Morse code system"],
+        "antonyms": []
+      },
+      {
+        "definition": "To send a message by telegraph.",
+        "chineseDefinition": "通过电报发送信息。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He telegraphed the news to his family immediately.",
+            "chinese": "他立即将这个消息电报给了他的家人。"
+          }
+        ],
+        "synonyms": ["wire", "cable", "transmit"],
+        "antonyms": []
+      },
+      {
+        "definition": "To inadvertently reveal one's intentions or plans in advance.",
+        "chineseDefinition": "无意中提前透露自己的意图或计划。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The boxer telegraphed his punches, making them easy to dodge.",
+            "chinese": "这位拳击手提前显露出他的出拳意图，使得对手很容易躲避。"
+          }
+        ],
+        "synonyms": ["signal", "indicate", "reveal"],
+        "antonyms": ["conceal", "hide", "mask"]
+      }
+    ]
+  },
+  {
+    "word": "episodic",
+    "pronunciation": "/ˌɛpɪˈsɒdɪk/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "episodic"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Occurring occasionally and at irregular intervals; intermittent.",
+        "chineseDefinition": "偶尔发生且间隔不规律；间歇性的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The patient experiences episodic bouts of severe pain.",
+            "chinese": "患者经历间歇性的剧烈疼痛发作。"
+          }
+        ],
+        "synonyms": ["intermittent", "occasional", "sporadic"],
+        "antonyms": ["continuous", "constant", "regular"]
+      },
+      {
+        "definition": "Consisting of or presented as a series of separate parts or events, like episodes in a television series.",
+        "chineseDefinition": "由一系列独立的部分或事件组成或呈现，如电视剧中的情节。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The novel has an episodic structure, with each chapter focusing on a different character.",
+            "chinese": "这部小说具有情节式结构，每一章都聚焦于不同的角色。"
+          }
+        ],
+        "synonyms": ["segmented", "sectional", "sequential"],
+        "antonyms": ["continuous", "unified", "integrated"]
+      }
+    ]
+  },
+  {
+    "word": "trespass",
+    "pronunciation": "/ˈtrɛspəs/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "trespass",
+            "thirdPersonSingular": "trespasses",
+            "presentParticiple": "trespassing",
+            "pastTense": "trespassed",
+            "pastParticiple": "trespassed"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "trespass",
+            "plural": "trespasses"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To enter someone's land or property without permission.",
+        "chineseDefinition": "未经许可进入他人的土地或财产。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The hikers were trespassing on private property when they were confronted by the owner.",
+            "chinese": "这些徒步旅行者在被主人发现时正在非法闯入私人财产。"
+          }
+        ],
+        "synonyms": ["intrude", "encroach", "infringe"],
+        "antonyms": ["respect", "observe boundaries"]
+      },
+      {
+        "definition": "The act of trespassing; unlawful entry onto another's property.",
+        "chineseDefinition": "侵入行为；非法进入他人财产。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The sign warned that trespass would result in prosecution.",
+            "chinese": "该标志警告说，擅自闯入将导致起诉。"
+          }
+        ],
+        "synonyms": ["intrusion", "encroachment", "invasion"],
+        "antonyms": ["permission", "authorization"]
+      },
+      {
+        "definition": "To commit an offense or a sin; to violate a social or moral rule.",
+        "chineseDefinition": "犯罪或犯罪；违反社会或道德规则。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Forgive us our trespasses as we forgive those who trespass against us.",
+            "chinese": "免我们的债，如同我们免了人的债。"
+          }
+        ],
+        "synonyms": ["sin", "transgress", "offend"],
+        "antonyms": ["obey", "comply", "conform"]
+      }
+    ]
+  },
+  {
+    "word": "millennium",
+    "pronunciation": "/mɪˈlɛniəm/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "millennium",
+            "plural": "millennia"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A period of one thousand years, especially when calculated from the traditional date of the birth of Christ.",
+        "chineseDefinition": "一千年的时期，尤指从基督诞生的传统日期计算。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We are now in the third millennium of the Common Era.",
+            "chinese": "我们现在处于公元第三个千年。"
+          }
+        ],
+        "synonyms": ["chiliad", "thousand years", "kiloyear"],
+        "antonyms": []
+      },
+      {
+        "definition": "A utopian period of good government, great happiness, and prosperity.",
+        "chineseDefinition": "良好政府、幸福和繁荣的乌托邦时期。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Some religious groups believe in a coming millennium of peace on Earth.",
+            "chinese": "一些宗教团体相信地球上即将到来的和平千年。"
+          }
+        ],
+        "synonyms": ["golden age", "utopia", "paradise"],
+        "antonyms": ["dystopia", "dark age"]
+      },
+      {
+        "definition": "An anniversary of a thousand years; a thousandth anniversary.",
+        "chineseDefinition": "一千年的纪念日；千年纪念。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The city celebrated the millennium of its founding with a year-long festival.",
+            "chinese": "这座城市以为期一年的节日庆祝其建城一千周年。"
+          }
+        ],
+        "synonyms": ["millenary", "kilennium"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "susceptible",
+    "pronunciation": "/səˈsɛptəbəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "susceptible",
+            "comparative": "more susceptible",
+            "superlative": "most susceptible"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Likely or liable to be influenced or harmed by a particular thing.",
+        "chineseDefinition": "可能或容易受到特定事物影响或伤害。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The elderly are particularly susceptible to this strain of flu.",
+            "chinese": "老年人特别容易感染这种流感。"
+          }
+        ],
+        "synonyms": ["vulnerable", "prone", "liable"],
+        "antonyms": ["resistant", "immune", "invulnerable"]
+      },
+      {
+        "definition": "Easily influenced or affected by feelings or emotions; impressionable.",
+        "chineseDefinition": "容易受感情或情绪影响；易受影响的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He was young and susceptible to flattery.",
+            "chinese": "他年轻，容易受奉承的影响。"
+          }
+        ],
+        "synonyms": ["impressionable", "receptive", "responsive"],
+        "antonyms": ["indifferent", "unresponsive", "impervious"]
+      },
+      {
+        "definition": "Capable of being affected by something specified.",
+        "chineseDefinition": "能够被指定的事物所影响。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The metal is susceptible to corrosion in humid environments.",
+            "chinese": "这种金属在潮湿环境中容易腐蚀。"
+          }
+        ],
+        "synonyms": ["open", "subject", "sensitive"],
+        "antonyms": ["resistant", "impervious", "immune"]
+      }
+    ]
+  },
+  {
+    "word": "antiseptic",
+    "pronunciation": "/ˌæntɪˈsɛptɪk/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "antiseptic",
+            "plural": "antiseptics"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "antiseptic"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A substance that prevents the growth of disease-causing microorganisms.",
+        "chineseDefinition": "防止致病微生物生长的物质。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The nurse applied antiseptic to the wound before bandaging it.",
+            "chinese": "护士在包扎伤口前涂了消毒剂。"
+          }
+        ],
+        "synonyms": ["disinfectant", "germicide", "sterilizer"],
+        "antonyms": []
+      },
+      {
+        "definition": "Preventing infection; having the properties of an antiseptic.",
+        "chineseDefinition": "防止感染；具有防腐剂的特性。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The surgeon washed his hands with antiseptic soap before the operation.",
+            "chinese": "外科医生在手术前用消毒肥皂洗手。"
+          }
+        ],
+        "synonyms": ["disinfectant", "germicidal", "sterilizing"],
+        "antonyms": ["septic", "infectious", "contaminated"]
+      },
+      {
+        "definition": "Scrupulously clean or pure, especially excessively so.",
+        "chineseDefinition": "极其干净或纯净，尤其是过度的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The hospital room had an antiseptic atmosphere that made him uncomfortable.",
+            "chinese": "医院病房有一种让他不舒服的过度消毒的氛围。"
+          }
+        ],
+        "synonyms": ["sterile", "clinical", "austere"],
+        "antonyms": ["dirty", "contaminated", "impure"]
+      }
+    ]
+  },
+  {
+    "word": "indolent",
+    "pronunciation": "/ˈɪndələnt/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "indolent",
+            "comparative": "more indolent",
+            "superlative": "most indolent"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Wanting to avoid activity or exertion; lazy.",
+        "chineseDefinition": "想要避免活动或努力；懒惰的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He spent his retirement in indolent leisure, rarely leaving his armchair.",
+            "chinese": "他在退休后过着懒散的闲暇生活，很少离开他的扶手椅。"
+          }
+        ],
+        "synonyms": ["lazy", "idle", "slothful"],
+        "antonyms": ["industrious", "energetic", "diligent"]
+      },
+      {
+        "definition": "(of a disease or condition) Causing little or no pain; slow to develop or heal.",
+        "chineseDefinition": "（疾病或状况）引起很少或没有疼痛；发展或愈合缓慢的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The patient had an indolent ulcer that showed little sign of healing.",
+            "chinese": "患者有一个惰性溃疡，几乎没有愈合的迹象。"
+          }
+        ],
+        "synonyms": ["inactive", "benign", "slow-growing"],
+        "antonyms": ["aggressive", "malignant", "acute"]
+      }
+    ]
+  },
+  {
+    "word": "thrifty",
+    "pronunciation": "/ˈθrɪfti/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "thrifty",
+            "comparative": "thriftier",
+            "superlative": "thriftiest"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Using money and other resources carefully and not wastefully.",
+        "chineseDefinition": "谨慎而不浪费地使用金钱和其他资源。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "My grandmother was thrifty and saved every penny she could.",
+            "chinese": "我的祖母很节俭，尽可能地省下每一分钱。"
+          }
+        ],
+        "synonyms": ["economical", "frugal", "careful"],
+        "antonyms": ["wasteful", "extravagant", "spendthrift"]
+      },
+      {
+        "definition": "Thriving, prosperous, or growing vigorously.",
+        "chineseDefinition": "兴旺、繁荣或茁壮成长的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The thrifty plants in her garden needed little care to flourish.",
+            "chinese": "她花园里的茂盛植物不需要太多护理就能茁壮成长。"
+          }
+        ],
+        "synonyms": ["flourishing", "thriving", "vigorous"],
+        "antonyms": ["failing", "withering", "declining"]
+      }
+    ]
+  },
+  {
+    "word": "nutritious",
+    "pronunciation": "/nuˈtrɪʃəs/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "nutritious",
+            "comparative": "more nutritious",
+            "superlative": "most nutritious"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Providing nourishment, especially to a high degree; containing many nutrients.",
+        "chineseDefinition": "提供营养，尤其是在高程度上；含有许多营养物质。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Spinach is one of the most nutritious vegetables you can eat.",
+            "chinese": "菠菜是你能吃的最有营养的蔬菜之一。"
+          }
+        ],
+        "synonyms": ["nourishing", "healthy", "wholesome"],
+        "antonyms": ["unhealthy", "non-nutritious", "empty"]
+      },
+      {
+        "definition": "Promoting good health and growth.",
+        "chineseDefinition": "促进健康和生长。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She prepares nutritious meals for her family every day.",
+            "chinese": "她每天为家人准备有营养的饭菜。"
+          }
+        ],
+        "synonyms": ["healthful", "beneficial", "sustaining"],
+        "antonyms": ["harmful", "detrimental", "junk"]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1180 @@
+[
+  {
+    "word": "employ",
+    "pronunciation": "/ɪmˈplɔɪ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "employ",
+            "thirdPersonSingular": "employs",
+            "presentParticiple": "employing",
+            "pastTense": "employed",
+            "pastParticiple": "employed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To hire or make use of someone or something.",
+        "chineseDefinition": "雇用或使用某人或某物。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "We employ several new workers every month.",
+            "chinese": "我们每个月都会雇用几名新员工。"
+          },
+          {
+            "english": "Many companies employ software to manage their data.",
+            "chinese": "许多公司使用软件来管理他们的数据。"
+          }
+        ],
+        "synonyms": ["hire", "use"],
+        "antonyms": ["fire", "dismiss"]
+      }
+    ]
+  },
+  {
+    "word": "pedal",
+    "pronunciation": "/ˈpɛd.əl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "pedal",
+            "plural": "pedals"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "pedal",
+            "thirdPersonSingular": "pedals",
+            "presentParticiple": "pedaling",
+            "pastTense": "pedaled",
+            "pastParticiple": "pedaled"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A foot-operated lever used to control a mechanism.",
+        "chineseDefinition": "由脚操作的杠杆，用来控制某种机制。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He pressed the brake pedal to slow down.",
+            "chinese": "他踩下刹车踏板来减速。"
+          }
+        ],
+        "synonyms": ["foot lever"],
+        "antonyms": []
+      },
+      {
+        "definition": "To operate or travel by using pedals, as on a bicycle.",
+        "chineseDefinition": "通过踩踏板（如在自行车上）来操作或前进。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She pedals to school every morning.",
+            "chinese": "她每天早晨踩自行车上学。"
+          },
+          {
+            "english": "They are pedaling uphill at a steady pace.",
+            "chinese": "他们正以稳定的速度往山上骑。"
+          }
+        ],
+        "synonyms": ["cycle"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "resident",
+    "pronunciation": "/ˈrɛz.ɪ.dənt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "resident",
+            "plural": "residents"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "resident"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person who lives somewhere on a long-term basis.",
+        "chineseDefinition": "长久居住在某地的人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She is a resident of this apartment building.",
+            "chinese": "她是这栋公寓楼的住户。"
+          }
+        ],
+        "synonyms": ["inhabitant"],
+        "antonyms": ["visitor", "tourist"]
+      },
+      {
+        "definition": "Living or staying in a place for a period of time.",
+        "chineseDefinition": "在某地居住或停留一段时间。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The resident doctor is on duty tonight.",
+            "chinese": "驻院医生今晚值班。"
+          }
+        ],
+        "synonyms": ["living"],
+        "antonyms": ["nonresident"]
+      }
+    ]
+  },
+  {
+    "word": "optometrist",
+    "pronunciation": "/ɒpˈtɒm.ə.trɪst/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "optometrist",
+            "plural": "optometrists"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person who examines the eyes for visual defects and prescribes corrective lenses or treatment.",
+        "chineseDefinition": "检查视力缺陷并开具矫正镜片或治疗方案的医生。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "I visited the optometrist for a routine eye exam.",
+            "chinese": "我去验光师那里进行常规的眼睛检查。"
+          }
+        ],
+        "synonyms": ["eye doctor", "vision specialist"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "degrade",
+    "pronunciation": "/dɪˈɡreɪd/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "degrade",
+            "thirdPersonSingular": "degrades",
+            "presentParticiple": "degrading",
+            "pastTense": "degraded",
+            "pastParticiple": "degraded"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To reduce in quality, value, or dignity.",
+        "chineseDefinition": "降低品质、价值或尊严。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Improper storage can degrade the device’s performance.",
+            "chinese": "不当存储会降低设备的性能。"
+          },
+          {
+            "english": "They felt that the comment degraded their contribution.",
+            "chinese": "他们觉得那番言论贬低了他们的贡献。"
+          }
+        ],
+        "synonyms": ["demean", "devalue"],
+        "antonyms": ["elevate", "promote"]
+      }
+    ]
+  },
+  {
+    "word": "particle",
+    "pronunciation": "/ˈpɑːr.tɪ.kəl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "particle",
+            "plural": "particles"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A very small piece or part; a tiny portion or speck.",
+        "chineseDefinition": "非常小的部分或碎片。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "There was a tiny particle of dust in the corner.",
+            "chinese": "角落里有一粒微小的灰尘。"
+          }
+        ],
+        "synonyms": ["bit", "fragment"],
+        "antonyms": ["whole"]
+      }
+    ]
+  },
+  {
+    "word": "downpour",
+    "pronunciation": "/ˈdaʊn.pɔːr/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "downpour",
+            "plural": "downpours"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A heavy fall of rain; a sudden, heavy rainstorm.",
+        "chineseDefinition": "大雨；突然的倾盆大雨。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We got caught in a downpour on our way home.",
+            "chinese": "我们在回家的路上遇到了一场倾盆大雨。"
+          }
+        ],
+        "synonyms": ["deluge", "torrential rain"],
+        "antonyms": ["drizzle"]
+      }
+    ]
+  },
+  {
+    "word": "telescope",
+    "pronunciation": "/ˈtɛl.ɪ.skoʊp/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "telescope",
+            "plural": "telescopes"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "telescope",
+            "thirdPersonSingular": "telescopes",
+            "presentParticiple": "telescoping",
+            "pastTense": "telescoped",
+            "pastParticiple": "telescoped"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An instrument designed to make distant objects appear nearer.",
+        "chineseDefinition": "一种把远处的物体看起来更近的仪器。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He used a telescope to observe the stars.",
+            "chinese": "他用望远镜观测星星。"
+          }
+        ],
+        "synonyms": ["scope"],
+        "antonyms": []
+      },
+      {
+        "definition": "To collapse or condense in length or time.",
+        "chineseDefinition": "在长度或时间上折叠或压缩。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The chairs telescope for easy storage.",
+            "chinese": "这些椅子可以折叠，方便储存。"
+          }
+        ],
+        "synonyms": ["collapse", "contract"],
+        "antonyms": ["expand"]
+      }
+    ]
+  },
+  {
+    "word": "transport",
+    "pronunciation": "/trænˈspɔːrt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "transport",
+            "plural": "transports"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "transport",
+            "thirdPersonSingular": "transports",
+            "presentParticiple": "transporting",
+            "pastTense": "transported",
+            "pastParticiple": "transported"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A system or means of conveying people or goods from place to place.",
+        "chineseDefinition": "将人或货物从一个地方运送到另一个地方的系统或方式。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The city’s public transport is very convenient.",
+            "chinese": "这个城市的公共交通十分便利。"
+          }
+        ],
+        "synonyms": ["transportation"],
+        "antonyms": []
+      },
+      {
+        "definition": "To carry or move from one place to another.",
+        "chineseDefinition": "从一个地方运送或移动到另一个地方。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They transport goods by truck.",
+            "chinese": "他们用卡车运送货物。"
+          }
+        ],
+        "synonyms": ["carry", "convey"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "prepare",
+    "pronunciation": "/prɪˈpɛər/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "prepare",
+            "thirdPersonSingular": "prepares",
+            "presentParticiple": "preparing",
+            "pastTense": "prepared",
+            "pastParticiple": "prepared"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To make ready or get ready for use or consideration.",
+        "chineseDefinition": "使做好准备或为使用或考虑做好准备。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "I need to prepare a presentation for tomorrow.",
+            "chinese": "我需要准备明天的演示文稿。"
+          },
+          {
+            "english": "She’s preparing for her final exams.",
+            "chinese": "她正在为期末考试做准备。"
+          }
+        ],
+        "synonyms": ["get ready", "plan"],
+        "antonyms": ["neglect"]
+      }
+    ]
+  },
+  {
+    "word": "registration",
+    "pronunciation": "/ˌrɛdʒ.ɪˈstreɪ.ʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "registration",
+            "plural": "registrations"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The act of enrolling or recording information formally.",
+        "chineseDefinition": "正式登记或记录信息的行为。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Online registration closes two days before the event.",
+            "chinese": "活动前两天停止线上注册。"
+          }
+        ],
+        "synonyms": ["enrollment", "recording"],
+        "antonyms": ["withdrawal"]
+      }
+    ]
+  },
+  {
+    "word": "chaos",
+    "pronunciation": "/ˈkeɪ.ɑːs/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "invariable",
+          "data": "chaos"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A state of complete disorder and confusion.",
+        "chineseDefinition": "完全混乱无序的状态。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The sudden storm caused chaos in the city.",
+            "chinese": "突如其来的暴风雨在城市里引发了一片混乱。"
+          }
+        ],
+        "synonyms": ["disorder", "confusion"],
+        "antonyms": ["order", "harmony"]
+      }
+    ]
+  },
+  {
+    "word": "gorge",
+    "pronunciation": "/ɡɔːrdʒ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "gorge",
+            "plural": "gorges"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "gorge",
+            "thirdPersonSingular": "gorges",
+            "presentParticiple": "gorging",
+            "pastTense": "gorged",
+            "pastParticiple": "gorged"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A narrow valley between hills or mountains, typically with steep rocky walls and a stream running through it.",
+        "chineseDefinition": "两座山或丘陵之间的狭窄山谷，通常有陡峭的岩壁并有溪流流经。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They hiked through the impressive gorge.",
+            "chinese": "他们徒步穿越了令人叹为观止的峡谷。"
+          }
+        ],
+        "synonyms": ["canyon", "ravine"],
+        "antonyms": []
+      },
+      {
+        "definition": "To eat a large amount greedily; to fill oneself with food.",
+        "chineseDefinition": "贪婪地大量吃东西；吃得过饱。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They gorged on snacks during the movie.",
+            "chinese": "他们在看电影时狼吞虎咽地吃零食。"
+          }
+        ],
+        "synonyms": ["devour", "stuff oneself"],
+        "antonyms": ["abstain"]
+      }
+    ]
+  },
+  {
+    "word": "recreational",
+    "pronunciation": "/ˌrɛk.riˈeɪ.ʃən.əl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "recreational",
+            "comparative": "more recreational",
+            "superlative": "most recreational"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Relating to or denoting activity done for enjoyment when one is not working.",
+        "chineseDefinition": "与不工作时为娱乐或放松而进行的活动有关的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "They enjoy many recreational activities during weekends.",
+            "chinese": "他们在周末享受许多休闲活动。"
+          }
+        ],
+        "synonyms": ["leisure", "fun"],
+        "antonyms": ["work-related"]
+      }
+    ]
+  },
+  {
+    "word": "systematic",
+    "pronunciation": "/ˌsɪs.təˈmæt.ɪk/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "systematic",
+            "comparative": "more systematic",
+            "superlative": "most systematic"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Done or acting according to a fixed plan or system; methodical.",
+        "chineseDefinition": "依照固定计划或系统而进行的；有条不紊的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "They took a systematic approach to solve the problem.",
+            "chinese": "他们采用了系统的方法来解决问题。"
+          }
+        ],
+        "synonyms": ["methodical", "organized"],
+        "antonyms": ["random", "chaotic"]
+      }
+    ]
+  },
+  {
+    "word": "subtropical",
+    "pronunciation": "/ˌsʌbˈtrɑː.pɪ.kəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "subtropical",
+            "comparative": "more subtropical",
+            "superlative": "most subtropical"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Relating to or characteristic of the regions adjacent to or bordering the tropics.",
+        "chineseDefinition": "与临近热带或边界地区相关或具有其特征。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "This region has a subtropical climate.",
+            "chinese": "这个地区属于亚热带气候。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "detract",
+    "pronunciation": "/dɪˈtrækt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "detract",
+            "thirdPersonSingular": "detracts",
+            "presentParticiple": "detracting",
+            "pastTense": "detracted",
+            "pastParticiple": "detracted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To reduce or take away the worth or value of something.",
+        "chineseDefinition": "减少或降低某物的价值或意义。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The cracked screen detracts from the phone’s resale value.",
+            "chinese": "屏幕破裂会降低手机的转售价值。"
+          }
+        ],
+        "synonyms": ["diminish", "lessen"],
+        "antonyms": ["enhance", "improve"]
+      }
+    ]
+  },
+  {
+    "word": "seal",
+    "pronunciation": "/siːl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "seal",
+            "plural": "seals"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "seal",
+            "thirdPersonSingular": "seals",
+            "presentParticiple": "sealing",
+            "pastTense": "sealed",
+            "pastParticiple": "sealed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A marine mammal that typically lives around coasts or on ice.",
+        "chineseDefinition": "一种海洋哺乳动物，通常生活在海岸或冰面附近。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We saw a seal sunbathing on the rocks.",
+            "chinese": "我们看见一只海豹在岩石上晒太阳。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "definition": "A device or substance used to close or fasten something tightly.",
+        "chineseDefinition": "用于将某物紧密封闭或固定的装置或物质。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Make sure the seal on the container is not broken.",
+            "chinese": "确保容器的密封没有破损。"
+          }
+        ],
+        "synonyms": ["closure"],
+        "antonyms": []
+      },
+      {
+        "definition": "To close securely or make watertight.",
+        "chineseDefinition": "牢固密封或防水。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "We sealed the envelope before mailing it.",
+            "chinese": "邮寄前我们将信封封好。"
+          }
+        ],
+        "synonyms": ["close", "fasten"],
+        "antonyms": ["open"]
+      }
+    ]
+  },
+  {
+    "word": "depress",
+    "pronunciation": "/dɪˈprɛs/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "depress",
+            "thirdPersonSingular": "depresses",
+            "presentParticiple": "depressing",
+            "pastTense": "depressed",
+            "pastParticiple": "depressed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To make someone feel dejected or sad; to press down.",
+        "chineseDefinition": "使某人感到沮丧或悲伤；或向下压。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Lack of sunlight can depress some people’s mood.",
+            "chinese": "缺少阳光会让一些人情绪低落。"
+          },
+          {
+            "english": "Pressing this button will depress the spring inside.",
+            "chinese": "按下这个按钮会使里面的弹簧下压。"
+          }
+        ],
+        "synonyms": ["sadden", "lower"],
+        "antonyms": ["uplift", "raise"]
+      }
+    ]
+  },
+  {
+    "word": "scarce",
+    "pronunciation": "/skɛərs/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "scarce",
+            "comparative": "scarcer",
+            "superlative": "scarcest"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Insufficient for the demand; not readily available.",
+        "chineseDefinition": "供不应求的；不足的；不易获得的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Fresh water is often scarce in desert regions.",
+            "chinese": "在沙漠地区淡水通常很稀缺。"
+          }
+        ],
+        "synonyms": ["rare", "limited"],
+        "antonyms": ["abundant", "plentiful"]
+      }
+    ]
+  },
+  {
+    "word": "evidence",
+    "pronunciation": "/ˈɛv.ɪ.dəns/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "invariable",
+          "data": "evidence"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The available body of facts or information indicating whether a belief or proposition is true or valid.",
+        "chineseDefinition": "表明某种观点或命题是否真实或有效的所有事实或信息。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They found new evidence supporting the theory.",
+            "chinese": "他们找到支持该理论的新证据。"
+          }
+        ],
+        "synonyms": ["proof", "testimony"],
+        "antonyms": ["concealment"]
+      }
+    ]
+  },
+  {
+    "word": "besides",
+    "pronunciation": "/bɪˈsaɪdz/",
+    "forms": [
+      {
+        "partOfSpeech": "preposition",
+        "form": {
+          "type": "invariable",
+          "data": "besides"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "In addition to; other than.",
+        "chineseDefinition": "除...之外；此外。",
+        "partOfSpeech": "preposition",
+        "examples": [
+          {
+            "english": "Besides sweets, she also bought some fruits.",
+            "chinese": "除糖果外，她还买了一些水果。"
+          }
+        ],
+        "synonyms": ["in addition to", "as well as"],
+        "antonyms": ["except"]
+      }
+    ]
+  },
+  {
+    "word": "waterproof",
+    "pronunciation": "/ˈwɔː.tər.pruːf/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "waterproof",
+            "comparative": "more waterproof",
+            "superlative": "most waterproof"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Impervious to water.",
+        "chineseDefinition": "防水的；不透水的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He wore a waterproof jacket in the rain.",
+            "chinese": "他在雨中穿了一件防水夹克。"
+          }
+        ],
+        "synonyms": ["water-resistant"],
+        "antonyms": ["leaky"]
+      }
+    ]
+  },
+  {
+    "word": "exclusive",
+    "pronunciation": "/ɪkˈskluː.sɪv/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "exclusive",
+            "comparative": "more exclusive",
+            "superlative": "most exclusive"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Restricted or limited to the person, group, or area concerned.",
+        "chineseDefinition": "专用于特定的人、群体或区域；排他的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "They live in an exclusive neighborhood.",
+            "chinese": "他们住在一个高档封闭社区。"
+          }
+        ],
+        "synonyms": ["elite", "private"],
+        "antonyms": ["inclusive"]
+      }
+    ]
+  },
+  {
+    "word": "majority",
+    "pronunciation": "/məˈdʒɔːr.ə.ti/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "majority",
+            "plural": "majorities"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The greater number or part; more than half.",
+        "chineseDefinition": "大多数；超过一半。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The majority of voters supported the new policy.",
+            "chinese": "大多数选民支持这项新政策。"
+          }
+        ],
+        "synonyms": ["plurality"],
+        "antonyms": ["minority"]
+      }
+    ]
+  },
+  {
+    "word": "despite",
+    "pronunciation": "/dɪˈspaɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "preposition",
+        "form": {
+          "type": "invariable",
+          "data": "despite"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Without being affected by; in spite of.",
+        "chineseDefinition": "不受...影响；尽管。",
+        "partOfSpeech": "preposition",
+        "examples": [
+          {
+            "english": "He managed to win despite the difficulties.",
+            "chinese": "尽管遇到困难，他仍然赢了。"
+          }
+        ],
+        "synonyms": ["in spite of", "notwithstanding"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "dissolve",
+    "pronunciation": "/dɪˈzɒlv/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "dissolve",
+            "thirdPersonSingular": "dissolves",
+            "presentParticiple": "dissolving",
+            "pastTense": "dissolved",
+            "pastParticiple": "dissolved"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To make or become liquid; to mix with a liquid and become part of it.",
+        "chineseDefinition": "使或变成液体；溶解于液体中成为其一部分。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Salt will dissolve in water.",
+            "chinese": "盐会溶解在水中。"
+          }
+        ],
+        "synonyms": ["melt", "disintegrate"],
+        "antonyms": ["solidify"]
+      }
+    ]
+  },
+  {
+    "word": "release",
+    "pronunciation": "/rɪˈliːs/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "release",
+            "thirdPersonSingular": "releases",
+            "presentParticiple": "releasing",
+            "pastTense": "released",
+            "pastParticiple": "released"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "release",
+            "plural": "releases"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To set free from confinement or bondage.",
+        "chineseDefinition": "从监禁或束缚中释放。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They decided to release the captive animals into the wild.",
+            "chinese": "他们决定把被关押的动物放归野外。"
+          }
+        ],
+        "synonyms": ["free", "liberate"],
+        "antonyms": ["capture", "hold"]
+      },
+      {
+        "definition": "A new product or publication made available for the public.",
+        "chineseDefinition": "提供给公众的新产品或出版物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The company announced the release of its latest smartphone.",
+            "chinese": "公司宣布了其最新智能手机的发布。"
+          }
+        ],
+        "synonyms": ["launch", "issuance"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "deploy",
+    "pronunciation": "/dɪˈplɔɪ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "deploy",
+            "thirdPersonSingular": "deploys",
+            "presentParticiple": "deploying",
+            "pastTense": "deployed",
+            "pastParticiple": "deployed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To move (troops or equipment) into position for military action; to utilize or arrange strategically.",
+        "chineseDefinition": "将（部队或设备）部署到执行军事行动的位置；战略性地利用或安排。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They will deploy additional units along the border.",
+            "chinese": "他们将在边境部署更多的部队。"
+          }
+        ],
+        "synonyms": ["position", "establish"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "original",
+    "pronunciation": "/əˈrɪdʒ.ən.əl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "original",
+            "comparative": "more original",
+            "superlative": "most original"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "original",
+            "plural": "originals"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Present or existing from the beginning; first or earliest.",
+        "chineseDefinition": "从一开始就存在的；最初的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He kept the original documents in a safe place.",
+            "chinese": "他把原始文件存放在安全的地方。"
+          }
+        ],
+        "synonyms": ["initial", "primary"],
+        "antonyms": ["copy"]
+      },
+      {
+        "definition": "The initial version of something, as opposed to a copy or imitation.",
+        "chineseDefinition": "某物的初始版本，相对于复制或仿制而言。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The painting is said to be an original by a famous artist.",
+            "chinese": "据说这幅画是某位著名艺术家创作的原作。"
+          }
+        ],
+        "synonyms": ["authentic piece"],
+        "antonyms": ["replica"]
+      }
+    ]
+  }
+]

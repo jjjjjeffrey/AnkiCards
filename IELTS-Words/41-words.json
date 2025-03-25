@@ -1,0 +1,1151 @@
+[
+  {
+    "word": "vice",
+    "pronunciation": "/vaɪs/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "vice",
+            "plural": "vices"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Immoral or wicked behavior.",
+        "chineseDefinition": "不道德或邪恶的行为。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Gambling is considered a vice by many people.",
+            "chinese": "许多人认为赌博是一种恶习。"
+          }
+        ],
+        "synonyms": ["immorality", "sin"],
+        "antonyms": ["virtue"]
+      }
+    ]
+  },
+  {
+    "word": "foetus",
+    "pronunciation": "/ˈfiːtəs/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "foetus",
+            "plural": "foetuses"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An unborn or unhatched offspring of a mammal, in particular an unborn human baby.",
+        "chineseDefinition": "哺乳动物（尤其是人类）尚未出生或孵化的后代。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The foetus develops rapidly in the second trimester.",
+            "chinese": "胎儿在孕中期迅速发育。"
+          }
+        ],
+        "synonyms": ["embryo"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "merge",
+    "pronunciation": "/mɜːrdʒ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "merge",
+            "thirdPersonSingular": "merges",
+            "presentParticiple": "merging",
+            "pastTense": "merged",
+            "pastParticiple": "merged"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To combine or cause to combine into a single entity.",
+        "chineseDefinition": "合并或促使合并成一个整体。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The two companies decided to merge into one larger organization.",
+            "chinese": "这两家公司决定合并成一个更大的组织。"
+          }
+        ],
+        "synonyms": ["combine", "unify"],
+        "antonyms": ["separate", "split"]
+      }
+    ]
+  },
+  {
+    "word": "aware",
+    "pronunciation": "/əˈweər/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "aware",
+            "comparative": "more aware",
+            "superlative": "most aware"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Having knowledge or perception of a situation or fact.",
+        "chineseDefinition": "对某种情况或事实有所了解或感知。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She was aware of the risks but decided to proceed anyway.",
+            "chinese": "她知道风险，但仍决定继续。"
+          }
+        ],
+        "synonyms": ["conscious", "mindful"],
+        "antonyms": ["ignorant"]
+      }
+    ]
+  },
+  {
+    "word": "label",
+    "pronunciation": "/ˈleɪbəl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "label",
+            "plural": "labels"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "label",
+            "thirdPersonSingular": "labels",
+            "presentParticiple": "labeling",
+            "pastTense": "labeled",
+            "pastParticiple": "labeled"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A small piece of paper, cloth, or metal attached to an object to give information about it.",
+        "chineseDefinition": "附在物品上以提供相关信息的小纸片、布条或金属片。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The label on the bottle provides important safety warnings.",
+            "chinese": "瓶子上的标签提供了重要的安全警告信息。"
+          }
+        ],
+        "synonyms": ["tag", "marker"],
+        "antonyms": []
+      },
+      {
+        "definition": "To attach a label to something or categorize something.",
+        "chineseDefinition": "给某物贴上标签或将其进行分类。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Be careful not to label people based on stereotypes.",
+            "chinese": "不要根据刻板印象给人贴标签。"
+          }
+        ],
+        "synonyms": ["categorize"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "guarantee",
+    "pronunciation": "/ˌɡærənˈtiː/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "guarantee",
+            "plural": "guarantees"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "guarantee",
+            "thirdPersonSingular": "guarantees",
+            "presentParticiple": "guaranteeing",
+            "pastTense": "guaranteed",
+            "pastParticiple": "guaranteed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A formal promise or assurance that certain conditions will be fulfilled.",
+        "chineseDefinition": "对某些条件将会被满足作出的正式承诺或保证。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The product comes with a money-back guarantee.",
+            "chinese": "该产品有退款保证。"
+          }
+        ],
+        "synonyms": ["assurance", "warranty"],
+        "antonyms": ["uncertainty"]
+      },
+      {
+        "definition": "To provide a formal promise or assurance.",
+        "chineseDefinition": "提供正式的保证或承诺。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "We guarantee your satisfaction or your money back.",
+            "chinese": "我们保证您满意，否则退款。"
+          }
+        ],
+        "synonyms": ["ensure", "secure"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "interrelationship",
+    "pronunciation": "/ˌɪntərɪˌleɪʃənˈʃɪp/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "interrelationship",
+            "plural": "interrelationships"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The way in which each of two or more things is related to the other.",
+        "chineseDefinition": "两个或多个事物之间互相关联的方式。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The interrelationship between diet and exercise is vital for health.",
+            "chinese": "饮食和运动之间的相互关系对健康至关重要。"
+          }
+        ],
+        "synonyms": ["connection", "link"],
+        "antonyms": ["independence"]
+      }
+    ]
+  },
+  {
+    "word": "stationery",
+    "pronunciation": "/ˈsteɪʃənəri/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "stationery",
+            "plural": "stationeries"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Writing and other office materials.",
+        "chineseDefinition": "书写及其他办公用品。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She bought beautiful stationery to write her letters.",
+            "chinese": "她买了漂亮的文具来写信。"
+          }
+        ],
+        "synonyms": ["writing materials"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "limestone",
+    "pronunciation": "/ˈlaɪmˌstoʊn/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "limestone",
+            "plural": "limestones"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A rock consisting mainly of calcium carbonate, used as a building material.",
+        "chineseDefinition": "主要由碳酸钙组成的岩石，可用作建筑材料。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Many old buildings are constructed with limestone.",
+            "chinese": "许多古老建筑都使用石灰岩建造。"
+          }
+        ],
+        "synonyms": ["calcium carbonate rock"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "impulse",
+    "pronunciation": "/ˈɪmpʌls/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "impulse",
+            "plural": "impulses"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A sudden strong and unreflective urge or desire to act.",
+        "chineseDefinition": "突然的强烈冲动或欲望。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He felt an impulse to shout and jump around.",
+            "chinese": "他突然有一种想要大喊大叫并到处跳的冲动。"
+          }
+        ],
+        "synonyms": ["urge", "drive"],
+        "antonyms": ["hesitation"]
+      }
+    ]
+  },
+  {
+    "word": "wax",
+    "pronunciation": "/wæks/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "wax",
+            "plural": "waxes"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "wax",
+            "thirdPersonSingular": "waxes",
+            "presentParticiple": "waxing",
+            "pastTense": "waxed",
+            "pastParticiple": "waxed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A sticky yellowish substance secreted by bees and used to form their honeycomb cells.",
+        "chineseDefinition": "蜜蜂分泌的黏性黄色物质，用来构建蜂巢。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She melted the wax to make candles.",
+            "chinese": "她把蜡融化来制作蜡烛。"
+          }
+        ],
+        "synonyms": ["beeswax"],
+        "antonyms": []
+      },
+      {
+        "definition": "To apply wax to something, typically to polish or protect it.",
+        "chineseDefinition": "在某物上涂蜡，通常是为了上光或保护。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He spent the afternoon waxing his car.",
+            "chinese": "他花了一下午给他的汽车打蜡。"
+          }
+        ],
+        "synonyms": ["polish"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "incapacitate",
+    "pronunciation": "/ˌɪnkəˈpæsɪteɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "incapacitate",
+            "thirdPersonSingular": "incapacitates",
+            "presentParticiple": "incapacitating",
+            "pastTense": "incapacitated",
+            "pastParticiple": "incapacitated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Prevent from functioning in a normal way.",
+        "chineseDefinition": "使无法正常运作。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The accident could incapacitate him for several months.",
+            "chinese": "这次事故可能会让他几个月不能正常活动。"
+          }
+        ],
+        "synonyms": ["disable", "cripple"],
+        "antonyms": ["enable"]
+      }
+    ]
+  },
+  {
+    "word": "appear",
+    "pronunciation": "/əˈpɪər/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "appear",
+            "thirdPersonSingular": "appears",
+            "presentParticiple": "appearing",
+            "pastTense": "appeared",
+            "pastParticiple": "appeared"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Come into sight; become visible or noticeable.",
+        "chineseDefinition": "出现；变得可见或引人注目。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "A figure appeared in the distance.",
+            "chinese": "远处出现了一个人影。"
+          }
+        ],
+        "synonyms": ["emerge", "show up"],
+        "antonyms": ["disappear"]
+      }
+    ]
+  },
+  {
+    "word": "check",
+    "pronunciation": "/tʃek/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "check",
+            "plural": "checks"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "check",
+            "thirdPersonSingular": "checks",
+            "presentParticiple": "checking",
+            "pastTense": "checked",
+            "pastParticiple": "checked"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An examination to test or ascertain accuracy, quality, or condition.",
+        "chineseDefinition": "用于测试或确定准确性、质量或状况的检查。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They performed a safety check before starting the machine.",
+            "chinese": "他们在启动机器之前进行了安全检查。"
+          }
+        ],
+        "synonyms": ["inspection"],
+        "antonyms": ["neglect"]
+      },
+      {
+        "definition": "Examine something in order to determine its accuracy, quality, or condition.",
+        "chineseDefinition": "检验某物，以确定其准确性、质量或状态。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Please check the document for any errors.",
+            "chinese": "请检查一下这份文件有没有错误。"
+          }
+        ],
+        "synonyms": ["inspect", "verify"],
+        "antonyms": ["ignore"]
+      }
+    ]
+  },
+  {
+    "word": "collect",
+    "pronunciation": "/kəˈlekt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "collect",
+            "thirdPersonSingular": "collects",
+            "presentParticiple": "collecting",
+            "pastTense": "collected",
+            "pastParticiple": "collected"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Bring or gather together (items, typically when scattered or widespread).",
+        "chineseDefinition": "收集或聚拢（通常分散或广布的物品）。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She likes to collect rare coins during her travels.",
+            "chinese": "她旅行时喜欢收集稀有硬币。"
+          }
+        ],
+        "synonyms": ["gather", "accumulate"],
+        "antonyms": ["disperse"]
+      }
+    ]
+  },
+  {
+    "word": "attract",
+    "pronunciation": "/əˈtrækt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "attract",
+            "thirdPersonSingular": "attracts",
+            "presentParticiple": "attracting",
+            "pastTense": "attracted",
+            "pastParticiple": "attracted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Cause to come to a place or participate in a venture by offering something of interest or advantage.",
+        "chineseDefinition": "通过提供利益或吸引力，促使人来某地或参与某活动。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The museum hopes to attract more visitors with a new exhibit.",
+            "chinese": "博物馆希望通过新的展览吸引更多游客。"
+          }
+        ],
+        "synonyms": ["draw", "entice"],
+        "antonyms": ["repel"]
+      }
+    ]
+  },
+  {
+    "word": "describe",
+    "pronunciation": "/dɪˈskraɪb/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "describe",
+            "thirdPersonSingular": "describes",
+            "presentParticiple": "describing",
+            "pastTense": "described",
+            "pastParticiple": "described"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Give an account in words of someone or something, including all relevant characteristics.",
+        "chineseDefinition": "用文字描述某人或某物，包括所有相关特征。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Can you describe the suspect’s appearance?",
+            "chinese": "你能描述一下嫌疑人的外貌吗？"
+          }
+        ],
+        "synonyms": ["depict", "portray"],
+        "antonyms": ["conceal"]
+      }
+    ]
+  },
+  {
+    "word": "chunk",
+    "pronunciation": "/tʃʌŋk/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "chunk",
+            "plural": "chunks"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A thick, solid piece of something.",
+        "chineseDefinition": "某物厚实而坚固的一块。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He cut the meat into large chunks.",
+            "chinese": "他把肉切成大块。"
+          }
+        ],
+        "synonyms": ["lump", "block"],
+        "antonyms": ["sliver"]
+      }
+    ]
+  },
+  {
+    "word": "agency",
+    "pronunciation": "/ˈeɪdʒənsi/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "agency",
+            "plural": "agencies"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A business or organization established to provide a particular service.",
+        "chineseDefinition": "提供特定服务的机构或组织。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She works at a travel agency.",
+            "chinese": "她在一家旅行社工作。"
+          }
+        ],
+        "synonyms": ["organization", "company"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "blend",
+    "pronunciation": "/blɛnd/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "blend",
+            "plural": "blends"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "blend",
+            "thirdPersonSingular": "blends",
+            "presentParticiple": "blending",
+            "pastTense": "blended",
+            "pastParticiple": "blended"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A mixture of different things or styles.",
+        "chineseDefinition": "由不同事物或风格混合而成的组合。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "This coffee is a blend of Arabica and Robusta beans.",
+            "chinese": "这种咖啡由阿拉比卡豆和罗布斯塔豆混合而成。"
+          }
+        ],
+        "synonyms": ["mix", "combination"],
+        "antonyms": []
+      },
+      {
+        "definition": "Mix a substance with another so that they combine together.",
+        "chineseDefinition": "将一种物质与另一种混合使其相互融合。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Blend the fruits with some yogurt to make a smoothie.",
+            "chinese": "把水果和酸奶混合打成冰沙。"
+          }
+        ],
+        "synonyms": ["mix", "combine"],
+        "antonyms": ["separate"]
+      }
+    ]
+  },
+  {
+    "word": "conceive",
+    "pronunciation": "/kənˈsiːv/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "conceive",
+            "thirdPersonSingular": "conceives",
+            "presentParticiple": "conceiving",
+            "pastTense": "conceived",
+            "pastParticiple": "conceived"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Form or devise a plan or idea in the mind.",
+        "chineseDefinition": "在脑海中形成或设计一个计划或想法。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He managed to conceive a brilliant marketing strategy.",
+            "chinese": "他想出了一个很棒的营销策略。"
+          }
+        ],
+        "synonyms": ["imagine", "think up"],
+        "antonyms": ["misconceive"]
+      }
+    ]
+  },
+  {
+    "word": "affect",
+    "pronunciation": "/əˈfɛkt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "affect",
+            "thirdPersonSingular": "affects",
+            "presentParticiple": "affecting",
+            "pastTense": "affected",
+            "pastParticiple": "affected"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Have an effect on; make a difference to.",
+        "chineseDefinition": "对…产生影响；对…起作用。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The new regulations will affect small businesses the most.",
+            "chinese": "新法规对小型企业的影响最大。"
+          }
+        ],
+        "synonyms": ["influence", "impact"],
+        "antonyms": ["remain unchanged"]
+      }
+    ]
+  },
+  {
+    "word": "frustrate",
+    "pronunciation": "/ˈfrʌstreɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "frustrate",
+            "thirdPersonSingular": "frustrates",
+            "presentParticiple": "frustrating",
+            "pastTense": "frustrated",
+            "pastParticiple": "frustrated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Prevent a plan or attempted action from progressing, succeeding, or being fulfilled.",
+        "chineseDefinition": "阻挠计划或尝试行动的进展、成功或实现。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The security system frustrated the hacker’s attempt to steal data.",
+            "chinese": "安全系统挫败了黑客窃取数据的企图。"
+          }
+        ],
+        "synonyms": ["thwart", "defeat"],
+        "antonyms": ["assist"]
+      }
+    ]
+  },
+  {
+    "word": "extend",
+    "pronunciation": "/ɪkˈstɛnd/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "extend",
+            "thirdPersonSingular": "extends",
+            "presentParticiple": "extending",
+            "pastTense": "extended",
+            "pastParticiple": "extended"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Cause to cover a larger area; make longer or wider.",
+        "chineseDefinition": "使覆盖更大的区域；使变长或变宽。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They plan to extend the highway by five miles.",
+            "chinese": "他们计划将高速公路延长五英里。"
+          }
+        ],
+        "synonyms": ["lengthen", "expand"],
+        "antonyms": ["shorten"]
+      }
+    ]
+  },
+  {
+    "word": "introduce",
+    "pronunciation": "/ˌɪntrəˈduːs/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "introduce",
+            "thirdPersonSingular": "introduces",
+            "presentParticiple": "introducing",
+            "pastTense": "introduced",
+            "pastParticiple": "introduced"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Bring something, especially a product or measure, into use for the first time.",
+        "chineseDefinition": "首次将某事物（尤其是产品或措施）投入使用。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The company will introduce a new line of smartphones next month.",
+            "chinese": "公司将于下个月推出一条新的智能手机产品线。"
+          }
+        ],
+        "synonyms": ["present", "launch"],
+        "antonyms": ["withdraw"]
+      }
+    ]
+  },
+  {
+    "word": "advice",
+    "pronunciation": "/ədˈvaɪs/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "advice",
+            "plural": "advices"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Guidance or recommendations offered with regard to prudent future action.",
+        "chineseDefinition": "就未来谨慎行动提供的指导或建议。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He gave me good advice about saving money.",
+            "chinese": "他给了我关于省钱的好建议。"
+          }
+        ],
+        "synonyms": ["guidance", "recommendation"],
+        "antonyms": ["misinformation"]
+      }
+    ]
+  },
+  {
+    "word": "attitude",
+    "pronunciation": "/ˈætɪtjuːd/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "attitude",
+            "plural": "attitudes"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A settled way of thinking or feeling about something.",
+        "chineseDefinition": "对某事物的一种固定思维或感受方式。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Her positive attitude helps her overcome challenges.",
+            "chinese": "她积极的态度帮助她克服了挑战。"
+          }
+        ],
+        "synonyms": ["mindset", "viewpoint"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "deliver",
+    "pronunciation": "/dɪˈlɪvər/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "deliver",
+            "thirdPersonSingular": "delivers",
+            "presentParticiple": "delivering",
+            "pastTense": "delivered",
+            "pastParticiple": "delivered"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Bring and hand over something to the proper recipient or address.",
+        "chineseDefinition": "将某物送交至正确的收件人或地址。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The courier will deliver the package tomorrow.",
+            "chinese": "快递员会在明天送达包裹。"
+          }
+        ],
+        "synonyms": ["transport", "convey"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "course",
+    "pronunciation": "/kɔːrs/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "course",
+            "plural": "courses"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "course",
+            "thirdPersonSingular": "courses",
+            "presentParticiple": "coursing",
+            "pastTense": "coursed",
+            "pastParticiple": "coursed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A direction or route taken or to be taken.",
+        "chineseDefinition": "采取或将要采取的方向或路线。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The ship changed its course due to the storm.",
+            "chinese": "由于暴风雨，船改变了航向。"
+          }
+        ],
+        "synonyms": ["route", "path"],
+        "antonyms": []
+      },
+      {
+        "definition": "To move without obstruction; flow.",
+        "chineseDefinition": "顺畅地运动或流动。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Tears coursed down her cheeks as she heard the news.",
+            "chinese": "当她听到这个消息时，眼泪从她的脸颊上流下来。"
+          }
+        ],
+        "synonyms": ["flow", "run"],
+        "antonyms": ["stall"]
+      }
+    ]
+  },
+  {
+    "word": "match",
+    "pronunciation": "/mætʃ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "match",
+            "plural": "matches"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "match",
+            "thirdPersonSingular": "matches",
+            "presentParticiple": "matching",
+            "pastTense": "matched",
+            "pastParticiple": "matched"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person or thing that is equal to another in quality or strength.",
+        "chineseDefinition": "在质量或力量上与另一人或事物相当的人或物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She finally found a tennis partner who was a good match for her skills.",
+            "chinese": "她终于找到了一位在技术上与她旗鼓相当的网球搭档。"
+          }
+        ],
+        "synonyms": ["equivalent"],
+        "antonyms": ["misfit"]
+      },
+      {
+        "definition": "To correspond or cause to correspond in some essential respect.",
+        "chineseDefinition": "在某些重要方面与……相符或使……相符。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Please match the items in the left column with those in the right column.",
+            "chinese": "请将左列的项目与右列的项目配对。"
+          }
+        ],
+        "synonyms": ["fit", "correspond"],
+        "antonyms": ["clash"]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1409 @@
+[
+  {
+    "word": "complain",
+    "pronunciation": "/kəmˈpleɪn/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "complain",
+            "thirdPersonSingular": "complains",
+            "presentParticiple": "complaining",
+            "pastTense": "complained",
+            "pastParticiple": "complained"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To express dissatisfaction or annoyance about something.",
+        "chineseDefinition": "表达对某事不满或恼怒。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She complained about the food.",
+            "chinese": "她抱怨了食物。"
+          },
+          {
+            "english": "They often complain when the weather is hot.",
+            "chinese": "天气炎热时他们经常抱怨。"
+          }
+        ],
+        "synonyms": ["grumble", "protest"],
+        "antonyms": ["praise", "accept"]
+      },
+      {
+        "definition": "To state that one is suffering or in pain.",
+        "chineseDefinition": "表示自己正在遭受或感到疼痛。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He complained of a headache all day.",
+            "chinese": "他整个一天都在说自己头疼。"
+          },
+          {
+            "english": "Patients often complain about acute pain.",
+            "chinese": "患者经常诉说剧烈疼痛。"
+          }
+        ],
+        "synonyms": ["lament", "moan"],
+        "antonyms": ["rejoice", "celebrate"]
+      }
+    ]
+  },
+  {
+    "word": "fact",
+    "pronunciation": "/fækt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "fact",
+            "plural": "facts"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A thing that is indisputably the case.",
+        "chineseDefinition": "无可争辩的情况或真实情况。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "It's a fact that the earth is round.",
+            "chinese": "地球是圆的，这是一个事实。"
+          },
+          {
+            "english": "We cannot deny the fact of climate change.",
+            "chinese": "我们无法否认气候变化的事实。"
+          }
+        ],
+        "synonyms": ["reality", "truth"],
+        "antonyms": ["fiction", "lie"]
+      }
+    ]
+  },
+  {
+    "word": "audacious",
+    "pronunciation": "/ɔːˈdeɪʃəs/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "audacious",
+            "comparative": "more audacious",
+            "superlative": "most audacious"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Showing a willingness to take surprisingly bold risks.",
+        "chineseDefinition": "表现出愿意承担惊人风险的勇气。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Her audacious plan stunned everyone.",
+            "chinese": "她大胆的计划让所有人都震惊了。"
+          },
+          {
+            "english": "He made an audacious move in the game.",
+            "chinese": "他在比赛中做出了一个大胆的举动。"
+          }
+        ],
+        "synonyms": ["bold", "daring"],
+        "antonyms": ["timid", "cautious"]
+      }
+    ]
+  },
+  {
+    "word": "disrupt",
+    "pronunciation": "/dɪsˈrʌpt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "disrupt",
+            "thirdPersonSingular": "disrupts",
+            "presentParticiple": "disrupting",
+            "pastTense": "disrupted",
+            "pastParticiple": "disrupted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To interrupt an event, activity, or process by causing a disturbance or problem.",
+        "chineseDefinition": "通过制造混乱或问题来打断一项活动、事件或进程。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "A protest disrupted the conference.",
+            "chinese": "一次抗议打乱了会议。"
+          },
+          {
+            "english": "Heavy rains disrupted the transportation system.",
+            "chinese": "大雨破坏了交通系统。"
+          }
+        ],
+        "synonyms": ["disturb", "upset"],
+        "antonyms": ["continue", "maintain"]
+      }
+    ]
+  },
+  {
+    "word": "tramp",
+    "pronunciation": "/træmp/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "tramp",
+            "plural": "tramps"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "tramp",
+            "thirdPersonSingular": "tramps",
+            "presentParticiple": "tramping",
+            "pastTense": "tramped",
+            "pastParticiple": "tramped"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person who travels from place to place on foot in search of work or as a vagrant.",
+        "chineseDefinition": "一个为寻找工作或流浪而步行四处游走的人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "A tramp came to the door asking for food.",
+            "chinese": "一个流浪汉走到门口请求食物。"
+          },
+          {
+            "english": "He lived as a tramp for several years.",
+            "chinese": "他当了好几年流浪汉。"
+          }
+        ],
+        "synonyms": ["vagrant", "wanderer"],
+        "antonyms": []
+      },
+      {
+        "definition": "To walk heavily or noisily.",
+        "chineseDefinition": "沉重或嘈杂地行走。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They tramped through the muddy field.",
+            "chinese": "他们在泥泞的田野里跋涉。"
+          },
+          {
+            "english": "Soldiers tramped along the road.",
+            "chinese": "士兵们在道路上踏步前行。"
+          }
+        ],
+        "synonyms": ["tread", "step heavily"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "pest",
+    "pronunciation": "/pɛst/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "pest",
+            "plural": "pests"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An insect or small animal that harms or destroys garden plants, trees, etc.",
+        "chineseDefinition": "毁坏或破坏园艺植物、树木等的害虫或小动物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Aphids are a common garden pest.",
+            "chinese": "蚜虫是常见的花园害虫。"
+          },
+          {
+            "english": "He used traps to catch pests in the field.",
+            "chinese": "他用陷阱捕捉田里的害虫。"
+          }
+        ],
+        "synonyms": ["insect", "vermin"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "inflation",
+    "pronunciation": "/ɪnˈfleɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "inflation",
+            "plural": "inflations"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A general increase in prices and fall in the purchasing value of money.",
+        "chineseDefinition": "物价普遍上涨且货币购买力下降的现象。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The inflation rate rose sharply last year.",
+            "chinese": "去年的通货膨胀率急剧上升。"
+          },
+          {
+            "english": "High inflation can erode savings.",
+            "chinese": "高通胀会侵蚀储蓄。"
+          }
+        ],
+        "synonyms": ["price increase"],
+        "antonyms": ["deflation"]
+      }
+    ]
+  },
+  {
+    "word": "statement",
+    "pronunciation": "/ˈsteɪtmənt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "statement",
+            "plural": "statements"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A definite or clear expression of something in speech or writing.",
+        "chineseDefinition": "在言语或文字中的明确表达。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He issued a statement about the new policy.",
+            "chinese": "他就新政策发表了一份声明。"
+          },
+          {
+            "english": "Her statement clarified the situation.",
+            "chinese": "她的声明澄清了局势。"
+          }
+        ],
+        "synonyms": ["declaration", "pronouncement"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "amount",
+    "pronunciation": "/əˈmaʊnt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "amount",
+            "plural": "amounts"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "amount",
+            "thirdPersonSingular": "amounts",
+            "presentParticiple": "amounting",
+            "pastTense": "amounted",
+            "pastParticiple": "amounted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A quantity of something, especially the total of a thing or things in number, size, value, or extent.",
+        "chineseDefinition": "某物的数量，尤其是其在数量、大小、价值或范围上的总量。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He spent a large amount of money on his car.",
+            "chinese": "他在车上花费了大笔钱。"
+          },
+          {
+            "english": "The total amount of data is enormous.",
+            "chinese": "数据总量非常巨大。"
+          }
+        ],
+        "synonyms": ["quantity", "sum"],
+        "antonyms": []
+      },
+      {
+        "definition": "To come to be (the total) when added together.",
+        "chineseDefinition": "相加后得出（总量）。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The expenses amount to over 1,000 dollars.",
+            "chinese": "费用总计超过1,000美元。"
+          },
+          {
+            "english": "Their promises didn't amount to much.",
+            "chinese": "他们的承诺并没有什么实质意义。"
+          }
+        ],
+        "synonyms": ["total", "add up to"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "given",
+    "pronunciation": "/ˈɡɪvən/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "given",
+            "comparative": "more given",
+            "superlative": "most given"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Specified or stated; fixed; not changing.",
+        "chineseDefinition": "指定或陈述的；固定的；不变的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "We must complete the project in the given time.",
+            "chinese": "我们必须在指定的时间内完成这个项目。"
+          },
+          {
+            "english": "Under the given conditions, we will proceed as planned.",
+            "chinese": "在既定条件下，我们将按计划进行。"
+          }
+        ],
+        "synonyms": ["fixed", "stated"],
+        "antonyms": ["variable", "changeable"]
+      }
+    ]
+  },
+  {
+    "word": "advanced",
+    "pronunciation": "/ədˈvɑːnst/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "advanced",
+            "comparative": "more advanced",
+            "superlative": "most advanced"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Far on or ahead in development or progress.",
+        "chineseDefinition": "在发展或进步方面处于前端或领先。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "This course is for advanced learners.",
+            "chinese": "这个课程适合高级学习者。"
+          },
+          {
+            "english": "The country industrially is not very advanced.",
+            "chinese": "该国在工业方面并不十分先进。"
+          }
+        ],
+        "synonyms": ["sophisticated", "developed"],
+        "antonyms": ["basic", "elementary"]
+      }
+    ]
+  },
+  {
+    "word": "milestone",
+    "pronunciation": "/ˈmaɪlstəʊn/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "milestone",
+            "plural": "milestones"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An action or event marking a significant change or stage in development.",
+        "chineseDefinition": "标志着发展中的重要变化或阶段的行为或事件。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Graduation is a major milestone in a person's life.",
+            "chinese": "毕业是一个人生命中的重要里程碑。"
+          },
+          {
+            "english": "They reached a key milestone in the project.",
+            "chinese": "他们在项目中达到了一个关键里程碑。"
+          }
+        ],
+        "synonyms": ["landmark", "benchmark"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "crank",
+    "pronunciation": "/kræŋk/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "crank",
+            "plural": "cranks"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "crank",
+            "thirdPersonSingular": "cranks",
+            "presentParticiple": "cranking",
+            "pastTense": "cranked",
+            "pastParticiple": "cranked"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A part of an axle or shaft bent out at right angles, for converting reciprocal to circular motion and vice versa.",
+        "chineseDefinition": "轴或传动轴上向外弯曲成直角的部分，用于往复运动和旋转运动的相互转换。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He turned the crank to start the engine.",
+            "chinese": "他转动曲柄来启动引擎。"
+          },
+          {
+            "english": "The old machine has a loose crank.",
+            "chinese": "那台老机器的曲柄松动了。"
+          }
+        ],
+        "synonyms": ["handle"],
+        "antonyms": []
+      },
+      {
+        "definition": "To turn a crankshaft in order to start an engine.",
+        "chineseDefinition": "转动车轴来启动引擎。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He cranked the car engine in the cold morning.",
+            "chinese": "他在寒冷的早晨给汽车打火。"
+          },
+          {
+            "english": "Crank the handle to open the gate.",
+            "chinese": "转动曲柄打开大门。"
+          }
+        ],
+        "synonyms": ["turn", "rotate"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "lexicographer",
+    "pronunciation": "/ˌlɛksɪˈkɒɡrəfər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "lexicographer",
+            "plural": "lexicographers"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person who compiles dictionaries.",
+        "chineseDefinition": "编写词典的人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The lexicographer spent years researching word origins.",
+            "chinese": "这位词典编纂者花了数年时间研究词源。"
+          },
+          {
+            "english": "She became a renowned lexicographer.",
+            "chinese": "她成为了著名的词典编纂家。"
+          }
+        ],
+        "synonyms": ["dictionary writer"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "bunch",
+    "pronunciation": "/bʌntʃ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "bunch",
+            "plural": "bunches"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "bunch",
+            "thirdPersonSingular": "bunches",
+            "presentParticiple": "bunching",
+            "pastTense": "bunched",
+            "pastParticiple": "bunched"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A number of things, typically of the same kind, growing or fastened together.",
+        "chineseDefinition": "通常指同类物体成簇或连接在一起。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She bought a bunch of grapes.",
+            "chinese": "她买了一串葡萄。"
+          },
+          {
+            "english": "There was a bunch of flowers on the table.",
+            "chinese": "桌子上有一束鲜花。"
+          }
+        ],
+        "synonyms": ["bundle", "cluster"],
+        "antonyms": []
+      },
+      {
+        "definition": "To collect or fasten into a compact group.",
+        "chineseDefinition": "收拢或扎成一组。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She bunched her hair into a ponytail.",
+            "chinese": "她把头发扎成了马尾。"
+          },
+          {
+            "english": "The fabric bunched around her waist.",
+            "chinese": "布料在她的腰部堆积起来。"
+          }
+        ],
+        "synonyms": ["cluster", "gather"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "costume",
+    "pronunciation": "/ˈkɒstjuːm/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "costume",
+            "plural": "costumes"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A set of clothes in a style typical of a particular country or historical period.",
+        "chineseDefinition": "具有某个国家或历史时期典型风格的一套服装。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She wore a Victorian costume for the party.",
+            "chinese": "她在派对上穿了一套维多利亚时期的服装。"
+          },
+          {
+            "english": "The actors were dressed in elaborate costumes.",
+            "chinese": "演员们穿着精心设计的戏服。"
+          }
+        ],
+        "synonyms": ["outfit", "attire"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "scare",
+    "pronunciation": "/skeər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "scare",
+            "plural": "scares"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "scare",
+            "thirdPersonSingular": "scares",
+            "presentParticiple": "scaring",
+            "pastTense": "scared",
+            "pastParticiple": "scared"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A sudden feeling of fear or alarm.",
+        "chineseDefinition": "突然的恐惧或惊慌。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He got a scare when the dog barked.",
+            "chinese": "当狗叫时他被吓了一跳。"
+          },
+          {
+            "english": "There was a bomb scare at the airport.",
+            "chinese": "机场曾经有炸弹惊魂。"
+          }
+        ],
+        "synonyms": ["fright", "shock"],
+        "antonyms": []
+      },
+      {
+        "definition": "To cause fear or alarm in someone.",
+        "chineseDefinition": "引起某人的恐惧或惊慌。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The loud noise scared the children.",
+            "chinese": "巨响吓到了孩子们。"
+          },
+          {
+            "english": "He tried to scare me but I didn't back down.",
+            "chinese": "他试图吓唬我，但我没有退缩。"
+          }
+        ],
+        "synonyms": ["startle", "terrify"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "manipulate",
+    "pronunciation": "/məˈnɪpjʊleɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "manipulate",
+            "thirdPersonSingular": "manipulates",
+            "presentParticiple": "manipulating",
+            "pastTense": "manipulated",
+            "pastParticiple": "manipulated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To handle or control in a skillful manner.",
+        "chineseDefinition": "以熟练的方式操纵或控制。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He manipulated the gears smoothly.",
+            "chinese": "他熟练地操控了齿轮。"
+          },
+          {
+            "english": "They manipulated the data to get the desired outcome.",
+            "chinese": "他们篡改数据以获得想要的结果。"
+          }
+        ],
+        "synonyms": ["control", "handle"],
+        "antonyms": ["mismanage"]
+      }
+    ]
+  },
+  {
+    "word": "juvenile",
+    "pronunciation": "/ˈdʒuːvənaɪl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "juvenile",
+            "comparative": "more juvenile",
+            "superlative": "most juvenile"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "juvenile",
+            "plural": "juveniles"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Relating to or characteristic of young people.",
+        "chineseDefinition": "与年轻人相关或具有年轻人特征的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He was criticized for his juvenile behavior.",
+            "chinese": "他的幼稚行为受到了批评。"
+          },
+          {
+            "english": "The movie was aimed at a juvenile audience.",
+            "chinese": "这部电影针对的是年轻观众。"
+          }
+        ],
+        "synonyms": ["adolescent", "immature"],
+        "antonyms": ["mature", "adult"]
+      },
+      {
+        "definition": "A young person; a child or teenager.",
+        "chineseDefinition": "年轻人；儿童或青少年。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The juvenile was taken into custody.",
+            "chinese": "那名青少年被拘留了。"
+          },
+          {
+            "english": "This facility is for juvenile offenders.",
+            "chinese": "这个机构是为青少年罪犯提供的。"
+          }
+        ],
+        "synonyms": ["youth", "minor"],
+        "antonyms": ["adult"]
+      }
+    ]
+  },
+  {
+    "word": "phenomenon",
+    "pronunciation": "/fɪˈnɒmɪnən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "phenomenon",
+            "plural": "phenomena"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A fact or situation that is observed to exist or happen.",
+        "chineseDefinition": "被观测到存在或发生的事实或状况。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The Northern Lights are a natural phenomenon.",
+            "chinese": "北极光是一种自然现象。"
+          },
+          {
+            "english": "Global warming is a pressing phenomenon of our time.",
+            "chinese": "全球变暖是当代紧迫的现象。"
+          }
+        ],
+        "synonyms": ["occurrence", "event"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "freight",
+    "pronunciation": "/freɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "freight",
+            "plural": "freights"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "freight",
+            "thirdPersonSingular": "freights",
+            "presentParticiple": "freighting",
+            "pastTense": "freighted",
+            "pastParticiple": "freighted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Goods transported in bulk by truck, train, ship, or aircraft.",
+        "chineseDefinition": "由卡车、火车、船或飞机批量运输的货物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The freight arrived at the port yesterday.",
+            "chinese": "货物昨天到达港口。"
+          },
+          {
+            "english": "They specialize in rail freight.",
+            "chinese": "他们专门从事铁路货运。"
+          }
+        ],
+        "synonyms": ["cargo", "shipment"],
+        "antonyms": []
+      },
+      {
+        "definition": "To transport goods in bulk.",
+        "chineseDefinition": "批量运输货物。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They freighted the supplies by air.",
+            "chinese": "他们通过空运运输这些物资。"
+          },
+          {
+            "english": "The company frequently freights coal to the port.",
+            "chinese": "这家公司经常将煤炭运到港口。"
+          }
+        ],
+        "synonyms": ["ship", "transport"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "vulnerable",
+    "pronunciation": "/ˈvʌlnərəbl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "vulnerable",
+            "comparative": "more vulnerable",
+            "superlative": "most vulnerable"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Exposed to the possibility of being attacked or harmed.",
+        "chineseDefinition": "暴露在被攻击或伤害的可能性之下。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Children are particularly vulnerable in this environment.",
+            "chinese": "儿童在这种环境中特别容易受到伤害。"
+          },
+          {
+            "english": "He felt vulnerable without his phone.",
+            "chinese": "没有手机他感到很不安。"
+          }
+        ],
+        "synonyms": ["unprotected", "susceptible"],
+        "antonyms": ["protected", "safe"]
+      }
+    ]
+  },
+  {
+    "word": "steam",
+    "pronunciation": "/stiːm/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "steam",
+            "plural": "steams"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "steam",
+            "thirdPersonSingular": "steams",
+            "presentParticiple": "steaming",
+            "pastTense": "steamed",
+            "pastParticiple": "steamed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The vapor into which water is converted when heated.",
+        "chineseDefinition": "水受热后转化成的蒸汽。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Steam rose from the boiling kettle.",
+            "chinese": "沸腾的水壶里冒出了蒸汽。"
+          },
+          {
+            "english": "The room filled with steam from the shower.",
+            "chinese": "浴室里充满了淋浴产生的蒸汽。"
+          }
+        ],
+        "synonyms": ["vapor"],
+        "antonyms": []
+      },
+      {
+        "definition": "To emit steam or to cook using steam.",
+        "chineseDefinition": "散发蒸汽或用蒸汽烹饪。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The vegetables are steaming on the stove.",
+            "chinese": "蔬菜正在炉子上蒸着。"
+          },
+          {
+            "english": "He steamed the dumplings for dinner.",
+            "chinese": "他蒸了饺子做晚饭。"
+          }
+        ],
+        "synonyms": ["vaporize", "cook"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "valuable",
+    "pronunciation": "/ˈvæljʊəbl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "valuable",
+            "comparative": "more valuable",
+            "superlative": "most valuable"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Worth a great deal of money or having a high value.",
+        "chineseDefinition": "价值高或极具价值。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "This ring is very valuable.",
+            "chinese": "这枚戒指非常贵重。"
+          },
+          {
+            "english": "She gave me some valuable advice.",
+            "chinese": "她给了我一些宝贵的建议。"
+          }
+        ],
+        "synonyms": ["precious", "costly"],
+        "antonyms": ["worthless", "cheap"]
+      }
+    ]
+  },
+  {
+    "word": "presumably",
+    "pronunciation": "/prɪˈzjuːməbli/",
+    "forms": [
+      {
+        "partOfSpeech": "adverb",
+        "form": {
+          "type": "invariable",
+          "data": "presumably"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Used to convey that what is asserted is very likely though not known for certain.",
+        "chineseDefinition": "用于表示所陈述的内容很可能是真实的，但不完全确定。",
+        "partOfSpeech": "adverb",
+        "examples": [
+          {
+            "english": "Presumably, he has already contacted her.",
+            "chinese": "他大概已经联系过她了。"
+          },
+          {
+            "english": "They will presumably arrive by noon.",
+            "chinese": "他们很可能在中午前到达。"
+          }
+        ],
+        "synonyms": ["probably", "likely"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "sanctuary",
+    "pronunciation": "/ˈsæŋktʃʊəri/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "sanctuary",
+            "plural": "sanctuaries"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A place of refuge or safety.",
+        "chineseDefinition": "避难所或安全的地方。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The church offered sanctuary to refugees.",
+            "chinese": "教堂为难民提供了庇护所。"
+          },
+          {
+            "english": "He found sanctuary in nature.",
+            "chinese": "他在大自然中找到了避难之处。"
+          }
+        ],
+        "synonyms": ["refuge", "haven"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "bring",
+    "pronunciation": "/brɪŋ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "bring",
+            "thirdPersonSingular": "brings",
+            "presentParticiple": "bringing",
+            "pastTense": "brought",
+            "pastParticiple": "brought"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To take or go with to a place, especially when coming towards the speaker.",
+        "chineseDefinition": "带到或前往某地，尤其是朝说话者方向。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Please bring me that book.",
+            "chinese": "请把那本书带给我。"
+          },
+          {
+            "english": "She brought her friend to the party.",
+            "chinese": "她带了朋友来参加聚会。"
+          }
+        ],
+        "synonyms": ["carry", "deliver"],
+        "antonyms": ["take away"]
+      }
+    ]
+  },
+  {
+    "word": "arithmetic",
+    "pronunciation": "/əˈrɪθmətɪk/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "arithmetic",
+            "plural": "arithmetics"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "arithmetic",
+            "comparative": "more arithmetic",
+            "superlative": "most arithmetic"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The branch of mathematics dealing with the properties and manipulation of numbers.",
+        "chineseDefinition": "处理数字属性和运算的数学分支。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He is good at arithmetic.",
+            "chinese": "他擅长算术。"
+          },
+          {
+            "english": "Arithmetic is the basis of many mathematical concepts.",
+            "chinese": "算术是许多数学概念的基础。"
+          }
+        ],
+        "synonyms": ["calculation"],
+        "antonyms": []
+      },
+      {
+        "definition": "Related to or involving arithmetic.",
+        "chineseDefinition": "与算术相关或包含算术的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "They solved the arithmetic problem quickly.",
+            "chinese": "他们很快地解决了算术问题。"
+          },
+          {
+            "english": "Arithmetic operations include addition and subtraction.",
+            "chinese": "算术运算包括加法和减法。"
+          }
+        ],
+        "synonyms": ["numerical"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "request",
+    "pronunciation": "/rɪˈkwɛst/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "request",
+            "plural": "requests"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "request",
+            "thirdPersonSingular": "requests",
+            "presentParticiple": "requesting",
+            "pastTense": "requested",
+            "pastParticiple": "requested"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An act of asking politely or formally for something.",
+        "chineseDefinition": "礼貌或正式地请求某事的行为。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They sent a request for more information.",
+            "chinese": "他们发出了索要更多信息的请求。"
+          },
+          {
+            "english": "Her request was granted immediately.",
+            "chinese": "她的请求被立即批准了。"
+          }
+        ],
+        "synonyms": ["appeal", "petition"],
+        "antonyms": []
+      },
+      {
+        "definition": "To politely or formally ask for something.",
+        "chineseDefinition": "礼貌或正式地请求某事。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "I request your assistance in this matter.",
+            "chinese": "我请求您在此事上提供帮助。"
+          },
+          {
+            "english": "We requested a meeting with the director.",
+            "chinese": "我们请求与主任会面。"
+          }
+        ],
+        "synonyms": ["ask for", "seek"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "dash",
+    "pronunciation": "/dæʃ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "dash",
+            "plural": "dashes"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "dash",
+            "thirdPersonSingular": "dashes",
+            "presentParticiple": "dashing",
+            "pastTense": "dashed",
+            "pastParticiple": "dashed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A quick run.",
+        "chineseDefinition": "一次快跑。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He made a dash for the exit.",
+            "chinese": "他冲向出口。"
+          },
+          {
+            "english": "The prisoner took a sudden dash to escape.",
+            "chinese": "囚犯突然冲刺以逃跑。"
+          }
+        ],
+        "synonyms": ["sprint", "run"],
+        "antonyms": []
+      },
+      {
+        "definition": "To run or travel somewhere in a great hurry.",
+        "chineseDefinition": "快速跑动或匆忙前往某地。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She dashed across the street.",
+            "chinese": "她飞奔穿过街道。"
+          },
+          {
+            "english": "He dashed home to get his wallet.",
+            "chinese": "他急忙跑回家去拿钱包。"
+          }
+        ],
+        "synonyms": ["rush", "sprint"],
+        "antonyms": []
+      }
+    ]
+  }
+]

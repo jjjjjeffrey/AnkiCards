@@ -1,0 +1,1247 @@
+[
+    {
+      "word": "treatment",
+      "pronunciation": "/ˈtriːtmənt/",
+      "forms": [
+        {
+          "partOfSpeech": "noun",
+          "form": {
+            "type": "noun",
+            "data": {
+              "singular": "treatment",
+              "plural": "treatments"
+            }
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "The medical care given to a patient for an illness or injury.",
+          "chineseDefinition": "针对疾病或伤害给予的医疗护理。",
+          "partOfSpeech": "noun",
+          "examples": [
+            {
+              "english": "He received treatment for his severe allergies.",
+              "chinese": "他为严重的过敏症接受了治疗。"
+            },
+            {
+              "english": "The hospital offers free treatment to children under five.",
+              "chinese": "这家医院为五岁以下儿童提供免费治疗。"
+            }
+          ],
+          "synonyms": [
+            "therapy",
+            "care"
+          ],
+          "antonyms": [
+            "neglect"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "coarse",
+      "pronunciation": "/kɔːrs/",
+      "forms": [
+        {
+          "partOfSpeech": "adjective",
+          "form": {
+            "type": "adjective",
+            "data": {
+              "base": "coarse",
+              "comparative": "coarser",
+              "superlative": "coarsest"
+            }
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "Rough or harsh in texture.",
+          "chineseDefinition": "质地粗糙或粗硬。",
+          "partOfSpeech": "adjective",
+          "examples": [
+            {
+              "english": "The fabric felt coarse against her skin.",
+              "chinese": "这种布料贴在她的皮肤上感觉很粗糙。"
+            },
+            {
+              "english": "He used coarse language in the argument.",
+              "chinese": "他在争吵中使用了粗鲁的语言。"
+            }
+          ],
+          "synonyms": [
+            "rough",
+            "harsh"
+          ],
+          "antonyms": [
+            "smooth"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "insecure",
+      "pronunciation": "/ˌɪnsɪˈkjʊr/",
+      "forms": [
+        {
+          "partOfSpeech": "adjective",
+          "form": {
+            "type": "adjective",
+            "data": {
+              "base": "insecure",
+              "comparative": "more insecure",
+              "superlative": "most insecure"
+            }
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "Not confident or assured; uncertain and anxious.",
+          "chineseDefinition": "不自信或不确定，感到焦虑。",
+          "partOfSpeech": "adjective",
+          "examples": [
+            {
+              "english": "She felt insecure about her performance.",
+              "chinese": "她对自己的表现感到不安。"
+            },
+            {
+              "english": "The door lock was insecure, so we replaced it.",
+              "chinese": "门锁不牢固，所以我们把它换了。"
+            }
+          ],
+          "synonyms": [
+            "uncertain",
+            "unstable"
+          ],
+          "antonyms": [
+            "confident"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "linen",
+      "pronunciation": "/ˈlɪn.ɪn/",
+      "forms": [
+        {
+          "partOfSpeech": "noun",
+          "form": {
+            "type": "noun",
+            "data": {
+              "singular": "linen",
+              "plural": "linens"
+            }
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "Cloth woven from flax.",
+          "chineseDefinition": "用亚麻纤维编织的布料。",
+          "partOfSpeech": "noun",
+          "examples": [
+            {
+              "english": "Her dress was made of fine linen.",
+              "chinese": "她的连衣裙是用优质亚麻布做的。"
+            },
+            {
+              "english": "Hotels usually provide fresh linen daily.",
+              "chinese": "酒店通常每天提供干净的床单。"
+            }
+          ],
+          "synonyms": [
+            "flax cloth",
+            "bedclothes"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "word": "inspiration",
+      "pronunciation": "/ˌɪn.spəˈreɪ.ʃən/",
+      "forms": [
+        {
+          "partOfSpeech": "noun",
+          "form": {
+            "type": "noun",
+            "data": {
+              "singular": "inspiration",
+              "plural": "inspirations"
+            }
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "The process of being mentally stimulated to do or feel something, especially something creative.",
+          "chineseDefinition": "心灵受到启发去做某事或产生某种感觉的过程，尤其是创造性的。",
+          "partOfSpeech": "noun",
+          "examples": [
+            {
+              "english": "Her paintings were a source of inspiration to many.",
+              "chinese": "她的画作对许多人来说是灵感的来源。"
+            },
+            {
+              "english": "The music provided inspiration for his writing.",
+              "chinese": "那段音乐为他的写作提供了灵感。"
+            }
+          ],
+          "synonyms": [
+            "encouragement",
+            "motivation"
+          ],
+          "antonyms": [
+            "discouragement"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "generous",
+      "pronunciation": "/ˈdʒenərəs/",
+      "forms": [
+        {
+          "partOfSpeech": "adjective",
+          "form": {
+            "type": "adjective",
+            "data": {
+              "base": "generous",
+              "comparative": "more generous",
+              "superlative": "most generous"
+            }
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "Showing a readiness to give more of something than is strictly necessary or expected.",
+          "chineseDefinition": "显示出比必要或期望更多地给予某物。",
+          "partOfSpeech": "adjective",
+          "examples": [
+            {
+              "english": "He was generous with his time, always willing to help.",
+              "chinese": "他很慷慨地付出时间，总是愿意帮助人。"
+            },
+            {
+              "english": "They made a generous donation to the charity.",
+              "chinese": "他们向慈善机构捐赠了大笔款项。"
+            }
+          ],
+          "synonyms": [
+            "kind",
+            "openhanded"
+          ],
+          "antonyms": [
+            "stingy"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cultivate",
+      "pronunciation": "/ˈkʌltɪveɪt/",
+      "forms": [
+        {
+          "partOfSpeech": "verb",
+          "form": {
+            "type": "verb",
+            "data": {
+              "base": "cultivate",
+              "thirdPersonSingular": "cultivates",
+              "presentParticiple": "cultivating",
+              "pastTense": "cultivated",
+              "pastParticiple": "cultivated"
+            }
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "Prepare and use land for crops or gardening.",
+          "chineseDefinition": "整理和使用土地来种植作物或进行园艺。",
+          "partOfSpeech": "verb",
+          "examples": [
+            {
+              "english": "Farmers cultivate the land to produce food.",
+              "chinese": "农民耕种土地来生产粮食。"
+            },
+            {
+              "english": "He decided to cultivate his garden with vegetables.",
+              "chinese": "他决定在花园里种植蔬菜。"
+            }
+          ],
+          "synonyms": [
+            "farm",
+            "grow"
+          ],
+          "antonyms": [
+            "neglect"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "campaign",
+      "pronunciation": "/kæmˈpeɪn/",
+      "forms": [
+        {
+          "partOfSpeech": "noun",
+          "form": {
+            "type": "noun",
+            "data": {
+              "singular": "campaign",
+              "plural": "campaigns"
+            }
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "An organized course of action to achieve a goal.",
+          "chineseDefinition": "为实现目标而采取的有组织的行动。",
+          "partOfSpeech": "noun",
+          "examples": [
+            {
+              "english": "They launched a campaign to raise environmental awareness.",
+              "chinese": "他们发起了一场提高环保意识的运动。"
+            },
+            {
+              "english": "The election campaign lasted for several months.",
+              "chinese": "选举活动持续了好几个月。"
+            }
+          ],
+          "synonyms": [
+            "drive",
+            "movement"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "word": "disorder",
+      "pronunciation": "/dɪsˈɔːrdər/",
+      "forms": [
+        {
+          "partOfSpeech": "noun",
+          "form": {
+            "type": "noun",
+            "data": {
+              "singular": "disorder",
+              "plural": "disorders"
+            }
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "A state of confusion; a lack of order or organization.",
+          "chineseDefinition": "混乱的状态；缺乏秩序或组织。",
+          "partOfSpeech": "noun",
+          "examples": [
+            {
+              "english": "His desk was in complete disorder.",
+              "chinese": "他的桌子一片凌乱。"
+            },
+            {
+              "english": "The protest escalated into disorder.",
+              "chinese": "抗议升级为骚乱。"
+            }
+          ],
+          "synonyms": [
+            "mess",
+            "chaos"
+          ],
+          "antonyms": [
+            "order"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "spot",
+      "pronunciation": "/spɒt/",
+      "forms": [
+        {
+          "partOfSpeech": "noun",
+          "form": {
+            "type": "noun",
+            "data": {
+              "singular": "spot",
+              "plural": "spots"
+            }
+          }
+        },
+        {
+          "partOfSpeech": "verb",
+          "form": {
+            "type": "verb",
+            "data": {
+              "base": "spot",
+              "thirdPersonSingular": "spots",
+              "presentParticiple": "spotting",
+              "pastTense": "spotted",
+              "pastParticiple": "spotted"
+            }
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "A particular place or point.",
+          "chineseDefinition": "特定的地方或点。",
+          "partOfSpeech": "noun",
+          "examples": [
+            {
+              "english": "This is a nice spot for a picnic.",
+              "chinese": "这里是野餐的好地方。"
+            },
+            {
+              "english": "He found a perfect spot to fish by the river.",
+              "chinese": "他在河边找到一个钓鱼的好地方。"
+            }
+          ],
+          "synonyms": [
+            "location",
+            "place"
+          ],
+          "antonyms": []
+        },
+        {
+          "definition": "To see, notice, or recognize (someone or something).",
+          "chineseDefinition": "看到、注意到或认出（某人或某物）。",
+          "partOfSpeech": "verb",
+          "examples": [
+            {
+              "english": "I spotted him in the crowd.",
+              "chinese": "我在人群中看到了他。"
+            },
+            {
+              "english": "She quickly spotted the error in the report.",
+              "chinese": "她很快发现了报告中的错误。"
+            }
+          ],
+          "synonyms": [
+            "notice",
+            "detect"
+          ],
+          "antonyms": [
+            "overlook"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "outcome",
+      "pronunciation": "/ˈaʊt.kʌm/",
+      "forms": [
+        {
+          "partOfSpeech": "noun",
+          "form": {
+            "type": "noun",
+            "data": {
+              "singular": "outcome",
+              "plural": "outcomes"
+            }
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "The way a thing turns out; a consequence.",
+          "chineseDefinition": "事情的结果；后果。",
+          "partOfSpeech": "noun",
+          "examples": [
+            {
+              "english": "We are waiting for the final outcome of the negotiation.",
+              "chinese": "我们正在等待谈判的最终结果。"
+            },
+            {
+              "english": "Her research influenced the study's outcome.",
+              "chinese": "她的研究影响了该研究的结果。"
+            }
+          ],
+          "synonyms": [
+            "result",
+            "consequence"
+          ],
+          "antonyms": [
+            "cause"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "aggravate",
+      "pronunciation": "/ˈæɡ.rə.veɪt/",
+      "forms": [
+        {
+          "partOfSpeech": "verb",
+          "form": {
+            "type": "verb",
+            "data": {
+              "base": "aggravate",
+              "thirdPersonSingular": "aggravates",
+              "presentParticiple": "aggravating",
+              "pastTense": "aggravated",
+              "pastParticiple": "aggravated"
+            }
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "Make (a problem, injury, or offense) worse or more serious.",
+          "chineseDefinition": "使（问题、伤害或罪行）变得更糟或更严重。",
+          "partOfSpeech": "verb",
+          "examples": [
+            {
+              "english": "Running will only aggravate your knee injury.",
+              "chinese": "跑步只会加重你的膝伤。"
+            },
+            {
+              "english": "Their constant arguing aggravated the tension in the room.",
+              "chinese": "他们不断的争吵加剧了房间里的紧张气氛。"
+            }
+          ],
+          "synonyms": [
+            "worsen",
+            "exacerbate"
+          ],
+          "antonyms": [
+            "improve"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "deception",
+      "pronunciation": "/dɪˈsep.ʃən/",
+      "forms": [
+        {
+          "partOfSpeech": "noun",
+          "form": {
+            "type": "noun",
+            "data": {
+              "singular": "deception",
+              "plural": "deceptions"
+            }
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "The action of deceiving someone.",
+          "chineseDefinition": "欺骗某人的行为。",
+          "partOfSpeech": "noun",
+          "examples": [
+            {
+              "english": "Her deception was eventually uncovered.",
+              "chinese": "她的骗局最终被揭穿。"
+            },
+            {
+              "english": "He used deception to gain their trust.",
+              "chinese": "他利用欺骗赢得了他们的信任。"
+            }
+          ],
+          "synonyms": [
+            "fraud",
+            "trickery"
+          ],
+          "antonyms": [
+            "honesty"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "sharpen",
+      "pronunciation": "/ˈʃɑːr.pən/",
+      "forms": [
+        {
+          "partOfSpeech": "verb",
+          "form": {
+            "type": "verb",
+            "data": {
+              "base": "sharpen",
+              "thirdPersonSingular": "sharpens",
+              "presentParticiple": "sharpening",
+              "pastTense": "sharpened",
+              "pastParticiple": "sharpened"
+            }
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "Make or become sharp.",
+          "chineseDefinition": "使变得锋利或变得锋利。",
+          "partOfSpeech": "verb",
+          "examples": [
+            {
+              "english": "He used a whetstone to sharpen the knife.",
+              "chinese": "他用磨刀石把刀磨锋利。"
+            },
+            {
+              "english": "Her criticism helped sharpen his writing skills.",
+              "chinese": "她的批评帮助他提升了写作技巧。"
+            }
+          ],
+          "synonyms": [
+            "hone",
+            "whet"
+          ],
+          "antonyms": [
+            "dull"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "practical",
+      "pronunciation": "/ˈpræk.tɪ.kəl/",
+      "forms": [
+        {
+          "partOfSpeech": "adjective",
+          "form": {
+            "type": "adjective",
+            "data": {
+              "base": "practical",
+              "comparative": "more practical",
+              "superlative": "most practical"
+            }
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "Of or concerned with the actual doing or use of something rather than with theory and ideas.",
+          "chineseDefinition": "与实际操作或使用有关，而不是与理论和想法。",
+          "partOfSpeech": "adjective",
+          "examples": [
+            {
+              "english": "She has a very practical approach to solving problems.",
+              "chinese": "她解决问题的方法非常务实。"
+            },
+            {
+              "english": "These shoes are more practical than fashionable.",
+              "chinese": "这双鞋更实用而不那么时尚。"
+            }
+          ],
+          "synonyms": [
+            "realistic",
+            "functional"
+          ],
+          "antonyms": [
+            "impractical"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pliable",
+      "pronunciation": "/ˈplaɪ.ə.bəl/",
+      "forms": [
+        {
+          "partOfSpeech": "adjective",
+          "form": {
+            "type": "adjective",
+            "data": {
+              "base": "pliable",
+              "comparative": "more pliable",
+              "superlative": "most pliable"
+            }
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "Easily bent; flexible.",
+          "chineseDefinition": "容易弯曲；柔韧性好。",
+          "partOfSpeech": "adjective",
+          "examples": [
+            {
+              "english": "The metal is pliable when heated.",
+              "chinese": "这种金属加热后很容易弯曲。"
+            },
+            {
+              "english": "Leather becomes more pliable after treatment.",
+              "chinese": "皮革经过处理后会更加柔软。"
+            }
+          ],
+          "synonyms": [
+            "flexible",
+            "bendable"
+          ],
+          "antonyms": [
+            "stiff"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "disposal",
+      "pronunciation": "/dɪˈspəʊ.zəl/",
+      "forms": [
+        {
+          "partOfSpeech": "noun",
+          "form": {
+            "type": "noun",
+            "data": {
+              "singular": "disposal",
+              "plural": "disposals"
+            }
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "The action or process of getting rid of something.",
+          "chineseDefinition": "丢弃某物的行为或过程。",
+          "partOfSpeech": "noun",
+          "examples": [
+            {
+              "english": "Proper disposal of waste is essential for the environment.",
+              "chinese": "正确处理垃圾对环境至关重要。"
+            },
+            {
+              "english": "We have a recycling bin for the disposal of plastic bottles.",
+              "chinese": "我们有一个回收箱用来处理塑料瓶。"
+            }
+          ],
+          "synonyms": [
+            "removal",
+            "elimination"
+          ],
+          "antonyms": [
+            "retention"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "subsidiary",
+      "pronunciation": "/səbˈsɪd.i.eri/",
+      "forms": [
+        {
+          "partOfSpeech": "adjective",
+          "form": {
+            "type": "adjective",
+            "data": {
+              "base": "subsidiary",
+              "comparative": "more subsidiary",
+              "superlative": "most subsidiary"
+            }
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "Less important than but related or supplementary to something.",
+          "chineseDefinition": "比某事物重要性低，但与之相关或补充的。",
+          "partOfSpeech": "adjective",
+          "examples": [
+            {
+              "english": "They set up a subsidiary office in a neighboring city.",
+              "chinese": "他们在邻近的城市设立了一个附属办公室。"
+            },
+            {
+              "english": "Subsidiary details can be found in the appendix.",
+              "chinese": "附加细节可见于附录。"
+            }
+          ],
+          "synonyms": [
+            "secondary",
+            "auxiliary"
+          ],
+          "antonyms": [
+            "primary"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "cautious",
+      "pronunciation": "/ˈkɔː.ʃəs/",
+      "forms": [
+        {
+          "partOfSpeech": "adjective",
+          "form": {
+            "type": "adjective",
+            "data": {
+              "base": "cautious",
+              "comparative": "more cautious",
+              "superlative": "most cautious"
+            }
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "Careful to avoid potential problems or dangers.",
+          "chineseDefinition": "小心避免潜在的问题或危险。",
+          "partOfSpeech": "adjective",
+          "examples": [
+            {
+              "english": "He was cautious when driving on icy roads.",
+              "chinese": "他在结冰的道路上开车时很谨慎。"
+            },
+            {
+              "english": "She is cautious about investing money in new ventures.",
+              "chinese": "她在投资新项目时很谨慎。"
+            }
+          ],
+          "synonyms": [
+            "careful",
+            "guarded"
+          ],
+          "antonyms": [
+            "reckless"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pattern",
+      "pronunciation": "/ˈpæt.ən/",
+      "forms": [
+        {
+          "partOfSpeech": "noun",
+          "form": {
+            "type": "noun",
+            "data": {
+              "singular": "pattern",
+              "plural": "patterns"
+            }
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "A repeated decorative design.",
+          "chineseDefinition": "反复出现的装饰性图案。",
+          "partOfSpeech": "noun",
+          "examples": [
+            {
+              "english": "The wallpaper has a floral pattern.",
+              "chinese": "这款壁纸有花朵图案。"
+            },
+            {
+              "english": "She noticed a pattern in his behavior.",
+              "chinese": "她注意到他行为中的一种规律。"
+            }
+          ],
+          "synonyms": [
+            "design",
+            "arrangement"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "word": "terrain",
+      "pronunciation": "/təˈreɪn/",
+      "forms": [
+        {
+          "partOfSpeech": "noun",
+          "form": {
+            "type": "noun",
+            "data": {
+              "singular": "terrain",
+              "plural": "terrains"
+            }
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "A stretch of land, especially with regard to its physical features.",
+          "chineseDefinition": "一片土地，尤其是就其地形特征而言。",
+          "partOfSpeech": "noun",
+          "examples": [
+            {
+              "english": "The hilly terrain was difficult to navigate.",
+              "chinese": "丘陵地形很难行走。"
+            },
+            {
+              "english": "They tested the vehicle on rough terrain.",
+              "chinese": "他们在崎岖地形上测试了这辆车。"
+            }
+          ],
+          "synonyms": [
+            "landscape",
+            "topography"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "word": "darkroom",
+      "pronunciation": "/ˈdɑːrk.ruːm/",
+      "forms": [
+        {
+          "partOfSpeech": "noun",
+          "form": {
+            "type": "noun",
+            "data": {
+              "singular": "darkroom",
+              "plural": "darkrooms"
+            }
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "A room from which normal light is excluded, used for developing photographic film and prints.",
+          "chineseDefinition": "排除正常光线的房间，用于冲洗胶片和照片。",
+          "partOfSpeech": "noun",
+          "examples": [
+            {
+              "english": "He spent hours in the darkroom developing film.",
+              "chinese": "他在暗房里花了好几个小时冲洗胶片。"
+            },
+            {
+              "english": "Darkroom conditions must be carefully controlled.",
+              "chinese": "暗房环境必须得到严格控制。"
+            }
+          ],
+          "synonyms": [
+            "photo lab"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "word": "kneel",
+      "pronunciation": "/niːl/",
+      "forms": [
+        {
+          "partOfSpeech": "verb",
+          "form": {
+            "type": "verb",
+            "data": {
+              "base": "kneel",
+              "thirdPersonSingular": "kneels",
+              "presentParticiple": "kneeling",
+              "pastTense": "knelt",
+              "pastParticiple": "knelt"
+            }
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "Be in or assume a position in which the body is supported by a knee or the knees.",
+          "chineseDefinition": "处于或采取用膝盖支撑身体的姿势。",
+          "partOfSpeech": "verb",
+          "examples": [
+            {
+              "english": "They asked us to kneel during the ceremony.",
+              "chinese": "他们要求我们在仪式上跪下。"
+            },
+            {
+              "english": "She had to kneel to reach the lower shelf.",
+              "chinese": "她得下跪才能够到下面的架子。"
+            }
+          ],
+          "synonyms": [
+            "genuflect",
+            "bend down"
+          ],
+          "antonyms": [
+            "stand"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "overwhelm",
+      "pronunciation": "/ˌoʊ.vɚˈwelm/",
+      "forms": [
+        {
+          "partOfSpeech": "verb",
+          "form": {
+            "type": "verb",
+            "data": {
+              "base": "overwhelm",
+              "thirdPersonSingular": "overwhelms",
+              "presentParticiple": "overwhelming",
+              "pastTense": "overwhelmed",
+              "pastParticiple": "overwhelmed"
+            }
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "Bury or drown beneath a huge mass.",
+          "chineseDefinition": "被大规模埋没或淹没。",
+          "partOfSpeech": "verb",
+          "examples": [
+            {
+              "english": "The flood could overwhelm the small town.",
+              "chinese": "洪水可能淹没这个小镇。"
+            },
+            {
+              "english": "She felt overwhelmed by the amount of work.",
+              "chinese": "她对繁重的工作量感到不知所措。"
+            }
+          ],
+          "synonyms": [
+            "swamp",
+            "overpower"
+          ],
+          "antonyms": [
+            "underwhelm"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "contempt",
+      "pronunciation": "/kənˈtempt/",
+      "forms": [
+        {
+          "partOfSpeech": "noun",
+          "form": {
+            "type": "noun",
+            "data": {
+              "singular": "contempt",
+              "plural": "contempts"
+            }
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "The feeling that a person or a thing is beneath consideration, worthless, or deserving scorn.",
+          "chineseDefinition": "认为某人或某事物不值一提、毫无价值或应该受到蔑视的感觉。",
+          "partOfSpeech": "noun",
+          "examples": [
+            {
+              "english": "He showed contempt for their outdated traditions.",
+              "chinese": "他对他们的过时传统表现出蔑视。"
+            },
+            {
+              "english": "She spoke with contempt in her voice.",
+              "chinese": "她的语气中带有轻蔑。"
+            }
+          ],
+          "synonyms": [
+            "scorn",
+            "disdain"
+          ],
+          "antonyms": [
+            "respect"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "recognize",
+      "pronunciation": "/ˈrɛk.əɡ.naɪz/",
+      "forms": [
+        {
+          "partOfSpeech": "verb",
+          "form": {
+            "type": "verb",
+            "data": {
+              "base": "recognize",
+              "thirdPersonSingular": "recognizes",
+              "presentParticiple": "recognizing",
+              "pastTense": "recognized",
+              "pastParticiple": "recognized"
+            }
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "Identify someone or something from having encountered them before.",
+          "chineseDefinition": "从之前的接触或经历中辨认出某人或某事物。",
+          "partOfSpeech": "verb",
+          "examples": [
+            {
+              "english": "I couldn't recognize him after all these years.",
+              "chinese": "隔了这么多年，我认不出他来了。"
+            },
+            {
+              "english": "She recognized the song from the first few notes.",
+              "chinese": "她从前几个音就认出了这首歌。"
+            }
+          ],
+          "synonyms": [
+            "identify",
+            "acknowledge"
+          ],
+          "antonyms": [
+            "ignore"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "badge",
+      "pronunciation": "/bædʒ/",
+      "forms": [
+        {
+          "partOfSpeech": "noun",
+          "form": {
+            "type": "noun",
+            "data": {
+              "singular": "badge",
+              "plural": "badges"
+            }
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "A small piece of metal, plastic, or cloth worn to show rank, membership, achievement, etc.",
+          "chineseDefinition": "显示等级、成员身份、成就等的小块金属、塑料或布料。",
+          "partOfSpeech": "noun",
+          "examples": [
+            {
+              "english": "She wore a name badge at the conference.",
+              "chinese": "她在会议上佩戴了名牌。"
+            },
+            {
+              "english": "He earned a badge for his volunteer work.",
+              "chinese": "他因志愿者工作而获得了一枚徽章。"
+            }
+          ],
+          "synonyms": [
+            "emblem",
+            "pin"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "word": "economic",
+      "pronunciation": "/ˌiː.kəˈnɒm.ɪk/",
+      "forms": [
+        {
+          "partOfSpeech": "adjective",
+          "form": {
+            "type": "adjective",
+            "data": {
+              "base": "economic",
+              "comparative": "more economic",
+              "superlative": "most economic"
+            }
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "Relating to economics or the economy.",
+          "chineseDefinition": "与经济或经济学相关。",
+          "partOfSpeech": "adjective",
+          "examples": [
+            {
+              "english": "The country's economic growth has slowed.",
+              "chinese": "这个国家的经济增长放缓了。"
+            },
+            {
+              "english": "They are discussing economic policies.",
+              "chinese": "他们正在讨论经济政策。"
+            }
+          ],
+          "synonyms": [
+            "financial",
+            "monetary"
+          ],
+          "antonyms": []
+        }
+      ]
+    },
+    {
+      "word": "feeble",
+      "pronunciation": "/ˈfiː.bəl/",
+      "forms": [
+        {
+          "partOfSpeech": "adjective",
+          "form": {
+            "type": "adjective",
+            "data": {
+              "base": "feeble",
+              "comparative": "feebler",
+              "superlative": "feeblest"
+            }
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "Lacking physical strength, especially as a result of age or illness.",
+          "chineseDefinition": "缺乏体力，尤其是由于年龄或疾病的原因。",
+          "partOfSpeech": "adjective",
+          "examples": [
+            {
+              "english": "He was too feeble to stand without assistance.",
+              "chinese": "他虚弱到无法独立站立。"
+            },
+            {
+              "english": "She gave a feeble excuse for being late.",
+              "chinese": "她为迟到找了一个牵强的理由。"
+            }
+          ],
+          "synonyms": [
+            "weak",
+            "frail"
+          ],
+          "antonyms": [
+            "strong"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "virtue",
+      "pronunciation": "/ˈvɜːr.tʃuː/",
+      "forms": [
+        {
+          "partOfSpeech": "noun",
+          "form": {
+            "type": "noun",
+            "data": {
+              "singular": "virtue",
+              "plural": "virtues"
+            }
+          }
+        }
+      ],
+      "meanings": [
+        {
+          "definition": "Behavior showing high moral standards.",
+          "chineseDefinition": "展现高道德标准的行为。",
+          "partOfSpeech": "noun",
+          "examples": [
+            {
+              "english": "Patience is a virtue.",
+              "chinese": "耐心是一种美德。"
+            },
+            {
+              "english": "She is a person of great virtue and honesty.",
+              "chinese": "她是一个非常有美德和诚实的人。"
+            }
+          ],
+          "synonyms": [
+            "goodness",
+            "integrity"
+          ],
+          "antonyms": [
+            "vice"
+          ]
+        }
+      ]
+    }
+]

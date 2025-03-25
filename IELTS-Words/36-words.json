@@ -1,0 +1,1285 @@
+[
+  {
+    "word": "shrink",
+    "pronunciation": "/ʃrɪŋk/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "shrink",
+            "plural": "shrinks"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "shrink",
+            "thirdPersonSingular": "shrinks",
+            "presentParticiple": "shrinking",
+            "pastTense": "shrank",
+            "pastParticiple": "shrunk"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To become or make smaller in size or amount.",
+        "chineseDefinition": "使尺寸或数量变小。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "These jeans tend to shrink in the dryer.",
+            "chinese": "这条牛仔裤在烘干机中会缩水。"
+          }
+        ],
+        "synonyms": ["contract"],
+        "antonyms": ["expand"]
+      },
+      {
+        "definition": "A clinical psychologist or psychiatrist (slang).",
+        "chineseDefinition": "临床心理学家或精神科医生（俚语）。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "I'm seeing a shrink to help with stress.",
+            "chinese": "我正在看心理医生来缓解压力。"
+          }
+        ],
+        "synonyms": ["therapist"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "gland",
+    "pronunciation": "/ɡlænd/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "gland",
+            "plural": "glands"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An organ in the body that secretes chemical substances.",
+        "chineseDefinition": "身体中分泌化学物质的器官。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The pituitary gland is often called the master gland.",
+            "chinese": "脑下垂体通常被称为“主导腺”。"
+          }
+        ],
+        "synonyms": ["organ"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "curriculum",
+    "pronunciation": "/kəˈrɪkjələm/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "curriculum",
+            "plural": "curricula"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The subjects comprising a course of study in a school or college.",
+        "chineseDefinition": "学校或学院课程学习包含的学科。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The university curriculum covers both theory and practice.",
+            "chinese": "该大学课程包括了理论和实践。"
+          }
+        ],
+        "synonyms": ["syllabus"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "shortage",
+    "pronunciation": "/ˈʃɔːrtɪdʒ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "shortage",
+            "plural": "shortages"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A state or situation in which something needed cannot be obtained in sufficient amounts.",
+        "chineseDefinition": "某种需要的东西不足或无法获得足够数量的情况。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "There is a shortage of fresh water in the region.",
+            "chinese": "该地区缺乏淡水。"
+          }
+        ],
+        "synonyms": ["lack"],
+        "antonyms": ["surplus"]
+      }
+    ]
+  },
+  {
+    "word": "accreditation",
+    "pronunciation": "/əˌkrɛdɪˈteɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "accreditation",
+            "plural": "accreditations"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The action or process of officially recognizing someone as having a particular status or being qualified to perform a particular activity.",
+        "chineseDefinition": "正式承认某人具有特定地位或资格的行为或过程。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The university received accreditation from the education board.",
+            "chinese": "该大学获得了教育委员会的认证。"
+          }
+        ],
+        "synonyms": ["certification"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "clerk",
+    "pronunciation": "/klɜːrk/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "clerk",
+            "plural": "clerks"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "clerk",
+            "thirdPersonSingular": "clerks",
+            "presentParticiple": "clerking",
+            "pastTense": "clerked",
+            "pastParticiple": "clerked"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person employed in an office or bank to keep records, accounts, and undertake other routine administrative duties.",
+        "chineseDefinition": "在办公室或银行里从事记录、账目和其他日常行政工作的人员。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She works as a clerk in a law firm.",
+            "chinese": "她在一家律师事务所当职员。"
+          }
+        ],
+        "synonyms": ["office worker"],
+        "antonyms": []
+      },
+      {
+        "definition": "To work as a clerk, performing administrative or record-keeping duties.",
+        "chineseDefinition": "从事职员工作，执行行政或记录工作。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He clerked for a judge after law school.",
+            "chinese": "法学院毕业后他为一位法官做书记员。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "attach",
+    "pronunciation": "/əˈtætʃ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "attach",
+            "thirdPersonSingular": "attaches",
+            "presentParticiple": "attaching",
+            "pastTense": "attached",
+            "pastParticiple": "attached"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To fasten, join, or connect something.",
+        "chineseDefinition": "固定、连接或与某物相连。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Please attach the documents to your email.",
+            "chinese": "请将文件附在你的电子邮件中。"
+          }
+        ],
+        "synonyms": ["connect", "fasten"],
+        "antonyms": ["detach"]
+      }
+    ]
+  },
+  {
+    "word": "flip",
+    "pronunciation": "/flɪp/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "flip",
+            "thirdPersonSingular": "flips",
+            "presentParticiple": "flipping",
+            "pastTense": "flipped",
+            "pastParticiple": "flipped"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "flip",
+            "plural": "flips"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "flip",
+            "comparative": "flipper",
+            "superlative": "flippest"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To turn over or cause to turn over with a sudden quick movement.",
+        "chineseDefinition": "用快速动作翻转或使翻转。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He flipped the omelet in the pan.",
+            "chinese": "他在平底锅里翻转煎蛋饼。"
+          }
+        ],
+        "synonyms": ["turn over", "toss"],
+        "antonyms": []
+      },
+      {
+        "definition": "A movement in which someone or something turns over in the air.",
+        "chineseDefinition": "某人或某物在空中翻转的动作。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He did a back flip on the trampoline.",
+            "chinese": "他在蹦床上做了个后空翻。"
+          }
+        ],
+        "synonyms": ["somersault"],
+        "antonyms": []
+      },
+      {
+        "definition": "Marked by casual disrespect or irreverence; flippant.",
+        "chineseDefinition": "表现出随意的不敬或轻率；轻浮。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "His flip response irritated the teacher.",
+            "chinese": "他轻率的回答激怒了老师。"
+          }
+        ],
+        "synonyms": ["flippant"],
+        "antonyms": ["serious"]
+      }
+    ]
+  },
+  {
+    "word": "comment",
+    "pronunciation": "/ˈkɑːment/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "comment",
+            "plural": "comments"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "comment",
+            "thirdPersonSingular": "comments",
+            "presentParticiple": "commenting",
+            "pastTense": "commented",
+            "pastParticiple": "commented"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A verbal or written remark expressing an opinion or reaction.",
+        "chineseDefinition": "表达意见或反应的口头或书面评论。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She left a comment under the blog post.",
+            "chinese": "她在博文下留下了评论。"
+          }
+        ],
+        "synonyms": ["remark"],
+        "antonyms": []
+      },
+      {
+        "definition": "To express an opinion or reaction in speech or writing.",
+        "chineseDefinition": "以口头或书面形式表达意见或反应。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He commented that the plan was unrealistic.",
+            "chinese": "他评论说这个计划不切实际。"
+          }
+        ],
+        "synonyms": ["remark"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "emphasize",
+    "pronunciation": "/ˈemfəsaɪz/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "emphasize",
+            "thirdPersonSingular": "emphasizes",
+            "presentParticiple": "emphasizing",
+            "pastTense": "emphasized",
+            "pastParticiple": "emphasized"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To give special importance or value to something in speaking or writing.",
+        "chineseDefinition": "在口头或书面表达中给予某事特殊重要性或价值。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She emphasized the need for better communication.",
+            "chinese": "她强调了加强沟通的必要性。"
+          }
+        ],
+        "synonyms": ["stress", "highlight"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "flame",
+    "pronunciation": "/fleɪm/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "flame",
+            "plural": "flames"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "flame",
+            "thirdPersonSingular": "flames",
+            "presentParticiple": "flaming",
+            "pastTense": "flamed",
+            "pastParticiple": "flamed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The visible, gaseous part of a fire.",
+        "chineseDefinition": "火可见的气体部分。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The flame flickered in the wind.",
+            "chinese": "火焰在风中摇曳。"
+          }
+        ],
+        "synonyms": ["blaze"],
+        "antonyms": []
+      },
+      {
+        "definition": "To burn and give off flames.",
+        "chineseDefinition": "燃烧并产生火焰。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The torch flamed brightly in the darkness.",
+            "chinese": "火炬在黑暗中明亮地燃烧。"
+          }
+        ],
+        "synonyms": ["blaze", "ignite"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "foresee",
+    "pronunciation": "/fɔːrˈsiː/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "foresee",
+            "thirdPersonSingular": "foresees",
+            "presentParticiple": "foreseeing",
+            "pastTense": "foresaw",
+            "pastParticiple": "foreseen"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To be aware of beforehand; to predict or expect.",
+        "chineseDefinition": "事先意识到；预测或期望。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "No one could foresee the negative outcome.",
+            "chinese": "没有人能预见到负面结果。"
+          }
+        ],
+        "synonyms": ["predict", "anticipate"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "historic",
+    "pronunciation": "/hɪˈstɔːrɪk/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "historic",
+            "comparative": "more historic",
+            "superlative": "most historic"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Famous or important in history.",
+        "chineseDefinition": "在历史上著名或重要的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "This is a historic moment for the nation.",
+            "chinese": "这是一个对国家而言具有历史意义的时刻。"
+          }
+        ],
+        "synonyms": ["significant", "momentous"],
+        "antonyms": ["trivial"]
+      }
+    ]
+  },
+  {
+    "word": "provision",
+    "pronunciation": "/prəˈvɪʒən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "provision",
+            "plural": "provisions"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "provision",
+            "thirdPersonSingular": "provisions",
+            "presentParticiple": "provisioning",
+            "pastTense": "provisioned",
+            "pastParticiple": "provisioned"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The action of providing or supplying something for use.",
+        "chineseDefinition": "提供或供应某物以供使用的行为。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The provision of food and water was critical after the disaster.",
+            "chinese": "灾难后食物和水的供应至关重要。"
+          }
+        ],
+        "synonyms": ["supply"],
+        "antonyms": []
+      },
+      {
+        "definition": "To supply with food, drink, or equipment.",
+        "chineseDefinition": "提供食物、饮料或装备。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They provisioned the expedition for a month.",
+            "chinese": "他们为探险队准备了一个月的补给。"
+          }
+        ],
+        "synonyms": ["equip"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "president",
+    "pronunciation": "/ˈprɛzɪdənt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "president",
+            "plural": "presidents"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The elected head of a republican state.",
+        "chineseDefinition": "共和制国家的民选领导人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The president addressed the nation on live television.",
+            "chinese": "总统通过电视直播向全国发表讲话。"
+          }
+        ],
+        "synonyms": ["head of state"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "internist",
+    "pronunciation": "/ˈɪntərnɪst/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "internist",
+            "plural": "internists"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A doctor who specializes in internal medicine.",
+        "chineseDefinition": "专门从事内科医疗的医生。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She works as an internist at the local hospital.",
+            "chinese": "她在当地医院担任内科医生。"
+          }
+        ],
+        "synonyms": ["physician"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "reception",
+    "pronunciation": "/rɪˈsɛpʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "reception",
+            "plural": "receptions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The action or process of receiving something sent, given, or inflicted.",
+        "chineseDefinition": "接收、接受或受到寄送、给予或施加的事物的行为或过程。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The reception of the new policy by the public was mixed.",
+            "chinese": "公众对新政策的反应不一。"
+          }
+        ],
+        "synonyms": ["acceptance"],
+        "antonyms": []
+      },
+      {
+        "definition": "A formal social occasion held to welcome someone or to celebrate an event.",
+        "chineseDefinition": "欢迎某人或庆祝某事件而举办的正式社交场合。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They held a wedding reception at the hotel.",
+            "chinese": "他们在酒店举办了婚礼招待会。"
+          }
+        ],
+        "synonyms": ["party", "gathering"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "suspend",
+    "pronunciation": "/səˈspɛnd/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "suspend",
+            "thirdPersonSingular": "suspends",
+            "presentParticiple": "suspending",
+            "pastTense": "suspended",
+            "pastParticiple": "suspended"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Temporarily prevent from continuing or being in force or effect.",
+        "chineseDefinition": "暂时阻止某事继续或生效。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They decided to suspend the meeting until further notice.",
+            "chinese": "他们决定暂停会议，直到另行通知。"
+          }
+        ],
+        "synonyms": ["halt", "pause"],
+        "antonyms": ["continue"]
+      }
+    ]
+  },
+  {
+    "word": "explorer",
+    "pronunciation": "/ɪkˈsplɔːrər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "explorer",
+            "plural": "explorers"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person who investigates unknown regions.",
+        "chineseDefinition": "研究未知区域的人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Famous explorers risked their lives to map new territories.",
+            "chinese": "著名探险家为绘制新地区地图而冒着生命危险。"
+          }
+        ],
+        "synonyms": ["adventurer", "voyager"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "untrustworthy",
+    "pronunciation": "/ˌʌnˈtrʌstwɜːrði/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "untrustworthy"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Not able to be relied on as honest or truthful.",
+        "chineseDefinition": "不可信赖的，不诚实或不真实。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He has proven to be untrustworthy in the past.",
+            "chinese": "过去的经历证明他不可信。"
+          }
+        ],
+        "synonyms": ["dishonest", "unreliable"],
+        "antonyms": ["trustworthy"]
+      }
+    ]
+  },
+  {
+    "word": "prospective",
+    "pronunciation": "/prəˈspɛktɪv/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "prospective"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Expected or expecting to be something particular in the future.",
+        "chineseDefinition": "预期将成为或被期望成为某种特定事物。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "They discussed the project with prospective clients.",
+            "chinese": "他们与潜在客户讨论了项目。"
+          }
+        ],
+        "synonyms": ["potential", "future"],
+        "antonyms": ["past"]
+      }
+    ]
+  },
+  {
+    "word": "percentage",
+    "pronunciation": "/pərˈsɛntɪdʒ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "percentage",
+            "plural": "percentages"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A rate, number, or amount in each hundred.",
+        "chineseDefinition": "每一百中所占的比率、数字或数量。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "A high percentage of students passed the exam.",
+            "chinese": "高比例的学生通过了考试。"
+          }
+        ],
+        "synonyms": ["proportion", "ratio"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "clue",
+    "pronunciation": "/kluː/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "clue",
+            "plural": "clues"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "clue",
+            "thirdPersonSingular": "clues",
+            "presentParticiple": "cluing",
+            "pastTense": "clued",
+            "pastParticiple": "clued"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A piece of evidence or information used in the detection of a crime or solving of a mystery.",
+        "chineseDefinition": "用于侦破犯罪或解开谜团的证据或信息。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They found a crucial clue at the crime scene.",
+            "chinese": "他们在犯罪现场发现了一个关键线索。"
+          }
+        ],
+        "synonyms": ["hint", "pointer"],
+        "antonyms": []
+      },
+      {
+        "definition": "To inform someone about a particular matter.",
+        "chineseDefinition": "通知或让某人了解特定情况。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Could you clue me in on the new changes?",
+            "chinese": "你能告诉我这些新变化吗？"
+          }
+        ],
+        "synonyms": ["inform"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "stammer",
+    "pronunciation": "/ˈstæmər/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "stammer",
+            "thirdPersonSingular": "stammers",
+            "presentParticiple": "stammering",
+            "pastTense": "stammered",
+            "pastParticiple": "stammered"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "stammer",
+            "plural": "stammers"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To speak with sudden involuntary pauses and a tendency to repeat the initial letters of words.",
+        "chineseDefinition": "说话时出现突然的、非自主的停顿，并且常常重复单词开头的字母。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He tends to stammer when he's nervous.",
+            "chinese": "他在紧张时会口吃。"
+          }
+        ],
+        "synonyms": ["stutter"],
+        "antonyms": []
+      },
+      {
+        "definition": "A tendency to stammer.",
+        "chineseDefinition": "说话时口吃的倾向。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "His stammer became less frequent after therapy.",
+            "chinese": "治疗后他的结巴症状减轻了。"
+          }
+        ],
+        "synonyms": ["stutter"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "hawk",
+    "pronunciation": "/hɔːk/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "hawk",
+            "plural": "hawks"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "hawk",
+            "thirdPersonSingular": "hawks",
+            "presentParticiple": "hawking",
+            "pastTense": "hawked",
+            "pastParticiple": "hawked"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A bird of prey with broad rounded wings and a long tail, typically taking prey by surprise with a short chase.",
+        "chineseDefinition": "一种猛禽，通常以短暂的追逐方式捕捉猎物，具有宽阔的圆形翅膀和长尾巴。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "A hawk soared above the fields in search of food.",
+            "chinese": "一只鹰在田野上空盘旋寻找食物。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "definition": "To carry about and offer (goods) for sale, typically advertising them by shouting.",
+        "chineseDefinition": "四处叫卖商品，通常通过喊叫来吸引注意。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Street vendors hawk their wares to passersby.",
+            "chinese": "街头小贩向路人兜售他们的商品。"
+          }
+        ],
+        "synonyms": ["peddle"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "swamp",
+    "pronunciation": "/swɒmp/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "swamp",
+            "plural": "swamps"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "swamp",
+            "thirdPersonSingular": "swamps",
+            "presentParticiple": "swamping",
+            "pastTense": "swamped",
+            "pastParticiple": "swamped"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An area of low-lying, uncultivated ground where water collects; a bog or marsh.",
+        "chineseDefinition": "低洼地区，积水形成的沼泽或湿地。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Alligators live in the swamp.",
+            "chinese": "短吻鳄生活在沼泽地里。"
+          }
+        ],
+        "synonyms": ["marsh", "bog"],
+        "antonyms": []
+      },
+      {
+        "definition": "To overwhelm or flood with water; to inundate.",
+        "chineseDefinition": "被大量的水淹没；泛滥。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The sudden downpour swamped the fields.",
+            "chinese": "突然的暴雨淹没了田地。"
+          }
+        ],
+        "synonyms": ["flood", "inundate"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "jealous",
+    "pronunciation": "/ˈdʒɛləs/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "jealous",
+            "comparative": "more jealous",
+            "superlative": "most jealous"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Feeling or showing envy of someone or their achievements and advantages.",
+        "chineseDefinition": "对他人的成就或优点感到或表现出嫉妒。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He was jealous of his friend's promotion.",
+            "chinese": "他嫉妒他朋友的晋升。"
+          }
+        ],
+        "synonyms": ["envious"],
+        "antonyms": ["content"]
+      }
+    ]
+  },
+  {
+    "word": "favour",
+    "pronunciation": "/ˈfeɪvər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "favour",
+            "plural": "favours"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "favour",
+            "thirdPersonSingular": "favours",
+            "presentParticiple": "favouring",
+            "pastTense": "favoured",
+            "pastParticiple": "favoured"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Approval, support, or liking for someone or something.",
+        "chineseDefinition": "对某人或某事物的赞同、支持或喜爱。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She looked upon the suggestion with favour.",
+            "chinese": "她赞成这个建议。"
+          }
+        ],
+        "synonyms": ["approval"],
+        "antonyms": ["disapproval"]
+      },
+      {
+        "definition": "To feel or show approval or preference for.",
+        "chineseDefinition": "感到或表现出赞成或偏好。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The teacher favoured group work over individual tasks.",
+            "chinese": "老师更倾向于小组合作而非个人作业。"
+          }
+        ],
+        "synonyms": ["prefer", "approve"],
+        "antonyms": ["oppose"]
+      }
+    ]
+  },
+  {
+    "word": "fickle",
+    "pronunciation": "/ˈfɪkəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "fickle",
+            "comparative": "more fickle",
+            "superlative": "most fickle"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Changing frequently, especially as regards one's loyalties or affections.",
+        "chineseDefinition": "经常改变，特别是对忠诚或感情方面。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Public opinion can be quite fickle.",
+            "chinese": "公众舆论可能非常善变。"
+          }
+        ],
+        "synonyms": ["capricious", "unpredictable"],
+        "antonyms": ["constant", "steady"]
+      }
+    ]
+  },
+  {
+    "word": "uphill",
+    "pronunciation": "/ˌʌpˈhɪl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "uphill",
+            "comparative": "more uphill",
+            "superlative": "most uphill"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adverb",
+        "form": {
+          "type": "invariable",
+          "data": "uphill"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "(Adjective) Sloping upward; leading to a higher place or level.",
+        "chineseDefinition": "向上倾斜；通往更高处或更高层次。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "It's an uphill climb to the cabin.",
+            "chinese": "到小屋是一段上坡的路程。"
+          }
+        ],
+        "synonyms": ["ascending"],
+        "antonyms": ["downhill"]
+      },
+      {
+        "definition": "(Adverb) Towards higher ground; upwards on a slope.",
+        "chineseDefinition": "向更高的地面；在斜坡上向上。",
+        "partOfSpeech": "adverb",
+        "examples": [
+          {
+            "english": "We walked uphill for nearly an hour.",
+            "chinese": "我们上坡走了将近一个小时。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  }
+]

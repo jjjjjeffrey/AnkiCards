@@ -1,0 +1,1722 @@
+[
+  {
+    "word": "notorious",
+    "pronunciation": "/noʊˈtɔːriəs/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "notorious",
+            "comparative": "more notorious",
+            "superlative": "most notorious"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Famous or well known, typically for some bad quality or deed",
+        "chineseDefinition": "臭名昭著的，因不良品质或行为而出名的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He became notorious for his controversial statements in public.",
+            "chinese": "他因在公开场合发表有争议的言论而臭名昭著。"
+          }
+        ],
+        "synonyms": ["infamous", "disreputable", "ill-famed", "scandalous"],
+        "antonyms": ["reputable", "respected", "honorable", "esteemed"]
+      },
+      {
+        "definition": "Widely but unfavorably known",
+        "chineseDefinition": "广为人知但名声不好的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The area is notorious for its high crime rate.",
+            "chinese": "该地区因犯罪率高而声名狼藉。"
+          }
+        ],
+        "synonyms": ["infamous", "known", "celebrated", "renowned"],
+        "antonyms": ["unknown", "anonymous", "obscure", "unheard-of"]
+      }
+    ]
+  },
+  {
+    "word": "cash",
+    "pronunciation": "/kæʃ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "cash",
+            "plural": "cash"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "cash",
+            "thirdPersonSingular": "cashes",
+            "presentParticiple": "cashing",
+            "pastTense": "cashed",
+            "pastParticiple": "cashed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Money in the form of coins or banknotes",
+        "chineseDefinition": "硬币或纸币形式的钱",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "I don't have enough cash to pay for dinner.",
+            "chinese": "我没有足够的现金支付晚餐。"
+          }
+        ],
+        "synonyms": ["money", "currency", "funds", "capital"],
+        "antonyms": ["credit", "debt", "liability"]
+      },
+      {
+        "definition": "To exchange a check for money",
+        "chineseDefinition": "将支票兑换成现金",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She cashed her paycheck at the bank.",
+            "chinese": "她在银行兑现了她的工资支票。"
+          }
+        ],
+        "synonyms": ["redeem", "exchange", "convert", "liquidate"],
+        "antonyms": ["deposit", "invest", "save"]
+      }
+    ]
+  },
+  {
+    "word": "valid",
+    "pronunciation": "/ˈvælɪd/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "valid",
+            "comparative": "more valid",
+            "superlative": "most valid"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Having a sound basis in logic or fact; reasonable or cogent",
+        "chineseDefinition": "在逻辑或事实上有充分依据的；合理的或有说服力的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She made a valid point during the debate.",
+            "chinese": "她在辩论中提出了一个有效的观点。"
+          }
+        ],
+        "synonyms": ["sound", "logical", "reasonable", "rational"],
+        "antonyms": ["invalid", "unsound", "illogical", "unreasonable"]
+      },
+      {
+        "definition": "Legally or officially acceptable",
+        "chineseDefinition": "法律上或官方上可接受的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The contract is still valid for another year.",
+            "chinese": "该合同还有效期一年。"
+          }
+        ],
+        "synonyms": ["legitimate", "legal", "lawful", "binding"],
+        "antonyms": ["invalid", "illegal", "unlawful", "void"]
+      }
+    ]
+  },
+  {
+    "word": "enrich",
+    "pronunciation": "/ɪnˈrɪtʃ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "enrich",
+            "thirdPersonSingular": "enriches",
+            "presentParticiple": "enriching",
+            "pastTense": "enriched",
+            "pastParticiple": "enriched"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To improve or enhance the quality or value of something",
+        "chineseDefinition": "提高或增强某物的质量或价值",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Travel can enrich your understanding of different cultures.",
+            "chinese": "旅行可以丰富你对不同文化的理解。"
+          }
+        ],
+        "synonyms": ["enhance", "improve", "upgrade", "augment"],
+        "antonyms": ["impoverish", "diminish", "devalue", "reduce"]
+      },
+      {
+        "definition": "To make someone wealthy or wealthier",
+        "chineseDefinition": "使某人富有或更富有",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The discovery of oil enriched the small country.",
+            "chinese": "石油的发现使这个小国变得富裕。"
+          }
+        ],
+        "synonyms": ["prosper", "profit", "benefit", "flourish"],
+        "antonyms": ["impoverish", "bankrupt", "ruin", "deplete"]
+      },
+      {
+        "definition": "To add nutrients to soil or food",
+        "chineseDefinition": "向土壤或食物中添加营养物质",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They enriched the soil with compost before planting.",
+            "chinese": "他们在种植前用堆肥丰富了土壤。"
+          }
+        ],
+        "synonyms": ["fertilize", "nourish", "feed", "supplement"],
+        "antonyms": ["deplete", "exhaust", "drain", "impoverish"]
+      }
+    ]
+  },
+  {
+    "word": "tab",
+    "pronunciation": "/tæb/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "tab",
+            "plural": "tabs"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "tab",
+            "thirdPersonSingular": "tabs",
+            "presentParticiple": "tabbing",
+            "pastTense": "tabbed",
+            "pastParticiple": "tabbed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A small flap or strip of material attached to something for easy opening, identification, or handling",
+        "chineseDefinition": "附在物品上便于开启、识别或处理的小翼片或条状物",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Pull the tab to open the can.",
+            "chinese": "拉开拉环来打开罐头。"
+          }
+        ],
+        "synonyms": ["flap", "tag", "strip", "label"],
+        "antonyms": []
+      },
+      {
+        "definition": "A bill or check, especially in a restaurant or bar",
+        "chineseDefinition": "账单，尤指在餐厅或酒吧中",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He offered to pick up the tab for dinner.",
+            "chinese": "他主动承担晚餐的账单。"
+          }
+        ],
+        "synonyms": ["bill", "check", "account", "charge"],
+        "antonyms": []
+      },
+      {
+        "definition": "A section or panel in a graphical user interface that resembles a file folder tab",
+        "chineseDefinition": "图形用户界面中类似文件夹标签的部分或面板",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Click on the settings tab to change your preferences.",
+            "chinese": "点击设置选项卡来更改你的偏好。"
+          }
+        ],
+        "synonyms": ["panel", "section", "page", "window"],
+        "antonyms": []
+      },
+      {
+        "definition": "To mark or identify for reference or attention",
+        "chineseDefinition": "标记或识别以供参考或注意",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The manager tabbed him as a future leader.",
+            "chinese": "经理将他标记为未来的领导者。"
+          }
+        ],
+        "synonyms": ["mark", "label", "tag", "identify"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "equation",
+    "pronunciation": "/ɪˈkweɪʒən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "equation",
+            "plural": "equations"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A mathematical statement that asserts the equality of two expressions",
+        "chineseDefinition": "断言两个表达式相等的数学语句",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She solved the quadratic equation in seconds.",
+            "chinese": "她在几秒钟内解出了这个二次方程。"
+          }
+        ],
+        "synonyms": ["formula", "expression", "calculation", "relation"],
+        "antonyms": ["inequality"]
+      },
+      {
+        "definition": "The process of equating one thing with another",
+        "chineseDefinition": "将一件事物与另一件事物等同起来的过程",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The equation of wealth with happiness is problematic.",
+            "chinese": "将财富与幸福等同起来是有问题的。"
+          }
+        ],
+        "synonyms": ["equating", "equalization", "balancing", "comparison"],
+        "antonyms": ["differentiation", "distinction"]
+      },
+      {
+        "definition": "A complex situation or problem expressed as a set of factors",
+        "chineseDefinition": "表示为一组因素的复杂情况或问题",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We need to consider all variables in the equation before making a decision.",
+            "chinese": "在做决定之前，我们需要考虑等式中的所有变量。"
+          }
+        ],
+        "synonyms": ["situation", "problem", "scenario", "circumstance"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "miracle",
+    "pronunciation": "/ˈmɪrəkəl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "miracle",
+            "plural": "miracles"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An extraordinary and welcome event that is not explicable by natural or scientific laws and is therefore attributed to a divine agency",
+        "chineseDefinition": "一种非凡且受欢迎的事件，无法用自然或科学规律解释，因此被归因于神圣力量",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The doctors called her recovery a miracle.",
+            "chinese": "医生称她的康复是个奇迹。"
+          }
+        ],
+        "synonyms": ["wonder", "marvel", "phenomenon", "sensation"],
+        "antonyms": ["disaster", "calamity", "catastrophe"]
+      },
+      {
+        "definition": "A remarkable event or development that brings welcome consequences",
+        "chineseDefinition": "带来受欢迎后果的显著事件或发展",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "It would take a miracle for them to win the championship now.",
+            "chinese": "他们现在要赢得冠军需要创造奇迹。"
+          }
+        ],
+        "synonyms": ["wonder", "sensation", "achievement", "feat"],
+        "antonyms": ["failure", "fiasco", "disappointment"]
+      }
+    ]
+  },
+  {
+    "word": "worthy",
+    "pronunciation": "/ˈwɜːrði/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "worthy",
+            "comparative": "worthier",
+            "superlative": "worthiest"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "worthy",
+            "plural": "worthies"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Deserving effort, attention, or respect",
+        "chineseDefinition": "值得努力、关注或尊重的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The charity is a worthy cause that helps many people.",
+            "chinese": "这个慈善机构是一个帮助很多人的值得支持的事业。"
+          }
+        ],
+        "synonyms": ["deserving", "meritorious", "commendable", "admirable"],
+        "antonyms": ["unworthy", "undeserving", "worthless"]
+      },
+      {
+        "definition": "Having adequate or great merit, character, or value",
+        "chineseDefinition": "具有足够或巨大的价值、品格或价值的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She is worthy of our trust and respect.",
+            "chinese": "她值得我们的信任和尊重。"
+          }
+        ],
+        "synonyms": ["estimable", "respectable", "honorable", "reputable"],
+        "antonyms": ["disreputable", "dishonorable", "contemptible"]
+      },
+      {
+        "definition": "A person of importance or distinction",
+        "chineseDefinition": "重要或杰出的人物",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The local worthies attended the town hall meeting.",
+            "chinese": "当地的名流参加了市政厅会议。"
+          }
+        ],
+        "synonyms": ["dignitary", "notable", "personage", "luminary"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "irrigation",
+    "pronunciation": "/ˌɪrɪˈɡeɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "invariable",
+          "data": "irrigation"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The supply of water to land or crops to help growth, typically by means of channels",
+        "chineseDefinition": "向土地或农作物供水以帮助生长，通常通过渠道",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The farm uses an efficient drip irrigation system.",
+            "chinese": "这个农场使用高效的滴灌系统。"
+          }
+        ],
+        "synonyms": ["watering", "sprinkling", "spraying", "hosing"],
+        "antonyms": ["drainage", "dehydration"]
+      },
+      {
+        "definition": "The act or process of supplying a fluid to a wound or body cavity for cleansing purposes",
+        "chineseDefinition": "为清洁目的向伤口或体腔供应液体的行为或过程",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The doctor recommended saline irrigation for the wound.",
+            "chinese": "医生建议用盐水冲洗伤口。"
+          }
+        ],
+        "synonyms": ["flushing", "washing", "rinsing", "cleansing"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "chief",
+    "pronunciation": "/tʃiːf/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "chief",
+            "plural": "chiefs"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "chief",
+            "comparative": "more chief",
+            "superlative": "most chief"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A leader or ruler of a people or clan",
+        "chineseDefinition": "人民或氏族的领导者或统治者",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The tribal chief made the final decision.",
+            "chinese": "部落酋长做出了最终决定。"
+          }
+        ],
+        "synonyms": ["leader", "head", "ruler", "commander"],
+        "antonyms": ["subordinate", "follower", "underling"]
+      },
+      {
+        "definition": "The person in charge of a group or organization",
+        "chineseDefinition": "负责团体或组织的人",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She was appointed chief of the medical staff.",
+            "chinese": "她被任命为医务人员的主管。"
+          }
+        ],
+        "synonyms": ["boss", "head", "director", "executive"],
+        "antonyms": ["employee", "worker", "staff"]
+      },
+      {
+        "definition": "Most important or main",
+        "chineseDefinition": "最重要的或主要的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The lack of funding was their chief concern.",
+            "chinese": "资金不足是他们的主要担忧。"
+          }
+        ],
+        "synonyms": ["main", "principal", "primary", "leading"],
+        "antonyms": ["minor", "secondary", "subordinate", "unimportant"]
+      }
+    ]
+  },
+  {
+    "word": "remedy",
+    "pronunciation": "/ˈrɛmədi/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "remedy",
+            "plural": "remedies"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "remedy",
+            "thirdPersonSingular": "remedies",
+            "presentParticiple": "remedying",
+            "pastTense": "remedied",
+            "pastParticiple": "remedied"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A medicine or treatment for a disease or injury",
+        "chineseDefinition": "治疗疾病或伤害的药物或方法",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She tried a herbal remedy for her headache.",
+            "chinese": "她尝试用草药治疗她的头痛。"
+          }
+        ],
+        "synonyms": ["cure", "medicine", "treatment", "therapy"],
+        "antonyms": ["poison", "toxin", "disease"]
+      },
+      {
+        "definition": "A means of solving or counteracting a problem",
+        "chineseDefinition": "解决或抵消问题的手段",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Education is the best remedy for ignorance.",
+            "chinese": "教育是解决无知的最佳方法。"
+          }
+        ],
+        "synonyms": ["solution", "answer", "antidote", "fix"],
+        "antonyms": ["problem", "issue", "cause"]
+      },
+      {
+        "definition": "To put right or improve something that is wrong or unsatisfactory",
+        "chineseDefinition": "纠正或改善错误或不令人满意的事物",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The company took steps to remedy the situation.",
+            "chinese": "公司采取措施来纠正这种情况。"
+          }
+        ],
+        "synonyms": ["correct", "fix", "cure", "repair"],
+        "antonyms": ["worsen", "exacerbate", "aggravate"]
+      }
+    ]
+  },
+  {
+    "word": "accelerate",
+    "pronunciation": "/əkˈsɛləreɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "accelerate",
+            "thirdPersonSingular": "accelerates",
+            "presentParticiple": "accelerating",
+            "pastTense": "accelerated",
+            "pastParticiple": "accelerated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To increase in speed or rate of occurrence",
+        "chineseDefinition": "增加速度或发生率",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The car accelerated rapidly from 0 to 60 mph.",
+            "chinese": "汽车从0加速到60英里/小时非常迅速。"
+          }
+        ],
+        "synonyms": ["speed up", "quicken", "hasten", "expedite"],
+        "antonyms": ["decelerate", "slow down", "delay", "retard"]
+      },
+      {
+        "definition": "To cause to develop or progress more quickly",
+        "chineseDefinition": "使更快地发展或进步",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The new policy is designed to accelerate economic growth.",
+            "chinese": "新政策旨在加速经济增长。"
+          }
+        ],
+        "synonyms": ["advance", "boost", "facilitate", "promote"],
+        "antonyms": ["hinder", "impede", "obstruct", "slow"]
+      },
+      {
+        "definition": "To complete an educational course in less time than normal",
+        "chineseDefinition": "在比正常时间更短的时间内完成教育课程",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The gifted student was accelerated to the next grade.",
+            "chinese": "这个天才学生被提前升入下一年级。"
+          }
+        ],
+        "synonyms": ["advance", "fast-track", "promote", "push forward"],
+        "antonyms": ["hold back", "retain", "delay"]
+      }
+    ]
+  },
+  {
+    "word": "thoughtful",
+    "pronunciation": "/ˈθɔːtfəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "thoughtful",
+            "comparative": "more thoughtful",
+            "superlative": "most thoughtful"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Showing consideration for the needs of other people",
+        "chineseDefinition": "体现对他人需求的考虑",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "It was thoughtful of you to bring me a gift.",
+            "chinese": "你给我带礼物真是体贴。"
+          }
+        ],
+        "synonyms": ["considerate", "kind", "attentive", "caring"],
+        "antonyms": ["thoughtless", "inconsiderate", "selfish", "insensitive"]
+      },
+      {
+        "definition": "Absorbed in or involving thought",
+        "chineseDefinition": "沉浸在思考中或涉及思考的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She had a thoughtful expression on her face.",
+            "chinese": "她脸上带着沉思的表情。"
+          }
+        ],
+        "synonyms": ["pensive", "reflective", "contemplative", "meditative"],
+        "antonyms": ["thoughtless", "unreflective", "shallow"]
+      },
+      {
+        "definition": "Characterized by careful reasoned thinking",
+        "chineseDefinition": "以谨慎理性思考为特征的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The professor gave a thoughtful analysis of the problem.",
+            "chinese": "教授对这个问题进行了深思熟虑的分析。"
+          }
+        ],
+        "synonyms": ["intelligent", "careful", "analytical", "deep"],
+        "antonyms": ["careless", "superficial", "hasty", "impulsive"]
+      }
+    ]
+  },
+  {
+    "word": "brunt",
+    "pronunciation": "/brʌnt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "invariable",
+          "data": "brunt"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The main force or impact of something",
+        "chineseDefinition": "某事物的主要力量或冲击",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The coastal areas bore the brunt of the hurricane.",
+            "chinese": "沿海地区承受了飓风的主要冲击。"
+          }
+        ],
+        "synonyms": ["impact", "force", "burden", "pressure"],
+        "antonyms": []
+      },
+      {
+        "definition": "The worst part or chief impact of a specified action or situation",
+        "chineseDefinition": "特定行动或情况的最糟糕部分或主要影响",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She had to bear the brunt of her colleague's mistake.",
+            "chinese": "她不得不承担同事错误的主要后果。"
+          }
+        ],
+        "synonyms": ["weight", "shock", "strain", "stress"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "prominence",
+    "pronunciation": "/ˈprɒmɪnəns/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "invariable",
+          "data": "prominence"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The state of being important, famous, or noticeable",
+        "chineseDefinition": "重要、著名或显著的状态",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Her work has gained international prominence.",
+            "chinese": "她的工作获得了国际知名度。"
+          }
+        ],
+        "synonyms": ["fame", "renown", "distinction", "eminence"],
+        "antonyms": ["obscurity", "anonymity", "insignificance"]
+      },
+      {
+        "definition": "The quality of projecting from a surface",
+        "chineseDefinition": "从表面突出的特质",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The prominence of his cheekbones gave his face a sculpted look.",
+            "chinese": "他颧骨的突出使他的脸看起来如雕塑般立体。"
+          }
+        ],
+        "synonyms": ["projection", "protrusion", "bulge", "protuberance"],
+        "antonyms": ["depression", "indentation", "hollow"]
+      },
+      {
+        "definition": "A mass of luminous gas projecting from the sun's surface",
+        "chineseDefinition": "从太阳表面突出的发光气体团",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Astronomers observed a large solar prominence during the eclipse.",
+            "chinese": "天文学家在日食期间观察到了一个大型太阳日珥。"
+          }
+        ],
+        "synonyms": ["solar flare", "eruption", "ejection", "protuberance"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "compass",
+    "pronunciation": "/ˈkʌmpəs/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "compass",
+            "plural": "compasses"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "compass",
+            "thirdPersonSingular": "compasses",
+            "presentParticiple": "compassing",
+            "pastTense": "compassed",
+            "pastParticiple": "compassed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An instrument containing a magnetized pointer that shows the direction of magnetic north and bearings from it",
+        "chineseDefinition": "包含磁化指针的仪器，显示磁北方向及其方位",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The hikers used a compass to navigate through the forest.",
+            "chinese": "徒步旅行者使用指南针在森林中导航。"
+          }
+        ],
+        "synonyms": ["direction finder", "navigational instrument"],
+        "antonyms": []
+      },
+      {
+        "definition": "The range or scope of something",
+        "chineseDefinition": "某事物的范围或领域",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The subject is beyond the compass of this book.",
+            "chinese": "这个主题超出了本书的范围。"
+          }
+        ],
+        "synonyms": ["range", "scope", "extent", "reach"],
+        "antonyms": []
+      },
+      {
+        "definition": "An instrument for drawing circles and arcs",
+        "chineseDefinition": "用于画圆和弧的工具",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The student used a compass to draw perfect circles in geometry class.",
+            "chinese": "学生在几何课上使用圆规画出完美的圆。"
+          }
+        ],
+        "synonyms": ["pair of compasses", "dividers", "caliper"],
+        "antonyms": []
+      },
+      {
+        "definition": "To achieve or bring about",
+        "chineseDefinition": "实现或带来",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The team compassed their goal of winning the championship.",
+            "chinese": "团队实现了赢得冠军的目标。"
+          }
+        ],
+        "synonyms": ["achieve", "accomplish", "attain", "realize"],
+        "antonyms": ["fail", "miss", "lose"]
+      }
+    ]
+  },
+  {
+    "word": "inaugurate",
+    "pronunciation": "/ɪˈnɔːɡjəreɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "inaugurate",
+            "thirdPersonSingular": "inaugurates",
+            "presentParticiple": "inaugurating",
+            "pastTense": "inaugurated",
+            "pastParticiple": "inaugurated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To begin or introduce (a system, policy, etc.) officially and formally",
+        "chineseDefinition": "正式开始或引入（系统、政策等）",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The president inaugurated a new era of international cooperation.",
+            "chinese": "总统开创了国际合作的新时代。"
+          }
+        ],
+        "synonyms": ["initiate", "commence", "begin", "launch"],
+        "antonyms": ["conclude", "end", "terminate", "finish"]
+      },
+      {
+        "definition": "To admit (someone) to office with formal ceremonies",
+        "chineseDefinition": "以正式仪式使（某人）就职",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The new mayor will be inaugurated next week.",
+            "chinese": "新市长将于下周宣誓就职。"
+          }
+        ],
+        "synonyms": ["induct", "install", "invest", "instate"],
+        "antonyms": ["depose", "remove", "oust"]
+      },
+      {
+        "definition": "To formally open or dedicate (a building, exhibition, etc.)",
+        "chineseDefinition": "正式开放或奉献（建筑物、展览等）",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The queen inaugurated the new hospital wing.",
+            "chinese": "女王为新医院病房揭幕。"
+          }
+        ],
+        "synonyms": ["open", "dedicate", "commission", "unveil"],
+        "antonyms": ["close", "shut down", "decommission"]
+      }
+    ]
+  },
+  {
+    "word": "suppress",
+    "pronunciation": "/səˈprɛs/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "suppress",
+            "thirdPersonSingular": "suppresses",
+            "presentParticiple": "suppressing",
+            "pastTense": "suppressed",
+            "pastParticiple": "suppressed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To forcibly put an end to; to subdue or prohibit",
+        "chineseDefinition": "强行终止；制服或禁止",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The government tried to suppress the rebellion.",
+            "chinese": "政府试图镇压叛乱。"
+          }
+        ],
+        "synonyms": ["quash", "crush", "quell", "stifle"],
+        "antonyms": ["encourage", "promote", "support", "foster"]
+      },
+      {
+        "definition": "To prevent the development, action, or expression of (a feeling, impulse, idea, etc.)",
+        "chineseDefinition": "阻止（感觉、冲动、想法等）的发展、行动或表达",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She couldn't suppress her laughter during the serious meeting.",
+            "chinese": "在严肃的会议上，她无法抑制自己的笑声。"
+          }
+        ],
+        "synonyms": ["restrain", "hold back", "contain", "check"],
+        "antonyms": ["express", "release", "vent", "unleash"]
+      },
+      {
+        "definition": "To withhold or keep from disclosure or publication",
+        "chineseDefinition": "隐瞒或不公开披露或发表",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The company suppressed information about the product's side effects.",
+            "chinese": "公司隐瞒了有关产品副作用的信息。"
+          }
+        ],
+        "synonyms": ["conceal", "hide", "withhold", "cover up"],
+        "antonyms": ["reveal", "disclose", "publish", "announce"]
+      }
+    ]
+  },
+  {
+    "word": "perpetuate",
+    "pronunciation": "/pərˈpɛtʃueɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "perpetuate",
+            "thirdPersonSingular": "perpetuates",
+            "presentParticiple": "perpetuating",
+            "pastTense": "perpetuated",
+            "pastParticiple": "perpetuated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To make perpetual or cause to last indefinitely",
+        "chineseDefinition": "使永久化或使无限期持续",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The foundation aims to perpetuate the memory of the great scientist.",
+            "chinese": "该基金会旨在永久纪念这位伟大的科学家。"
+          }
+        ],
+        "synonyms": ["continue", "maintain", "preserve", "sustain"],
+        "antonyms": ["end", "terminate", "discontinue", "stop"]
+      },
+      {
+        "definition": "To prolong the existence of, especially something undesirable",
+        "chineseDefinition": "延长存在时间，尤指不良事物",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "These policies only perpetuate inequality in society.",
+            "chinese": "这些政策只会延续社会中的不平等。"
+          }
+        ],
+        "synonyms": ["extend", "prolong", "protract", "lengthen"],
+        "antonyms": ["eliminate", "eradicate", "abolish", "destroy"]
+      }
+    ]
+  },
+  {
+    "word": "configuration",
+    "pronunciation": "/kənˌfɪɡjəˈreɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "configuration",
+            "plural": "configurations"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An arrangement of elements in a particular form, figure, or combination",
+        "chineseDefinition": "元素以特定形式、图形或组合的排列",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The configuration of the furniture made the room feel spacious.",
+            "chinese": "家具的布置使房间感觉宽敞。"
+          }
+        ],
+        "synonyms": ["arrangement", "layout", "setup", "structure"],
+        "antonyms": ["disarray", "disorder", "chaos"]
+      },
+      {
+        "definition": "The way in which a computer or computer system is put together; a specific set of hardware or software parameters",
+        "chineseDefinition": "计算机或计算机系统的组装方式；特定的硬件或软件参数集",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "You need to change the network configuration settings.",
+            "chinese": "你需要更改网络配置设置。"
+          }
+        ],
+        "synonyms": ["setup", "settings", "parameters", "specifications"],
+        "antonyms": []
+      },
+      {
+        "definition": "The relative arrangement of atoms or groups in a molecule",
+        "chineseDefinition": "分子中原子或基团的相对排列",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The configuration of electrons determines the chemical properties of an element.",
+            "chinese": "电子的构型决定了元素的化学性质。"
+          }
+        ],
+        "synonyms": ["structure", "arrangement", "organization", "composition"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "replenish",
+    "pronunciation": "/rɪˈplɛnɪʃ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "replenish",
+            "thirdPersonSingular": "replenishes",
+            "presentParticiple": "replenishing",
+            "pastTense": "replenished",
+            "pastParticiple": "replenished"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To fill something up again or restore to a former level or condition",
+        "chineseDefinition": "再次填充某物或恢复到以前的水平或状态",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "We need to replenish our supplies before the trip.",
+            "chinese": "我们需要在旅行前补充我们的物资。"
+          }
+        ],
+        "synonyms": ["refill", "restock", "resupply", "reload"],
+        "antonyms": ["deplete", "exhaust", "empty", "drain"]
+      },
+      {
+        "definition": "To make full or complete again, as by supplying what is lacking, used up, etc.",
+        "chineseDefinition": "通过提供缺少的、用完的等来使再次充满或完整",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The rain helped to replenish the reservoir.",
+            "chinese": "雨水帮助补充了水库。"
+          }
+        ],
+        "synonyms": ["restore", "renew", "refresh", "revitalize"],
+        "antonyms": ["diminish", "reduce", "decrease"]
+      }
+    ]
+  },
+  {
+    "word": "encompass",
+    "pronunciation": "/ɪnˈkʌmpəs/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "encompass",
+            "thirdPersonSingular": "encompasses",
+            "presentParticiple": "encompassing",
+            "pastTense": "encompassed",
+            "pastParticiple": "encompassed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To surround or enclose completely",
+        "chineseDefinition": "完全包围或围住",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The fence encompasses the entire property.",
+            "chinese": "围栏环绕着整个房产。"
+          }
+        ],
+        "synonyms": ["surround", "encircle", "enclose", "ring"],
+        "antonyms": ["exclude", "release", "free"]
+      },
+      {
+        "definition": "To include comprehensively; to include or cover completely",
+        "chineseDefinition": "全面包括；完全包括或覆盖",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The course encompasses all aspects of business management.",
+            "chinese": "这门课程涵盖了商业管理的所有方面。"
+          }
+        ],
+        "synonyms": ["include", "contain", "comprise", "embody"],
+        "antonyms": ["exclude", "omit", "leave out"]
+      },
+      {
+        "definition": "To accomplish or achieve",
+        "chineseDefinition": "完成或实现",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They encompassed their goal of reducing carbon emissions.",
+            "chinese": "他们实现了减少碳排放的目标。"
+          }
+        ],
+        "synonyms": ["achieve", "accomplish", "attain", "realize"],
+        "antonyms": ["fail", "miss", "lose"]
+      }
+    ]
+  },
+  {
+    "word": "camouflage",
+    "pronunciation": "/ˈkæməflɑːʒ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "camouflage",
+            "plural": "camouflages"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "camouflage",
+            "thirdPersonSingular": "camouflages",
+            "presentParticiple": "camouflaging",
+            "pastTense": "camouflaged",
+            "pastParticiple": "camouflaged"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The disguising of military personnel, equipment, and installations by painting or covering them to make them blend in with their surroundings",
+        "chineseDefinition": "通过涂漆或覆盖使军事人员、设备和设施与周围环境融为一体的伪装",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The soldiers wore camouflage to blend into the forest.",
+            "chinese": "士兵们穿着迷彩服以融入森林。"
+          }
+        ],
+        "synonyms": ["disguise", "concealment", "cover", "mask"],
+        "antonyms": ["exposure", "revelation", "disclosure"]
+      },
+      {
+        "definition": "Clothing or materials used as camouflage",
+        "chineseDefinition": "用作伪装的服装或材料",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He bought a new camouflage jacket for hunting season.",
+            "chinese": "他为狩猎季节买了一件新的迷彩夹克。"
+          }
+        ],
+        "synonyms": ["disguise", "cover", "concealment", "mask"],
+        "antonyms": []
+      },
+      {
+        "definition": "To conceal or disguise by camouflage",
+        "chineseDefinition": "通过伪装来隐藏或掩饰",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The hunters camouflaged their blind with branches and leaves.",
+            "chinese": "猎人们用树枝和树叶伪装他们的隐蔽处。"
+          }
+        ],
+        "synonyms": ["conceal", "hide", "disguise", "mask"],
+        "antonyms": ["reveal", "expose", "display", "show"]
+      },
+      {
+        "definition": "To hide or disguise something undesirable",
+        "chineseDefinition": "隐藏或掩饰不良事物",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She used makeup to camouflage the scar on her face.",
+            "chinese": "她用化妆品来掩饰脸上的疤痕。"
+          }
+        ],
+        "synonyms": ["cover up", "obscure", "veil", "cloak"],
+        "antonyms": ["highlight", "emphasize", "accentuate"]
+      }
+    ]
+  },
+  {
+    "word": "encapsulate",
+    "pronunciation": "/ɪnˈkæpsjuleɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "encapsulate",
+            "thirdPersonSingular": "encapsulates",
+            "presentParticiple": "encapsulating",
+            "pastTense": "encapsulated",
+            "pastParticiple": "encapsulated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To enclose in or as if in a capsule",
+        "chineseDefinition": "包封在胶囊中或如同包封在胶囊中",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The medicine is encapsulated in a gelatin coating.",
+            "chinese": "药物被包封在明胶涂层中。"
+          }
+        ],
+        "synonyms": ["encase", "enclose", "contain", "surround"],
+        "antonyms": ["extract", "remove", "release"]
+      },
+      {
+        "definition": "To express the essential features of something succinctly",
+        "chineseDefinition": "简洁地表达某事物的基本特征",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The article encapsulates the main arguments of the debate.",
+            "chinese": "这篇文章概括了辩论的主要论点。"
+          }
+        ],
+        "synonyms": ["summarize", "epitomize", "condense", "distill"],
+        "antonyms": ["elaborate", "expand", "detail"]
+      },
+      {
+        "definition": "To restrict in a capsule or other small space",
+        "chineseDefinition": "限制在胶囊或其他小空间中",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The spacecraft encapsulated the astronauts for the duration of the mission.",
+            "chinese": "航天器在整个任务期间将宇航员封闭其中。"
+          }
+        ],
+        "synonyms": ["confine", "isolate", "seal", "enclose"],
+        "antonyms": ["free", "release", "liberate"]
+      }
+    ]
+  },
+  {
+    "word": "reinvigorate",
+    "pronunciation": "/ˌriːɪnˈvɪɡəreɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "reinvigorate",
+            "thirdPersonSingular": "reinvigorates",
+            "presentParticiple": "reinvigorating",
+            "pastTense": "reinvigorated",
+            "pastParticiple": "reinvigorated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To give new energy or strength to",
+        "chineseDefinition": "给予新的能量或力量",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The vacation helped to reinvigorate her after months of hard work.",
+            "chinese": "这次假期帮助她在几个月的辛苦工作后恢复活力。"
+          }
+        ],
+        "synonyms": ["revitalize", "energize", "rejuvenate", "refresh"],
+        "antonyms": ["exhaust", "deplete", "drain", "weaken"]
+      },
+      {
+        "definition": "To give new life or vigor to something",
+        "chineseDefinition": "给某事物注入新的生命或活力",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The new CEO plans to reinvigorate the struggling company.",
+            "chinese": "新任首席执行官计划重振这家陷入困境的公司。"
+          }
+        ],
+        "synonyms": ["revive", "restore", "renew", "regenerate"],
+        "antonyms": ["stifle", "suppress", "weaken", "undermine"]
+      }
+    ]
+  },
+  {
+    "word": "repatriate",
+    "pronunciation": "/riːˈpætriːeɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "repatriate",
+            "thirdPersonSingular": "repatriates",
+            "presentParticiple": "repatriating",
+            "pastTense": "repatriated",
+            "pastParticiple": "repatriated"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "repatriate",
+            "plural": "repatriates"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To send or bring someone back to their own country",
+        "chineseDefinition": "送回或带回某人到其本国",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The government worked to repatriate citizens stranded abroad during the crisis.",
+            "chinese": "政府努力将危机期间滞留在国外的公民遣返回国。"
+          }
+        ],
+        "synonyms": ["return", "send back", "bring back", "restore"],
+        "antonyms": ["exile", "deport", "expel", "banish"]
+      },
+      {
+        "definition": "To send money back to one's own country",
+        "chineseDefinition": "将钱汇回自己的国家",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Migrant workers repatriate billions of dollars to their home countries each year.",
+            "chinese": "移民工人每年将数十亿美元汇回他们的祖国。"
+          }
+        ],
+        "synonyms": ["transfer", "remit", "send", "transmit"],
+        "antonyms": []
+      },
+      {
+        "definition": "A person who has been repatriated",
+        "chineseDefinition": "已被遣返的人",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The repatriates faced challenges reintegrating into society after years abroad.",
+            "chinese": "这些归国人员在海外多年后面临着重新融入社会的挑战。"
+          }
+        ],
+        "synonyms": ["returnee", "deportee", "evacuee"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "tensile",
+    "pronunciation": "/ˈtɛnsaɪl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "tensile"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Of or relating to tension; capable of being stretched or drawn out",
+        "chineseDefinition": "与张力有关的；能够被拉伸或拉长的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The bridge cables have high tensile strength.",
+            "chinese": "桥梁缆索具有高拉伸强度。"
+          }
+        ],
+        "synonyms": ["elastic", "stretchable", "ductile", "extensible"],
+        "antonyms": ["brittle", "rigid", "inelastic", "compressive"]
+      },
+      {
+        "definition": "Capable of being subjected to tension or stretching forces",
+        "chineseDefinition": "能够承受张力或拉伸力的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The tensile properties of the new material make it ideal for aerospace applications.",
+            "chinese": "这种新材料的拉伸性能使其非常适合航空航天应用。"
+          }
+        ],
+        "synonyms": ["stretchy", "flexible", "resilient", "expandable"],
+        "antonyms": ["compressible", "brittle", "fragile"]
+      }
+    ]
+  },
+  {
+    "word": "solidify",
+    "pronunciation": "/səˈlɪdɪfaɪ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "solidify",
+            "thirdPersonSingular": "solidifies",
+            "presentParticiple": "solidifying",
+            "pastTense": "solidified",
+            "pastParticiple": "solidified"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To make or become solid or harder",
+        "chineseDefinition": "使变得坚固或更硬",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The wax will solidify as it cools.",
+            "chinese": "蜡在冷却时会凝固。"
+          }
+        ],
+        "synonyms": ["harden", "set", "congeal", "freeze"],
+        "antonyms": ["liquefy", "melt", "dissolve", "soften"]
+      },
+      {
+        "definition": "To make or become more definite, strong, or united",
+        "chineseDefinition": "使变得更明确、更强大或更团结",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The team's victory helped to solidify their position in the league.",
+            "chinese": "球队的胜利有助于巩固他们在联赛中的地位。"
+          }
+        ],
+        "synonyms": ["strengthen", "consolidate", "reinforce", "establish"],
+        "antonyms": ["weaken", "undermine", "destabilize", "disrupt"]
+      }
+    ]
+  },
+  {
+    "word": "propagate",
+    "pronunciation": "/ˈprɒpəɡeɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "propagate",
+            "thirdPersonSingular": "propagates",
+            "presentParticiple": "propagating",
+            "pastTense": "propagated",
+            "pastParticiple": "propagated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To breed specimens of a plant or animal by natural processes from the parent stock",
+        "chineseDefinition": "通过自然过程从亲本繁殖植物或动物的标本",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The gardener propagated new plants from cuttings.",
+            "chinese": "园丁从插条繁殖出新植物。"
+          }
+        ],
+        "synonyms": ["breed", "reproduce", "multiply", "generate"],
+        "antonyms": ["destroy", "kill", "exterminate"]
+      },
+      {
+        "definition": "To spread and promote an idea, theory, knowledge, etc. widely",
+        "chineseDefinition": "广泛传播和推广想法、理论、知识等",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The internet has made it easier to propagate information globally.",
+            "chinese": "互联网使全球传播信息变得更加容易。"
+          }
+        ],
+        "synonyms": ["disseminate", "spread", "circulate", "diffuse"],
+        "antonyms": ["suppress", "conceal", "hide", "withhold"]
+      },
+      {
+        "definition": "To transmit in a particular direction or through a medium (waves, vibrations, etc.)",
+        "chineseDefinition": "在特定方向或通过介质传播（波、振动等）",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Sound waves propagate through air.",
+            "chinese": "声波通过空气传播。"
+          }
+        ],
+        "synonyms": ["transmit", "convey", "conduct", "carry"],
+        "antonyms": ["absorb", "dampen", "block", "impede"]
+      }
+    ]
+  },
+  {
+    "word": "germinate",
+    "pronunciation": "/ˈdʒɜːrmɪneɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "germinate",
+            "thirdPersonSingular": "germinates",
+            "presentParticiple": "germinating",
+            "pastTense": "germinated",
+            "pastParticiple": "germinated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To begin to grow and develop (of a seed or spore)",
+        "chineseDefinition": "（种子或孢子）开始生长和发育",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The seeds will germinate within a week if kept moist.",
+            "chinese": "如果保持湿润，种子将在一周内发芽。"
+          }
+        ],
+        "synonyms": ["sprout", "shoot", "bud", "develop"],
+        "antonyms": ["wither", "die", "decay"]
+      },
+      {
+        "definition": "To come into existence and develop",
+        "chineseDefinition": "开始存在并发展",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The idea germinated in his mind during the long journey.",
+            "chinese": "这个想法在漫长的旅途中在他的脑海中萌生。"
+          }
+        ],
+        "synonyms": ["develop", "evolve", "emerge", "originate"],
+        "antonyms": ["disappear", "vanish", "terminate"]
+      }
+    ]
+  }
+]

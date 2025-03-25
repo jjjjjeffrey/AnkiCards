@@ -1,0 +1,1111 @@
+[
+  {
+    "word": "truce",
+    "pronunciation": "/truːs/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "truce",
+            "plural": "truces"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An agreement between enemies or opponents to stop fighting or arguing for a certain time.",
+        "chineseDefinition": "敌人或对手之间在一定时间内停止交战或争执的协议。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We declared a truce to end the hostilities.",
+            "chinese": "我们宣布休战以结束敌对行动。"
+          },
+          {
+            "english": "The two sides agreed to a truce during the holiday.",
+            "chinese": "双方同意在假日期间停战。"
+          }
+        ],
+        "synonyms": ["armistice", "ceasefire"],
+        "antonyms": ["conflict", "war"]
+      }
+    ]
+  },
+  {
+    "word": "discount",
+    "pronunciation": "/ˈdɪskaʊnt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "discount",
+            "plural": "discounts"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "discount",
+            "thirdPersonSingular": "discounts",
+            "presentParticiple": "discounting",
+            "pastTense": "discounted",
+            "pastParticiple": "discounted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A deduction from the usual cost of something.",
+        "chineseDefinition": "在通常价格基础上的减价。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "I got a discount on the jacket.",
+            "chinese": "我买这件夹克得到了折扣。"
+          }
+        ],
+        "synonyms": ["reduction"],
+        "antonyms": ["surcharge"]
+      },
+      {
+        "definition": "To deduct an amount from the usual price of something.",
+        "chineseDefinition": "从通常价格中扣除一定金额。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The store discounted the old models.",
+            "chinese": "商店对旧款进行了打折。"
+          }
+        ],
+        "synonyms": ["reduce"],
+        "antonyms": ["markup"]
+      }
+    ]
+  },
+  {
+    "word": "tough",
+    "pronunciation": "/tʌf/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "tough",
+            "comparative": "tougher",
+            "superlative": "toughest"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Strong enough to withstand adverse conditions or rough handling, or difficult to accomplish.",
+        "chineseDefinition": "足以承受不利条件或粗暴处理，或难以完成。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "This exercise is quite tough, but you'll improve.",
+            "chinese": "这项练习相当困难，但你会进步。"
+          },
+          {
+            "english": "He is tough enough to handle the challenge.",
+            "chinese": "他足够坚韧，能够应对挑战。"
+          }
+        ],
+        "synonyms": ["difficult", "hard"],
+        "antonyms": ["easy", "soft"]
+      }
+    ]
+  },
+  {
+    "word": "volunteer",
+    "pronunciation": "/ˌvɒlənˈtɪər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "volunteer",
+            "plural": "volunteers"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "volunteer",
+            "thirdPersonSingular": "volunteers",
+            "presentParticiple": "volunteering",
+            "pastTense": "volunteered",
+            "pastParticiple": "volunteered"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person who freely offers to take part in an enterprise or undertake a task.",
+        "chineseDefinition": "自愿参加某种活动或承担任务的人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He worked as a volunteer at the local shelter.",
+            "chinese": "他在当地收容所做志愿者。"
+          }
+        ],
+        "synonyms": ["helper"],
+        "antonyms": []
+      },
+      {
+        "definition": "Freely offer to do something.",
+        "chineseDefinition": "自愿提出做某事。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She volunteered to organize the event.",
+            "chinese": "她自告奋勇地组织这次活动。"
+          }
+        ],
+        "synonyms": ["offer", "enlist"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "eruption",
+    "pronunciation": "/ɪˈrʌpʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "eruption",
+            "plural": "eruptions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An act or instance of erupting.",
+        "chineseDefinition": "火山爆发或突然爆发的行为或事例。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The volcanic eruption caused massive damage.",
+            "chinese": "火山爆发造成了巨大的破坏。"
+          }
+        ],
+        "synonyms": ["outbreak", "explosion"],
+        "antonyms": ["calmness"]
+      }
+    ]
+  },
+  {
+    "word": "pension",
+    "pronunciation": "/ˈpɛnʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "pension",
+            "plural": "pensions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A regular payment made during retirement from an investment fund.",
+        "chineseDefinition": "在退休期间从投资基金中获得的定期付款。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He lives on his pension and savings.",
+            "chinese": "他依靠养老金和积蓄生活。"
+          }
+        ],
+        "synonyms": ["retirement fund", "annuity"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "assignment",
+    "pronunciation": "/əˈsaɪnmənt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "assignment",
+            "plural": "assignments"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A task or piece of work allocated to someone as part of a job or course of study.",
+        "chineseDefinition": "作为工作或学习课程的一部分分配给某人的任务或工作。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He finished his assignment on time.",
+            "chinese": "他按时完成了作业。"
+          }
+        ],
+        "synonyms": ["task", "duty"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "assign",
+    "pronunciation": "/əˈsaɪn/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "assign",
+            "thirdPersonSingular": "assigns",
+            "presentParticiple": "assigning",
+            "pastTense": "assigned",
+            "pastParticiple": "assigned"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To allocate or designate a task or responsibility to someone.",
+        "chineseDefinition": "分配或指派某人任务或责任。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The teacher assigned the students a research project.",
+            "chinese": "老师给学生们布置了一个研究项目。"
+          }
+        ],
+        "synonyms": ["allocate", "allot"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "concert",
+    "pronunciation": "/ˈkɒnsət/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "concert",
+            "plural": "concerts"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A musical performance given in public, typically by several performers or of several separate compositions.",
+        "chineseDefinition": "通常由多个表演者或多首独立乐曲组成的公开音乐演出。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We went to a rock concert last night.",
+            "chinese": "我们昨晚去听了一场摇滚音乐会。"
+          }
+        ],
+        "synonyms": ["musical performance", "show"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "microbiology",
+    "pronunciation": "/ˌmaɪkrəʊbaɪˈɒlədʒi/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "microbiology",
+            "plural": "microbiologies"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The branch of science that deals with microorganisms.",
+        "chineseDefinition": "研究微生物的科学分支。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She is studying microbiology at university.",
+            "chinese": "她在大学里学习微生物学。"
+          }
+        ],
+        "synonyms": ["study of microorganisms"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "stainless",
+    "pronunciation": "/ˈsteɪnləs/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "stainless",
+            "comparative": "more stainless",
+            "superlative": "most stainless"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Resistant to staining or corrosion.",
+        "chineseDefinition": "耐玷污或耐腐蚀的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "They bought a stainless steel kitchen set.",
+            "chinese": "他们买了一套不锈钢厨房用具。"
+          }
+        ],
+        "synonyms": ["rustproof"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "hallowed",
+    "pronunciation": "/ˈhæləʊd/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "hallowed",
+            "comparative": "more hallowed",
+            "superlative": "most hallowed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Regarded as holy or sacred.",
+        "chineseDefinition": "被视为神圣或神圣的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The church is built on hallowed ground.",
+            "chinese": "这座教堂建在神圣的土地上。"
+          }
+        ],
+        "synonyms": ["sacred", "holy"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "terminal",
+    "pronunciation": "/ˈtɜːmɪnəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "terminal",
+            "comparative": "more terminal",
+            "superlative": "most terminal"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "terminal",
+            "plural": "terminals"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Of, forming, or situated at the end or extremity of something.",
+        "chineseDefinition": "位于事物末端或极端的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He has a terminal illness and needs constant care.",
+            "chinese": "他患有晚期疾病，需要持续护理。"
+          }
+        ],
+        "synonyms": ["final", "last"],
+        "antonyms": []
+      },
+      {
+        "definition": "A departure and arrival building for passengers at an airport, station, or port.",
+        "chineseDefinition": "在机场、车站或港口为旅客提供出发和到达的建筑。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We waited in the airport terminal for our flight.",
+            "chinese": "我们在机场航站楼等待我们的航班。"
+          }
+        ],
+        "synonyms": ["station", "end"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "climate",
+    "pronunciation": "/ˈklaɪmɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "climate",
+            "plural": "climates"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The weather conditions prevailing in an area in general or over a long period.",
+        "chineseDefinition": "在某地区普遍或长时间存在的天气状况。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The country's climate is mostly temperate.",
+            "chinese": "这个国家的气候大多是温和的。"
+          }
+        ],
+        "synonyms": ["weather pattern", "atmospheric conditions"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "bring",
+    "pronunciation": "/brɪŋ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "bring",
+            "thirdPersonSingular": "brings",
+            "presentParticiple": "bringing",
+            "pastTense": "brought",
+            "pastParticiple": "brought"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Come to a place with someone or something.",
+        "chineseDefinition": "带某人或某物到某处。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Please bring your books to class tomorrow.",
+            "chinese": "请明天把你的书带到课堂。"
+          }
+        ],
+        "synonyms": ["carry", "deliver"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "relevance",
+    "pronunciation": "/ˈrɛlɪvəns/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "relevance",
+            "plural": "relevances"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The quality or state of being closely connected or appropriate.",
+        "chineseDefinition": "紧密相关或恰当的性质或状态。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "This topic has great relevance to our discussion.",
+            "chinese": "这个话题与我们的讨论高度相关。"
+          }
+        ],
+        "synonyms": ["pertinence", "applicability"],
+        "antonyms": ["irrelevance"]
+      }
+    ]
+  },
+  {
+    "word": "reluctant",
+    "pronunciation": "/rɪˈlʌktənt/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "reluctant",
+            "comparative": "more reluctant",
+            "superlative": "most reluctant"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Unwilling and hesitant; disinclined.",
+        "chineseDefinition": "不情愿且犹豫的；不愿意的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He was reluctant to reveal the truth.",
+            "chinese": "他不愿意透露真相。"
+          }
+        ],
+        "synonyms": ["unwilling", "hesitant"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "regularity",
+    "pronunciation": "/ˌrɛɡjəˈlærɪti/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "regularity",
+            "plural": "regularities"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The state or quality of being regular.",
+        "chineseDefinition": "有规律的状态或特性。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The regularity of her visits comforted him.",
+            "chinese": "她定期的拜访让他感到安慰。"
+          }
+        ],
+        "synonyms": ["consistency", "uniformity"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "laterality",
+    "pronunciation": "/ˌlætəˈrælɪti/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "laterality",
+            "plural": "lateralities"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The preference for using one side of the body over the other.",
+        "chineseDefinition": "对身体一侧的偏好。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Hand laterality is a key factor in writing habits.",
+            "chinese": "手的偏侧性是书写习惯的关键因素。"
+          }
+        ],
+        "synonyms": ["sidedness"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "predominant",
+    "pronunciation": "/prɪˈdɒmɪnənt/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "predominant",
+            "comparative": "more predominant",
+            "superlative": "most predominant"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Present as the strongest or main element.",
+        "chineseDefinition": "作为最强或主要因素存在。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Green was the predominant color in the painting.",
+            "chinese": "绿色是这幅画中最主要的颜色。"
+          }
+        ],
+        "synonyms": ["principal", "leading"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "trek",
+    "pronunciation": "/trɛk/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "trek",
+            "plural": "treks"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "trek",
+            "thirdPersonSingular": "treks",
+            "presentParticiple": "trekking",
+            "pastTense": "trekked",
+            "pastParticiple": "trekked"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A long arduous journey, especially one made on foot.",
+        "chineseDefinition": "一次漫长而艰辛的旅程，尤其是徒步进行的旅程。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Their trek through the mountains took two weeks.",
+            "chinese": "他们穿越山区的旅程持续了两周。"
+          }
+        ],
+        "synonyms": ["journey"],
+        "antonyms": []
+      },
+      {
+        "definition": "Go on a long arduous journey, typically on foot.",
+        "chineseDefinition": "进行一次漫长而艰辛的旅行，通常是徒步。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They trekked across the desert with minimal supplies.",
+            "chinese": "他们带着最少的物资穿越了沙漠。"
+          }
+        ],
+        "synonyms": ["hike", "travel"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "daunt",
+    "pronunciation": "/dɔːnt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "daunt",
+            "thirdPersonSingular": "daunts",
+            "presentParticiple": "daunting",
+            "pastTense": "daunted",
+            "pastParticiple": "daunted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Make someone feel intimidated or apprehensive.",
+        "chineseDefinition": "使某人感到胆怯或忧虑。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The challenge did not daunt her at all.",
+            "chinese": "这个挑战丝毫没有让她气馁。"
+          }
+        ],
+        "synonyms": ["discourage", "intimidate"],
+        "antonyms": ["encourage"]
+      }
+    ]
+  },
+  {
+    "word": "itinerary",
+    "pronunciation": "/aɪˈtɪnərəri/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "itinerary",
+            "plural": "itineraries"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A planned route or journey.",
+        "chineseDefinition": "计划好的路线或旅程。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The tour operator gave us a detailed itinerary.",
+            "chinese": "旅行社给了我们详细的行程安排。"
+          }
+        ],
+        "synonyms": ["travel plan", "schedule"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "acclimatise",
+    "pronunciation": "/əˈklaɪmətaɪz/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "acclimatise",
+            "thirdPersonSingular": "acclimatises",
+            "presentParticiple": "acclimatising",
+            "pastTense": "acclimatised",
+            "pastParticiple": "acclimatised"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Become accustomed to a new climate or new conditions.",
+        "chineseDefinition": "适应新的气候或新的环境条件。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "It takes time to acclimatise to life in the mountains.",
+            "chinese": "适应山区的生活需要时间。"
+          }
+        ],
+        "synonyms": ["adjust", "adapt"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "meadow",
+    "pronunciation": "/ˈmɛdəʊ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "meadow",
+            "plural": "meadows"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A piece of grassland, especially one used for hay.",
+        "chineseDefinition": "一片草地，尤其是用来收割干草的草场。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We walked through the flower-filled meadow.",
+            "chinese": "我们穿过了开满鲜花的草地。"
+          }
+        ],
+        "synonyms": ["field", "grassland"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "forthcoming",
+    "pronunciation": "/fɔːθˈkʌmɪŋ/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "forthcoming",
+            "comparative": "more forthcoming",
+            "superlative": "most forthcoming"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "About to happen or appear.",
+        "chineseDefinition": "即将发生或出现。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "We are preparing for the forthcoming festival.",
+            "chinese": "我们正在为即将到来的节日做准备。"
+          }
+        ],
+        "synonyms": ["upcoming", "approaching"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "structure",
+    "pronunciation": "/ˈstrʌktʃər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "structure",
+            "plural": "structures"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "structure",
+            "thirdPersonSingular": "structures",
+            "presentParticiple": "structuring",
+            "pastTense": "structured",
+            "pastParticiple": "structured"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The arrangement of and relations between the parts or elements of something complex.",
+        "chineseDefinition": "复杂事物各部分或要素之间的排列与关系。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The structure of the organization is quite hierarchical.",
+            "chinese": "该组织的结构相当分层。"
+          }
+        ],
+        "synonyms": ["framework", "arrangement"],
+        "antonyms": []
+      },
+      {
+        "definition": "Construct or arrange according to a plan; give a pattern or organization to.",
+        "chineseDefinition": "按照规划来构建或安排；赋予模式或组织。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "We need to structure our approach to the project.",
+            "chinese": "我们需要规划对该项目的实施方式。"
+          }
+        ],
+        "synonyms": ["organize", "arrange"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "quantity",
+    "pronunciation": "/ˈkwɒntɪti/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "quantity",
+            "plural": "quantities"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The amount or number of a material or abstract thing not usually estimated by spatial measurement.",
+        "chineseDefinition": "通常不以空间测量方式估算的物质或抽象事物的数量或数额。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We have a large quantity of stock available.",
+            "chinese": "我们有大量库存可用。"
+          }
+        ],
+        "synonyms": ["amount", "volume"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "integral",
+    "pronunciation": "/ˈɪntɪɡrəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "integral",
+            "comparative": "more integral",
+            "superlative": "most integral"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "integral",
+            "plural": "integrals"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Necessary to make a whole complete; essential or fundamental.",
+        "chineseDefinition": "使整体完整所必需的；基本的或根本的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Music is an integral part of her life.",
+            "chinese": "音乐是她生活中不可或缺的一部分。"
+          }
+        ],
+        "synonyms": ["essential", "fundamental"],
+        "antonyms": []
+      },
+      {
+        "definition": "A function of which a given function is the derivative, also used as the area under a curve in calculus.",
+        "chineseDefinition": "给定函数的原函数，在微积分中也用于表示曲线下的面积。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We need to compute the integral of this function over the interval.",
+            "chinese": "我们需要在这个区间上计算这个函数的积分。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "intensive",
+    "pronunciation": "/ɪnˈtɛnsɪv/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "intensive",
+            "comparative": "more intensive",
+            "superlative": "most intensive"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Concentrated on a single subject or into a short time; very thorough or vigorous.",
+        "chineseDefinition": "集中于一个科目或在短时间内完成；非常彻底或强度大的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She attended an intensive language course.",
+            "chinese": "她参加了一个强化语言课程。"
+          }
+        ],
+        "synonyms": ["thorough", "concentrated"],
+        "antonyms": []
+      }
+    ]
+  }
+]

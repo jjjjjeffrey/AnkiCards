@@ -1,0 +1,1162 @@
+[
+  {
+    "word": "chart",
+    "pronunciation": "/tʃɑːrt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "chart",
+            "plural": "charts"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "chart",
+            "thirdPersonSingular": "charts",
+            "presentParticiple": "charting",
+            "pastTense": "charted",
+            "pastParticiple": "charted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A sheet of information in the form of a table, graph, or diagram.",
+        "chineseDefinition": "以表格、图形或图表形式呈现信息的纸张或文件。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The chart shows the company's monthly profits.",
+            "chinese": "图表显示了公司每月的利润。"
+          }
+        ],
+        "synonyms": ["table", "graph", "diagram"],
+        "antonyms": []
+      },
+      {
+        "definition": "To map or outline something, often for planning or research.",
+        "chineseDefinition": "对某事物进行绘制或概述，通常用于规划或研究。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They charted the area before construction.",
+            "chinese": "他们在施工前对该区域进行了绘制。"
+          }
+        ],
+        "synonyms": ["map", "plot"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "asthma",
+    "pronunciation": "/ˈæzmə/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "invariable",
+          "data": "asthma"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A respiratory condition marked by spasms in the bronchi of the lungs.",
+        "chineseDefinition": "一种呼吸道疾病，表现为肺部支气管痉挛。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She uses an inhaler to manage her asthma.",
+            "chinese": "她使用吸入器来控制她的哮喘。"
+          }
+        ],
+        "synonyms": ["respiratory condition"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "signature",
+    "pronunciation": "/ˈsɪɡnətʃər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "signature",
+            "plural": "signatures"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person's name written in a distinctive way as a form of identification.",
+        "chineseDefinition": "以独特方式书写的名字，用于识别身份。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Please put your signature on the dotted line.",
+            "chinese": "请在虚线处签名。"
+          }
+        ],
+        "synonyms": ["autograph", "mark"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "occasion",
+    "pronunciation": "/əˈkeɪʒən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "occasion",
+            "plural": "occasions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A particular event or time.",
+        "chineseDefinition": "特定的事件或时刻。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The wedding was a grand occasion.",
+            "chinese": "婚礼是一个盛大的场合。"
+          }
+        ],
+        "synonyms": ["event", "instance"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "mineral",
+    "pronunciation": "/ˈmɪnərəl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "mineral",
+            "plural": "minerals"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "mineral",
+            "comparative": "more mineral",
+            "superlative": "most mineral"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A solid, naturally occurring inorganic substance.",
+        "chineseDefinition": "一种固态、天然存在的无机物质。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "This rock is rich in various minerals.",
+            "chinese": "这种岩石富含多种矿物质。"
+          }
+        ],
+        "synonyms": ["ore", "crystal"],
+        "antonyms": []
+      },
+      {
+        "definition": "Relating to or denoting a mineral or minerals.",
+        "chineseDefinition": "与矿物相关的，或表示矿物的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She studies mineral deposits in the region.",
+            "chinese": "她研究该地区的矿物沉积。"
+          }
+        ],
+        "synonyms": ["geologic"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "invaluable",
+    "pronunciation": "/ɪnˈvæljuəbl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "invaluable",
+            "comparative": "more invaluable",
+            "superlative": "most invaluable"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Extremely useful or indispensable.",
+        "chineseDefinition": "极其有用或不可或缺的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "His advice was invaluable to me.",
+            "chinese": "他的建议对我来说是无价的。"
+          }
+        ],
+        "synonyms": ["priceless", "irreplaceable"],
+        "antonyms": ["worthless"]
+      }
+    ]
+  },
+  {
+    "word": "recover",
+    "pronunciation": "/rɪˈkʌvər/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "recover",
+            "thirdPersonSingular": "recovers",
+            "presentParticiple": "recovering",
+            "pastTense": "recovered",
+            "pastParticiple": "recovered"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Return to a normal state of health, mind, or strength.",
+        "chineseDefinition": "恢复到健康、正常的精神或力量状态。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She needs time to recover from the surgery.",
+            "chinese": "她需要时间从手术中恢复。"
+          }
+        ],
+        "synonyms": ["heal", "regain"],
+        "antonyms": ["deteriorate"]
+      }
+    ]
+  },
+  {
+    "word": "moderation",
+    "pronunciation": "/ˌmɒdəˈreɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "moderation",
+            "plural": "moderations"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The avoidance of excess or extremes, especially in one's behavior or political opinions.",
+        "chineseDefinition": "避免过度或极端的行为，尤其在行为或政治观点上。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They believe in moderation in all things.",
+            "chinese": "他们相信凡事都要适度。"
+          }
+        ],
+        "synonyms": ["restraint", "temperance"],
+        "antonyms": ["excess", "extremism"]
+      }
+    ]
+  },
+  {
+    "word": "documentation",
+    "pronunciation": "/ˌdɒkjʊmɛnˈteɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "documentation",
+            "plural": "documentations"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Material that provides official information or evidence.",
+        "chineseDefinition": "提供官方信息或证据的资料。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Make sure you have all the documentation required for registration.",
+            "chinese": "确保你有注册所需的所有文件。"
+          }
+        ],
+        "synonyms": ["records", "papers"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "critical",
+    "pronunciation": "/ˈkrɪtɪkəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "critical",
+            "comparative": "more critical",
+            "superlative": "most critical"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Expressing disapproval or judgments about faults or mistakes.",
+        "chineseDefinition": "表达不满或对错误进行判断的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He was critical of the new policy.",
+            "chinese": "他对新政策持批评态度。"
+          }
+        ],
+        "synonyms": ["judgmental", "disapproving"],
+        "antonyms": ["praising"]
+      },
+      {
+        "definition": "Of the greatest importance to the success or failure of something.",
+        "chineseDefinition": "对成功或失败至关重要。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Timing is critical in this operation.",
+            "chinese": "在这个行动中，时间安排至关重要。"
+          }
+        ],
+        "synonyms": ["crucial", "vital"],
+        "antonyms": ["unimportant"]
+      }
+    ]
+  },
+  {
+    "word": "vocational",
+    "pronunciation": "/vəʊˈkeɪʃənəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "vocational",
+            "comparative": "more vocational",
+            "superlative": "most vocational"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Relating to an occupation or employment.",
+        "chineseDefinition": "与职业或就业相关的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He enrolled in a vocational training program.",
+            "chinese": "他报名参加了职业培训课程。"
+          }
+        ],
+        "synonyms": ["occupational", "professional"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "summary",
+    "pronunciation": "/ˈsʌməri/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "summary",
+            "plural": "summaries"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "summary",
+            "comparative": "more summary",
+            "superlative": "most summary"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A brief statement or account of the main points of something.",
+        "chineseDefinition": "对某事主要要点的简要陈述。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He wrote a brief summary of the report.",
+            "chinese": "他写了该报告的简要概述。"
+          }
+        ],
+        "synonyms": ["outline", "abstract"],
+        "antonyms": []
+      },
+      {
+        "definition": "Dispensing with needless details or formalities; brief.",
+        "chineseDefinition": "不需要不必要的细节或形式；简短的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "They took summary action against the offender.",
+            "chinese": "他们对违规者采取了快速处理措施。"
+          }
+        ],
+        "synonyms": ["concise", "immediate"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "remove",
+    "pronunciation": "/rɪˈmuːv/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "remove",
+            "thirdPersonSingular": "removes",
+            "presentParticiple": "removing",
+            "pastTense": "removed",
+            "pastParticiple": "removed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Take (something) away or off from the position occupied.",
+        "chineseDefinition": "将某物从原先的位置移走或取下。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Please remove your shoes before entering.",
+            "chinese": "进入前请脱鞋。"
+          }
+        ],
+        "synonyms": ["take away", "extract"],
+        "antonyms": ["add", "attach"]
+      }
+    ]
+  },
+  {
+    "word": "coffer",
+    "pronunciation": "/ˈkɒfər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "coffer",
+            "plural": "coffers"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A strongbox or small chest for holding valuables.",
+        "chineseDefinition": "用来存放贵重物品的保险箱或小型箱子。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They found an ancient coffer filled with gold coins.",
+            "chinese": "他们发现了一个装满金币的古代财箱。"
+          }
+        ],
+        "synonyms": ["chest", "strongbox"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "bound",
+    "pronunciation": "/baʊnd/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "bound",
+            "plural": "bounds"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "bound",
+            "thirdPersonSingular": "bounds",
+            "presentParticiple": "bounding",
+            "pastTense": "bounded",
+            "pastParticiple": "bounded"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "bound",
+            "comparative": "more bound",
+            "superlative": "most bound"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A territorial limit or boundary.",
+        "chineseDefinition": "领土的界限或边界。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We are close to the bound of the property line.",
+            "chinese": "我们已接近房产的边界。"
+          }
+        ],
+        "synonyms": ["boundary", "limit"],
+        "antonyms": []
+      },
+      {
+        "definition": "To move by leaping.",
+        "chineseDefinition": "通过跳跃前进。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The deer bounded across the field.",
+            "chinese": "那只鹿在田野上跳跃。"
+          }
+        ],
+        "synonyms": ["leap", "jump"],
+        "antonyms": []
+      },
+      {
+        "definition": "Heading or intending to go in a specified direction.",
+        "chineseDefinition": "朝某个特定方向行进或打算前往。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He is bound for New York tomorrow morning.",
+            "chinese": "他明天早上将前往纽约。"
+          }
+        ],
+        "synonyms": ["destined"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "mercury",
+    "pronunciation": "/ˈmɜːrkjʊri/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "mercury",
+            "plural": "mercuries"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A chemical element (symbol Hg) that is a heavy, silvery d-block element.",
+        "chineseDefinition": "一种化学元素（符号Hg），是一种重金属银色元素。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Thermometers used to contain mercury.",
+            "chinese": "温度计过去常使用水银。"
+          }
+        ],
+        "synonyms": ["quicksilver"],
+        "antonyms": []
+      },
+      {
+        "definition": "The smallest planet in the Solar System, nearest to the Sun.",
+        "chineseDefinition": "太阳系中最小且最靠近太阳的行星。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Mercury orbits the Sun in about 88 days.",
+            "chinese": "水星大约每88天绕太阳公转一周。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "trinket",
+    "pronunciation": "/ˈtrɪŋkɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "trinket",
+            "plural": "trinkets"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A small ornament or item of jewelry that is of little value.",
+        "chineseDefinition": "一种小饰物或小首饰，价值不高。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She collects trinkets from around the world.",
+            "chinese": "她收集来自世界各地的小饰品。"
+          }
+        ],
+        "synonyms": ["bauble", "knickknack"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "expire",
+    "pronunciation": "/ɪkˈspaɪər/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "expire",
+            "thirdPersonSingular": "expires",
+            "presentParticiple": "expiring",
+            "pastTense": "expired",
+            "pastParticiple": "expired"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To come to the end of the period of validity.",
+        "chineseDefinition": "到达有效期的末端。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "My passport will expire next year.",
+            "chinese": "我的护照明年就会过期。"
+          }
+        ],
+        "synonyms": ["lapse", "terminate"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "accessible",
+    "pronunciation": "/ækˈsɛsəbəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "accessible",
+            "comparative": "more accessible",
+            "superlative": "most accessible"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Able to be reached or easily understood.",
+        "chineseDefinition": "可以到达，或容易被理解的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "This website is accessible to people with disabilities.",
+            "chinese": "此网站对残障人士是可访问的。"
+          }
+        ],
+        "synonyms": ["approachable", "reachable"],
+        "antonyms": ["inaccessible"]
+      }
+    ]
+  },
+  {
+    "word": "turbine",
+    "pronunciation": "/ˈtɜːrbaɪn/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "turbine",
+            "plural": "turbines"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A machine for producing continuous power that is driven by a fast-moving flow of water, steam, gas, or air.",
+        "chineseDefinition": "一种通过快速流动的水、蒸汽、气体或空气来产生持续动力的机器。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They installed a new wind turbine in the field.",
+            "chinese": "他们在田地里安装了一个新的风力涡轮机。"
+          }
+        ],
+        "synonyms": ["engine", "rotor"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "backbone",
+    "pronunciation": "/ˈbækboʊn/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "backbone",
+            "plural": "backbones"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The series of vertebrae extending from the skull to the pelvis; the spine.",
+        "chineseDefinition": "从头骨到骨盆的一系列椎骨；脊柱。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He injured his backbone during the accident.",
+            "chinese": "他在事故中伤到了脊柱。"
+          }
+        ],
+        "synonyms": ["spine"],
+        "antonyms": []
+      },
+      {
+        "definition": "The chief support of a system or organization.",
+        "chineseDefinition": "一个系统或组织的主要支柱。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Small businesses are the backbone of the economy.",
+            "chinese": "小型企业是经济的中坚力量。"
+          }
+        ],
+        "synonyms": ["mainstay", "foundation"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "attribute",
+    "pronunciation": "/əˈtrɪbjuːt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "attribute",
+            "plural": "attributes"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "attribute",
+            "thirdPersonSingular": "attributes",
+            "presentParticiple": "attributing",
+            "pastTense": "attributed",
+            "pastParticiple": "attributed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A quality or feature regarded as a characteristic or inherent part of someone or something.",
+        "chineseDefinition": "被视为某人或某物特征或固有部分的品质或特征。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Patience is an attribute of a good teacher.",
+            "chinese": "耐心是好老师具备的品质之一。"
+          }
+        ],
+        "synonyms": ["quality", "characteristic"],
+        "antonyms": []
+      },
+      {
+        "definition": "To regard something as being caused by (someone or something).",
+        "chineseDefinition": "认为某事物是由（某人或某物）引起的。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He attributes his success to hard work.",
+            "chinese": "他将自己的成功归因于努力工作。"
+          }
+        ],
+        "synonyms": ["credit", "ascribe"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "magnitude",
+    "pronunciation": "/ˈmæɡnɪtjuːd/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "magnitude",
+            "plural": "magnitudes"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The great size or extent of something.",
+        "chineseDefinition": "某物的巨大规模或范围。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The magnitude of the problem is overwhelming.",
+            "chinese": "问题的严重程度令人难以招架。"
+          }
+        ],
+        "synonyms": ["extent", "size"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "compatible",
+    "pronunciation": "/kəmˈpætɪbəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "compatible",
+            "comparative": "more compatible",
+            "superlative": "most compatible"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Able to exist or occur together without conflict.",
+        "chineseDefinition": "能够共存或共同发生而不会产生冲突。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "This software is compatible with most operating systems.",
+            "chinese": "这个软件与大多数操作系统兼容。"
+          }
+        ],
+        "synonyms": ["harmonious", "congruent"],
+        "antonyms": ["incompatible"]
+      }
+    ]
+  },
+  {
+    "word": "entrepreneur",
+    "pronunciation": "/ˌɒntrəprəˈnɜːr/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "entrepreneur",
+            "plural": "entrepreneurs"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person who organizes and operates a business or businesses.",
+        "chineseDefinition": "组织并经营一个或多个企业的人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She became a successful entrepreneur at a young age.",
+            "chinese": "她在很年轻的时候就成为了一名成功的企业家。"
+          }
+        ],
+        "synonyms": ["business person", "founder"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "proposal",
+    "pronunciation": "/prəˈpoʊzəl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "proposal",
+            "plural": "proposals"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A plan or suggestion put forward for consideration by others.",
+        "chineseDefinition": "一个由他人提出考虑的计划或建议。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They presented a proposal to improve the workflow.",
+            "chinese": "他们提出了一个改进工作流程的建议。"
+          }
+        ],
+        "synonyms": ["suggestion", "plan"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "coach",
+    "pronunciation": "/koʊtʃ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "coach",
+            "plural": "coaches"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "coach",
+            "thirdPersonSingular": "coaches",
+            "presentParticiple": "coaching",
+            "pastTense": "coached",
+            "pastParticiple": "coached"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person who trains people or a team in sport or other activities.",
+        "chineseDefinition": "在体育或其他活动中训练个人或团队的人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He is the new basketball coach.",
+            "chinese": "他是新的篮球教练。"
+          }
+        ],
+        "synonyms": ["instructor", "trainer"],
+        "antonyms": []
+      },
+      {
+        "definition": "To give someone training or instruction.",
+        "chineseDefinition": "给某人提供培训或指导。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She coaches young athletes in track and field events.",
+            "chinese": "她指导年轻的田径运动员。"
+          }
+        ],
+        "synonyms": ["train", "tutor"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "fatal",
+    "pronunciation": "/ˈfeɪtəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "fatal",
+            "comparative": "more fatal",
+            "superlative": "most fatal"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Causing death or leading to failure or disaster.",
+        "chineseDefinition": "导致死亡，或导致失败或灾难的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "A fatal accident occurred on the highway.",
+            "chinese": "高速公路上发生了一起致命的事故。"
+          }
+        ],
+        "synonyms": ["deadly", "lethal"],
+        "antonyms": ["harmless"]
+      }
+    ]
+  },
+  {
+    "word": "currency",
+    "pronunciation": "/ˈkʌrənsi/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "currency",
+            "plural": "currencies"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A system of money in general use in a particular country.",
+        "chineseDefinition": "在特定国家普遍使用的货币系统。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They exchanged their home currency for euros.",
+            "chinese": "他们把本国货币兑换成欧元。"
+          }
+        ],
+        "synonyms": ["money", "banknotes"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "disapprove",
+    "pronunciation": "/ˌdɪsəˈpruːv/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "disapprove",
+            "thirdPersonSingular": "disapproves",
+            "presentParticiple": "disapproving",
+            "pastTense": "disapproved",
+            "pastParticiple": "disapproved"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Have or express an unfavorable opinion about something.",
+        "chineseDefinition": "对某事有或表达不赞成的意见。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They disapprove of smoking in the office.",
+            "chinese": "他们不赞成在办公室吸烟。"
+          }
+        ],
+        "synonyms": ["condemn", "object"],
+        "antonyms": ["approve", "support"]
+      }
+    ]
+  }
+]

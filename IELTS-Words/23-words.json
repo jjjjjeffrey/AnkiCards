@@ -1,0 +1,1208 @@
+[
+  {
+    "word": "effective",
+    "pronunciation": "/ɪˈfɛktɪv/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "effective",
+            "comparative": "more effective",
+            "superlative": "most effective"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Producing a desired or intended result.",
+        "chineseDefinition": "有效的，能产生预期效果的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "This method is more effective than the old one.",
+            "chinese": "这种方法比旧方法更有效。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "appreciate",
+    "pronunciation": "/əˈpriːʃieɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "appreciate",
+            "thirdPersonSingular": "appreciates",
+            "presentParticiple": "appreciating",
+            "pastTense": "appreciated",
+            "pastParticiple": "appreciated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Recognize the full worth of something or someone; be grateful for something.",
+        "chineseDefinition": "欣赏；感激",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "I really appreciate your help with this project.",
+            "chinese": "我非常感激你在这个项目上的帮助。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "deny",
+    "pronunciation": "/dɪˈnaɪ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "deny",
+            "thirdPersonSingular": "denies",
+            "presentParticiple": "denying",
+            "pastTense": "denied",
+            "pastParticiple": "denied"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Refuse to admit the truth or existence of something.",
+        "chineseDefinition": "否认",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He denied any involvement in the incident.",
+            "chinese": "他否认与该事件有任何关联。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "union",
+    "pronunciation": "/ˈjuːniən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "union",
+            "plural": "unions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The action or fact of joining or being joined, especially in a political context.",
+        "chineseDefinition": "联合，结合",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They formed a union to strengthen their position.",
+            "chinese": "他们成立了一个联盟来加强他们的地位。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "responsibility",
+    "pronunciation": "/rɪˌspɒnsəˈbɪləti/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "responsibility",
+            "plural": "responsibilities"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The state or fact of having a duty to deal with something or having control over someone.",
+        "chineseDefinition": "责任",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Caring for children is a serious responsibility.",
+            "chinese": "照顾孩子是一项重要的责任。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "conform",
+    "pronunciation": "/kənˈfɔːrm/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "conform",
+            "thirdPersonSingular": "conforms",
+            "presentParticiple": "conforming",
+            "pastTense": "conformed",
+            "pastParticiple": "conformed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Comply with rules, standards, or laws.",
+        "chineseDefinition": "遵守，符合",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "All students must conform to the school dress code.",
+            "chinese": "所有学生都必须遵守学校的着装规范。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "handy",
+    "pronunciation": "/ˈhændi/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "handy",
+            "comparative": "handier",
+            "superlative": "handiest"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Convenient to handle or use; useful.",
+        "chineseDefinition": "方便的，实用的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "This tool is very handy for fixing small gadgets.",
+            "chinese": "这个工具在修理小设备时非常实用。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "notify",
+    "pronunciation": "/ˈnoʊtɪfaɪ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "notify",
+            "thirdPersonSingular": "notifies",
+            "presentParticiple": "notifying",
+            "pastTense": "notified",
+            "pastParticiple": "notified"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Inform (someone) of something, typically in a formal or official manner.",
+        "chineseDefinition": "通知",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They will notify us when the package arrives.",
+            "chinese": "包裹到达时他们会通知我们。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "splendid",
+    "pronunciation": "/ˈsplɛndɪd/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "splendid",
+            "comparative": "more splendid",
+            "superlative": "most splendid"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Magnificent; very impressive.",
+        "chineseDefinition": "极好的，壮丽的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "They had a splendid view from the hilltop.",
+            "chinese": "他们在山顶看到的景色非常壮丽。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "direction",
+    "pronunciation": "/daɪˈrɛkʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "direction",
+            "plural": "directions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A course along which someone or something moves.",
+        "chineseDefinition": "方向",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We walked in the direction of the nearest town.",
+            "chinese": "我们朝最近的城镇方向走去。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "execute",
+    "pronunciation": "/ˈɛksɪkjuːt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "execute",
+            "thirdPersonSingular": "executes",
+            "presentParticiple": "executing",
+            "pastTense": "executed",
+            "pastParticiple": "executed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Carry out or put into effect (a plan, order, or course of action).",
+        "chineseDefinition": "执行",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "We must execute the plan precisely to succeed.",
+            "chinese": "我们必须精确地执行计划才能成功。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "witness",
+    "pronunciation": "/ˈwɪtnəs/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "witness",
+            "plural": "witnesses"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "witness",
+            "thirdPersonSingular": "witnesses",
+            "presentParticiple": "witnessing",
+            "pastTense": "witnessed",
+            "pastParticiple": "witnessed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person who sees an event, typically a crime or accident, take place.",
+        "chineseDefinition": "目击者",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The witness provided a clear account of the incident.",
+            "chinese": "目击者对事件做出了清晰的描述。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "definition": "See (an event, typically a crime or accident) happen.",
+        "chineseDefinition": "见证，目击",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Many people witnessed the historic ceremony.",
+            "chinese": "很多人见证了这场历史性仪式。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "elbow",
+    "pronunciation": "/ˈɛlboʊ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "elbow",
+            "plural": "elbows"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "elbow",
+            "thirdPersonSingular": "elbows",
+            "presentParticiple": "elbowing",
+            "pastTense": "elbowed",
+            "pastParticiple": "elbowed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The joint between the forearm and the upper arm.",
+        "chineseDefinition": "肘部",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He rested his elbow on the table.",
+            "chinese": "他把肘部靠在桌子上。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "definition": "Push or strike (someone) with one's elbow.",
+        "chineseDefinition": "用肘推",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She elbowed her way through the crowded hallway.",
+            "chinese": "她用肘部推开拥挤的人群穿过走廊。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "limited",
+    "pronunciation": "/ˈlɪmɪtɪd/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "limited",
+            "comparative": "more limited",
+            "superlative": "most limited"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Restricted in size, amount, or extent.",
+        "chineseDefinition": "有限的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "We have a limited amount of time to finish.",
+            "chinese": "我们完成的时间有限。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "vessel",
+    "pronunciation": "/ˈvɛsəl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "vessel",
+            "plural": "vessels"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A ship or large boat.",
+        "chineseDefinition": "船",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "This vessel can carry hundreds of passengers.",
+            "chinese": "这艘船可以载数百名乘客。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "private",
+    "pronunciation": "/ˈpraɪvɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "private",
+            "comparative": "more private",
+            "superlative": "most private"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "private",
+            "plural": "privates"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Belonging to or for the use of one particular person or group only.",
+        "chineseDefinition": "私人的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He prefers a private office away from the crowd.",
+            "chinese": "他喜欢远离人群的私人办公室。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "definition": "A soldier of the lowest military rank.",
+        "chineseDefinition": "列兵",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He enlisted as a private in the army.",
+            "chinese": "他在军队里报名入伍担任列兵。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "stereo",
+    "pronunciation": "/ˈstɛrioʊ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "stereo",
+            "plural": "stereos"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "stereo"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A sound system with two or more speakers.",
+        "chineseDefinition": "立体声音响",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "I bought a new stereo to listen to music.",
+            "chinese": "我买了一个新的立体声音响来听音乐。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "definition": "Relating to sound reproduction involving two channels.",
+        "chineseDefinition": "立体声的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "This album is recorded in stereo.",
+            "chinese": "这张专辑是以立体声方式录制的。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "soak",
+    "pronunciation": "/soʊk/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "soak",
+            "thirdPersonSingular": "soaks",
+            "presentParticiple": "soaking",
+            "pastTense": "soaked",
+            "pastParticiple": "soaked"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Make or allow something to become thoroughly wet by immersing it in liquid.",
+        "chineseDefinition": "浸泡",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "You should soak the beans overnight before cooking.",
+            "chinese": "你应该在烹饪前先将豆子浸泡一整夜。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "stout",
+    "pronunciation": "/staʊt/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "stout",
+            "comparative": "stouter",
+            "superlative": "stoutest"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "stout",
+            "plural": "stouts"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Somewhat fat or of heavy build.",
+        "chineseDefinition": "肥胖的，厚实的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He was short and stout but very strong.",
+            "chinese": "他个子矮但体格厚实，非常强壮。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "definition": "A kind of strong, dark beer brewed with roasted malt or barley.",
+        "chineseDefinition": "烈性黑啤酒",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He ordered a pint of stout at the pub.",
+            "chinese": "他在酒吧点了一品脱烈性黑啤酒。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "greasy",
+    "pronunciation": "/ˈɡriːsi/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "greasy",
+            "comparative": "greasier",
+            "superlative": "greasiest"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Covered with or resembling an oily substance.",
+        "chineseDefinition": "油腻的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The pizza was delicious but a bit greasy.",
+            "chinese": "这份比萨很好吃，但有点油腻。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "boast",
+    "pronunciation": "/boʊst/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "boast",
+            "thirdPersonSingular": "boasts",
+            "presentParticiple": "boasting",
+            "pastTense": "boasted",
+            "pastParticiple": "boasted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Talk with excessive pride and self-satisfaction about one’s achievements, possessions, or abilities.",
+        "chineseDefinition": "自夸",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He always boasts about his success in business.",
+            "chinese": "他总是自夸自己的生意成功。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "swift",
+    "pronunciation": "/swɪft/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "swift",
+            "comparative": "swifter",
+            "superlative": "swiftest"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "swift",
+            "plural": "swifts"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Happening quickly or promptly.",
+        "chineseDefinition": "迅速的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Her swift response saved the company from a crisis.",
+            "chinese": "她迅速的反应使公司避免了一场危机。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "definition": "A swift-flying insectivorous bird of the family Apodidae.",
+        "chineseDefinition": "雨燕",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We saw a flock of swifts darting across the sky.",
+            "chinese": "我们看见一群雨燕在天空中飞来飞去。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "ignorance",
+    "pronunciation": "/ˈɪɡnərəns/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "ignorance",
+            "plural": "ignorances"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Lack of knowledge or information.",
+        "chineseDefinition": "无知",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "His ignorance of the rules caused many problems.",
+            "chinese": "他对规则的无知引发了很多问题。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "aesthetic",
+    "pronunciation": "/iːsˈθɛtɪk/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "aesthetic",
+            "comparative": "more aesthetic",
+            "superlative": "most aesthetic"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "aesthetic",
+            "plural": "aesthetics"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Concerned with beauty or the appreciation of beauty.",
+        "chineseDefinition": "美学的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She made aesthetic choices based on color harmony.",
+            "chinese": "她根据色彩和谐来做美学上的选择。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "definition": "A set of principles concerned with the nature and appreciation of beauty.",
+        "chineseDefinition": "美学",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Modern aesthetics often challenges traditional views on art.",
+            "chinese": "现代美学常常对传统的艺术观念提出挑战。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "screen",
+    "pronunciation": "/skriːn/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "screen",
+            "plural": "screens"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "screen",
+            "thirdPersonSingular": "screens",
+            "presentParticiple": "screening",
+            "pastTense": "screened",
+            "pastParticiple": "screened"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A flat panel or area on an electronic device on which images and data are displayed.",
+        "chineseDefinition": "屏幕",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The phone’s screen is cracked.",
+            "chinese": "手机的屏幕破裂了。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "definition": "Conceal, protect, or shelter (someone or something).",
+        "chineseDefinition": "遮蔽，保护",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Trees and shrubs help to screen the garden from the street.",
+            "chinese": "树木和灌木能帮助遮蔽花园，不让街道看见。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "absent",
+    "pronunciation": "/ˈæbsənt/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "absent",
+            "comparative": "more absent",
+            "superlative": "most absent"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "absent",
+            "thirdPersonSingular": "absents",
+            "presentParticiple": "absenting",
+            "pastTense": "absented",
+            "pastParticiple": "absented"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Not present in a place, at an occasion, or as part of something.",
+        "chineseDefinition": "缺席的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He was absent from the meeting due to illness.",
+            "chinese": "他因病缺席了会议。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "definition": "Stay or go away; to not be present.",
+        "chineseDefinition": "离开，不在",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She absented herself from the party early.",
+            "chinese": "她提前离开了聚会。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "scrape",
+    "pronunciation": "/skreɪp/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "scrape",
+            "thirdPersonSingular": "scrapes",
+            "presentParticiple": "scraping",
+            "pastTense": "scraped",
+            "pastParticiple": "scraped"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "scrape",
+            "plural": "scrapes"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Drag or pull a hard or sharp implement across a surface to remove dirt or other matter.",
+        "chineseDefinition": "刮，擦",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He scraped the ice off the windshield.",
+            "chinese": "他刮掉了挡风玻璃上的冰。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "definition": "An act or sound of scraping.",
+        "chineseDefinition": "刮擦声",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He heard a scrape as the chair moved.",
+            "chinese": "当椅子移动时，他听到了一声刮擦声。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "promotion",
+    "pronunciation": "/prəˈmoʊʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "promotion",
+            "plural": "promotions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Activity that supports or encourages a cause, venture, or aim.",
+        "chineseDefinition": "促销，提升",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They ran a new promotion to attract customers.",
+            "chinese": "他们推出了一个新促销活动来吸引顾客。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "recreation",
+    "pronunciation": "/ˌrɛkriˈeɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "recreation",
+            "plural": "recreations"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Activity done for enjoyment when one is not working.",
+        "chineseDefinition": "娱乐活动",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Hiking is one of my favorite recreations.",
+            "chinese": "徒步是我最喜欢的娱乐活动之一。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "specialise",
+    "pronunciation": "/ˈspɛʃəlaɪz/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "specialise",
+            "thirdPersonSingular": "specialises",
+            "presentParticiple": "specialising",
+            "pastTense": "specialised",
+            "pastParticiple": "specialised"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Concentrate on and become expert in a particular subject or skill.",
+        "chineseDefinition": "专门研究，专攻",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He decided to specialise in environmental law.",
+            "chinese": "他决定专攻环境法。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  }
+]

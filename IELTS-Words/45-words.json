@@ -1,0 +1,1212 @@
+[
+  {
+    "word": "premium",
+    "pronunciation": "/ˈpriː.mi.əm/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "premium",
+            "plural": "premiums"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "premium",
+            "comparative": "more premium",
+            "superlative": "most premium"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An amount to be paid for an insurance policy.",
+        "chineseDefinition": "为保险单而支付的费用。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "I pay a premium every month for my car insurance.",
+            "chinese": "我每月为我的汽车保险支付保险费。"
+          }
+        ],
+        "synonyms": ["insurance fee"],
+        "antonyms": []
+      },
+      {
+        "definition": "Of superior quality or value.",
+        "chineseDefinition": "高质量或高价值。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "They sell premium coffee beans.",
+            "chinese": "他们出售优质咖啡豆。"
+          }
+        ],
+        "synonyms": ["superior", "high-end"],
+        "antonyms": ["inferior"]
+      }
+    ]
+  },
+  {
+    "word": "glamor",
+    "pronunciation": "/ˈɡlæm.ər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "glamor",
+            "plural": "glamors"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The attractive or exciting quality that makes certain people or things seem appealing.",
+        "chineseDefinition": "使人或事物看起来有吸引力或令人兴奋的特质。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Hollywood is often associated with glamor.",
+            "chinese": "好莱坞通常与魅力相关联。"
+          }
+        ],
+        "synonyms": ["charm", "allure"],
+        "antonyms": ["drabness", "dullness"]
+      }
+    ]
+  },
+  {
+    "word": "barbecue",
+    "pronunciation": "/ˈbɑːr.bɪ.kjuː/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "barbecue",
+            "plural": "barbecues"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "barbecue",
+            "thirdPersonSingular": "barbecues",
+            "presentParticiple": "barbecuing",
+            "pastTense": "barbecued",
+            "pastParticiple": "barbecued"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A meal or gathering at which food is cooked outdoors on a rack over an open fire or on a grill.",
+        "chineseDefinition": "一种室外烧烤或聚会，食物在火上或烧烤架上烹制。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We are hosting a barbecue this weekend.",
+            "chinese": "我们这个周末要举办一个烧烤聚会。"
+          }
+        ],
+        "synonyms": ["cookout"],
+        "antonyms": []
+      },
+      {
+        "definition": "To cook food on a grill or rack over an open fire.",
+        "chineseDefinition": "在开放火焰上或烧烤架上烹制食物。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They barbecued chicken in the backyard.",
+            "chinese": "他们在后院烤了鸡肉。"
+          }
+        ],
+        "synonyms": ["grill"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "material",
+    "pronunciation": "/məˈtɪr.i.əl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "material",
+            "plural": "materials"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "material",
+            "comparative": "more material",
+            "superlative": "most material"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The matter from which a thing is or can be made.",
+        "chineseDefinition": "构成物体的要素或可用于制作物体的物质。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Steel is a common building material.",
+            "chinese": "钢铁是一种常见的建筑材料。"
+          }
+        ],
+        "synonyms": ["substance", "fabric"],
+        "antonyms": []
+      },
+      {
+        "definition": "Relevant or significant.",
+        "chineseDefinition": "与主题相关或具有重要性的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The witness provided material evidence.",
+            "chinese": "目击者提供了重要的证据。"
+          }
+        ],
+        "synonyms": ["relevant", "significant"],
+        "antonyms": ["irrelevant"]
+      }
+    ]
+  },
+  {
+    "word": "adapt",
+    "pronunciation": "/əˈdæpt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "adapt",
+            "thirdPersonSingular": "adapts",
+            "presentParticiple": "adapting",
+            "pastTense": "adapted",
+            "pastParticiple": "adapted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To make something suitable for a new use or purpose; modify.",
+        "chineseDefinition": "使某物适合新的用途或目的；改编。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He adapted the novel into a screenplay.",
+            "chinese": "他将这部小说改编成了电影剧本。"
+          },
+          {
+            "english": "They are adapting quickly to the new environment.",
+            "chinese": "他们正在快速适应新环境。"
+          }
+        ],
+        "synonyms": ["adjust", "modify"],
+        "antonyms": ["preserve"]
+      }
+    ]
+  },
+  {
+    "word": "gullibly",
+    "pronunciation": "/ˈɡʌl.ə.bli/",
+    "forms": [
+      {
+        "partOfSpeech": "adverb",
+        "form": {
+          "type": "invariable",
+          "data": "gullibly"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "In a manner that is easily persuaded to believe something.",
+        "chineseDefinition": "指轻易相信他人的方式。",
+        "partOfSpeech": "adverb",
+        "examples": [
+          {
+            "english": "She gullibly accepted his story without question.",
+            "chinese": "她轻信了他的话，没有提出任何质疑。"
+          }
+        ],
+        "synonyms": ["naively"],
+        "antonyms": ["skeptically"]
+      }
+    ]
+  },
+  {
+    "word": "succession",
+    "pronunciation": "/səkˈseʃ.ən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "succession",
+            "plural": "successions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A number of people or things sharing a specified characteristic and following one after the other.",
+        "chineseDefinition": "一系列人或事物具有相同特征且相继出现。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "A succession of scandals rocked the administration.",
+            "chinese": "一系列丑闻动摇了政府。"
+          }
+        ],
+        "synonyms": ["sequence", "series"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "sift",
+    "pronunciation": "/sɪft/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "sift",
+            "thirdPersonSingular": "sifts",
+            "presentParticiple": "sifting",
+            "pastTense": "sifted",
+            "pastParticiple": "sifted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To put (a powdery substance) through a sieve so as to remove lumps or large particles.",
+        "chineseDefinition": "通过筛子分离粉状物质中的结块或大颗粒。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Sift the flour before adding it to the mixture.",
+            "chinese": "在将面粉加入混合物前先筛一下。"
+          }
+        ],
+        "synonyms": ["filter", "screen"],
+        "antonyms": []
+      },
+      {
+        "definition": "To examine something thoroughly so as to isolate that which is most important.",
+        "chineseDefinition": "彻底审查某物以挑出最重要的部分。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "We need to sift through the data for relevant information.",
+            "chinese": "我们需要对数据进行筛选以获取相关信息。"
+          }
+        ],
+        "synonyms": ["analyze", "scrutinize"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "spark",
+    "pronunciation": "/spɑːrk/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "spark",
+            "plural": "sparks"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "spark",
+            "thirdPersonSingular": "sparks",
+            "presentParticiple": "sparking",
+            "pastTense": "sparked",
+            "pastParticiple": "sparked"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A small fiery particle thrown off from a fire.",
+        "chineseDefinition": "火焰中飞出的微小火花。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "A spark flew from the campfire.",
+            "chinese": "篝火中飞出了一小颗火花。"
+          }
+        ],
+        "synonyms": ["ember", "flash"],
+        "antonyms": []
+      },
+      {
+        "definition": "To set in motion; activate.",
+        "chineseDefinition": "引发或激发某事的开始。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The incident sparked further debate.",
+            "chinese": "那起事件引发了进一步的讨论。"
+          }
+        ],
+        "synonyms": ["ignite", "trigger"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "sympathy",
+    "pronunciation": "/ˈsɪm.pə.θi/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "sympathy",
+            "plural": "sympathies"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Feelings of pity and sorrow for someone else’s misfortune.",
+        "chineseDefinition": "对他人的不幸感到怜悯和同情。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She sent her sympathy to the grieving family.",
+            "chinese": "她向悲痛的家属表达了慰问之情。"
+          }
+        ],
+        "synonyms": ["compassion", "pity"],
+        "antonyms": ["indifference"]
+      }
+    ]
+  },
+  {
+    "word": "chill",
+    "pronunciation": "/tʃɪl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "chill",
+            "plural": "chills"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "chill",
+            "thirdPersonSingular": "chills",
+            "presentParticiple": "chilling",
+            "pastTense": "chilled",
+            "pastParticiple": "chilled"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An unpleasant feeling of coldness.",
+        "chineseDefinition": "令人不适的寒冷感。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "A sudden chill swept through the room.",
+            "chinese": "一股突然的寒意扫过房间。"
+          }
+        ],
+        "synonyms": ["coldness"],
+        "antonyms": []
+      },
+      {
+        "definition": "To make or become cold.",
+        "chineseDefinition": "使变冷或变得凉爽。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Chill the drinks before the guests arrive.",
+            "chinese": "在客人到达之前先把饮料冰镇一下。"
+          }
+        ],
+        "synonyms": ["cool", "refrigerate"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "multinational",
+    "pronunciation": "/ˌmʌl.tiˈnæʃ.ən.əl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "multinational",
+            "comparative": "more multinational",
+            "superlative": "most multinational"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "multinational",
+            "plural": "multinationals"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Operating in several countries.",
+        "chineseDefinition": "在多个国家运作的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "They work for a multinational corporation.",
+            "chinese": "他们为一家跨国公司工作。"
+          }
+        ],
+        "synonyms": ["global", "transnational"],
+        "antonyms": []
+      },
+      {
+        "definition": "A company operating in several countries.",
+        "chineseDefinition": "在多个国家运作的公司。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Many multinationals have offices in this city.",
+            "chinese": "许多跨国公司在这座城市设有办事处。"
+          }
+        ],
+        "synonyms": ["international company"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "exposure",
+    "pronunciation": "/ɪkˈspoʊ.ʒər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "exposure",
+            "plural": "exposures"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The state of being exposed to contact with something.",
+        "chineseDefinition": "暴露于与某物接触的状态。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Prolonged exposure to the sun can damage your skin.",
+            "chinese": "长时间暴露在阳光下会损害皮肤。"
+          }
+        ],
+        "synonyms": ["reveal", "disclosure"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "fierce",
+    "pronunciation": "/fɪrs/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "fierce",
+            "comparative": "fiercer",
+            "superlative": "fiercest"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Having or displaying an intense or ferocious aggressiveness.",
+        "chineseDefinition": "具有或展示强烈或凶猛的攻击性。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "They had a fierce debate over the policy.",
+            "chinese": "他们就该政策进行了激烈的辩论。"
+          }
+        ],
+        "synonyms": ["ferocious", "intense"],
+        "antonyms": ["gentle", "mild"]
+      }
+    ]
+  },
+  {
+    "word": "crime",
+    "pronunciation": "/kraɪm/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "crime",
+            "plural": "crimes"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An action or omission which constitutes an offense and is punishable by law.",
+        "chineseDefinition": "构成犯罪并受到法律惩处的行为或不作为。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He was charged with a serious crime.",
+            "chinese": "他被指控犯有严重罪行。"
+          }
+        ],
+        "synonyms": ["offense", "felony"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "constitute",
+    "pronunciation": "/ˈkɑːn.stə.tuːt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "constitute",
+            "thirdPersonSingular": "constitutes",
+            "presentParticiple": "constituting",
+            "pastTense": "constituted",
+            "pastParticiple": "constituted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To be (a part) of a whole.",
+        "chineseDefinition": "成为整体的一部分。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Twelve months constitute a year.",
+            "chinese": "十二个月构成了一年。"
+          }
+        ],
+        "synonyms": ["form", "comprise"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "deceive",
+    "pronunciation": "/dɪˈsiːv/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "deceive",
+            "thirdPersonSingular": "deceives",
+            "presentParticiple": "deceiving",
+            "pastTense": "deceived",
+            "pastParticiple": "deceived"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To cause someone to believe something that is not true.",
+        "chineseDefinition": "使某人相信不真实的事情。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He deceived them into thinking he was trustworthy.",
+            "chinese": "他欺骗他们，让他们以为他值得信任。"
+          }
+        ],
+        "synonyms": ["mislead", "betray"],
+        "antonyms": ["honest", "clarify"]
+      }
+    ]
+  },
+  {
+    "word": "haul",
+    "pronunciation": "/hɔːl/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "haul",
+            "thirdPersonSingular": "hauls",
+            "presentParticiple": "hauling",
+            "pastTense": "hauled",
+            "pastParticiple": "hauled"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "haul",
+            "plural": "hauls"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To pull or drag with effort or force.",
+        "chineseDefinition": "用力拉或拖。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They had to haul the boat onto the shore.",
+            "chinese": "他们得把船拉上岸。"
+          }
+        ],
+        "synonyms": ["drag", "pull"],
+        "antonyms": []
+      },
+      {
+        "definition": "A quantity of something that was stolen or is possessed illegally.",
+        "chineseDefinition": "被偷走或非法拥有的某种数量的东西。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The thieves got away with a big haul of jewels.",
+            "chinese": "盗贼偷走了大量珠宝。"
+          }
+        ],
+        "synonyms": ["loot", "catch"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "emission",
+    "pronunciation": "/iˈmɪʃ.ən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "emission",
+            "plural": "emissions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The production and discharge of something, especially gas or radiation.",
+        "chineseDefinition": "某物的产生和排放，尤其是气体或辐射。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Car exhausts are a major source of emissions.",
+            "chinese": "汽车尾气是排放的主要来源之一。"
+          }
+        ],
+        "synonyms": ["discharge", "release"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "procession",
+    "pronunciation": "/prəˈseʃ.ən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "procession",
+            "plural": "processions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A number of people or vehicles moving forward in an orderly fashion, especially as part of a ceremony.",
+        "chineseDefinition": "一群人或车辆有序前进，通常作为仪式的一部分。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The funeral procession made its way through the streets.",
+            "chinese": "送葬队伍穿街而过。"
+          }
+        ],
+        "synonyms": ["parade", "cortege"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "bistro",
+    "pronunciation": "/ˈbiː.stroʊ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "bistro",
+            "plural": "bistros"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A small, informal restaurant.",
+        "chineseDefinition": "一家小而随意的餐馆。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We had lunch at a cozy bistro near the museum.",
+            "chinese": "我们在博物馆附近的一家小餐馆吃了午餐。"
+          }
+        ],
+        "synonyms": ["café", "eatery"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "crash",
+    "pronunciation": "/kræʃ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "crash",
+            "thirdPersonSingular": "crashes",
+            "presentParticiple": "crashing",
+            "pastTense": "crashed",
+            "pastParticiple": "crashed"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "crash",
+            "plural": "crashes"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To collide violently with an obstacle or another vehicle.",
+        "chineseDefinition": "剧烈地与障碍物或其他车辆相撞。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "His car crashed into a tree.",
+            "chinese": "他的车撞上了树。"
+          }
+        ],
+        "synonyms": ["collide", "wreck"],
+        "antonyms": []
+      },
+      {
+        "definition": "A violent collision, typically of one vehicle with another or with an obstacle.",
+        "chineseDefinition": "通常指车辆之间或车辆与障碍物之间的剧烈碰撞。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "There was a crash on the highway this morning.",
+            "chinese": "今天早上高速公路上发生了一起车祸。"
+          }
+        ],
+        "synonyms": ["accident", "collision"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "pearl",
+    "pronunciation": "/pɝːl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "pearl",
+            "plural": "pearls"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A hard, lustrous spherical mass formed within the shell of a pearl oyster.",
+        "chineseDefinition": "在珍珠贝壳内形成的一种坚硬且有光泽的球状物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She wore a string of pearls around her neck.",
+            "chinese": "她脖子上戴着一串珍珠项链。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "workforce",
+    "pronunciation": "/ˈwɝːk.fɔːrs/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "workforce",
+            "plural": "workforces"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The people engaged in or available for work, either in a country or area or in a particular company.",
+        "chineseDefinition": "参与工作或可供工作的人群，可以指一个国家/地区或特定公司的劳动人口。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The company plans to expand its workforce.",
+            "chinese": "该公司计划扩大其劳动力规模。"
+          }
+        ],
+        "synonyms": ["staff", "employees"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "surpass",
+    "pronunciation": "/sərˈpæs/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "surpass",
+            "thirdPersonSingular": "surpasses",
+            "presentParticiple": "surpassing",
+            "pastTense": "surpassed",
+            "pastParticiple": "surpassed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To exceed; be greater than.",
+        "chineseDefinition": "超过，比...更好或更大。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He surpassed the record set last year.",
+            "chinese": "他打破了去年创造的记录。"
+          }
+        ],
+        "synonyms": ["exceed", "outperform"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "sociology",
+    "pronunciation": "/ˌsoʊ.siˈɑː.lə.dʒi/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "invariable",
+          "data": "sociology"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The study of the development, structure, and functioning of human society.",
+        "chineseDefinition": "研究人类社会的发展、结构和功能的学科。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She is majoring in sociology.",
+            "chinese": "她主修社会学。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "violent",
+    "pronunciation": "/ˈvaɪə.lənt/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "violent",
+            "comparative": "more violent",
+            "superlative": "most violent"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Using or involving physical force intended to hurt, damage, or kill someone or something.",
+        "chineseDefinition": "使用或涉及身体暴力，目的是伤害、破坏或杀害某人或某物。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The movie is quite violent.",
+            "chinese": "那部电影相当暴力。"
+          }
+        ],
+        "synonyms": ["brutal", "aggressive"],
+        "antonyms": ["peaceful", "gentle"]
+      }
+    ]
+  },
+  {
+    "word": "frock",
+    "pronunciation": "/frɑːk/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "frock",
+            "plural": "frocks"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A woman’s or girl’s dress.",
+        "chineseDefinition": "女性或女孩的连衣裙。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She wore a simple frock to the party.",
+            "chinese": "她穿了一件简单的连衣裙参加聚会。"
+          }
+        ],
+        "synonyms": ["dress"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "epidemic",
+    "pronunciation": "/ˌep.əˈdem.ɪk/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "epidemic",
+            "plural": "epidemics"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "epidemic",
+            "comparative": "more epidemic",
+            "superlative": "most epidemic"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A widespread occurrence of an infectious disease in a community at a particular time.",
+        "chineseDefinition": "在特定时间在社区广泛传播的一种传染病暴发。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The epidemic caused widespread panic.",
+            "chinese": "这场流行病引起了广泛的恐慌。"
+          }
+        ],
+        "synonyms": ["outbreak", "plague"],
+        "antonyms": []
+      },
+      {
+        "definition": "Relating to or of the nature of an epidemic.",
+        "chineseDefinition": "与流行病相关的或具有流行病特性的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The region is under epidemic conditions.",
+            "chinese": "该地区正处于流行病状态。"
+          }
+        ],
+        "synonyms": ["infectious"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "grab",
+    "pronunciation": "/ɡræb/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "grab",
+            "thirdPersonSingular": "grabs",
+            "presentParticiple": "grabbing",
+            "pastTense": "grabbed",
+            "pastParticiple": "grabbed"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "grab",
+            "plural": "grabs"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To seize suddenly and roughly.",
+        "chineseDefinition": "突然且粗暴地抓住。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He grabbed her arm to stop her from falling.",
+            "chinese": "他抓住了她的胳膊以防止她摔倒。"
+          }
+        ],
+        "synonyms": ["seize", "snatch"],
+        "antonyms": []
+      },
+      {
+        "definition": "A sudden snatch or an attempt to seize something.",
+        "chineseDefinition": "突然抓住或试图抓住某物的动作。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She made a grab at the book before it fell.",
+            "chinese": "她在书掉下去之前伸手去抓。"
+          }
+        ],
+        "synonyms": ["snatch"],
+        "antonyms": []
+      }
+    ]
+  }
+]

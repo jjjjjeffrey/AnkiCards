@@ -1,0 +1,1076 @@
+[
+  {
+    "word": "overdue",
+    "pronunciation": "/ˌoʊvərˈduː/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "overdue",
+            "comparative": "more overdue",
+            "superlative": "most overdue"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Not returned, done, or paid by the expected time.",
+        "chineseDefinition": "逾期的，迟到的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "My library book is overdue.",
+            "chinese": "我的图书馆借的书已经逾期了。"
+          },
+          {
+            "english": "This payment is more overdue than the previous one.",
+            "chinese": "这笔付款比之前那笔更逾期。"
+          }
+        ],
+        "synonyms": ["late", "tardy"],
+        "antonyms": ["early", "punctual"]
+      }
+    ]
+  },
+  {
+    "word": "impressive",
+    "pronunciation": "/ɪmˈprɛsɪv/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "impressive",
+            "comparative": "more impressive",
+            "superlative": "most impressive"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Evoking admiration through size, quality, or skill.",
+        "chineseDefinition": "令人印象深刻的，令人钦佩的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "His performance was truly impressive.",
+            "chinese": "他的表现确实令人印象深刻。"
+          },
+          {
+            "english": "She received a more impressive award this year.",
+            "chinese": "她今年获得了一个更令人赞叹的奖项。"
+          }
+        ],
+        "synonyms": ["remarkable", "notable"],
+        "antonyms": ["forgettable", "uninspiring"]
+      }
+    ]
+  },
+  {
+    "word": "analysis",
+    "pronunciation": "/əˈnæləsɪs/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "analysis",
+            "plural": "analyses"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Detailed examination of the elements or structure of something.",
+        "chineseDefinition": "对事物的各个要素或结构进行详细的检查与研究",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "His analysis of the data was thorough.",
+            "chinese": "他对数据的分析非常彻底。"
+          },
+          {
+            "english": "Multiple analyses are necessary to confirm the results.",
+            "chinese": "需要多次分析来确认结果。"
+          }
+        ],
+        "synonyms": ["examination", "study"],
+        "antonyms": ["summary", "overview"]
+      }
+    ]
+  },
+  {
+    "word": "verdict",
+    "pronunciation": "/ˈvɜːrdɪkt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "verdict",
+            "plural": "verdicts"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A decision on a disputed issue, especially made by a jury in a court of law.",
+        "chineseDefinition": "（尤指法庭上的）判决，裁决",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The jury returned a guilty verdict.",
+            "chinese": "陪审团作出了有罪判决。"
+          }
+        ],
+        "synonyms": ["decision", "judgment"],
+        "antonyms": ["uncertainty", "indecision"]
+      }
+    ]
+  },
+  {
+    "word": "refresher",
+    "pronunciation": "/rɪˈfrɛʃər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "refresher",
+            "plural": "refreshers"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A short course reviewing or updating previously learned material.",
+        "chineseDefinition": "回顾或更新已学知识的简短课程",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He took a refresher course in mathematics.",
+            "chinese": "他参加了一个数学的复习课程。"
+          }
+        ],
+        "synonyms": ["review", "recap"],
+        "antonyms": ["neglect", "omission"]
+      }
+    ]
+  },
+  {
+    "word": "blaze",
+    "pronunciation": "/bleɪz/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "blaze",
+            "plural": "blazes"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "blaze",
+            "thirdPersonSingular": "blazes",
+            "presentParticiple": "blazing",
+            "pastTense": "blazed",
+            "pastParticiple": "blazed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A large or fiercely burning fire.",
+        "chineseDefinition": "熊熊燃烧的大火",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We could see the blaze from miles away.",
+            "chinese": "我们在数英里之外就能看到那场大火。"
+          }
+        ],
+        "synonyms": ["fire", "flame"],
+        "antonyms": ["smolder", "ember"]
+      },
+      {
+        "definition": "To burn fiercely or brightly.",
+        "chineseDefinition": "猛烈或明亮地燃烧",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The campfire blazed all night.",
+            "chinese": "篝火整夜都在熊熊燃烧。"
+          },
+          {
+            "english": "She blazes with determination to succeed.",
+            "chinese": "她燃烧着成功的坚定决心。"
+          }
+        ],
+        "synonyms": ["burn", "flare"],
+        "antonyms": ["extinguish", "douse"]
+      }
+    ]
+  },
+  {
+    "word": "misjudge",
+    "pronunciation": "/ˌmɪsˈdʒʌdʒ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "misjudge",
+            "thirdPersonSingular": "misjudges",
+            "presentParticiple": "misjudging",
+            "pastTense": "misjudged",
+            "pastParticiple": "misjudged"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To form a wrong or unfair opinion about someone or something.",
+        "chineseDefinition": "对某人或某事形成错误或不公正的判断",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "I misjudged his actions and thought he was dishonest.",
+            "chinese": "我误判了他的行为，以为他不诚实。"
+          }
+        ],
+        "synonyms": ["underestimate", "miscalculate"],
+        "antonyms": ["evaluate correctly", "judge accurately"]
+      }
+    ]
+  },
+  {
+    "word": "pregnant",
+    "pronunciation": "/ˈprɛɡnənt/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "pregnant",
+            "comparative": "more pregnant",
+            "superlative": "most pregnant"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Carrying a developing fetus within the body.",
+        "chineseDefinition": "怀孕的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She is pregnant with her second child.",
+            "chinese": "她怀了第二个孩子。"
+          }
+        ],
+        "synonyms": ["expectant", "with child"],
+        "antonyms": ["nonpregnant", "infertile"]
+      }
+    ]
+  },
+  {
+    "word": "unyielding",
+    "pronunciation": "/ˌʌnˈjiːldɪŋ/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "unyielding",
+            "comparative": "more unyielding",
+            "superlative": "most unyielding"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Not giving way to pressure; hard or solid.",
+        "chineseDefinition": "顽强的，不屈不挠的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "His unyielding stance on the issue surprised everyone.",
+            "chinese": "他在这个问题上的不屈立场让所有人都感到惊讶。"
+          }
+        ],
+        "synonyms": ["inflexible", "firm"],
+        "antonyms": ["flexible", "yielding"]
+      }
+    ]
+  },
+  {
+    "word": "exterior",
+    "pronunciation": "/ɪkˈstɪəriər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "exterior",
+            "plural": "exteriors"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "exterior",
+            "comparative": "more exterior",
+            "superlative": "most exterior"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The outer surface or part of something.",
+        "chineseDefinition": "外部，表面",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The exterior of the house is painted white.",
+            "chinese": "这栋房子的外部涂成了白色。"
+          }
+        ],
+        "synonyms": ["outside", "surface"],
+        "antonyms": ["interior", "inside"]
+      },
+      {
+        "definition": "Forming or relating to the outer surface; on or from the outside.",
+        "chineseDefinition": "外部的，与外表相关的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "They focused on the building’s exterior design.",
+            "chinese": "他们关注这栋建筑的外部设计。"
+          }
+        ],
+        "synonyms": ["outer", "external"],
+        "antonyms": ["inner", "internal"]
+      }
+    ]
+  },
+  {
+    "word": "approve",
+    "pronunciation": "/əˈpruːv/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "approve",
+            "thirdPersonSingular": "approves",
+            "presentParticiple": "approving",
+            "pastTense": "approved",
+            "pastParticiple": "approved"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To officially agree or accept as satisfactory.",
+        "chineseDefinition": "正式同意或接受",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The board approved the new policy.",
+            "chinese": "董事会批准了新政策。"
+          }
+        ],
+        "synonyms": ["endorse", "sanction"],
+        "antonyms": ["reject", "disallow"]
+      }
+    ]
+  },
+  {
+    "word": "client",
+    "pronunciation": "/ˈklaɪənt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "client",
+            "plural": "clients"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person or organization using the services of a lawyer, consultant, or other professional person or company.",
+        "chineseDefinition": "顾客，委托人，客户",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She met with her biggest client today.",
+            "chinese": "她今天会见了她最大的客户。"
+          }
+        ],
+        "synonyms": ["customer", "patron"],
+        "antonyms": ["provider", "supplier"]
+      }
+    ]
+  },
+  {
+    "word": "vernacular",
+    "pronunciation": "/vərˈnækjələr/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "vernacular",
+            "plural": "vernaculars"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "vernacular",
+            "comparative": "more vernacular",
+            "superlative": "most vernacular"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The language or dialect spoken by the ordinary people in a particular country or region.",
+        "chineseDefinition": "本地语言或方言",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He wrote his poetry in the vernacular.",
+            "chinese": "他用本地方言写诗。"
+          }
+        ],
+        "synonyms": ["dialect", "local language"],
+        "antonyms": ["standard language", "formal language"]
+      },
+      {
+        "definition": "Speaking or written in the native language of a region; not formal or literary.",
+        "chineseDefinition": "以当地语言进行的，非正式或非文学的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "They prefer vernacular architecture over imported styles.",
+            "chinese": "他们更喜欢本土的建筑风格，而不是外来的风格。"
+          }
+        ],
+        "synonyms": ["indigenous", "colloquial"],
+        "antonyms": ["foreign", "formal"]
+      }
+    ]
+  },
+  {
+    "word": "compare",
+    "pronunciation": "/kəmˈpɛr/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "compare",
+            "thirdPersonSingular": "compares",
+            "presentParticiple": "comparing",
+            "pastTense": "compared",
+            "pastParticiple": "compared"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To estimate, measure, or note the similarity or dissimilarity between.",
+        "chineseDefinition": "比较，评估相似或不同之处",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "We compared the two proposals carefully.",
+            "chinese": "我们仔细比较了那两份提案。"
+          }
+        ],
+        "synonyms": ["contrast", "liken"],
+        "antonyms": ["contrast starkly", "differ"]
+      }
+    ]
+  },
+  {
+    "word": "transparent",
+    "pronunciation": "/trænsˈpærənt/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "transparent",
+            "comparative": "more transparent",
+            "superlative": "most transparent"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Allowing light to pass through so that objects behind can be distinctly seen.",
+        "chineseDefinition": "透明的，清晰可见的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The glass is so transparent you can see right through it.",
+            "chinese": "这玻璃非常透明，你可以直接看穿。"
+          }
+        ],
+        "synonyms": ["clear", "see-through"],
+        "antonyms": ["opaque", "cloudy"]
+      }
+    ]
+  },
+  {
+    "word": "cassette",
+    "pronunciation": "/kəˈsɛt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "cassette",
+            "plural": "cassettes"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A sealed plastic unit containing a length of audiotape, videotape, or film.",
+        "chineseDefinition": "盒式磁带或录像带",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He found an old music cassette in the attic.",
+            "chinese": "他在阁楼里找到了一盒旧的音乐磁带。"
+          }
+        ],
+        "synonyms": ["tape", "cartridge"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "deputy",
+    "pronunciation": "/ˈdɛpjʊti/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "deputy",
+            "plural": "deputies"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person who is appointed to undertake the duties of a superior in the superior's absence.",
+        "chineseDefinition": "副手，代理人",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He's acting as deputy while the manager is on leave.",
+            "chinese": "经理休假期间，他担任代理。"
+          }
+        ],
+        "synonyms": ["assistant", "substitute"],
+        "antonyms": ["chief", "principal"]
+      }
+    ]
+  },
+  {
+    "word": "fraud",
+    "pronunciation": "/frɔːd/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "fraud",
+            "plural": "frauds"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Wrongful or criminal deception intended to result in financial or personal gain.",
+        "chineseDefinition": "欺诈，诈骗",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He was found guilty of tax fraud.",
+            "chinese": "他被判犯有税务欺诈罪。"
+          }
+        ],
+        "synonyms": ["scam", "deception"],
+        "antonyms": ["honesty", "integrity"]
+      }
+    ]
+  },
+  {
+    "word": "bind",
+    "pronunciation": "/baɪnd/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "bind",
+            "thirdPersonSingular": "binds",
+            "presentParticiple": "binding",
+            "pastTense": "bound",
+            "pastParticiple": "bound"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Tie or fasten (something) tightly.",
+        "chineseDefinition": "捆绑或紧紧固定某物",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They used rope to bind the boxes together.",
+            "chinese": "他们用绳子把箱子捆在一起。"
+          }
+        ],
+        "synonyms": ["tie", "fasten"],
+        "antonyms": ["unfasten", "release"]
+      }
+    ]
+  },
+  {
+    "word": "fragrance",
+    "pronunciation": "/ˈfreɪɡrəns/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "fragrance",
+            "plural": "fragrances"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A pleasant, sweet smell.",
+        "chineseDefinition": "香味，芳香",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The fragrance of the roses filled the room.",
+            "chinese": "玫瑰的芳香充满了整个房间。"
+          }
+        ],
+        "synonyms": ["aroma", "scent"],
+        "antonyms": ["stench", "odor"]
+      }
+    ]
+  },
+  {
+    "word": "marketplace",
+    "pronunciation": "/ˈmɑːrkɪtpleɪs/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "marketplace",
+            "plural": "marketplaces"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An open space where a market is or was formerly held.",
+        "chineseDefinition": "市场或交易场所",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We met vendors from different regions at the marketplace.",
+            "chinese": "我们在市场里遇到了来自不同地区的商贩。"
+          }
+        ],
+        "synonyms": ["bazaar", "trading place"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "acute",
+    "pronunciation": "/əˈkjuːt/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "acute",
+            "comparative": "more acute",
+            "superlative": "most acute"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Present or experienced to a severe or intense degree.",
+        "chineseDefinition": "（情况）严重的，激烈的；（感官）敏锐的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She felt acute pain in her elbow after the fall.",
+            "chinese": "摔倒后她感觉到肘部剧烈的疼痛。"
+          }
+        ],
+        "synonyms": ["severe", "critical"],
+        "antonyms": ["mild", "chronic"]
+      }
+    ]
+  },
+  {
+    "word": "ripe",
+    "pronunciation": "/raɪp/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "ripe",
+            "comparative": "riper",
+            "superlative": "ripest"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Fully matured and ready to be eaten or used.",
+        "chineseDefinition": "成熟的，可以食用或使用的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The bananas are ripe enough to eat.",
+            "chinese": "香蕉已经成熟，可以吃了。"
+          }
+        ],
+        "synonyms": ["mature", "ready"],
+        "antonyms": ["unripe", "green"]
+      }
+    ]
+  },
+  {
+    "word": "vet",
+    "pronunciation": "/vɛt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "vet",
+            "plural": "vets"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "vet",
+            "thirdPersonSingular": "vets",
+            "presentParticiple": "vetting",
+            "pastTense": "vetted",
+            "pastParticiple": "vetted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A veterinary surgeon (informal).",
+        "chineseDefinition": "兽医（非正式说法）",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We took our dog to the vet for a check-up.",
+            "chinese": "我们带狗去看了兽医做检查。"
+          }
+        ],
+        "synonyms": ["veterinarian"],
+        "antonyms": []
+      },
+      {
+        "definition": "To make a careful and critical examination of something.",
+        "chineseDefinition": "对某物进行仔细而严格的审查",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They vetted the documents before signing the contract.",
+            "chinese": "他们在签合同前仔细审查了文件。"
+          }
+        ],
+        "synonyms": ["inspect", "examine"],
+        "antonyms": ["ignore", "overlook"]
+      }
+    ]
+  },
+  {
+    "word": "formulate",
+    "pronunciation": "/ˈfɔːrmjʊleɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "formulate",
+            "thirdPersonSingular": "formulates",
+            "presentParticiple": "formulating",
+            "pastTense": "formulated",
+            "pastParticiple": "formulated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To create or devise methodically (a strategy or a proposal).",
+        "chineseDefinition": "有条理地制定（策略或方案）",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "We need to formulate a clear plan for the project.",
+            "chinese": "我们需要为这个项目制订一个明确的计划。"
+          }
+        ],
+        "synonyms": ["devise", "develop"],
+        "antonyms": ["disorganize", "destroy"]
+      }
+    ]
+  },
+  {
+    "word": "collate",
+    "pronunciation": "/kəˈleɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "collate",
+            "thirdPersonSingular": "collates",
+            "presentParticiple": "collating",
+            "pastTense": "collated",
+            "pastParticiple": "collated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Collect and combine (texts, information, or data).",
+        "chineseDefinition": "收集并合并（文本、信息或数据）",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She collated all the survey responses into a single report.",
+            "chinese": "她把所有调查问卷的回复汇总成了一份报告。"
+          }
+        ],
+        "synonyms": ["compile", "gather"],
+        "antonyms": ["scatter", "disperse"]
+      }
+    ]
+  },
+  {
+    "word": "infer",
+    "pronunciation": "/ɪnˈfɜːr/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "infer",
+            "thirdPersonSingular": "infers",
+            "presentParticiple": "inferring",
+            "pastTense": "inferred",
+            "pastParticiple": "inferred"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Deduce or conclude information from evidence and reasoning rather than from explicit statements.",
+        "chineseDefinition": "通过推理或证据得出结论",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "From these facts, we can infer that he was present.",
+            "chinese": "根据这些事实，我们可以推断他当时在场。"
+          }
+        ],
+        "synonyms": ["deduce", "reason"],
+        "antonyms": ["misinterpret", "guess blindly"]
+      }
+    ]
+  },
+  {
+    "word": "fiction",
+    "pronunciation": "/ˈfɪkʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "fiction",
+            "plural": "fictions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Literature in the form of prose that describes imaginary events and people.",
+        "chineseDefinition": "虚构的文学作品",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She mainly reads science fiction novels.",
+            "chinese": "她主要阅读科幻小说。"
+          }
+        ],
+        "synonyms": ["novel", "story"],
+        "antonyms": ["nonfiction", "reality"]
+      }
+    ]
+  },
+  {
+    "word": "ability",
+    "pronunciation": "/əˈbɪlɪti/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "ability",
+            "plural": "abilities"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Possession of the means or skill to do something.",
+        "chineseDefinition": "做某事的能力或技巧",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She has the ability to solve complex problems.",
+            "chinese": "她有能力解决复杂问题。"
+          }
+        ],
+        "synonyms": ["capability", "skill"],
+        "antonyms": ["inability", "incapacity"]
+      }
+    ]
+  },
+  {
+    "word": "sector",
+    "pronunciation": "/ˈsɛktər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "sector",
+            "plural": "sectors"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An area or portion that is distinct from others.",
+        "chineseDefinition": "领域，部分，行业",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The tech sector has shown significant growth this year.",
+            "chinese": "今年科技行业表现出了显著增长。"
+          }
+        ],
+        "synonyms": ["segment", "zone"],
+        "antonyms": []
+      }
+    ]
+  }
+]

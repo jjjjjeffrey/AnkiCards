@@ -1,0 +1,1911 @@
+[
+  {
+    "word": "aptitude",
+    "pronunciation": "/ˈæptɪtuːd/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "aptitude",
+            "plural": "aptitudes"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A natural ability or skill for learning, understanding, or doing something well.",
+        "chineseDefinition": "天生的能力或学习、理解或做某事的技能。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She has a remarkable aptitude for languages.",
+            "chinese": "她有非凡的语言天赋。"
+          }
+        ],
+        "synonyms": ["talent", "ability", "capability", "gift", "knack", "flair"],
+        "antonyms": ["ineptitude", "inability", "incapability"]
+      },
+      {
+        "definition": "The suitability or fitness for a particular purpose or situation.",
+        "chineseDefinition": "对特定目的或情况的适合性。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The material showed great aptitude for use in harsh environments.",
+            "chinese": "这种材料显示出非常适合在恶劣环境中使用。"
+          }
+        ],
+        "synonyms": ["suitability", "fitness", "appropriateness"],
+        "antonyms": ["unsuitability", "unfitness"]
+      }
+    ]
+  },
+  {
+    "word": "lava",
+    "pronunciation": "/ˈlɑːvə/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "lava",
+            "plural": "lavas"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Molten rock that erupts from a volcano or fissure in the earth's surface.",
+        "chineseDefinition": "从火山或地表裂缝喷发出的熔岩。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The lava flowed slowly down the mountainside, destroying everything in its path.",
+            "chinese": "熔岩缓慢地流下山坡，摧毁了沿途的一切。"
+          }
+        ],
+        "synonyms": ["magma", "molten rock"],
+        "antonyms": []
+      },
+      {
+        "definition": "The rock formed when molten lava cools and solidifies.",
+        "chineseDefinition": "熔岩冷却凝固后形成的岩石。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The ancient lava formations created a unique landscape.",
+            "chinese": "古老的熔岩构造形成了独特的景观。"
+          }
+        ],
+        "synonyms": ["volcanic rock", "igneous rock"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "premier",
+    "pronunciation": "/ˈprɛmiər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "premier",
+            "plural": "premiers"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "premier",
+            "comparative": "more premier",
+            "superlative": "most premier"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The head of government in some countries, states, or provinces.",
+        "chineseDefinition": "某些国家、州或省的政府首脑。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The premier announced new economic policies yesterday.",
+            "chinese": "总理昨天宣布了新的经济政策。"
+          }
+        ],
+        "synonyms": ["prime minister", "chief minister", "head of government"],
+        "antonyms": []
+      },
+      {
+        "definition": "First in importance, rank, or position; leading.",
+        "chineseDefinition": "在重要性、等级或地位上排名第一；领先的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She is regarded as the premier expert in her field.",
+            "chinese": "她被视为该领域的顶尖专家。"
+          }
+        ],
+        "synonyms": ["foremost", "leading", "top", "chief", "principal", "preeminent"],
+        "antonyms": ["secondary", "minor", "subordinate"]
+      },
+      {
+        "definition": "The first public performance or showing of a play, film, etc.",
+        "chineseDefinition": "戏剧、电影等的首次公开演出或展示。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The film's premier attracted many celebrities.",
+            "chinese": "这部电影的首映吸引了许多名人。"
+          }
+        ],
+        "synonyms": ["premiere", "opening", "debut", "first showing"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "enquiry",
+    "pronunciation": "/ɪnˈkwaɪəri/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "enquiry",
+            "plural": "enquiries"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An act of asking for information.",
+        "chineseDefinition": "询问信息的行为。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She made an enquiry about train times.",
+            "chinese": "她询问了火车时刻表。"
+          }
+        ],
+        "synonyms": ["question", "query", "request for information", "investigation"],
+        "antonyms": []
+      },
+      {
+        "definition": "An official investigation.",
+        "chineseDefinition": "官方调查。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The government launched an enquiry into the accident.",
+            "chinese": "政府对这起事故展开了调查。"
+          }
+        ],
+        "synonyms": ["investigation", "inquest", "probe", "examination"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "lawsuit",
+    "pronunciation": "/ˈlɔːsuːt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "lawsuit",
+            "plural": "lawsuits"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A claim or dispute brought to a court of law for adjudication.",
+        "chineseDefinition": "提交法院裁决的索赔或争议。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The company faces a lawsuit from former employees.",
+            "chinese": "该公司面临前雇员的诉讼。"
+          }
+        ],
+        "synonyms": ["legal action", "litigation", "legal proceeding", "suit", "case"],
+        "antonyms": ["settlement", "agreement"]
+      },
+      {
+        "definition": "A process through which a legal dispute is resolved by a court.",
+        "chineseDefinition": "通过法院解决法律纠纷的过程。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The lawsuit dragged on for several years before reaching a verdict.",
+            "chinese": "这场诉讼拖了好几年才得出判决。"
+          }
+        ],
+        "synonyms": ["court case", "legal case", "legal dispute"],
+        "antonyms": ["mediation", "arbitration"]
+      }
+    ]
+  },
+  {
+    "word": "pack",
+    "pronunciation": "/pæk/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "pack",
+            "plural": "packs"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "pack",
+            "thirdPersonSingular": "packs",
+            "presentParticiple": "packing",
+            "pastTense": "packed",
+            "pastParticiple": "packed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A bundle of things wrapped or tied together for carrying or storage.",
+        "chineseDefinition": "为携带或储存而包裹或捆绑在一起的一捆物品。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He carried a pack of supplies on his back.",
+            "chinese": "他背着一包补给品。"
+          }
+        ],
+        "synonyms": ["bundle", "parcel", "package", "backpack"],
+        "antonyms": []
+      },
+      {
+        "definition": "A group of animals, especially wolves, hunting or living together.",
+        "chineseDefinition": "一群动物，尤指狼，一起狩猎或生活。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "A pack of wolves howled in the distance.",
+            "chinese": "远处传来一群狼的嚎叫声。"
+          }
+        ],
+        "synonyms": ["group", "herd", "flock", "gang"],
+        "antonyms": []
+      },
+      {
+        "definition": "To put things into a container, especially for storage or transport.",
+        "chineseDefinition": "将物品放入容器中，尤指为了储存或运输。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She packed her suitcase for the trip.",
+            "chinese": "她为旅行打包了行李箱。"
+          }
+        ],
+        "synonyms": ["fill", "stuff", "load", "cram"],
+        "antonyms": ["unpack", "empty"]
+      },
+      {
+        "definition": "To crowd or fill a place.",
+        "chineseDefinition": "挤满或填满一个地方。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Fans packed the stadium for the championship game.",
+            "chinese": "球迷们挤满了体育场观看冠军赛。"
+          }
+        ],
+        "synonyms": ["crowd", "fill", "jam", "cram"],
+        "antonyms": ["empty", "clear"]
+      }
+    ]
+  },
+  {
+    "word": "prescribe",
+    "pronunciation": "/prɪˈskraɪb/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "prescribe",
+            "thirdPersonSingular": "prescribes",
+            "presentParticiple": "prescribing",
+            "pastTense": "prescribed",
+            "pastParticiple": "prescribed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To advise and authorize the use of a medicine or treatment for someone, especially in writing.",
+        "chineseDefinition": "建议并授权某人使用药物或治疗方法，尤指以书面形式。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The doctor prescribed antibiotics for the infection.",
+            "chinese": "医生为感染开了抗生素。"
+          }
+        ],
+        "synonyms": ["order", "recommend", "authorize"],
+        "antonyms": ["prohibit", "forbid"]
+      },
+      {
+        "definition": "To recommend something as a rule or guide, especially with authority.",
+        "chineseDefinition": "将某事物推荐为规则或指南，尤指带有权威性。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The law prescribes certain procedures that must be followed.",
+            "chinese": "法律规定了必须遵循的某些程序。"
+          }
+        ],
+        "synonyms": ["dictate", "stipulate", "lay down", "set", "establish"],
+        "antonyms": ["suggest", "advise"]
+      },
+      {
+        "definition": "To establish a claim to something by right of long use or enjoyment.",
+        "chineseDefinition": "通过长期使用或享用的权利确立对某物的索赔。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The right of way was prescribed by generations of use.",
+            "chinese": "通行权是通过几代人的使用而确立的。"
+          }
+        ],
+        "synonyms": ["establish", "secure", "acquire"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "universe",
+    "pronunciation": "/ˈjuːnɪvɜːrs/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "universe",
+            "plural": "universes"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "All existing matter, space, energy, and their interrelationship, regarded as a whole.",
+        "chineseDefinition": "所有现存的物质、空间、能量及其相互关系，被视为一个整体。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Scientists believe the universe began with the Big Bang.",
+            "chinese": "科学家认为宇宙始于大爆炸。"
+          }
+        ],
+        "synonyms": ["cosmos", "space", "creation"],
+        "antonyms": []
+      },
+      {
+        "definition": "A particular sphere of activity, interest, or experience.",
+        "chineseDefinition": "特定的活动、兴趣或经验领域。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "In the universe of finance, she was a major player.",
+            "chinese": "在金融领域，她是一个重要人物。"
+          }
+        ],
+        "synonyms": ["domain", "realm", "sphere", "world"],
+        "antonyms": []
+      },
+      {
+        "definition": "In statistics, the complete set of elements from which samples may be drawn.",
+        "chineseDefinition": "在统计学中，可以抽取样本的完整元素集。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The survey was designed to represent the universe of potential customers.",
+            "chinese": "这项调查旨在代表潜在客户的全体。"
+          }
+        ],
+        "synonyms": ["population", "set", "group"],
+        "antonyms": ["sample", "subset"]
+      }
+    ]
+  },
+  {
+    "word": "skull",
+    "pronunciation": "/skʌl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "skull",
+            "plural": "skulls"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The bony framework of the head, enclosing the brain and supporting the face.",
+        "chineseDefinition": "头部的骨架，包围大脑并支撑面部。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The impact was strong enough to fracture his skull.",
+            "chinese": "撞击力足以使他的头骨骨折。"
+          }
+        ],
+        "synonyms": ["cranium", "braincase", "head"],
+        "antonyms": []
+      },
+      {
+        "definition": "A symbol of death, often represented by a human skull.",
+        "chineseDefinition": "死亡的象征，通常由人类头骨表示。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The pirate flag featured a skull and crossbones.",
+            "chinese": "海盗旗上有一个骷髅和交叉的骨头。"
+          }
+        ],
+        "synonyms": ["death's head", "cranium"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "domination",
+    "pronunciation": "/ˌdɒmɪˈneɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "domination",
+            "plural": "dominations"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The exercise of control or power over someone or something.",
+        "chineseDefinition": "对某人或某事的控制或权力的行使。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The team's domination of the league continued for a third season.",
+            "chinese": "该队对联赛的统治持续了第三个赛季。"
+          }
+        ],
+        "synonyms": ["control", "power", "authority", "rule", "command", "mastery"],
+        "antonyms": ["submission", "subordination", "subjection"]
+      },
+      {
+        "definition": "The state of being dominated.",
+        "chineseDefinition": "被支配的状态。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The country suffered under foreign domination for many years.",
+            "chinese": "该国多年来一直遭受外国统治。"
+          }
+        ],
+        "synonyms": ["subjugation", "oppression", "tyranny", "supremacy"],
+        "antonyms": ["freedom", "independence", "autonomy"]
+      }
+    ]
+  },
+  {
+    "word": "animate",
+    "pronunciation": "/ˈænɪmeɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "animate",
+            "thirdPersonSingular": "animates",
+            "presentParticiple": "animating",
+            "pastTense": "animated",
+            "pastParticiple": "animated"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "animate",
+            "comparative": "more animate",
+            "superlative": "most animate"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To give life to; to make alive.",
+        "chineseDefinition": "赋予生命；使有生命。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The sculptor seemed to animate stone with his chisel.",
+            "chinese": "这位雕塑家似乎用他的凿子赋予石头生命。"
+          }
+        ],
+        "synonyms": ["enliven", "vivify", "vitalize", "breathe life into"],
+        "antonyms": ["deaden", "kill", "extinguish"]
+      },
+      {
+        "definition": "To give spirit and support to; to encourage; to inspirit.",
+        "chineseDefinition": "给予精神和支持；鼓励；鼓舞。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The coach's speech animated the team before the big game.",
+            "chinese": "教练的讲话在大赛前鼓舞了队伍。"
+          }
+        ],
+        "synonyms": ["inspire", "motivate", "stimulate", "energize"],
+        "antonyms": ["discourage", "dispirit", "demoralize"]
+      },
+      {
+        "definition": "To create the illusion of movement in (drawings, models, etc.).",
+        "chineseDefinition": "创造（绘画、模型等）运动的幻觉。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The studio animated the characters using the latest technology.",
+            "chinese": "工作室使用最新技术制作角色动画。"
+          }
+        ],
+        "synonyms": ["bring to life", "set in motion"],
+        "antonyms": ["freeze", "immobilize"]
+      },
+      {
+        "definition": "Living, having life (as opposed to inanimate objects).",
+        "chineseDefinition": "有生命的（与无生命的物体相对）。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The biologist studied the differences between animate and inanimate matter.",
+            "chinese": "这位生物学家研究了有生命和无生命物质之间的差异。"
+          }
+        ],
+        "synonyms": ["living", "alive", "breathing", "sentient"],
+        "antonyms": ["inanimate", "lifeless", "dead"]
+      }
+    ]
+  },
+  {
+    "word": "accountancy",
+    "pronunciation": "/əˈkaʊntənsi/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "invariable",
+          "data": "accountancy"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The profession or practice of accounting; the work of an accountant.",
+        "chineseDefinition": "会计专业或实践；会计师的工作。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She studied accountancy at university.",
+            "chinese": "她在大学学习会计。"
+          }
+        ],
+        "synonyms": ["accounting", "bookkeeping", "financial management"],
+        "antonyms": []
+      },
+      {
+        "definition": "The theory and practice of keeping financial accounts.",
+        "chineseDefinition": "保持财务账目的理论和实践。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The firm specializes in forensic accountancy.",
+            "chinese": "该公司专门从事法务会计。"
+          }
+        ],
+        "synonyms": ["accounting", "financial record-keeping"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "availability",
+    "pronunciation": "/əˌveɪləˈbɪləti/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "availability",
+            "plural": "availabilities"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The quality of being able to be used or obtained.",
+        "chineseDefinition": "可被使用或获得的特性。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The availability of clean water is essential for public health.",
+            "chinese": "清洁水的可获得性对公共健康至关重要。"
+          }
+        ],
+        "synonyms": ["accessibility", "obtainability", "attainability"],
+        "antonyms": ["unavailability", "scarcity", "inaccessibility"]
+      },
+      {
+        "definition": "The state of being available; the extent to which something can be used.",
+        "chineseDefinition": "可用的状态；某物可被使用的程度。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Please check the availability of rooms before making a reservation.",
+            "chinese": "在预订前请检查房间的可用情况。"
+          }
+        ],
+        "synonyms": ["presence", "readiness", "handiness"],
+        "antonyms": ["absence", "unavailability"]
+      },
+      {
+        "definition": "In computing, the proportion of time a system is in a functioning condition.",
+        "chineseDefinition": "在计算机领域，系统处于正常运行状态的时间比例。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The website guarantees 99.9% availability.",
+            "chinese": "该网站保证99.9%的可用性。"
+          }
+        ],
+        "synonyms": ["uptime", "reliability", "dependability"],
+        "antonyms": ["downtime", "unreliability"]
+      }
+    ]
+  },
+  {
+    "word": "payable",
+    "pronunciation": "/ˈpeɪəbl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "payable",
+            "comparative": "more payable",
+            "superlative": "most payable"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "payable",
+            "plural": "payables"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Required to be paid; due.",
+        "chineseDefinition": "需要支付的；到期的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The invoice is payable within 30 days.",
+            "chinese": "发票应在30天内支付。"
+          }
+        ],
+        "synonyms": ["due", "owing", "outstanding", "unpaid"],
+        "antonyms": ["paid", "settled"]
+      },
+      {
+        "definition": "Capable of being paid; that may be paid.",
+        "chineseDefinition": "能够被支付的；可能被支付的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The debt is payable in monthly installments.",
+            "chinese": "这笔债务可以按月分期支付。"
+          }
+        ],
+        "synonyms": ["repayable", "redeemable"],
+        "antonyms": ["unpayable", "irrecoverable"]
+      },
+      {
+        "definition": "A debt that is owed and should be paid.",
+        "chineseDefinition": "欠下的应该支付的债务。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The company's accounts payable have increased this quarter.",
+            "chinese": "公司本季度的应付账款有所增加。"
+          }
+        ],
+        "synonyms": ["debt", "liability", "account payable"],
+        "antonyms": ["receivable", "asset"]
+      }
+    ]
+  },
+  {
+    "word": "solicitor",
+    "pronunciation": "/səˈlɪsɪtər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "solicitor",
+            "plural": "solicitors"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A legal practitioner who traditionally deals with most legal matters in some jurisdictions, especially in the United Kingdom, Ireland, and some Commonwealth countries.",
+        "chineseDefinition": "在某些司法管辖区，尤其是在英国、爱尔兰和一些英联邦国家，传统上处理大多数法律事务的法律从业者。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She consulted her solicitor about the property dispute.",
+            "chinese": "她就财产纠纷咨询了她的律师。"
+          }
+        ],
+        "synonyms": ["lawyer", "attorney", "legal practitioner", "legal adviser"],
+        "antonyms": []
+      },
+      {
+        "definition": "In the United States, a government lawyer.",
+        "chineseDefinition": "在美国，政府律师。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The city solicitor reviewed the contract before it was signed.",
+            "chinese": "市政府律师在合同签署前对其进行了审查。"
+          }
+        ],
+        "synonyms": ["counsel", "legal officer"],
+        "antonyms": []
+      },
+      {
+        "definition": "A person who asks for or tries to obtain something, especially orders or contributions.",
+        "chineseDefinition": "寻求或试图获得某物的人，尤指订单或捐款。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The charity employs solicitors to raise funds door-to-door.",
+            "chinese": "该慈善机构雇用募捐人挨家挨户筹集资金。"
+          }
+        ],
+        "synonyms": ["canvasser", "fundraiser", "agent"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "departure",
+    "pronunciation": "/dɪˈpɑːtʃər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "departure",
+            "plural": "departures"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The act of leaving, especially to start a journey.",
+        "chineseDefinition": "离开的行为，尤指开始旅程。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The train's departure was delayed by an hour.",
+            "chinese": "火车的出发延迟了一个小时。"
+          }
+        ],
+        "synonyms": ["leaving", "going", "exit", "withdrawal"],
+        "antonyms": ["arrival", "return", "coming"]
+      },
+      {
+        "definition": "A deviation or divergence from an expected or standard course.",
+        "chineseDefinition": "偏离预期或标准路线。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "His latest film marks a departure from his usual style.",
+            "chinese": "他的最新电影标志着对他通常风格的偏离。"
+          }
+        ],
+        "synonyms": ["deviation", "divergence", "digression", "shift"],
+        "antonyms": ["adherence", "conformity"]
+      },
+      {
+        "definition": "The point from which a journey begins.",
+        "chineseDefinition": "旅程开始的地点。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The port of departure was Southampton.",
+            "chinese": "出发港是南安普顿。"
+          }
+        ],
+        "synonyms": ["starting point", "point of departure"],
+        "antonyms": ["destination", "arrival point"]
+      }
+    ]
+  },
+  {
+    "word": "audit",
+    "pronunciation": "/ˈɔːdɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "audit",
+            "plural": "audits"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "audit",
+            "thirdPersonSingular": "audits",
+            "presentParticiple": "auditing",
+            "pastTense": "audited",
+            "pastParticiple": "audited"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An official inspection of an organization's accounts, typically by an independent body.",
+        "chineseDefinition": "对组织账目的官方检查，通常由独立机构进行。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The company undergoes an annual audit by a certified accounting firm.",
+            "chinese": "该公司每年接受一次由认证会计师事务所进行的审计。"
+          }
+        ],
+        "synonyms": ["examination", "inspection", "verification", "check"],
+        "antonyms": []
+      },
+      {
+        "definition": "A systematic review or assessment of something.",
+        "chineseDefinition": "对某事物的系统性审查或评估。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They conducted an energy audit of the building.",
+            "chinese": "他们对建筑物进行了能源审计。"
+          }
+        ],
+        "synonyms": ["review", "evaluation", "analysis", "survey"],
+        "antonyms": []
+      },
+      {
+        "definition": "To conduct an official financial inspection of (a company or its accounts).",
+        "chineseDefinition": "对（公司或其账目）进行官方财务检查。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The tax authorities have the right to audit your business.",
+            "chinese": "税务机关有权审计你的企业。"
+          }
+        ],
+        "synonyms": ["examine", "inspect", "check", "verify"],
+        "antonyms": []
+      },
+      {
+        "definition": "To attend (a course) informally, not for academic credit.",
+        "chineseDefinition": "非正式地参加（课程），不获得学分。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She audited several physics classes to expand her knowledge.",
+            "chinese": "她旁听了几门物理课程以扩展她的知识。"
+          }
+        ],
+        "synonyms": ["attend", "sit in on", "observe"],
+        "antonyms": ["enroll in", "register for"]
+      }
+    ]
+  },
+  {
+    "word": "receipt",
+    "pronunciation": "/rɪˈsiːt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "receipt",
+            "plural": "receipts"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "receipt",
+            "thirdPersonSingular": "receipts",
+            "presentParticiple": "receipting",
+            "pastTense": "receipted",
+            "pastParticiple": "receipted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A written acknowledgment of having received, or taken into one's possession, a specified amount of money, goods, etc.",
+        "chineseDefinition": "收到或接收特定金额的钱、货物等的书面确认。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Always keep your receipt as proof of purchase.",
+            "chinese": "始终保留收据作为购买证明。"
+          }
+        ],
+        "synonyms": ["invoice", "bill", "sales slip", "proof of purchase"],
+        "antonyms": []
+      },
+      {
+        "definition": "The act of receiving something.",
+        "chineseDefinition": "接收某物的行为。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They acknowledged receipt of our letter.",
+            "chinese": "他们确认收到了我们的信。"
+          }
+        ],
+        "synonyms": ["receiving", "acceptance", "taking delivery of"],
+        "antonyms": ["dispatch", "sending"]
+      },
+      {
+        "definition": "The amount of money received during a particular period by an organization.",
+        "chineseDefinition": "组织在特定时期内收到的金额。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Tax receipts were lower than expected this quarter.",
+            "chinese": "本季度的税收收入低于预期。"
+          }
+        ],
+        "synonyms": ["income", "revenue", "takings", "proceeds"],
+        "antonyms": ["expenditure", "outgoings", "costs"]
+      },
+      {
+        "definition": "To mark as paid by writing or stamping on a bill, invoice, etc.",
+        "chineseDefinition": "通过在账单、发票等上书写或盖章标记为已付款。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The cashier receipted the invoice.",
+            "chinese": "收银员在发票上签收了。"
+          }
+        ],
+        "synonyms": ["acknowledge", "confirm payment of"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "scamper",
+    "pronunciation": "/ˈskæmpər/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "scamper",
+            "thirdPersonSingular": "scampers",
+            "presentParticiple": "scampering",
+            "pastTense": "scampered",
+            "pastParticiple": "scampered"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "scamper",
+            "plural": "scampers"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To run with quick light steps, especially through excitement or fear.",
+        "chineseDefinition": "以快速轻盈的步伐跑动，尤指因兴奋或恐惧。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The children scampered across the playground.",
+            "chinese": "孩子们在操场上欢快地奔跑。"
+          }
+        ],
+        "synonyms": ["scurry", "scuttle", "dart", "dash", "skip"],
+        "antonyms": ["plod", "trudge", "dawdle"]
+      },
+      {
+        "definition": "A quick, light run or movement.",
+        "chineseDefinition": "快速、轻盈的奔跑或移动。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The squirrels made a scamper for the trees when they heard us coming.",
+            "chinese": "松鼠听到我们来了，就迅速跑向树林。"
+          }
+        ],
+        "synonyms": ["dash", "sprint", "rush", "dart"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "spiral",
+    "pronunciation": "/ˈspaɪrəl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "spiral",
+            "plural": "spirals"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "spiral",
+            "thirdPersonSingular": "spirals",
+            "presentParticiple": "spiraling",
+            "pastTense": "spiraled",
+            "pastParticiple": "spiraled"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "spiral"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A curve that winds around a fixed center point at a continuously increasing or decreasing distance from the point.",
+        "chineseDefinition": "围绕固定中心点缠绕的曲线，与该点的距离不断增加或减少。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The shell of a snail forms a perfect spiral.",
+            "chinese": "蜗牛的壳形成了一个完美的螺旋。"
+          }
+        ],
+        "synonyms": ["coil", "helix", "curl", "whorl"],
+        "antonyms": ["straight line"]
+      },
+      {
+        "definition": "A continuous and dramatic increase or decrease in something.",
+        "chineseDefinition": "某事物持续且戏剧性地增加或减少。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The country entered an inflationary spiral.",
+            "chinese": "该国进入了通货膨胀的螺旋式上升。"
+          }
+        ],
+        "synonyms": ["progression", "cycle", "trend"],
+        "antonyms": ["stability", "constancy"]
+      },
+      {
+        "definition": "To move in a spiral course.",
+        "chineseDefinition": "以螺旋形路径移动。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The hawk spiraled upward on a thermal current.",
+            "chinese": "老鹰在热气流上螺旋式上升。"
+          }
+        ],
+        "synonyms": ["coil", "wind", "twist", "curl"],
+        "antonyms": ["straighten", "unwind"]
+      },
+      {
+        "definition": "To continuously increase or decrease dramatically.",
+        "chineseDefinition": "持续地戏剧性增加或减少。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Costs have spiraled out of control.",
+            "chinese": "成本已经螺旋式上升，失去了控制。"
+          }
+        ],
+        "synonyms": ["escalate", "soar", "plummet", "plunge"],
+        "antonyms": ["stabilize", "level off"]
+      },
+      {
+        "definition": "Having the form of a spiral.",
+        "chineseDefinition": "具有螺旋形状的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The staircase had a spiral design.",
+            "chinese": "这个楼梯有螺旋设计。"
+          }
+        ],
+        "synonyms": ["helical", "coiled", "winding", "corkscrew"],
+        "antonyms": ["straight", "linear"]
+      }
+    ]
+  },
+  {
+    "word": "encode",
+    "pronunciation": "/ɪnˈkoʊd/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "encode",
+            "thirdPersonSingular": "encodes",
+            "presentParticiple": "encoding",
+            "pastTense": "encoded",
+            "pastParticiple": "encoded"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To convert information into a code or format for communication, storage, or encryption.",
+        "chineseDefinition": "将信息转换为代码或格式，用于通信、存储或加密。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The software encodes the video files for streaming.",
+            "chinese": "该软件对视频文件进行编码以便流媒体播放。"
+          }
+        ],
+        "synonyms": ["code", "cipher", "encrypt", "digitize"],
+        "antonyms": ["decode", "decipher", "decrypt"]
+      },
+      {
+        "definition": "In biology, to specify the genetic sequence for (a gene product).",
+        "chineseDefinition": "在生物学中，为（基因产物）指定遗传序列。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "This gene encodes a protein essential for cell division.",
+            "chinese": "这个基因编码了一种对细胞分裂至关重要的蛋白质。"
+          }
+        ],
+        "synonyms": ["program", "script"],
+        "antonyms": []
+      },
+      {
+        "definition": "To convert (a message or information) into a form that can be communicated or stored.",
+        "chineseDefinition": "将（消息或信息）转换为可以通信或存储的形式。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The brain encodes sensory information for processing.",
+            "chinese": "大脑对感官信息进行编码以便处理。"
+          }
+        ],
+        "synonyms": ["translate", "convert", "transform"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "scout",
+    "pronunciation": "/skaʊt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "scout",
+            "plural": "scouts"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "scout",
+            "thirdPersonSingular": "scouts",
+            "presentParticiple": "scouting",
+            "pastTense": "scouted",
+            "pastParticiple": "scouted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person sent out to gather information, especially about the position or movements of an enemy.",
+        "chineseDefinition": "被派出收集信息的人，尤其是关于敌人位置或动向的信息。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The army sent scouts ahead to check the terrain.",
+            "chinese": "军队派出侦察兵提前检查地形。"
+          }
+        ],
+        "synonyms": ["lookout", "spy", "reconnoiterer", "observer"],
+        "antonyms": []
+      },
+      {
+        "definition": "A person who searches for talent, especially in sports or entertainment.",
+        "chineseDefinition": "寻找人才的人，尤其是在体育或娱乐领域。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The talent scout discovered many famous actors.",
+            "chinese": "这位星探发掘了许多著名演员。"
+          }
+        ],
+        "synonyms": ["talent-spotter", "recruiter", "agent"],
+        "antonyms": []
+      },
+      {
+        "definition": "A member of the Scout Association or similar organization.",
+        "chineseDefinition": "童军协会或类似组织的成员。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The scouts went camping in the national park.",
+            "chinese": "童军们在国家公园露营。"
+          }
+        ],
+        "synonyms": ["boy scout", "girl scout", "cub scout"],
+        "antonyms": []
+      },
+      {
+        "definition": "To explore an area to obtain information.",
+        "chineseDefinition": "探索一个区域以获取信息。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They scouted the area for a suitable campsite.",
+            "chinese": "他们侦察该地区寻找合适的露营地。"
+          }
+        ],
+        "synonyms": ["reconnoiter", "explore", "survey", "inspect"],
+        "antonyms": []
+      },
+      {
+        "definition": "To search for talent, especially in sports or entertainment.",
+        "chineseDefinition": "寻找人才，尤其是在体育或娱乐领域。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The team scouts college players for potential recruits.",
+            "chinese": "该团队在大学球员中寻找潜在的新人。"
+          }
+        ],
+        "synonyms": ["talent-spot", "search for", "look out for"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "regurgitate",
+    "pronunciation": "/rɪˈɡɜːrdʒɪteɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "regurgitate",
+            "thirdPersonSingular": "regurgitates",
+            "presentParticiple": "regurgitating",
+            "pastTense": "regurgitated",
+            "pastParticiple": "regurgitated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To bring swallowed food up again to the mouth.",
+        "chineseDefinition": "将吞下的食物再次带回口中。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Birds regurgitate food to feed their young.",
+            "chinese": "鸟类会反刍食物喂养幼鸟。"
+          }
+        ],
+        "synonyms": ["vomit", "throw up", "bring up", "disgorge"],
+        "antonyms": ["swallow", "digest", "keep down"]
+      },
+      {
+        "definition": "To repeat information without analyzing or comprehending it.",
+        "chineseDefinition": "在没有分析或理解的情况下重复信息。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Students often regurgitate facts they've memorized for exams.",
+            "chinese": "学生们经常在考试中机械地重复他们记住的事实。"
+          }
+        ],
+        "synonyms": ["parrot", "repeat", "reproduce", "echo"],
+        "antonyms": ["analyze", "interpret", "understand"]
+      },
+      {
+        "definition": "To flow back or surge again.",
+        "chineseDefinition": "回流或再次涌现。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The sewage system regurgitated during the flood.",
+            "chinese": "在洪水期间，污水系统出现了回流。"
+          }
+        ],
+        "synonyms": ["backflow", "reflux", "reflow"],
+        "antonyms": ["flow", "drain"]
+      }
+    ]
+  },
+  {
+    "word": "propellant",
+    "pronunciation": "/prəˈpɛlənt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "propellant",
+            "plural": "propellants"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "propellant"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A substance that propels or provides thrust, especially a fuel that propels a rocket or missile.",
+        "chineseDefinition": "推进或提供推力的物质，尤指推进火箭或导弹的燃料。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The rocket uses a solid propellant for its first stage.",
+            "chinese": "这枚火箭在第一级使用固体推进剂。"
+          }
+        ],
+        "synonyms": ["fuel", "propulsive", "thrust-producing"],
+        "antonyms": []
+      },
+      {
+        "definition": "A pressurized gas used to discharge the contents of an aerosol container.",
+        "chineseDefinition": "用于排出气雾剂容器内容物的加压气体。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Many spray cans now use environmentally friendly propellants.",
+            "chinese": "现在许多喷雾罐使用环保型推进剂。"
+          }
+        ],
+        "synonyms": ["propulsive agent", "driving force"],
+        "antonyms": []
+      },
+      {
+        "definition": "Having the power to propel.",
+        "chineseDefinition": "具有推进力的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The propellant force of the engine was insufficient for takeoff.",
+            "chinese": "发动机的推进力不足以起飞。"
+          }
+        ],
+        "synonyms": ["propulsive", "driving", "impelling"],
+        "antonyms": ["restraining", "impeding"]
+      }
+    ]
+  },
+  {
+    "word": "ejection",
+    "pronunciation": "/ɪˈdʒɛkʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "ejection",
+            "plural": "ejections"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The action of forcing or throwing something out.",
+        "chineseDefinition": "强制或抛出某物的动作。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The ejection of the cassette was automatic when the tape ended.",
+            "chinese": "当磁带结束时，卡带会自动弹出。"
+          }
+        ],
+        "synonyms": ["expulsion", "discharge", "emission", "extrusion"],
+        "antonyms": ["insertion", "injection", "intake"]
+      },
+      {
+        "definition": "The action of forcing someone to leave a place or position.",
+        "chineseDefinition": "强制某人离开某地或某位置的行为。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The player's ejection from the game followed his unsportsmanlike conduct.",
+            "chinese": "由于非体育道德行为，该球员被驱逐出场。"
+          }
+        ],
+        "synonyms": ["removal", "eviction", "expulsion", "dismissal"],
+        "antonyms": ["admission", "entry", "welcome"]
+      },
+      {
+        "definition": "The escape of a pilot from an aircraft using an ejection seat.",
+        "chineseDefinition": "飞行员使用弹射座椅从飞机中逃生。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The pilot's ejection from the damaged fighter jet saved his life.",
+            "chinese": "飞行员从受损战斗机中弹射逃生救了他一命。"
+          }
+        ],
+        "synonyms": ["bailout", "escape", "emergency exit"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "barrage",
+    "pronunciation": "/bəˈrɑːʒ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "barrage",
+            "plural": "barrages"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "barrage",
+            "thirdPersonSingular": "barrages",
+            "presentParticiple": "barraging",
+            "pastTense": "barraged",
+            "pastParticiple": "barraged"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A concentrated artillery bombardment over a wide area.",
+        "chineseDefinition": "在广阔区域内的集中炮击。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The troops endured a heavy barrage before advancing.",
+            "chinese": "部队在前进前忍受了猛烈的炮击。"
+          }
+        ],
+        "synonyms": ["bombardment", "shelling", "artillery fire", "cannonade"],
+        "antonyms": ["cease-fire"]
+      },
+      {
+        "definition": "An overwhelming quantity or burst of something.",
+        "chineseDefinition": "某物的压倒性数量或爆发。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She faced a barrage of questions from reporters.",
+            "chinese": "她面对记者的一连串提问。"
+          }
+        ],
+        "synonyms": ["flood", "deluge", "torrent", "avalanche", "storm"],
+        "antonyms": ["trickle", "dearth"]
+      },
+      {
+        "definition": "An artificial barrier across a river or estuary to prevent flooding or aid navigation or irrigation.",
+        "chineseDefinition": "横跨河流或河口的人工屏障，用于防洪或辅助航行或灌溉。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The barrage was built to control water levels during high tides.",
+            "chinese": "修建水坝是为了控制高潮期间的水位。"
+          }
+        ],
+        "synonyms": ["dam", "barrier", "weir", "floodgate"],
+        "antonyms": []
+      },
+      {
+        "definition": "To bombard with an overwhelming amount of something.",
+        "chineseDefinition": "用压倒性数量的某物轰炸。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The candidate was barraged with criticism after the debate.",
+            "chinese": "辩论后，该候选人遭到了批评的狂轰滥炸。"
+          }
+        ],
+        "synonyms": ["bombard", "assail", "overwhelm", "inundate"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "intrigue",
+    "pronunciation": "/ɪnˈtriːɡ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "intrigue",
+            "plural": "intrigues"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "intrigue",
+            "thirdPersonSingular": "intrigues",
+            "presentParticiple": "intriguing",
+            "pastTense": "intrigued",
+            "pastParticiple": "intrigued"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Secret plotting or conspiracy.",
+        "chineseDefinition": "秘密策划或阴谋。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The novel is full of political intrigue and deception.",
+            "chinese": "这部小说充满了政治阴谋和欺骗。"
+          }
+        ],
+        "synonyms": ["plotting", "conspiracy", "scheming", "machination"],
+        "antonyms": ["openness", "honesty", "transparency"]
+      },
+      {
+        "definition": "A mysterious or fascinating quality.",
+        "chineseDefinition": "神秘或迷人的特质。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The old castle has an air of intrigue about it.",
+            "chinese": "这座古堡有一种神秘的气氛。"
+          }
+        ],
+        "synonyms": ["mystery", "fascination", "allure", "appeal"],
+        "antonyms": ["boredom", "tedium"]
+      },
+      {
+        "definition": "To arouse the curiosity or interest of; to fascinate.",
+        "chineseDefinition": "引起好奇或兴趣；使着迷。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The strange symbols on the ancient map intrigued the archaeologists.",
+            "chinese": "古地图上的奇怪符号引起了考古学家的兴趣。"
+          }
+        ],
+        "synonyms": ["fascinate", "interest", "captivate", "engage"],
+        "antonyms": ["bore", "disinterest", "repel"]
+      },
+      {
+        "definition": "To engage in secret plotting or conspiracy.",
+        "chineseDefinition": "参与秘密策划或阴谋。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The courtiers intrigued against the king.",
+            "chinese": "朝臣们密谋反对国王。"
+          }
+        ],
+        "synonyms": ["plot", "scheme", "conspire", "machinate"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "transition",
+    "pronunciation": "/trænˈzɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "transition",
+            "plural": "transitions"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "transition",
+            "thirdPersonSingular": "transitions",
+            "presentParticiple": "transitioning",
+            "pastTense": "transitioned",
+            "pastParticiple": "transitioned"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The process or a period of changing from one state or condition to another.",
+        "chineseDefinition": "从一种状态或条件转变为另一种的过程或时期。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The country is in a difficult transition from dictatorship to democracy.",
+            "chinese": "这个国家正处于从独裁到民主的艰难过渡期。"
+          }
+        ],
+        "synonyms": ["change", "shift", "move", "transformation", "conversion"],
+        "antonyms": ["stagnation", "stability", "constancy"]
+      },
+      {
+        "definition": "A passage in a piece of writing, speech, music, etc., that connects one part to another.",
+        "chineseDefinition": "在写作、演讲、音乐等中连接一部分到另一部分的段落。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The essay lacked smooth transitions between paragraphs.",
+            "chinese": "这篇文章缺乏段落之间的流畅过渡。"
+          }
+        ],
+        "synonyms": ["link", "bridge", "connection", "segue"],
+        "antonyms": ["break", "disjunction"]
+      },
+      {
+        "definition": "To undergo or make a transition.",
+        "chineseDefinition": "经历或进行过渡。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The company is transitioning to renewable energy sources.",
+            "chinese": "该公司正在向可再生能源过渡。"
+          }
+        ],
+        "synonyms": ["change", "shift", "evolve", "progress", "develop"],
+        "antonyms": ["remain", "stay", "stagnate"]
+      }
+    ]
+  },
+  {
+    "word": "realm",
+    "pronunciation": "/rɛlm/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "realm",
+            "plural": "realms"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A kingdom or sovereign state.",
+        "chineseDefinition": "王国或主权国家。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The monarch ruled over a vast realm.",
+            "chinese": "君主统治着一个广阔的王国。"
+          }
+        ],
+        "synonyms": ["kingdom", "domain", "dominion", "territory", "empire"],
+        "antonyms": []
+      },
+      {
+        "definition": "A field or domain of activity or interest.",
+        "chineseDefinition": "活动或兴趣的领域或范围。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The discovery opened up new realms of possibility in medical research.",
+            "chinese": "这一发现为医学研究开辟了新的可能性领域。"
+          }
+        ],
+        "synonyms": ["sphere", "field", "domain", "area", "province"],
+        "antonyms": []
+      },
+      {
+        "definition": "A region or sphere, especially one that is abstract or imaginary.",
+        "chineseDefinition": "区域或范围，尤指抽象或想象的。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The story takes place in a magical realm where animals can talk.",
+            "chinese": "故事发生在一个动物会说话的魔法境界。"
+          }
+        ],
+        "synonyms": ["dimension", "world", "universe", "plane"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "ingredient",
+    "pronunciation": "/ɪnˈɡriːdiənt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "ingredient",
+            "plural": "ingredients"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Any of the foods or substances that are combined to make a particular dish.",
+        "chineseDefinition": "组合成特定菜肴的任何食物或物质。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The recipe calls for five ingredients: flour, sugar, eggs, butter, and vanilla.",
+            "chinese": "这个食谱需要五种原料：面粉、糖、鸡蛋、黄油和香草。"
+          }
+        ],
+        "synonyms": ["component", "constituent", "element", "item"],
+        "antonyms": []
+      },
+      {
+        "definition": "A component or element that forms part of a mixture or compound.",
+        "chineseDefinition": "构成混合物或化合物一部分的成分或元素。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The active ingredient in this medicine helps reduce inflammation.",
+            "chinese": "这种药物中的活性成分有助于减轻炎症。"
+          }
+        ],
+        "synonyms": ["part", "factor", "feature", "aspect"],
+        "antonyms": []
+      },
+      {
+        "definition": "A quality or characteristic that contributes to something.",
+        "chineseDefinition": "对某事物有贡献的品质或特征。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Trust is an essential ingredient in any successful relationship.",
+            "chinese": "信任是任何成功关系中的重要因素。"
+          }
+        ],
+        "synonyms": ["component", "element", "factor", "constituent"],
+        "antonyms": []
+      }
+    ]
+  }
+]

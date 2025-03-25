@@ -1,0 +1,1384 @@
+[
+  {
+    "word": "toxin",
+    "pronunciation": "/ˈtɒksɪn/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "toxin",
+            "plural": "toxins"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A poisonous substance produced by living organisms.",
+        "chineseDefinition": "由生物体产生的有毒物质。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The toxin in the snake's venom can be deadly.",
+            "chinese": "蛇毒中的毒素可能是致命的。"
+          },
+          {
+            "english": "Scientists study toxins to develop antidotes.",
+            "chinese": "科学家研究毒素以开发解毒剂。"
+          }
+        ],
+        "synonyms": [
+          "poison",
+          "venom"
+        ],
+        "antonyms": [
+          "antidote"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "simultaneously",
+    "pronunciation": "/ˌsɪməlˈteɪniəsli/",
+    "forms": [
+      {
+        "partOfSpeech": "adverb",
+        "form": {
+          "type": "invariable",
+          "data": "simultaneously"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "At the same time.",
+        "chineseDefinition": "同时地。",
+        "partOfSpeech": "adverb",
+        "examples": [
+          {
+            "english": "They shouted simultaneously to get his attention.",
+            "chinese": "他们同时喊叫以引起他的注意。"
+          },
+          {
+            "english": "He was able to work on two projects simultaneously.",
+            "chinese": "他能够同时进行两个项目。"
+          }
+        ],
+        "synonyms": [
+          "concurrently",
+          "together"
+        ],
+        "antonyms": [
+          "sequentially"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ridiculous",
+    "pronunciation": "/rɪˈdɪkjʊləs/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "ridiculous",
+            "comparative": "more ridiculous",
+            "superlative": "most ridiculous"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Deserving or inviting derision or mockery; absurd.",
+        "chineseDefinition": "值得嘲笑或戏弄的；荒谬的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "That idea is absolutely ridiculous.",
+            "chinese": "那个想法非常荒谬。"
+          },
+          {
+            "english": "His outfit looked ridiculous but he didn't mind.",
+            "chinese": "他的服装看起来很滑稽，但他并不在意。"
+          }
+        ],
+        "synonyms": [
+          "absurd",
+          "ludicrous"
+        ],
+        "antonyms": [
+          "reasonable",
+          "sensible"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "chip",
+    "pronunciation": "/tʃɪp/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "chip",
+            "plural": "chips"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "chip",
+            "thirdPersonSingular": "chips",
+            "presentParticiple": "chipping",
+            "pastTense": "chipped",
+            "pastParticiple": "chipped"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A small piece of something removed or broken off.",
+        "chineseDefinition": "从某物上移除或破裂的小块。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He ate a chip from the bowl of snacks.",
+            "chinese": "他吃了碗里的一片薯片。"
+          },
+          {
+            "english": "A chip of paint fell off the wall.",
+            "chinese": "墙上的油漆剥落了一小片。"
+          }
+        ],
+        "synonyms": [
+          "fragment",
+          "piece"
+        ],
+        "antonyms": []
+      },
+      {
+        "definition": "To break a small piece off something.",
+        "chineseDefinition": "打掉或敲掉一小块。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She chipped the edge of the mug by accident.",
+            "chinese": "她不小心把杯子的边缘磕掉了一块。"
+          },
+          {
+            "english": "He is chipping away at the old paint on the fence.",
+            "chinese": "他正在一点点去除围栏上的旧油漆。"
+          }
+        ],
+        "synonyms": [
+          "break",
+          "nick"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "polish",
+    "pronunciation": "/ˈpɒlɪʃ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "polish",
+            "plural": "polishes"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "polish",
+            "thirdPersonSingular": "polishes",
+            "presentParticiple": "polishing",
+            "pastTense": "polished",
+            "pastParticiple": "polished"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A substance used to give something a smooth and shiny surface.",
+        "chineseDefinition": "用于使某物表面光滑闪亮的物质。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He applied shoe polish to his boots.",
+            "chinese": "他在靴子上涂了鞋油。"
+          }
+        ],
+        "synonyms": [
+          "wax",
+          "varnish"
+        ],
+        "antonyms": []
+      },
+      {
+        "definition": "To make something smooth or shiny by rubbing.",
+        "chineseDefinition": "通过摩擦使某物光滑或闪亮。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She is polishing the silverware.",
+            "chinese": "她正在擦拭银器。"
+          },
+          {
+            "english": "They polished the floors before the guests arrived.",
+            "chinese": "他们在客人到来之前打磨了地板。"
+          }
+        ],
+        "synonyms": [
+          "buff",
+          "shine"
+        ],
+        "antonyms": [
+          "dull"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "wonder",
+    "pronunciation": "/ˈwʌndər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "wonder",
+            "plural": "wonders"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "wonder",
+            "thirdPersonSingular": "wonders",
+            "presentParticiple": "wondering",
+            "pastTense": "wondered",
+            "pastParticiple": "wondered"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A feeling of amazement and admiration, caused by something beautiful, remarkable, or unfamiliar.",
+        "chineseDefinition": "因美丽、奇异或不寻常的事物而产生的惊叹与钦佩。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The child looked at the fireworks with wonder.",
+            "chinese": "孩子带着惊奇注视着烟花。"
+          }
+        ],
+        "synonyms": [
+          "awe",
+          "amazement"
+        ],
+        "antonyms": []
+      },
+      {
+        "definition": "To desire to know something; feel curious.",
+        "chineseDefinition": "渴望知道某事；感到好奇。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "I wonder if it will snow tomorrow.",
+            "chinese": "我想知道明天会不会下雪。"
+          },
+          {
+            "english": "She wondered about the future of her career.",
+            "chinese": "她对自己职业的未来感到好奇。"
+          }
+        ],
+        "synonyms": [
+          "ponder",
+          "think about"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "scholarship",
+    "pronunciation": "/ˈskɒlərʃɪp/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "scholarship",
+            "plural": "scholarships"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A grant or payment made to support a student's education.",
+        "chineseDefinition": "用于资助学生教育的资助或付款。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She received a full scholarship to attend the university.",
+            "chinese": "她获得了全额奖学金来上大学。"
+          }
+        ],
+        "synonyms": [
+          "grant",
+          "fellowship"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "familiarise",
+    "pronunciation": "/fəˈmɪliəraɪz/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "familiarise",
+            "thirdPersonSingular": "familiarises",
+            "presentParticiple": "familiarising",
+            "pastTense": "familiarised",
+            "pastParticiple": "familiarised"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To make (someone) aware of or become comfortable with a situation.",
+        "chineseDefinition": "使某人了解或对某种情况感到熟悉。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "I need to familiarise myself with the new software.",
+            "chinese": "我需要熟悉一下这个新软件。"
+          },
+          {
+            "english": "The orientation will help you familiarise yourself with the campus.",
+            "chinese": "迎新会将帮助你熟悉校园环境。"
+          }
+        ],
+        "synonyms": [
+          "acquaint",
+          "introduce"
+        ],
+        "antonyms": [
+          "confuse"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "expectancy",
+    "pronunciation": "/ɪkˈspɛktənsi/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "expectancy",
+            "plural": "expectancies"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The state of thinking or hoping that something will happen.",
+        "chineseDefinition": "对某事将要发生的希望或期待状态。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "There's a sense of expectancy in the crowd.",
+            "chinese": "人群中充满了期盼的感觉。"
+          }
+        ],
+        "synonyms": [
+          "anticipation",
+          "hope"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "shilling",
+    "pronunciation": "/ˈʃɪlɪŋ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "shilling",
+            "plural": "shillings"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A former British coin and monetary unit equal to twelve old pence.",
+        "chineseDefinition": "旧时英国的硬币和货币单位，等于旧的12便士。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "In the past, a shilling had considerable value.",
+            "chinese": "在过去，一先令曾有相当的价值。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "blueprint",
+    "pronunciation": "/ˈbluːprɪnt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "blueprint",
+            "plural": "blueprints"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "blueprint",
+            "thirdPersonSingular": "blueprints",
+            "presentParticiple": "blueprinting",
+            "pastTense": "blueprinted",
+            "pastParticiple": "blueprinted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A detailed plan or program of action.",
+        "chineseDefinition": "一个详细的计划或行动方案。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They unveiled the blueprint for the new building.",
+            "chinese": "他们公布了新建筑的蓝图。"
+          }
+        ],
+        "synonyms": [
+          "plan",
+          "design"
+        ],
+        "antonyms": []
+      },
+      {
+        "definition": "To make a detailed plan of something.",
+        "chineseDefinition": "为某事物制定详细的规划。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Our team is blueprinting the next phase of the project.",
+            "chinese": "我们的团队正在为项目的下一阶段制定详细规划。"
+          }
+        ],
+        "synonyms": [
+          "draft",
+          "outline"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "interplay",
+    "pronunciation": "/ˈɪntərpleɪ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "interplay",
+            "plural": "interplays"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The way in which two or more things have an effect on each other.",
+        "chineseDefinition": "两种或多种事物相互影响的方式。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The interplay of light and shadow created a stunning effect.",
+            "chinese": "光与影的相互作用创造了惊艳的效果。"
+          }
+        ],
+        "synonyms": [
+          "interaction",
+          "reciprocity"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "convenient",
+    "pronunciation": "/kənˈviːniənt/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "convenient",
+            "comparative": "more convenient",
+            "superlative": "most convenient"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Fitting in well with one's needs, activities, and plans.",
+        "chineseDefinition": "适合个人需求、活动和计划的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "This store is convenient because it's open 24 hours.",
+            "chinese": "这家商店很方便，因为它24小时营业。"
+          }
+        ],
+        "synonyms": [
+          "handy",
+          "practical"
+        ],
+        "antonyms": [
+          "inconvenient",
+          "awkward"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "genuine",
+    "pronunciation": "/ˈdʒɛnjʊɪn/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "genuine",
+            "comparative": "more genuine",
+            "superlative": "most genuine"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Truly what something is said to be; authentic.",
+        "chineseDefinition": "真正的，名副其实的；真实的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "This painting is believed to be a genuine Picasso.",
+            "chinese": "这幅画被认为是真正的毕加索作品。"
+          }
+        ],
+        "synonyms": [
+          "authentic",
+          "real"
+        ],
+        "antonyms": [
+          "fake",
+          "counterfeit"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "attentive",
+    "pronunciation": "/əˈtɛntɪv/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "attentive",
+            "comparative": "more attentive",
+            "superlative": "most attentive"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Paying close attention to something.",
+        "chineseDefinition": "对某事物密切关注的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She was attentive to the guest's needs.",
+            "chinese": "她对客人的需求非常关注。"
+          }
+        ],
+        "synonyms": [
+          "alert",
+          "observant"
+        ],
+        "antonyms": [
+          "inattentive"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "observation",
+    "pronunciation": "/ˌɒbzəˈveɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "observation",
+            "plural": "observations"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The action or process of closely observing or monitoring something or someone.",
+        "chineseDefinition": "密切观察或监控某事或某人的行为或过程。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Careful observation revealed the bird’s nesting habits.",
+            "chinese": "仔细的观察揭示了这只鸟的筑巢习性。"
+          }
+        ],
+        "synonyms": [
+          "watching",
+          "noting"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "personal",
+    "pronunciation": "/ˈpɜːsənl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "personal",
+            "comparative": "more personal",
+            "superlative": "most personal"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Relating to or affecting a particular person.",
+        "chineseDefinition": "与特定个人相关或影响到特定个人的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "This is a personal matter, so I prefer not to discuss it here.",
+            "chinese": "这是个人私事，所以我不想在这里讨论。"
+          }
+        ],
+        "synonyms": [
+          "individual",
+          "private"
+        ],
+        "antonyms": [
+          "public"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "vitality",
+    "pronunciation": "/vaɪˈtælɪti/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "vitality",
+            "plural": "vitalities"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The state of being strong and active; energy.",
+        "chineseDefinition": "强健和活跃的状态；活力。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Regular exercise can increase your vitality.",
+            "chinese": "定期锻炼可以增强你的活力。"
+          }
+        ],
+        "synonyms": [
+          "energy",
+          "vigour"
+        ],
+        "antonyms": [
+          "lethargy"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "requirement",
+    "pronunciation": "/rɪˈkwaɪərmənt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "requirement",
+            "plural": "requirements"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A thing that is needed or wanted.",
+        "chineseDefinition": "需要或想要的事物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "A degree is often a requirement for this position.",
+            "chinese": "学位通常是这个职位的要求。"
+          }
+        ],
+        "synonyms": [
+          "necessity",
+          "prerequisite"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "advisable",
+    "pronunciation": "/ədˈvaɪzəbl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "advisable",
+            "comparative": "more advisable",
+            "superlative": "most advisable"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Recommended; sensible in the circumstances.",
+        "chineseDefinition": "被推荐的；在这种情况下是明智的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "It is advisable to book tickets ahead of time.",
+            "chinese": "最好提前订票。"
+          }
+        ],
+        "synonyms": [
+          "sensible",
+          "prudent"
+        ],
+        "antonyms": [
+          "unwise"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bankrupt",
+    "pronunciation": "/ˈbæŋkrʌpt/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "bankrupt",
+            "comparative": "more bankrupt",
+            "superlative": "most bankrupt"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "bankrupt",
+            "thirdPersonSingular": "bankrupts",
+            "presentParticiple": "bankrupting",
+            "pastTense": "bankrupted",
+            "pastParticiple": "bankrupted"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "bankrupt",
+            "plural": "bankrupts"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Unable to pay one's debts.",
+        "chineseDefinition": "无法偿还债务的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The company was declared bankrupt last year.",
+            "chinese": "这家公司去年被宣布破产。"
+          }
+        ],
+        "synonyms": [
+          "insolvent"
+        ],
+        "antonyms": [
+          "solvent"
+        ]
+      },
+      {
+        "definition": "To reduce (a person or organization) to bankruptcy.",
+        "chineseDefinition": "使（某人或组织）破产。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The lawsuit nearly bankrupted them.",
+            "chinese": "那场诉讼几乎使他们破产。"
+          }
+        ],
+        "synonyms": [
+          "ruin"
+        ],
+        "antonyms": []
+      },
+      {
+        "definition": "A person judged by a court to be insolvent.",
+        "chineseDefinition": "由法院判定为无力偿还债务的人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The bankrupt must repay debts under a strict plan.",
+            "chinese": "破产者必须根据严格的计划偿还债务。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "deplete",
+    "pronunciation": "/dɪˈpliːt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "deplete",
+            "thirdPersonSingular": "depletes",
+            "presentParticiple": "depleting",
+            "pastTense": "depleted",
+            "pastParticiple": "depleted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Use up the supply or resources of.",
+        "chineseDefinition": "用尽供应或资源。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Overfishing can deplete the ocean's fish stocks.",
+            "chinese": "过度捕捞会耗尽海洋中的鱼类资源。"
+          }
+        ],
+        "synonyms": [
+          "exhaust",
+          "diminish"
+        ],
+        "antonyms": [
+          "augment",
+          "increase"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "influence",
+    "pronunciation": "/ˈɪnfluəns/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "influence",
+            "plural": "influences"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "influence",
+            "thirdPersonSingular": "influences",
+            "presentParticiple": "influencing",
+            "pastTense": "influenced",
+            "pastParticiple": "influenced"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The capacity to have an effect on the character, development, or behavior of someone or something.",
+        "chineseDefinition": "对某人或某事物的性格、发展或行为产生影响的能力。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Her influence on the company's culture was profound.",
+            "chinese": "她对公司文化的影响非常深远。"
+          }
+        ],
+        "synonyms": [
+          "impact",
+          "effect"
+        ],
+        "antonyms": []
+      },
+      {
+        "definition": "To have an effect on the character or behavior of someone or something.",
+        "chineseDefinition": "对某人或某事物的性格或行为产生影响。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Advertising can influence consumer choices.",
+            "chinese": "广告可以影响消费者的选择。"
+          }
+        ],
+        "synonyms": [
+          "affect"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "fantasy",
+    "pronunciation": "/ˈfæntəsi/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "fantasy",
+            "plural": "fantasies"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The faculty or activity of imagining things that are impossible or improbable.",
+        "chineseDefinition": "想象不可能或不太可能的事物的能力或活动。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He lives in a world of fantasy and alien creatures.",
+            "chinese": "他生活在充满幻想和外星生物的世界里。"
+          }
+        ],
+        "synonyms": [
+          "imagination",
+          "daydream"
+        ],
+        "antonyms": [
+          "reality"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "tragic",
+    "pronunciation": "/ˈtrædʒɪk/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "tragic",
+            "comparative": "more tragic",
+            "superlative": "most tragic"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Causing or characterized by extreme distress or sorrow.",
+        "chineseDefinition": "引起或以极度悲痛为特征的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The accident was truly tragic, claiming many lives.",
+            "chinese": "那场事故非常悲惨，夺走了许多人的生命。"
+          }
+        ],
+        "synonyms": [
+          "sad",
+          "distressing"
+        ],
+        "antonyms": [
+          "happy",
+          "comic"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "splint",
+    "pronunciation": "/splɪnt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "splint",
+            "plural": "splints"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "splint",
+            "thirdPersonSingular": "splints",
+            "presentParticiple": "splinting",
+            "pastTense": "splinted",
+            "pastParticiple": "splinted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A strip of rigid material used for supporting and immobilizing a broken bone when it has been set.",
+        "chineseDefinition": "用于支撑并固定骨折部位的刚性材料。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The doctor applied a splint to stabilize his arm.",
+            "chinese": "医生使用夹板来固定他的胳膊。"
+          }
+        ],
+        "synonyms": [
+          "brace"
+        ],
+        "antonyms": []
+      },
+      {
+        "definition": "To support (a broken limb) with a splint.",
+        "chineseDefinition": "使用夹板支撑（骨折肢体）。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They immediately splinted his leg after the fall.",
+            "chinese": "他摔倒后，他们立即为他的腿上夹板。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "foam",
+    "pronunciation": "/foʊm/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "foam",
+            "plural": "foams"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "foam",
+            "thirdPersonSingular": "foams",
+            "presentParticiple": "foaming",
+            "pastTense": "foamed",
+            "pastParticiple": "foamed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A mass of small bubbles formed on or in liquid, typically by agitation or fermentation.",
+        "chineseDefinition": "在液体表面或液体中形成的一堆小气泡，通常通过搅动或发酵产生。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "There's a lot of foam on top of the cappuccino.",
+            "chinese": "卡布奇诺上面有很多泡沫。"
+          }
+        ],
+        "synonyms": [
+          "froth"
+        ],
+        "antonyms": []
+      },
+      {
+        "definition": "To form or produce a mass of small bubbles.",
+        "chineseDefinition": "形成或产生一堆小气泡。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The waves foamed as they hit the shore.",
+            "chinese": "海浪拍打岸边时泛起泡沫。"
+          }
+        ],
+        "synonyms": [
+          "froth"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "occupation",
+    "pronunciation": "/ˌɒkjʊˈpeɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "occupation",
+            "plural": "occupations"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A job or profession.",
+        "chineseDefinition": "职业或专业工作。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Her occupation is that of a teacher.",
+            "chinese": "她的职业是一名教师。"
+          }
+        ],
+        "synonyms": [
+          "job",
+          "profession"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "format",
+    "pronunciation": "/ˈfɔːrmæt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "format",
+            "plural": "formats"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "format",
+            "thirdPersonSingular": "formats",
+            "presentParticiple": "formatting",
+            "pastTense": "formatted",
+            "pastParticiple": "formatted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The way in which something is arranged or set out.",
+        "chineseDefinition": "某物被安排或设置的方式。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The document has a complex format.",
+            "chinese": "该文件的格式相当复杂。"
+          }
+        ],
+        "synonyms": [
+          "structure",
+          "layout"
+        ],
+        "antonyms": []
+      },
+      {
+        "definition": "To arrange or put into a format.",
+        "chineseDefinition": "排列或放入特定格式。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "I need to format this hard drive before use.",
+            "chinese": "在使用之前，我需要对这个硬盘进行格式化。"
+          }
+        ],
+        "synonyms": [
+          "arrange",
+          "organize"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "bachelor",
+    "pronunciation": "/ˈbætʃələr/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "bachelor",
+            "plural": "bachelors"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A man who is not and has never been married.",
+        "chineseDefinition": "未婚且从未结过婚的男子。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He remained a bachelor all his life.",
+            "chinese": "他一生都保持单身。"
+          }
+        ],
+        "synonyms": [
+          "unmarried man"
+        ],
+        "antonyms": []
+      },
+      {
+        "definition": "A person who holds a first degree from a university.",
+        "chineseDefinition": "从大学获得学士学位的人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She is a Bachelor of Arts in History.",
+            "chinese": "她是历史学本科毕业生。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  }
+]

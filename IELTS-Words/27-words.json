@@ -1,0 +1,1419 @@
+[
+  {
+    "word": "lateral",
+    "pronunciation": "/ˈlætərəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "lateral",
+            "comparative": "more lateral",
+            "superlative": "most lateral"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Of, at, towards, or from the side or sides.",
+        "chineseDefinition": "侧面的，或来自侧面。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He applied lateral thinking to find a creative solution.",
+            "chinese": "他运用了横向思维来找到一个有创意的解决方案。"
+          },
+          {
+            "english": "The fish’s lateral line helps it detect movement in the water.",
+            "chinese": "鱼的侧线帮助它感知水中的运动。"
+          }
+        ],
+        "synonyms": ["sideways", "side"],
+        "antonyms": ["vertical"]
+      }
+    ]
+  },
+  {
+    "word": "dense",
+    "pronunciation": "/dɛns/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "dense",
+            "comparative": "denser",
+            "superlative": "densest"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Closely compacted in substance or structure.",
+        "chineseDefinition": "在物质或结构上紧密压实。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The fog was so dense that we could barely see ahead.",
+            "chinese": "雾非常浓，我们几乎看不清前方。"
+          },
+          {
+            "english": "A dense forest surrounded the cabin.",
+            "chinese": "一片茂密的森林包围着小屋。"
+          }
+        ],
+        "synonyms": ["thick", "compact"],
+        "antonyms": ["sparse"]
+      }
+    ]
+  },
+  {
+    "word": "flash",
+    "pronunciation": "/flæʃ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "flash",
+            "plural": "flashes"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "flash",
+            "thirdPersonSingular": "flashes",
+            "presentParticiple": "flashing",
+            "pastTense": "flashed",
+            "pastParticiple": "flashed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A sudden brief burst of bright light.",
+        "chineseDefinition": "突然短暂的一道强光。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "A flash of lightning lit up the sky.",
+            "chinese": "一道闪电照亮了天空。"
+          },
+          {
+            "english": "There was a bright flash before the camera shutter clicked.",
+            "chinese": "在相机快门按下前有一道明亮的闪光。"
+          }
+        ],
+        "synonyms": ["burst", "flare"],
+        "antonyms": ["darkness"]
+      },
+      {
+        "definition": "To emit a brief burst of light.",
+        "chineseDefinition": "短暂地发出一道光。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The sign flashed to attract attention.",
+            "chinese": "招牌闪烁以吸引注意。"
+          },
+          {
+            "english": "He flashed the flashlight in the dark hallway.",
+            "chinese": "他在漆黑的走廊里用手电筒闪了几下。"
+          }
+        ],
+        "synonyms": ["blink", "flicker"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "snack",
+    "pronunciation": "/snæk/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "snack",
+            "plural": "snacks"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "snack",
+            "thirdPersonSingular": "snacks",
+            "presentParticiple": "snacking",
+            "pastTense": "snacked",
+            "pastParticiple": "snacked"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A small amount of food eaten between meals.",
+        "chineseDefinition": "在正餐之间吃的少量食物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She grabbed a quick snack before heading back to work.",
+            "chinese": "她在回去工作之前抓起点心匆匆吃了。"
+          },
+          {
+            "english": "Chips are a popular snack for movie nights.",
+            "chinese": "薯片是电影之夜常见的小吃。"
+          }
+        ],
+        "synonyms": ["bite", "treat"],
+        "antonyms": []
+      },
+      {
+        "definition": "To eat a small amount of food between meals.",
+        "chineseDefinition": "在正餐之间吃少量食物。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He snacks on fruit during his study breaks.",
+            "chinese": "他在学习间隙会吃些水果作零食。"
+          },
+          {
+            "english": "I often snack late at night while reading.",
+            "chinese": "我经常在深夜阅读时吃点小零食。"
+          }
+        ],
+        "synonyms": ["nibble", "munch"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "marvellous",
+    "pronunciation": "/ˈmɑːvələs/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "marvellous",
+            "comparative": "more marvellous",
+            "superlative": "most marvellous"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Causing great wonder; extraordinary.",
+        "chineseDefinition": "令人惊奇的；非凡的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The view from the mountain was marvellous.",
+            "chinese": "从山上看到的景色壮丽非凡。"
+          },
+          {
+            "english": "She did a marvellous job organizing the event.",
+            "chinese": "她把活动组织得十分出色。"
+          }
+        ],
+        "synonyms": ["wonderful", "magnificent"],
+        "antonyms": ["ordinary"]
+      }
+    ]
+  },
+  {
+    "word": "export",
+    "pronunciation": "/ɪkˈspɔːrt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "export",
+            "plural": "exports"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "export",
+            "thirdPersonSingular": "exports",
+            "presentParticiple": "exporting",
+            "pastTense": "exported",
+            "pastParticiple": "exported"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A product or service sold to another country.",
+        "chineseDefinition": "售往他国的产品或服务。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Automobiles are a major export of the country.",
+            "chinese": "汽车是这个国家的主要出口产品。"
+          },
+          {
+            "english": "Oil exports have increased this year.",
+            "chinese": "今年石油出口量有所增加。"
+          }
+        ],
+        "synonyms": ["shipment", "goods"],
+        "antonyms": ["import"]
+      },
+      {
+        "definition": "To send goods to another country for sale.",
+        "chineseDefinition": "将货物运往他国销售。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They export electronics to many regions worldwide.",
+            "chinese": "他们向世界许多地区出口电子产品。"
+          },
+          {
+            "english": "The company plans to export more products next year.",
+            "chinese": "公司计划明年出口更多产品。"
+          }
+        ],
+        "synonyms": ["ship out", "send abroad"],
+        "antonyms": ["import"]
+      }
+    ]
+  },
+  {
+    "word": "tribute",
+    "pronunciation": "/ˈtrɪbjuːt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "tribute",
+            "plural": "tributes"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An act, statement, or gift that is intended to show gratitude, respect, or admiration.",
+        "chineseDefinition": "一种行为、声明或礼物，用于表达感激、尊重或钦佩。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The concert was a tribute to the late composer.",
+            "chinese": "这场音乐会是对那位已故作曲家的致敬。"
+          },
+          {
+            "english": "They laid flowers as a tribute to the heroes.",
+            "chinese": "他们献花以向英雄们致敬。"
+          }
+        ],
+        "synonyms": ["homage", "honor"],
+        "antonyms": ["insult"]
+      }
+    ]
+  },
+  {
+    "word": "sanitary",
+    "pronunciation": "/ˈsænɪtɛri/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "sanitary",
+            "comparative": "more sanitary",
+            "superlative": "most sanitary"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Relating to the conditions that affect hygiene and health, especially the supply of sewage facilities and clean drinking water.",
+        "chineseDefinition": "与卫生和健康条件相关，尤其是下水道设施和清洁饮用水的供应。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The kitchen must be kept in sanitary condition.",
+            "chinese": "厨房必须保持卫生状况良好。"
+          },
+          {
+            "english": "They installed new sanitary facilities in the school.",
+            "chinese": "他们在学校安装了新的卫生设施。"
+          }
+        ],
+        "synonyms": ["hygienic", "clean"],
+        "antonyms": ["unsanitary"]
+      }
+    ]
+  },
+  {
+    "word": "submit",
+    "pronunciation": "/səbˈmɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "submit",
+            "thirdPersonSingular": "submits",
+            "presentParticiple": "submitting",
+            "pastTense": "submitted",
+            "pastParticiple": "submitted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To accept or yield to a superior force or to the authority or will of another person.",
+        "chineseDefinition": "接受或屈服于更强大的力量或他人的权威。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He refused to submit to their demands.",
+            "chinese": "他拒绝屈服于他们的要求。"
+          },
+          {
+            "english": "She had to submit the application before the deadline.",
+            "chinese": "她必须在截止日期前提交申请。"
+          }
+        ],
+        "synonyms": ["yield", "surrender"],
+        "antonyms": ["resist"]
+      }
+    ]
+  },
+  {
+    "word": "archive",
+    "pronunciation": "/ˈɑːrkaɪv/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "archive",
+            "plural": "archives"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "archive",
+            "thirdPersonSingular": "archives",
+            "presentParticiple": "archiving",
+            "pastTense": "archived",
+            "pastParticiple": "archived"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A collection of historical documents or records providing information about a place, institution, or group of people.",
+        "chineseDefinition": "收藏的历史文件或记录，用于提供关于某个地点、机构或群体的信息。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The library’s archive is open to the public.",
+            "chinese": "图书馆的档案对公众开放。"
+          },
+          {
+            "english": "Researchers spent hours in the city archive.",
+            "chinese": "研究人员在市档案馆里呆了好几个小时。"
+          }
+        ],
+        "synonyms": ["record", "repository"],
+        "antonyms": []
+      },
+      {
+        "definition": "To place or store (something) in an archive.",
+        "chineseDefinition": "将（某物）存放在档案中。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He archived all the old emails for future reference.",
+            "chinese": "他将所有旧邮件归档以备将来查阅。"
+          },
+          {
+            "english": "They need to archive these documents to keep them safe.",
+            "chinese": "他们需要将这些文件归档以确保安全。"
+          }
+        ],
+        "synonyms": ["store", "file"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "anecdotal",
+    "pronunciation": "/ˌænɪkˈdoʊtəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "anecdotal",
+            "comparative": "more anecdotal",
+            "superlative": "most anecdotal"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Not necessarily true or reliable, because based on personal accounts rather than facts or research.",
+        "chineseDefinition": "基于个人陈述而非事实或研究，因此不一定真实或可靠。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Her findings are purely anecdotal.",
+            "chinese": "她的发现纯属轶事之言。"
+          },
+          {
+            "english": "Anecdotal evidence suggested the product was successful.",
+            "chinese": "一些传闻显示该产品非常成功。"
+          }
+        ],
+        "synonyms": ["informal", "unsubstantiated"],
+        "antonyms": ["scientific"]
+      }
+    ]
+  },
+  {
+    "word": "shorthand",
+    "pronunciation": "/ˈʃɔːrthænd/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "shorthand",
+            "plural": "shorthands"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "shorthand",
+            "comparative": "more shorthand",
+            "superlative": "most shorthand"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A method of rapid writing by using symbols or abbreviations for sounds, words, or phrases.",
+        "chineseDefinition": "通过使用符号或缩写来快速记录声音、单词或短语的方法。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She learned shorthand to take faster notes in court.",
+            "chinese": "她学习速记以便在法庭上更快地记录。"
+          },
+          {
+            "english": "Shorthand was essential for reporters before modern technology.",
+            "chinese": "在现代技术出现之前，速记对记者来说至关重要。"
+          }
+        ],
+        "synonyms": ["stenography", "abbreviation"],
+        "antonyms": []
+      },
+      {
+        "definition": "Relating to or using a rapid writing system of symbols.",
+        "chineseDefinition": "与使用符号的快速书写系统相关。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She compiled a shorthand record of the meeting.",
+            "chinese": "她用速记记录了会议内容。"
+          },
+          {
+            "english": "The shorthand notes were difficult to decipher.",
+            "chinese": "这些速记笔记很难破译。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "exceptional",
+    "pronunciation": "/ɪkˈsɛpʃənəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "exceptional",
+            "comparative": "more exceptional",
+            "superlative": "most exceptional"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Unusual and not typical; unusually good.",
+        "chineseDefinition": "不寻常且不典型；异常好。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He showed exceptional musical talent.",
+            "chinese": "他展现了非凡的音乐天赋。"
+          },
+          {
+            "english": "Her performance under pressure was exceptional.",
+            "chinese": "她在压力下的表现非常出色。"
+          }
+        ],
+        "synonyms": ["extraordinary", "remarkable"],
+        "antonyms": ["ordinary"]
+      }
+    ]
+  },
+  {
+    "word": "rude",
+    "pronunciation": "/ruːd/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "rude",
+            "comparative": "ruder",
+            "superlative": "rudest"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Offensively impolite or bad-mannered.",
+        "chineseDefinition": "无礼的，粗鲁的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "It’s rude to interrupt someone while they are speaking.",
+            "chinese": "在别人说话时打断是很无礼的。"
+          },
+          {
+            "english": "He made a rude remark during the meeting.",
+            "chinese": "他在会议上说了一句粗鲁的话。"
+          }
+        ],
+        "synonyms": ["impolite", "discourteous"],
+        "antonyms": ["polite"]
+      }
+    ]
+  },
+  {
+    "word": "resume",
+    "pronunciation": "/rɪˈzuːm/ (verb) or /ˈrɛzjʊmeɪ/ (noun)",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "resume",
+            "plural": "resumes"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "resume",
+            "thirdPersonSingular": "resumes",
+            "presentParticiple": "resuming",
+            "pastTense": "resumed",
+            "pastParticiple": "resumed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A brief account of one’s work experience and qualifications.",
+        "chineseDefinition": "一份简要的工作经历和资历的概述。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She submitted her resume to multiple companies.",
+            "chinese": "她向多家公司提交了简历。"
+          },
+          {
+            "english": "His resume was well-organized and concise.",
+            "chinese": "他的简历条理清晰且简明扼要。"
+          }
+        ],
+        "synonyms": ["CV", "profile"],
+        "antonyms": []
+      },
+      {
+        "definition": "To begin again or continue after a pause or interruption.",
+        "chineseDefinition": "暂停或中断后重新开始或继续。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He will resume work after his vacation.",
+            "chinese": "他度假结束后将恢复工作。"
+          },
+          {
+            "english": "We’ll resume the meeting at 2 PM.",
+            "chinese": "我们将在下午2点继续会议。"
+          }
+        ],
+        "synonyms": ["restart", "continue"],
+        "antonyms": ["stop"]
+      }
+    ]
+  },
+  {
+    "word": "bookrest",
+    "pronunciation": "/ˈbʊk.rɛst/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "bookrest",
+            "plural": "bookrests"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A support used to hold a book open in a convenient position for reading.",
+        "chineseDefinition": "用来支撑书本以便于阅读的书托。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He placed the cookbook on the bookrest.",
+            "chinese": "他把烹饪书放在书托上。"
+          },
+          {
+            "english": "The library tables had built-in bookrests.",
+            "chinese": "图书馆的桌子上装有内置的书托。"
+          }
+        ],
+        "synonyms": ["stand", "holder"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "primitive",
+    "pronunciation": "/ˈprɪmɪtɪv/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "primitive",
+            "comparative": "more primitive",
+            "superlative": "most primitive"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "primitive",
+            "plural": "primitives"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Relating to the earliest stage of development; very basic or unsophisticated.",
+        "chineseDefinition": "与最早期的发展阶段有关；非常原始或不复杂。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "They relied on primitive tools for construction.",
+            "chinese": "他们依赖原始工具进行建筑。"
+          },
+          {
+            "english": "The technology was too primitive by today’s standards.",
+            "chinese": "以今天的标准来看，那种技术过于原始。"
+          }
+        ],
+        "synonyms": ["basic", "rudimentary"],
+        "antonyms": ["advanced"]
+      },
+      {
+        "definition": "Something originating from an early stage of development.",
+        "chineseDefinition": "起源于早期发展阶段的事物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The museum featured primitives from ancient cultures.",
+            "chinese": "博物馆展出了古代文明的原始物件。"
+          },
+          {
+            "english": "These artifacts are considered primitives of modern art forms.",
+            "chinese": "这些手工艺品被视为现代艺术形式的原始形态。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "craft",
+    "pronunciation": "/kræft/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "craft",
+            "plural": "crafts"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "craft",
+            "thirdPersonSingular": "crafts",
+            "presentParticiple": "crafting",
+            "pastTense": "crafted",
+            "pastParticiple": "crafted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An activity involving skill in making things by hand.",
+        "chineseDefinition": "需要手工技能的活动。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She studied the craft of pottery for years.",
+            "chinese": "她学习陶艺好几年了。"
+          },
+          {
+            "english": "His woodworking craft is admired by many.",
+            "chinese": "他的木工手艺受到很多人的赞赏。"
+          }
+        ],
+        "synonyms": ["handicraft", "trade"],
+        "antonyms": []
+      },
+      {
+        "definition": "To make or produce with care, skill, or ingenuity.",
+        "chineseDefinition": "用心、技巧或灵巧来制作或生产。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He crafted a beautiful wooden box.",
+            "chinese": "他制作了一个漂亮的木盒。"
+          },
+          {
+            "english": "They carefully crafted a plan to improve sales.",
+            "chinese": "他们精心制定了一项提高销售额的计划。"
+          }
+        ],
+        "synonyms": ["create", "fashion"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "hire",
+    "pronunciation": "/ˈhaɪər/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "hire",
+            "thirdPersonSingular": "hires",
+            "presentParticiple": "hiring",
+            "pastTense": "hired",
+            "pastParticiple": "hired"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "hire",
+            "plural": "hires"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To employ someone or pay for the use of something.",
+        "chineseDefinition": "雇用某人或付费使用某物。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They decided to hire a new manager for the project.",
+            "chinese": "他们决定为该项目雇佣一名新经理。"
+          },
+          {
+            "english": "You can hire a car at the airport.",
+            "chinese": "你可以在机场租一辆车。"
+          }
+        ],
+        "synonyms": ["employ", "rent"],
+        "antonyms": ["fire"]
+      },
+      {
+        "definition": "An act of employing someone or renting something.",
+        "chineseDefinition": "雇佣某人或租用某物的行为。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Our latest hire has five years of experience.",
+            "chinese": "我们新雇的员工有五年的经验。"
+          },
+          {
+            "english": "The car hire was quite expensive.",
+            "chinese": "这次租车的费用相当高。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "goggles",
+    "pronunciation": "/ˈɡɑːɡlz/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "goggles",
+            "plural": "goggles"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Close-fitting glasses with side shields, for protecting the eyes from glare, dust, water, etc.",
+        "chineseDefinition": "紧贴面部且带有侧面防护罩的护目镜，用于防止炫光、灰尘和水等。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Wear goggles in the laboratory at all times.",
+            "chinese": "在实验室里要一直佩戴护目镜。"
+          },
+          {
+            "english": "He wiped his goggles before diving into the pool.",
+            "chinese": "他在跳入泳池前擦了擦护目镜。"
+          }
+        ],
+        "synonyms": ["safety glasses", "eyewear"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "thereby",
+    "pronunciation": "/ˌðɛrˈbaɪ/",
+    "forms": [
+      {
+        "partOfSpeech": "adverb",
+        "form": {
+          "type": "invariable",
+          "data": "thereby"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "By that means; as a result of that.",
+        "chineseDefinition": "通过那种方式；因此。",
+        "partOfSpeech": "adverb",
+        "examples": [
+          {
+            "english": "He signed the contract, thereby agreeing to all the terms.",
+            "chinese": "他签署了合同，从而同意了所有条款。"
+          },
+          {
+            "english": "She lost her wallet, thereby missing her train.",
+            "chinese": "她丢了钱包，从而错过了火车。"
+          }
+        ],
+        "synonyms": ["thus", "consequently"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "stake",
+    "pronunciation": "/steɪk/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "stake",
+            "plural": "stakes"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "stake",
+            "thirdPersonSingular": "stakes",
+            "presentParticiple": "staking",
+            "pastTense": "staked",
+            "pastParticiple": "staked"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A strong wooden or metal post driven into the ground as a support.",
+        "chineseDefinition": "插入地面的坚固木桩或金属桩，用作支撑。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Tie the tomato plants to a stake for support.",
+            "chinese": "把番茄植株绑在桩子上以便支撑。"
+          },
+          {
+            "english": "They marked the boundary using stakes.",
+            "chinese": "他们用木桩标出了边界。"
+          }
+        ],
+        "synonyms": ["post", "pole"],
+        "antonyms": []
+      },
+      {
+        "definition": "To support (a plant) with a stake or stakes.",
+        "chineseDefinition": "用木桩支撑（植物）。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He staked the young trees after planting them.",
+            "chinese": "他在种下小树后用木桩固定住。"
+          },
+          {
+            "english": "You need to stake the sapling to protect it from wind.",
+            "chinese": "你需要用木桩支撑这棵幼树，防止它被风吹倒。"
+          }
+        ],
+        "synonyms": ["prop", "anchor"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "barge",
+    "pronunciation": "/bɑːrdʒ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "barge",
+            "plural": "barges"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "barge",
+            "thirdPersonSingular": "barges",
+            "presentParticiple": "barging",
+            "pastTense": "barged",
+            "pastParticiple": "barged"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A flat-bottomed boat for carrying freight, typically on canals and rivers.",
+        "chineseDefinition": "一种平底船，用于在运河和河流上运送货物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The barge carried coal along the river.",
+            "chinese": "这条驳船沿河运送煤炭。"
+          },
+          {
+            "english": "They hired a barge to transport heavy equipment.",
+            "chinese": "他们租了一条驳船来运送重型设备。"
+          }
+        ],
+        "synonyms": ["flatboat", "lighter"],
+        "antonyms": []
+      },
+      {
+        "definition": "To move forcefully or roughly.",
+        "chineseDefinition": "以强力或粗暴的方式移动。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He barged into the room without knocking.",
+            "chinese": "他没敲门就硬闯进房间。"
+          },
+          {
+            "english": "They barged through the crowd to get to the front.",
+            "chinese": "他们在拥挤的人群中硬挤到前面。"
+          }
+        ],
+        "synonyms": ["push", "charge"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "aerobics",
+    "pronunciation": "/eˈroʊbɪks/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "aerobics",
+            "plural": "aerobics"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Vigorous exercises designed to improve cardiovascular efficiency.",
+        "chineseDefinition": "旨在提高心血管效率的剧烈运动。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She does aerobics twice a week to stay in shape.",
+            "chinese": "她每周做两次有氧运动来保持身材。"
+          },
+          {
+            "english": "The gym offers morning aerobics classes.",
+            "chinese": "健身房提供晨间有氧运动课程。"
+          }
+        ],
+        "synonyms": ["cardio exercise", "fitness workout"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "shrub",
+    "pronunciation": "/ʃrʌb/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "shrub",
+            "plural": "shrubs"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A woody plant that is smaller than a tree and has several main stems arising at or near the ground.",
+        "chineseDefinition": "一种比树矮且在地面或近地面处长出好几根主茎的木本植物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She planted a flowering shrub near the fence.",
+            "chinese": "她在篱笆旁种了一株开花灌木。"
+          },
+          {
+            "english": "The garden was filled with various shrubs and flowers.",
+            "chinese": "花园里种满了各种灌木和花朵。"
+          }
+        ],
+        "synonyms": ["bush", "hedge"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "slat",
+    "pronunciation": "/slæt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "slat",
+            "plural": "slats"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "slat",
+            "thirdPersonSingular": "slats",
+            "presentParticiple": "slatting",
+            "pastTense": "slatted",
+            "pastParticiple": "slatted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A thin, narrow piece of wood, plastic, or metal, used especially in furniture or window blinds.",
+        "chineseDefinition": "一条细而窄的木条、塑料条或金属条，尤其用于家具或百叶窗。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "One of the slats in the fence is broken.",
+            "chinese": "围栏里有一块木条断了。"
+          },
+          {
+            "english": "The bed frame is supported by wooden slats.",
+            "chinese": "床架由木条支撑。"
+          }
+        ],
+        "synonyms": ["strip", "bar"],
+        "antonyms": []
+      },
+      {
+        "definition": "To provide, make, or furnish with slats.",
+        "chineseDefinition": "用板条提供、制造或装配。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He slatted the window shutters to let in air.",
+            "chinese": "他在百叶窗上装上条板，以便通风。"
+          },
+          {
+            "english": "We need to slat the top of the crate for ventilation.",
+            "chinese": "我们需要在板条箱顶部装上木条以便通风。"
+          }
+        ],
+        "synonyms": ["panel", "plank"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "legal",
+    "pronunciation": "/ˈliːɡəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "legal",
+            "comparative": "more legal",
+            "superlative": "most legal"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Relating to the law.",
+        "chineseDefinition": "与法律有关的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She sought legal advice before signing the contract.",
+            "chinese": "她在签合同前寻求了法律咨询。"
+          },
+          {
+            "english": "It's important to know your legal rights.",
+            "chinese": "了解自己的合法权利非常重要。"
+          }
+        ],
+        "synonyms": ["lawful", "legitimate"],
+        "antonyms": ["illegal"]
+      }
+    ]
+  },
+  {
+    "word": "cinematography",
+    "pronunciation": "/ˌsɪnɪməˈtɒɡrəfi/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "cinematography",
+            "plural": "cinematographies"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The art of photography and camerawork in film-making.",
+        "chineseDefinition": "在电影制作中摄影和摄像的艺术。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The film’s cinematography won numerous awards.",
+            "chinese": "这部电影的摄影赢得了众多奖项。"
+          },
+          {
+            "english": "She studied cinematography in college.",
+            "chinese": "她在大学里学习电影摄影技术。"
+          }
+        ],
+        "synonyms": ["filmmaking", "camera work"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "contribute",
+    "pronunciation": "/kənˈtrɪbjuːt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "contribute",
+            "thirdPersonSingular": "contributes",
+            "presentParticiple": "contributing",
+            "pastTense": "contributed",
+            "pastParticiple": "contributed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To give (something, especially money) in order to help achieve or provide something.",
+        "chineseDefinition": "给予（某物，尤其是金钱）以帮助实现或提供某种目标。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They all contributed to the community fund.",
+            "chinese": "他们都为社区基金做了贡献。"
+          },
+          {
+            "english": "She contributes articles to the local newspaper.",
+            "chinese": "她给当地报纸撰稿。"
+          }
+        ],
+        "synonyms": ["donate", "give"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "imagination",
+    "pronunciation": "/ɪˌmædʒɪˈneɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "imagination",
+            "plural": "imaginations"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The faculty or action of forming new ideas, or images or concepts of external objects not present to the senses.",
+        "chineseDefinition": "形成新想法、图像或对感官不可及的外部事物概念的能力或行为。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Children have vivid imaginations.",
+            "chinese": "孩子们拥有丰富的想象力。"
+          },
+          {
+            "english": "His imagination led him to write fantastic stories.",
+            "chinese": "他的想象力让他写出了奇幻的故事。"
+          }
+        ],
+        "synonyms": ["creativity", "invention"],
+        "antonyms": ["reality"]
+      }
+    ]
+  }
+]

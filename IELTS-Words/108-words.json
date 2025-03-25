@@ -1,0 +1,1694 @@
+[
+  {
+    "word": "rescue",
+    "pronunciation": "/ˈrɛskjuː/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "rescue",
+            "thirdPersonSingular": "rescues",
+            "presentParticiple": "rescuing",
+            "pastTense": "rescued",
+            "pastParticiple": "rescued"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "rescue",
+            "plural": "rescues"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To free or save from danger, imprisonment, evil, etc.",
+        "chineseDefinition": "从危险、监禁、邪恶等中解救或拯救",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Firefighters rescued the family from the burning building.",
+            "chinese": "消防员从燃烧的建筑物中救出了这家人。"
+          }
+        ],
+        "synonyms": ["save", "free", "liberate", "deliver"],
+        "antonyms": ["endanger", "imperil", "abandon"]
+      },
+      {
+        "definition": "The act of rescuing; a deliverance or liberation.",
+        "chineseDefinition": "救援的行为；解救或解放",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The dramatic rescue of the hostages made headlines worldwide.",
+            "chinese": "对人质的惊险救援在全球成为头条新闻。"
+          }
+        ],
+        "synonyms": ["salvation", "deliverance", "liberation"],
+        "antonyms": ["capture", "seizure"]
+      }
+    ]
+  },
+  {
+    "word": "proof",
+    "pronunciation": "/pruːf/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "proof",
+            "plural": "proofs"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "proof"
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "proof",
+            "thirdPersonSingular": "proofs",
+            "presentParticiple": "proofing",
+            "pastTense": "proofed",
+            "pastParticiple": "proofed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Evidence or argument establishing a fact or the truth of a statement.",
+        "chineseDefinition": "证明事实或陈述真实性的证据或论据",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The DNA test provided proof of his innocence.",
+            "chinese": "DNA测试提供了他无罪的证明。"
+          }
+        ],
+        "synonyms": ["evidence", "confirmation", "verification", "substantiation"],
+        "antonyms": ["disproof", "refutation"]
+      },
+      {
+        "definition": "Resistant or impervious to something.",
+        "chineseDefinition": "对某物有抵抗力或不受影响的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The jacket is waterproof and windproof.",
+            "chinese": "这件夹克防水防风。"
+          }
+        ],
+        "synonyms": ["resistant", "impervious", "immune"],
+        "antonyms": ["vulnerable", "susceptible"]
+      },
+      {
+        "definition": "To check and correct (a text, document, etc.).",
+        "chineseDefinition": "检查并纠正（文本、文件等）",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She proofed the manuscript carefully before submission.",
+            "chinese": "她在提交前仔细校对了手稿。"
+          }
+        ],
+        "synonyms": ["check", "edit", "proofread", "review"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "afflict",
+    "pronunciation": "/əˈflɪkt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "afflict",
+            "thirdPersonSingular": "afflicts",
+            "presentParticiple": "afflicting",
+            "pastTense": "afflicted",
+            "pastParticiple": "afflicted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To cause pain or suffering to; to trouble greatly or distress.",
+        "chineseDefinition": "使痛苦或受苦；严重困扰或使痛苦",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The region was afflicted by severe drought for three years.",
+            "chinese": "该地区遭受了三年的严重干旱。"
+          }
+        ],
+        "synonyms": ["trouble", "distress", "torment", "plague"],
+        "antonyms": ["comfort", "soothe", "relieve"]
+      }
+    ]
+  },
+  {
+    "word": "log",
+    "pronunciation": "/lɒɡ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "log",
+            "plural": "logs"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "log",
+            "thirdPersonSingular": "logs",
+            "presentParticiple": "logging",
+            "pastTense": "logged",
+            "pastParticiple": "logged"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A section of a tree trunk that has been cut off.",
+        "chineseDefinition": "被砍下的树干部分",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They gathered logs for the campfire.",
+            "chinese": "他们为篝火收集了木柴。"
+          }
+        ],
+        "synonyms": ["timber", "wood", "lumber"],
+        "antonyms": []
+      },
+      {
+        "definition": "A record of events, experiences, or observations.",
+        "chineseDefinition": "事件、经历或观察的记录",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The captain kept a detailed log of the voyage.",
+            "chinese": "船长保持了一份详细的航行日志。"
+          }
+        ],
+        "synonyms": ["record", "journal", "diary", "register"],
+        "antonyms": []
+      },
+      {
+        "definition": "To make an official record of events, experiences, etc.",
+        "chineseDefinition": "对事件、经历等进行正式记录",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She logged all her expenses during the business trip.",
+            "chinese": "她在商务旅行期间记录了所有开支。"
+          }
+        ],
+        "synonyms": ["record", "register", "document", "note"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "maritime",
+    "pronunciation": "/ˈmærɪtaɪm/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "maritime"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Connected with the sea, especially in relation to seafaring commercial or military activity.",
+        "chineseDefinition": "与海洋有关的，尤其是与航海商业或军事活动有关的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The country has a strong maritime tradition.",
+            "chinese": "这个国家有着悠久的航海传统。"
+          }
+        ],
+        "synonyms": ["naval", "nautical", "marine", "seafaring"],
+        "antonyms": ["landlocked", "terrestrial"]
+      },
+      {
+        "definition": "Living or found near the sea.",
+        "chineseDefinition": "生活在海边或在海边发现的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Maritime plants can tolerate salty conditions.",
+            "chinese": "海洋植物能够耐受咸水环境。"
+          }
+        ],
+        "synonyms": ["coastal", "seaside", "seaboard"],
+        "antonyms": ["inland", "continental"]
+      }
+    ]
+  },
+  {
+    "word": "formula",
+    "pronunciation": "/ˈfɔːrmjələ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "formula",
+            "plural": "formulas"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A mathematical relationship or rule expressed in symbols.",
+        "chineseDefinition": "用符号表示的数学关系或规则",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The formula for calculating the area of a circle is πr².",
+            "chinese": "计算圆面积的公式是πr²。"
+          }
+        ],
+        "synonyms": ["equation", "expression", "rule"],
+        "antonyms": []
+      },
+      {
+        "definition": "A method or procedure for doing something.",
+        "chineseDefinition": "做某事的方法或程序",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They have developed a winning formula for their business.",
+            "chinese": "他们为自己的企业开发了一套成功的方法。"
+          }
+        ],
+        "synonyms": ["recipe", "system", "technique", "approach"],
+        "antonyms": []
+      },
+      {
+        "definition": "A liquid food for babies, usually based on cow's milk with added nutrients.",
+        "chineseDefinition": "婴儿液体食品，通常以牛奶为基础并添加营养物质",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The mother fed her baby with formula when she couldn't breastfeed.",
+            "chinese": "当这位母亲无法母乳喂养时，她用配方奶粉喂养婴儿。"
+          }
+        ],
+        "synonyms": ["baby milk", "infant formula"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "therapy",
+    "pronunciation": "/ˈθɛrəpi/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "therapy",
+            "plural": "therapies"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Treatment intended to relieve or heal a disorder.",
+        "chineseDefinition": "旨在缓解或治愈疾病的治疗",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She underwent physical therapy after her knee surgery.",
+            "chinese": "她在膝盖手术后接受了物理治疗。"
+          }
+        ],
+        "synonyms": ["treatment", "remedy", "healing", "cure"],
+        "antonyms": []
+      },
+      {
+        "definition": "The treatment of mental or psychological disorders by psychological means.",
+        "chineseDefinition": "通过心理手段治疗精神或心理障碍",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Cognitive behavioral therapy has proven effective for treating anxiety disorders.",
+            "chinese": "认知行为疗法已被证明对治疗焦虑症有效。"
+          }
+        ],
+        "synonyms": ["counseling", "psychotherapy", "psychoanalysis"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "concession",
+    "pronunciation": "/kənˈsɛʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "concession",
+            "plural": "concessions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Something that is granted or conceded, often in response to demands.",
+        "chineseDefinition": "被授予或让步的事物，通常是对要求的回应",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The government made several concessions to the protesters' demands.",
+            "chinese": "政府对抗议者的要求做出了几项让步。"
+          }
+        ],
+        "synonyms": ["compromise", "allowance", "yielding"],
+        "antonyms": ["denial", "refusal", "rejection"]
+      },
+      {
+        "definition": "A business operated under a contract or license within another business's premises.",
+        "chineseDefinition": "在另一企业场所内根据合同或许可证经营的业务",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They run a food concession at the stadium.",
+            "chinese": "他们在体育场经营一个食品特许摊位。"
+          }
+        ],
+        "synonyms": ["franchise", "outlet", "booth", "stand"],
+        "antonyms": []
+      },
+      {
+        "definition": "The right to use land or other property for a specified purpose, granted by a government or other controlling body.",
+        "chineseDefinition": "由政府或其他控制机构授予的为特定目的使用土地或其他财产的权利",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The company was awarded a mining concession in the region.",
+            "chinese": "该公司获得了该地区的采矿特许权。"
+          }
+        ],
+        "synonyms": ["license", "permit", "grant", "privilege"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "whisper",
+    "pronunciation": "/ˈwɪspər/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "whisper",
+            "thirdPersonSingular": "whispers",
+            "presentParticiple": "whispering",
+            "pastTense": "whispered",
+            "pastParticiple": "whispered"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "whisper",
+            "plural": "whispers"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To speak very softly using one's breath rather than one's voice, especially for the sake of privacy.",
+        "chineseDefinition": "用气息而非声音非常轻声地说话，尤其是为了保持隐私",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She whispered the secret in my ear.",
+            "chinese": "她在我耳边低声说出了这个秘密。"
+          }
+        ],
+        "synonyms": ["murmur", "breathe", "hush"],
+        "antonyms": ["shout", "yell", "scream"]
+      },
+      {
+        "definition": "A soft or confidential tone of voice.",
+        "chineseDefinition": "柔和或私密的语调",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "I could only hear whispers from the next room.",
+            "chinese": "我只能听到从隔壁房间传来的低语声。"
+          }
+        ],
+        "synonyms": ["murmur", "breath", "susurration"],
+        "antonyms": ["shout", "yell", "roar"]
+      },
+      {
+        "definition": "A rumor or piece of gossip.",
+        "chineseDefinition": "谣言或闲话",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "There are whispers that the company might be sold.",
+            "chinese": "有传言说这家公司可能会被出售。"
+          }
+        ],
+        "synonyms": ["rumor", "gossip", "hearsay"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "grant",
+    "pronunciation": "/ɡrænt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "grant",
+            "thirdPersonSingular": "grants",
+            "presentParticiple": "granting",
+            "pastTense": "granted",
+            "pastParticiple": "granted"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "grant",
+            "plural": "grants"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To agree to give or allow something requested or desired.",
+        "chineseDefinition": "同意给予或允许所请求或期望的事物",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The court granted her request for a restraining order.",
+            "chinese": "法院批准了她申请限制令的请求。"
+          }
+        ],
+        "synonyms": ["allow", "permit", "concede", "bestow"],
+        "antonyms": ["deny", "refuse", "reject"]
+      },
+      {
+        "definition": "To admit or concede something as true or valid.",
+        "chineseDefinition": "承认或让步某事为真实或有效",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "I grant that you have a point, but I still disagree with your conclusion.",
+            "chinese": "我承认你有道理，但我仍然不同意你的结论。"
+          }
+        ],
+        "synonyms": ["acknowledge", "admit", "accept"],
+        "antonyms": ["dispute", "contest"]
+      },
+      {
+        "definition": "A sum of money given by a government or organization for a particular purpose.",
+        "chineseDefinition": "政府或组织为特定目的提供的一笔钱",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She received a research grant to study climate change.",
+            "chinese": "她获得了一笔研究气候变化的资助金。"
+          }
+        ],
+        "synonyms": ["subsidy", "endowment", "award", "funding"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "relevant",
+    "pronunciation": "/ˈrɛləvənt/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "relevant",
+            "comparative": "more relevant",
+            "superlative": "most relevant"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Closely connected or appropriate to what is being done or considered.",
+        "chineseDefinition": "与正在做或考虑的事情密切相关或适当的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "His comments were not relevant to the discussion.",
+            "chinese": "他的评论与讨论无关。"
+          }
+        ],
+        "synonyms": ["pertinent", "applicable", "appropriate", "germane"],
+        "antonyms": ["irrelevant", "unrelated", "immaterial"]
+      },
+      {
+        "definition": "Having significant and demonstrable bearing on the matter at hand.",
+        "chineseDefinition": "对当前事项有重要且可证明的影响",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The judge decided that the evidence was relevant to the case.",
+            "chinese": "法官认为这些证据与案件相关。"
+          }
+        ],
+        "synonyms": ["significant", "important", "consequential"],
+        "antonyms": ["insignificant", "trivial", "inconsequential"]
+      }
+    ]
+  },
+  {
+    "word": "unrealistic",
+    "pronunciation": "/ˌʌnriːəˈlɪstɪk/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "unrealistic",
+            "comparative": "more unrealistic",
+            "superlative": "most unrealistic"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Not realistic; not based on or concerned with reality or practical considerations.",
+        "chineseDefinition": "不现实的；不基于或不关注现实或实际考虑的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Their budget projections were completely unrealistic.",
+            "chinese": "他们的预算预测完全不切实际。"
+          }
+        ],
+        "synonyms": ["impractical", "idealistic", "fanciful", "utopian"],
+        "antonyms": ["realistic", "practical", "sensible", "reasonable"]
+      },
+      {
+        "definition": "Not representing things in a way that is accurate or true to life.",
+        "chineseDefinition": "不以准确或真实的方式表现事物",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The film's portrayal of police work is unrealistic.",
+            "chinese": "这部电影对警察工作的描述不切实际。"
+          }
+        ],
+        "synonyms": ["inaccurate", "false", "distorted"],
+        "antonyms": ["accurate", "authentic", "lifelike"]
+      }
+    ]
+  },
+  {
+    "word": "enfranchise",
+    "pronunciation": "/ɪnˈfræntʃaɪz/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "enfranchise",
+            "thirdPersonSingular": "enfranchises",
+            "presentParticiple": "enfranchising",
+            "pastTense": "enfranchised",
+            "pastParticiple": "enfranchised"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To give the right to vote to (a person or group).",
+        "chineseDefinition": "给予（某人或某群体）投票权",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Women were finally enfranchised in 1920 in the United States.",
+            "chinese": "1920年，美国妇女终于获得了选举权。"
+          }
+        ],
+        "synonyms": ["empower", "give voting rights to"],
+        "antonyms": ["disenfranchise", "disempower"]
+      },
+      {
+        "definition": "To free from slavery or bondage; to liberate.",
+        "chineseDefinition": "从奴隶制或束缚中解放；使自由",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The proclamation enfranchised all slaves in the Confederate states.",
+            "chinese": "这项宣言解放了所有在南部邦联各州的奴隶。"
+          }
+        ],
+        "synonyms": ["liberate", "free", "emancipate"],
+        "antonyms": ["enslave", "subjugate", "oppress"]
+      }
+    ]
+  },
+  {
+    "word": "disregard",
+    "pronunciation": "/ˌdɪsrɪˈɡɑːrd/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "disregard",
+            "thirdPersonSingular": "disregards",
+            "presentParticiple": "disregarding",
+            "pastTense": "disregarded",
+            "pastParticiple": "disregarded"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "disregard",
+            "plural": "disregards"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To pay no attention to; to ignore.",
+        "chineseDefinition": "不注意；忽视",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He disregarded the warning signs and continued driving.",
+            "chinese": "他无视警告标志，继续驾驶。"
+          }
+        ],
+        "synonyms": ["ignore", "neglect", "overlook", "dismiss"],
+        "antonyms": ["regard", "heed", "notice", "consider"]
+      },
+      {
+        "definition": "Lack of attention or respect; neglect.",
+        "chineseDefinition": "缺乏关注或尊重；忽视",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "His disregard for safety regulations put everyone at risk.",
+            "chinese": "他对安全规定的漠视使每个人都处于危险之中。"
+          }
+        ],
+        "synonyms": ["neglect", "inattention", "indifference"],
+        "antonyms": ["regard", "attention", "consideration"]
+      }
+    ]
+  },
+  {
+    "word": "convert",
+    "pronunciation": "/kənˈvɜːrt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "convert",
+            "thirdPersonSingular": "converts",
+            "presentParticiple": "converting",
+            "pastTense": "converted",
+            "pastParticiple": "converted"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "convert",
+            "plural": "converts"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To change from one form, function, or state to another.",
+        "chineseDefinition": "从一种形式、功能或状态转变为另一种",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They converted the attic into a bedroom.",
+            "chinese": "他们把阁楼改造成了卧室。"
+          }
+        ],
+        "synonyms": ["transform", "change", "alter", "modify"],
+        "antonyms": ["maintain", "preserve"]
+      },
+      {
+        "definition": "To change one's religious faith or beliefs.",
+        "chineseDefinition": "改变一个人的宗教信仰或信念",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He converted to Buddhism after visiting Tibet.",
+            "chinese": "他在访问西藏后皈依了佛教。"
+          }
+        ],
+        "synonyms": ["switch", "change", "adopt"],
+        "antonyms": ["retain", "maintain"]
+      },
+      {
+        "definition": "A person who has changed their religious faith or beliefs.",
+        "chineseDefinition": "改变了宗教信仰或信念的人",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "As a recent convert to veganism, she was very enthusiastic about it.",
+            "chinese": "作为一个刚刚皈依素食主义的人，她对此非常热情。"
+          }
+        ],
+        "synonyms": ["proselyte", "neophyte"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "grasp",
+    "pronunciation": "/ɡræsp/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "grasp",
+            "thirdPersonSingular": "grasps",
+            "presentParticiple": "grasping",
+            "pastTense": "grasped",
+            "pastParticiple": "grasped"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "grasp",
+            "plural": "grasps"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To seize and hold firmly with the hands.",
+        "chineseDefinition": "用手牢牢抓住",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She grasped the rope and pulled herself up.",
+            "chinese": "她抓住绳子，把自己拉了上去。"
+          }
+        ],
+        "synonyms": ["grip", "clutch", "seize", "hold"],
+        "antonyms": ["release", "let go"]
+      },
+      {
+        "definition": "To comprehend fully; to understand.",
+        "chineseDefinition": "完全理解；明白",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "It took me a while to grasp the concept of quantum physics.",
+            "chinese": "我花了一段时间才理解量子物理学的概念。"
+          }
+        ],
+        "synonyms": ["understand", "comprehend", "fathom", "apprehend"],
+        "antonyms": ["misunderstand", "misconceive"]
+      },
+      {
+        "definition": "A firm hold or grip.",
+        "chineseDefinition": "牢固的抓握",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He kept a tight grasp on the steering wheel.",
+            "chinese": "他紧紧抓住方向盘。"
+          }
+        ],
+        "synonyms": ["grip", "hold", "clutch"],
+        "antonyms": []
+      },
+      {
+        "definition": "The ability to understand something.",
+        "chineseDefinition": "理解某事的能力",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She has a good grasp of mathematics.",
+            "chinese": "她对数学有很好的理解。"
+          }
+        ],
+        "synonyms": ["understanding", "comprehension", "knowledge"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "wealthy",
+    "pronunciation": "/ˈwɛlθi/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "wealthy",
+            "comparative": "wealthier",
+            "superlative": "wealthiest"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "wealthy",
+            "plural": "wealthies"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Having a great deal of money, resources, or assets; rich.",
+        "chineseDefinition": "拥有大量金钱、资源或资产；富有的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She comes from a wealthy family.",
+            "chinese": "她来自一个富裕的家庭。"
+          }
+        ],
+        "synonyms": ["rich", "affluent", "prosperous", "well-off"],
+        "antonyms": ["poor", "impoverished", "destitute"]
+      },
+      {
+        "definition": "Abundant; plentiful.",
+        "chineseDefinition": "丰富的；充足的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The region has wealthy natural resources.",
+            "chinese": "该地区拥有丰富的自然资源。"
+          }
+        ],
+        "synonyms": ["abundant", "plentiful", "copious"],
+        "antonyms": ["scarce", "meager", "insufficient"]
+      },
+      {
+        "definition": "Wealthy people considered as a group.",
+        "chineseDefinition": "作为一个群体的富人",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The tax increase would only affect the wealthy.",
+            "chinese": "这次增税只会影响富人。"
+          }
+        ],
+        "synonyms": ["the rich", "the affluent", "the well-to-do"],
+        "antonyms": ["the poor", "the needy"]
+      }
+    ]
+  },
+  {
+    "word": "object",
+    "pronunciation": "/ˈɒbdʒɪkt/ (noun), /əbˈdʒɛkt/ (verb)",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "object",
+            "plural": "objects"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "object",
+            "thirdPersonSingular": "objects",
+            "presentParticiple": "objecting",
+            "pastTense": "objected",
+            "pastParticiple": "objected"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A material thing that can be seen and touched.",
+        "chineseDefinition": "可以看见和触摸的物质事物",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "There was a strange object on the table.",
+            "chinese": "桌子上有一个奇怪的物体。"
+          }
+        ],
+        "synonyms": ["thing", "item", "article", "entity"],
+        "antonyms": []
+      },
+      {
+        "definition": "A person or thing to which a specified action or feeling is directed.",
+        "chineseDefinition": "特定行动或感觉所指向的人或事物",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She became the object of his affection.",
+            "chinese": "她成为了他爱慕的对象。"
+          }
+        ],
+        "synonyms": ["target", "recipient", "focus"],
+        "antonyms": []
+      },
+      {
+        "definition": "To express disapproval of or disagreement with something.",
+        "chineseDefinition": "表示不赞成或不同意某事",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "I object to your characterization of the events.",
+            "chinese": "我反对你对这些事件的描述。"
+          }
+        ],
+        "synonyms": ["protest", "complain", "oppose", "demur"],
+        "antonyms": ["agree", "approve", "consent"]
+      }
+    ]
+  },
+  {
+    "word": "tariff",
+    "pronunciation": "/ˈtærɪf/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "tariff",
+            "plural": "tariffs"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "tariff",
+            "thirdPersonSingular": "tariffs",
+            "presentParticiple": "tariffing",
+            "pastTense": "tariffed",
+            "pastParticiple": "tariffed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A tax or duty to be paid on a particular class of imports or exports.",
+        "chineseDefinition": "对特定类别的进口或出口商品征收的税或关税",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The government imposed a 25% tariff on imported steel.",
+            "chinese": "政府对进口钢铁征收了25%的关税。"
+          }
+        ],
+        "synonyms": ["duty", "tax", "levy", "toll"],
+        "antonyms": ["subsidy", "rebate"]
+      },
+      {
+        "definition": "A list or scale of fixed charges or prices.",
+        "chineseDefinition": "固定费用或价格的清单或等级",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The hotel has a tariff of room rates displayed at reception.",
+            "chinese": "酒店在前台展示了房间价格表。"
+          }
+        ],
+        "synonyms": ["price list", "schedule", "rate card"],
+        "antonyms": []
+      },
+      {
+        "definition": "To impose a tariff on (imported or exported goods).",
+        "chineseDefinition": "对（进口或出口商品）征收关税",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The country tariffed agricultural imports to protect local farmers.",
+            "chinese": "该国对农产品进口征收关税以保护本地农民。"
+          }
+        ],
+        "synonyms": ["tax", "levy duty on"],
+        "antonyms": ["subsidize"]
+      }
+    ]
+  },
+  {
+    "word": "defendant",
+    "pronunciation": "/dɪˈfɛndənt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "defendant",
+            "plural": "defendants"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person, company, etc., against whom a claim or charge is brought in a court of law.",
+        "chineseDefinition": "在法庭上被提出索赔或指控的人、公司等",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The defendant pleaded not guilty to all charges.",
+            "chinese": "被告对所有指控均表示无罪。"
+          }
+        ],
+        "synonyms": ["accused", "respondent"],
+        "antonyms": ["plaintiff", "claimant", "prosecutor"]
+      },
+      {
+        "definition": "A person who defends or protects someone or something.",
+        "chineseDefinition": "保护或捍卫某人或某物的人",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He has been a staunch defendant of human rights throughout his career.",
+            "chinese": "他在整个职业生涯中一直是人权的坚定捍卫者。"
+          }
+        ],
+        "synonyms": ["defender", "protector", "advocate"],
+        "antonyms": ["attacker", "assailant"]
+      }
+    ]
+  },
+  {
+    "word": "bankruptcy",
+    "pronunciation": "/ˈbæŋkrʌptsi/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "bankruptcy",
+            "plural": "bankruptcies"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The state of being bankrupt; legal proceeding involving a person or business that is unable to repay outstanding debts.",
+        "chineseDefinition": "破产状态；涉及无法偿还未偿债务的个人或企业的法律程序",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The company filed for bankruptcy after years of declining sales.",
+            "chinese": "在销售额连年下滑后，该公司申请了破产。"
+          }
+        ],
+        "synonyms": ["insolvency", "failure", "collapse"],
+        "antonyms": ["solvency", "financial stability"]
+      },
+      {
+        "definition": "Complete lack or absence of something.",
+        "chineseDefinition": "某事物的完全缺乏或不存在",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The policy showed a bankruptcy of ideas.",
+            "chinese": "这项政策显示了想法的贫乏。"
+          }
+        ],
+        "synonyms": ["deficiency", "depletion", "exhaustion"],
+        "antonyms": ["abundance", "wealth", "richness"]
+      }
+    ]
+  },
+  {
+    "word": "connection",
+    "pronunciation": "/kəˈnɛkʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "connection",
+            "plural": "connections"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A relationship in which a person, thing, or idea is linked or associated with something else.",
+        "chineseDefinition": "人、事物或想法与其他事物相联系或相关联的关系",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "There is no connection between the two events.",
+            "chinese": "这两个事件之间没有联系。"
+          }
+        ],
+        "synonyms": ["link", "relationship", "association", "correlation"],
+        "antonyms": ["disconnection", "separation", "division"]
+      },
+      {
+        "definition": "The action of linking one thing with another.",
+        "chineseDefinition": "将一件事物与另一件事物联系起来的行为",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The connection of the pipes took only a few minutes.",
+            "chinese": "管道的连接只花了几分钟。"
+          }
+        ],
+        "synonyms": ["joining", "linking", "coupling"],
+        "antonyms": ["disconnection", "separation"]
+      },
+      {
+        "definition": "A person with whom one has social or professional contact or to whom one is related.",
+        "chineseDefinition": "与之有社交或专业联系或有关系的人",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She used her political connections to secure the contract.",
+            "chinese": "她利用自己的政治关系获得了这份合同。"
+          }
+        ],
+        "synonyms": ["contact", "acquaintance", "associate", "ally"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "airtight",
+    "pronunciation": "/ˈɛərtaɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "airtight",
+            "comparative": "more airtight",
+            "superlative": "most airtight"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "So tightly sealed that air cannot enter or escape.",
+        "chineseDefinition": "密封得如此严密以至于空气不能进入或逃逸",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Store the cookies in an airtight container to keep them fresh.",
+            "chinese": "将饼干存放在密封容器中以保持新鲜。"
+          }
+        ],
+        "synonyms": ["hermetically sealed", "impermeable", "sealed"],
+        "antonyms": ["leaky", "permeable", "ventilated"]
+      },
+      {
+        "definition": "Having no logical flaws or weaknesses; watertight.",
+        "chineseDefinition": "没有逻辑缺陷或弱点的；无懈可击的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The prosecution presented an airtight case against the defendant.",
+            "chinese": "检方对被告提出了无懈可击的案件。"
+          }
+        ],
+        "synonyms": ["flawless", "watertight", "impeccable", "foolproof"],
+        "antonyms": ["flawed", "weak", "questionable"]
+      }
+    ]
+  },
+  {
+    "word": "unprejudiced",
+    "pronunciation": "/ʌnˈprɛdʒədɪst/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "unprejudiced"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Not influenced by preconceived ideas or prejudice; impartial.",
+        "chineseDefinition": "不受先入为主的想法或偏见影响的；公正的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The judge gave an unprejudiced ruling on the case.",
+            "chinese": "法官对此案做出了公正的裁决。"
+          }
+        ],
+        "synonyms": ["impartial", "unbiased", "objective", "neutral"],
+        "antonyms": ["prejudiced", "biased", "partial", "subjective"]
+      },
+      {
+        "definition": "Free from bigotry or discrimination.",
+        "chineseDefinition": "没有偏执或歧视的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She approached the cultural differences with an unprejudiced mind.",
+            "chinese": "她以无偏见的心态面对文化差异。"
+          }
+        ],
+        "synonyms": ["open-minded", "fair-minded", "tolerant"],
+        "antonyms": ["bigoted", "discriminatory", "intolerant"]
+      }
+    ]
+  },
+  {
+    "word": "leather",
+    "pronunciation": "/ˈlɛðər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "leather",
+            "plural": "leathers"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "leather"
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "leather",
+            "thirdPersonSingular": "leathers",
+            "presentParticiple": "leathering",
+            "pastTense": "leathered",
+            "pastParticiple": "leathered"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Material made from the skin of an animal by tanning or a similar process.",
+        "chineseDefinition": "通过鞣制或类似工艺由动物皮制成的材料",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She bought a new pair of shoes made of genuine leather.",
+            "chinese": "她买了一双由真皮制成的新鞋。"
+          }
+        ],
+        "synonyms": ["hide", "skin"],
+        "antonyms": []
+      },
+      {
+        "definition": "Made of leather.",
+        "chineseDefinition": "由皮革制成的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He sat in a comfortable leather armchair.",
+            "chinese": "他坐在一张舒适的皮革扶手椅上。"
+          }
+        ],
+        "synonyms": ["leathern"],
+        "antonyms": []
+      },
+      {
+        "definition": "To beat or thrash severely.",
+        "chineseDefinition": "严厉打击或痛打",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Our team leathered the opposition in the final match.",
+            "chinese": "我们队在决赛中痛击了对手。"
+          }
+        ],
+        "synonyms": ["thrash", "beat", "flog", "whip"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "unregistered",
+    "pronunciation": "/ʌnˈrɛdʒɪstərd/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "unregistered"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Not entered or recorded in an official register.",
+        "chineseDefinition": "未在官方登记册上登记或记录的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The car was unregistered and therefore illegal to drive on public roads.",
+            "chinese": "这辆车未注册，因此在公共道路上驾驶是非法的。"
+          }
+        ],
+        "synonyms": ["unlisted", "unrecorded", "undocumented"],
+        "antonyms": ["registered", "recorded", "documented"]
+      },
+      {
+        "definition": "Not having completed the process of registering for something.",
+        "chineseDefinition": "未完成某事登记程序的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Unregistered voters cannot participate in the election.",
+            "chinese": "未登记的选民不能参加选举。"
+          }
+        ],
+        "synonyms": ["unenrolled", "unsigned"],
+        "antonyms": ["registered", "enrolled", "signed up"]
+      }
+    ]
+  },
+  {
+    "word": "versus",
+    "pronunciation": "/ˈvɜːrsəs/",
+    "forms": [
+      {
+        "partOfSpeech": "preposition",
+        "form": {
+          "type": "invariable",
+          "data": "versus"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Against (especially in sports and legal use); in contrast to or as the alternative of.",
+        "chineseDefinition": "对抗（尤其在体育和法律用语中）；与...相对照或作为...的替代",
+        "partOfSpeech": "preposition",
+        "examples": [
+          {
+            "english": "The match tomorrow is England versus Australia.",
+            "chinese": "明天的比赛是英格兰对澳大利亚。"
+          }
+        ],
+        "synonyms": ["against", "counter to", "in opposition to"],
+        "antonyms": ["with", "alongside", "together with"]
+      },
+      {
+        "definition": "As opposed to; in contrast with.",
+        "chineseDefinition": "与...相反；与...形成对比",
+        "partOfSpeech": "preposition",
+        "examples": [
+          {
+            "english": "We need to consider the benefits versus the costs of the project.",
+            "chinese": "我们需要考虑该项目的收益与成本的对比。"
+          }
+        ],
+        "synonyms": ["compared with", "as opposed to", "rather than"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "wretch",
+    "pronunciation": "/rɛtʃ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "wretch",
+            "plural": "wretches"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An unfortunate or unhappy person.",
+        "chineseDefinition": "不幸或不快乐的人",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The poor wretch had nowhere to go in the storm.",
+            "chinese": "这个可怜的家伙在暴风雨中无处可去。"
+          }
+        ],
+        "synonyms": ["unfortunate", "poor soul", "sufferer", "victim"],
+        "antonyms": ["fortunate", "lucky person"]
+      },
+      {
+        "definition": "A despicable or contemptible person.",
+        "chineseDefinition": "卑鄙或令人鄙视的人",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "What kind of wretch would steal from a charity?",
+            "chinese": "什么样的卑鄙小人会偷慈善机构的钱？"
+          }
+        ],
+        "synonyms": ["scoundrel", "villain", "miscreant", "rogue"],
+        "antonyms": ["hero", "saint"]
+      }
+    ]
+  },
+  {
+    "word": "acceptable",
+    "pronunciation": "/əkˈsɛptəbl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "acceptable",
+            "comparative": "more acceptable",
+            "superlative": "most acceptable"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Able to be agreed on; suitable; satisfactory.",
+        "chineseDefinition": "能够被同意的；合适的；令人满意的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The terms of the contract were acceptable to both parties.",
+            "chinese": "合同条款对双方都可以接受。"
+          }
+        ],
+        "synonyms": ["satisfactory", "suitable", "adequate", "reasonable"],
+        "antonyms": ["unacceptable", "unsatisfactory", "inadequate"]
+      },
+      {
+        "definition": "Capable or worthy of being accepted.",
+        "chineseDefinition": "能够或值得被接受的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "His behavior at the party was barely acceptable.",
+            "chinese": "他在聚会上的行为勉强可以接受。"
+          }
+        ],
+        "synonyms": ["tolerable", "passable", "admissible"],
+        "antonyms": ["intolerable", "inadmissible", "objectionable"]
+      }
+    ]
+  },
+  {
+    "word": "antique",
+    "pronunciation": "/ænˈtiːk/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "antique",
+            "plural": "antiques"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "antique",
+            "comparative": "more antique",
+            "superlative": "most antique"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "antique",
+            "thirdPersonSingular": "antiques",
+            "presentParticiple": "antiquing",
+            "pastTense": "antiqued",
+            "pastParticiple": "antiqued"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A collectible object such as a piece of furniture or work of art that has a high value because of its age and quality.",
+        "chineseDefinition": "因年代久远和品质而具有高价值的收藏品，如家具或艺术品",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The museum houses a collection of rare antiques.",
+            "chinese": "这家博物馆收藏了一批稀有古董。"
+          }
+        ],
+        "synonyms": ["collectible", "relic", "heirloom", "artifact"],
+        "antonyms": []
+      },
+      {
+        "definition": "Belonging to or dating from an earlier period; old-fashioned or aged.",
+        "chineseDefinition": "属于或源自较早时期的；老式的或陈旧的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "They furnished their home with antique furniture.",
+            "chinese": "他们用古董家具装饰他们的家。"
+          }
+        ],
+        "synonyms": ["old", "aged", "vintage", "classic"],
+        "antonyms": ["modern", "contemporary", "new"]
+      },
+      {
+        "definition": "To give an appearance of age to something.",
+        "chineseDefinition": "使某物具有陈旧的外观",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The craftsman antiqued the new cabinet to match the other furniture.",
+            "chinese": "工匠将新橱柜做旧，使其与其他家具相匹配。"
+          }
+        ],
+        "synonyms": ["age", "distress", "weather"],
+        "antonyms": ["modernize", "update", "renovate"]
+      }
+    ]
+  }
+]

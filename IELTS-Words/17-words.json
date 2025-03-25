@@ -1,0 +1,1186 @@
+[
+  {
+    "word": "attention",
+    "pronunciation": "/əˈtɛnʃ(ə)n/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "attention",
+            "plural": "attentions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The act of focusing the mind or senses on something.",
+        "chineseDefinition": "将思维或感官集中于某事物的行为。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She paid close attention to the lecture.",
+            "chinese": "她专心听讲。"
+          }
+        ],
+        "synonyms": ["focus", "concentration"],
+        "antonyms": ["distraction"]
+      }
+    ]
+  },
+  {
+    "word": "factual",
+    "pronunciation": "/ˈfæktʃuəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "factual",
+            "comparative": "more factual",
+            "superlative": "most factual"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Concerned with what is actually the case rather than interpretations.",
+        "chineseDefinition": "关注事实本身，而非解读或推测。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "His report was purely factual, containing no opinions.",
+            "chinese": "他的报告全是事实，没有任何个人观点。"
+          }
+        ],
+        "synonyms": ["actual", "real"],
+        "antonyms": ["fictional"]
+      }
+    ]
+  },
+  {
+    "word": "acclaim",
+    "pronunciation": "/əˈkleɪm/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "acclaim",
+            "plural": "acclaims"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "acclaim",
+            "thirdPersonSingular": "acclaims",
+            "presentParticiple": "acclaiming",
+            "pastTense": "acclaimed",
+            "pastParticiple": "acclaimed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Public enthusiastic approval or praise.",
+        "chineseDefinition": "公众的热烈认可或赞扬。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "His latest book received critical acclaim.",
+            "chinese": "他的最新著作获得了高度评价。"
+          }
+        ],
+        "synonyms": ["praise", "applause"],
+        "antonyms": ["criticism"]
+      },
+      {
+        "definition": "To praise someone or something publicly in a strong, enthusiastic way.",
+        "chineseDefinition": "用强烈且热情的方式公开赞扬某人或某事。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The critics acclaimed her performance as extraordinary.",
+            "chinese": "评论家称赞她的表演十分出色。"
+          }
+        ],
+        "synonyms": ["hail", "commend"],
+        "antonyms": ["condemn"]
+      }
+    ]
+  },
+  {
+    "word": "carry",
+    "pronunciation": "/ˈkæri/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "carry",
+            "thirdPersonSingular": "carries",
+            "presentParticiple": "carrying",
+            "pastTense": "carried",
+            "pastParticiple": "carried"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To support and move (someone or something) from one place to another.",
+        "chineseDefinition": "从一个地方到另一个地方搬运或运送某人或某物。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He always carries his laptop in a backpack.",
+            "chinese": "他总是把笔记本电脑放在背包里携带。"
+          }
+        ],
+        "synonyms": ["transport", "bear"],
+        "antonyms": ["drop"]
+      }
+    ]
+  },
+  {
+    "word": "devastate",
+    "pronunciation": "/ˈdɛvəˌsteɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "devastate",
+            "thirdPersonSingular": "devastates",
+            "presentParticiple": "devastating",
+            "pastTense": "devastated",
+            "pastParticiple": "devastated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To destroy or ruin something on a large scale.",
+        "chineseDefinition": "大范围地破坏或毁坏某物。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The hurricane devastated the coastal town.",
+            "chinese": "飓风摧毁了沿海城镇。"
+          }
+        ],
+        "synonyms": ["destroy", "ravage"],
+        "antonyms": ["preserve"]
+      }
+    ]
+  },
+  {
+    "word": "response",
+    "pronunciation": "/rɪˈspɒns/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "response",
+            "plural": "responses"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A verbal or written answer; a reaction to something.",
+        "chineseDefinition": "口头或书面的回答；对某事的反应。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Her response to the question was detailed.",
+            "chinese": "她对这个问题的回答非常详细。"
+          }
+        ],
+        "synonyms": ["reply", "answer"],
+        "antonyms": ["silence"]
+      }
+    ]
+  },
+  {
+    "word": "postcode",
+    "pronunciation": "/ˈpoʊs(t)ˌkoʊd/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "postcode",
+            "plural": "postcodes"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A series of letters and digits used as part of a postal address to aid in the sorting of mail.",
+        "chineseDefinition": "由字母和数字组成的代码，用于帮助邮政地址的分拣。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Make sure the postcode is correct before mailing.",
+            "chinese": "寄出前请确保邮编正确。"
+          }
+        ],
+        "synonyms": ["zip code"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "dull",
+    "pronunciation": "/dʌl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "dull",
+            "comparative": "duller",
+            "superlative": "dullest"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "dull",
+            "thirdPersonSingular": "dulls",
+            "presentParticiple": "dulling",
+            "pastTense": "dulled",
+            "pastParticiple": "dulled"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Lacking interest or excitement; boring.",
+        "chineseDefinition": "缺乏兴趣或刺激；无聊乏味。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The lecture was so dull that many students yawned.",
+            "chinese": "讲座十分乏味，许多学生都打了哈欠。"
+          }
+        ],
+        "synonyms": ["boring", "tedious"],
+        "antonyms": ["exciting"]
+      },
+      {
+        "definition": "To make or become less intense or sharp.",
+        "chineseDefinition": "使变得不那么强烈或锐利。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The pain dulled after taking the medicine.",
+            "chinese": "吃了药后疼痛减轻了。"
+          }
+        ],
+        "synonyms": ["soften", "diminish"],
+        "antonyms": ["sharpen"]
+      }
+    ]
+  },
+  {
+    "word": "basis",
+    "pronunciation": "/ˈbeɪsɪs/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "basis",
+            "plural": "bases"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The underlying support or foundation for an idea, argument, or process.",
+        "chineseDefinition": "支撑观点、论证或过程的基础。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Trust is the basis of a healthy relationship.",
+            "chinese": "信任是健康关系的基础。"
+          }
+        ],
+        "synonyms": ["foundation", "base"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "tropical",
+    "pronunciation": "/ˈtrɒpɪk(ə)l/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "tropical",
+            "comparative": "more tropical",
+            "superlative": "most tropical"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Relating to, occurring in, or characteristic of the tropics.",
+        "chineseDefinition": "与热带地区有关或具有其特征的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "They spent their holiday on a tropical island.",
+            "chinese": "他们在热带岛屿度过了假期。"
+          }
+        ],
+        "synonyms": ["equatorial", "hot"],
+        "antonyms": ["temperate"]
+      }
+    ]
+  },
+  {
+    "word": "rumour",
+    "pronunciation": "/ˈruːmər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "rumour",
+            "plural": "rumours"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "rumour",
+            "thirdPersonSingular": "rumours",
+            "presentParticiple": "rumouring",
+            "pastTense": "rumoured",
+            "pastParticiple": "rumoured"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A currently circulating story or report of uncertain or doubtful truth.",
+        "chineseDefinition": "现在流传的、真伪不确定的消息或报告。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "There is a rumour about a new policy change.",
+            "chinese": "有传言说将会有一项新的政策变动。"
+          }
+        ],
+        "synonyms": ["gossip", "talk"],
+        "antonyms": []
+      },
+      {
+        "definition": "To circulate as an unverified story or piece of information.",
+        "chineseDefinition": "以未经证实的信息或故事在流传。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They are rumoured to be moving abroad.",
+            "chinese": "据传他们要搬到国外。"
+          }
+        ],
+        "synonyms": ["speculate", "whisper"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "endeavour",
+    "pronunciation": "/ɪnˈdɛvə/ (British), /enˈdɛvər/ (American)",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "endeavour",
+            "plural": "endeavours"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "endeavour",
+            "thirdPersonSingular": "endeavours",
+            "presentParticiple": "endeavouring",
+            "pastTense": "endeavoured",
+            "pastParticiple": "endeavoured"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An attempt to achieve a goal.",
+        "chineseDefinition": "为达成目标所做的尝试。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Their endeavour to climb the mountain was successful.",
+            "chinese": "他们登山的努力获得了成功。"
+          }
+        ],
+        "synonyms": ["attempt", "effort"],
+        "antonyms": []
+      },
+      {
+        "definition": "To try hard to do or achieve something.",
+        "chineseDefinition": "尽力去做或实现某事。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "We will endeavour to finish on time.",
+            "chinese": "我们会努力按时完成。"
+          }
+        ],
+        "synonyms": ["strive", "try"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "address",
+    "pronunciation": "/əˈdrɛs/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "address",
+            "plural": "addresses"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "address",
+            "thirdPersonSingular": "addresses",
+            "presentParticiple": "addressing",
+            "pastTense": "addressed",
+            "pastParticiple": "addressed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The particulars of the place where someone lives or an organization is situated.",
+        "chineseDefinition": "某人住所或某组织所处地点的详细信息。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Please write your address clearly on the form.",
+            "chinese": "请在表格上清楚地填写你的地址。"
+          }
+        ],
+        "synonyms": ["location", "residence"],
+        "antonyms": []
+      },
+      {
+        "definition": "To speak to a person or group; to direct one's efforts or attention to something.",
+        "chineseDefinition": "向个人或群体讲话；将努力或注意力集中于某事。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "We need to address the issues quickly.",
+            "chinese": "我们需要尽快处理这些问题。"
+          }
+        ],
+        "synonyms": ["deal with", "speak to"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "payment",
+    "pronunciation": "/ˈpeɪmənt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "payment",
+            "plural": "payments"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The action or process of paying someone or something.",
+        "chineseDefinition": "向某人或某事物付款的行为或过程。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "An initial payment is required to confirm the order.",
+            "chinese": "需要先支付一笔款项以确认订单。"
+          }
+        ],
+        "synonyms": ["remittance", "settlement"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "superb",
+    "pronunciation": "/suːˈpɜːb/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "superb",
+            "comparative": "more superb",
+            "superlative": "most superb"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Of the highest quality; grand; excellent.",
+        "chineseDefinition": "品质极佳；宏伟；卓越。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The scenery from the top of the mountain is superb.",
+            "chinese": "从山顶看到的风景非常壮丽。"
+          }
+        ],
+        "synonyms": ["excellent", "magnificent"],
+        "antonyms": ["awful"]
+      }
+    ]
+  },
+  {
+    "word": "intention",
+    "pronunciation": "/ɪnˈtɛnʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "intention",
+            "plural": "intentions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A thing intended; an aim or plan.",
+        "chineseDefinition": "计划或目的。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Her intention is to start her own business.",
+            "chinese": "她打算创业。"
+          }
+        ],
+        "synonyms": ["purpose", "goal"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "demonstrate",
+    "pronunciation": "/ˈdɛmənˌstreɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "demonstrate",
+            "thirdPersonSingular": "demonstrates",
+            "presentParticiple": "demonstrating",
+            "pastTense": "demonstrated",
+            "pastParticiple": "demonstrated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To show or prove something clearly and convincingly.",
+        "chineseDefinition": "清楚并有说服力地展示或证明某事。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He demonstrated the new software features to the team.",
+            "chinese": "他向团队演示了新软件的功能。"
+          }
+        ],
+        "synonyms": ["show", "exhibit"],
+        "antonyms": ["conceal"]
+      }
+    ]
+  },
+  {
+    "word": "agenda",
+    "pronunciation": "/əˈdʒɛndə/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "agenda",
+            "plural": "agendas"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A list of items to be discussed at a formal meeting.",
+        "chineseDefinition": "在正式会议上要讨论的事项清单。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The next item on the agenda is the budget proposal.",
+            "chinese": "议程的下一个项目是预算提案。"
+          }
+        ],
+        "synonyms": ["schedule", "program"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "illuminate",
+    "pronunciation": "/ɪˈluːmɪneɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "illuminate",
+            "thirdPersonSingular": "illuminates",
+            "presentParticiple": "illuminating",
+            "pastTense": "illuminated",
+            "pastParticiple": "illuminated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To light something up or to make something clear and easier to understand.",
+        "chineseDefinition": "照亮某物，或使某事变得更清晰易懂。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Street lamps illuminate the road at night.",
+            "chinese": "路灯在夜间照亮道路。"
+          }
+        ],
+        "synonyms": ["light up", "clarify"],
+        "antonyms": ["obscure"]
+      }
+    ]
+  },
+  {
+    "word": "slim",
+    "pronunciation": "/slɪm/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "slim",
+            "comparative": "slimmer",
+            "superlative": "slimmest"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Gracefully thin; slender.",
+        "chineseDefinition": "体态优美且瘦的；苗条的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She looks slim in that black dress.",
+            "chinese": "她穿那条黑色连衣裙显得很苗条。"
+          }
+        ],
+        "synonyms": ["slender", "thin"],
+        "antonyms": ["heavy"]
+      }
+    ]
+  },
+  {
+    "word": "warrant",
+    "pronunciation": "/ˈwɒr(ə)nt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "warrant",
+            "plural": "warrants"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "warrant",
+            "thirdPersonSingular": "warrants",
+            "presentParticiple": "warranting",
+            "pastTense": "warranted",
+            "pastParticiple": "warranted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A document issued by a legal or government official authorizing an action.",
+        "chineseDefinition": "由法律或政府官员签发的授权文件。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The police had a search warrant for the house.",
+            "chinese": "警方对那所房子持有搜查令。"
+          }
+        ],
+        "synonyms": ["authorization", "license"],
+        "antonyms": []
+      },
+      {
+        "definition": "To justify or necessitate a certain course of action.",
+        "chineseDefinition": "为某项行动提供正当理由或必要性。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "This situation warrants immediate attention.",
+            "chinese": "这种情况需要立即关注。"
+          }
+        ],
+        "synonyms": ["justify", "necessitate"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "optimism",
+    "pronunciation": "/ˈɒptɪmɪzəm/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "optimism",
+            "plural": "optimisms"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Hopefulness and confidence about the future or the success of something.",
+        "chineseDefinition": "对未来或某事成功的积极和自信态度。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She expressed optimism about the company's growth.",
+            "chinese": "她对公司的发展表示乐观。"
+          }
+        ],
+        "synonyms": ["hopefulness", "positivity"],
+        "antonyms": ["pessimism"]
+      }
+    ]
+  },
+  {
+    "word": "rank",
+    "pronunciation": "/ræŋk/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "rank",
+            "plural": "ranks"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "rank",
+            "thirdPersonSingular": "ranks",
+            "presentParticiple": "ranking",
+            "pastTense": "ranked",
+            "pastParticiple": "ranked"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A position within the hierarchy of an organization or society.",
+        "chineseDefinition": "在组织或社会层级中的地位或级别。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She achieved the rank of captain in the army.",
+            "chinese": "她在军队中升到了上尉军衔。"
+          }
+        ],
+        "synonyms": ["position", "status"],
+        "antonyms": []
+      },
+      {
+        "definition": "To give (someone or something) a position within a grading system.",
+        "chineseDefinition": "在分级系统中赋予（某人或某物）一个等级或名次。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They rank her among the top researchers in the field.",
+            "chinese": "他们将她评为该领域顶尖的研究者之一。"
+          }
+        ],
+        "synonyms": ["classify", "place"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "dimension",
+    "pronunciation": "/daɪˈmɛnʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "dimension",
+            "plural": "dimensions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A measurable extent of some kind, such as length, breadth, depth, or height.",
+        "chineseDefinition": "可度量的范围，如长度、宽度、深度或高度。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Please measure the dimensions of the box.",
+            "chinese": "请测量一下箱子的尺寸。"
+          }
+        ],
+        "synonyms": ["measurement", "size"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "avail",
+    "pronunciation": "/əˈveɪl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "avail",
+            "plural": "avails"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "avail",
+            "thirdPersonSingular": "avails",
+            "presentParticiple": "availing",
+            "pastTense": "availed",
+            "pastParticiple": "availed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Use or benefit (noun form is less commonly used).",
+        "chineseDefinition": "使用或受益（名词形式较少使用）。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Our attempts were of little avail.",
+            "chinese": "我们的尝试收效甚微。"
+          }
+        ],
+        "synonyms": ["use", "benefit"],
+        "antonyms": []
+      },
+      {
+        "definition": "To use or take advantage of (an opportunity or resource).",
+        "chineseDefinition": "利用或使用（一个机会或资源）。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She availed herself of the scholarship to study abroad.",
+            "chinese": "她利用奖学金出国深造。"
+          }
+        ],
+        "synonyms": ["utilize", "use"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "dioxide",
+    "pronunciation": "/daɪˈɒksaɪd/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "dioxide",
+            "plural": "dioxides"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An oxide containing two atoms of oxygen in its molecule or empirical formula.",
+        "chineseDefinition": "含有两个氧原子的氧化物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Carbon dioxide is a greenhouse gas.",
+            "chinese": "二氧化碳是一种温室气体。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "block",
+    "pronunciation": "/blɒk/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "block",
+            "plural": "blocks"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "block",
+            "thirdPersonSingular": "blocks",
+            "presentParticiple": "blocking",
+            "pastTense": "blocked",
+            "pastParticiple": "blocked"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A solid piece of hard material, typically with flat surfaces on each side.",
+        "chineseDefinition": "通常每面都有平面的硬质立方体或大块物体。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He built a tower with wooden blocks.",
+            "chinese": "他用木块搭建了一座塔。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      },
+      {
+        "definition": "To obstruct movement, progress, or activity.",
+        "chineseDefinition": "阻断移动、进展或活动。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "A fallen tree blocked the road.",
+            "chinese": "一棵倒下的树挡住了道路。"
+          }
+        ],
+        "synonyms": ["obstruct", "impede"],
+        "antonyms": ["clear"]
+      }
+    ]
+  },
+  {
+    "word": "administrative",
+    "pronunciation": "/ədˈmɪnɪstrətɪv/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "administrative",
+            "comparative": "more administrative",
+            "superlative": "most administrative"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Relating to the running of a business, organization, or government.",
+        "chineseDefinition": "与公司、组织或政府的管理运作相关。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She handles the administrative tasks in the office.",
+            "chinese": "她负责办公室的行政事务。"
+          }
+        ],
+        "synonyms": ["managerial", "bureaucratic"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "frustrating",
+    "pronunciation": "/ˈfrʌstreɪtɪŋ/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "frustrating",
+            "comparative": "more frustrating",
+            "superlative": "most frustrating"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Causing annoyance or upset because of an inability to change or achieve something.",
+        "chineseDefinition": "由于无法改变或达成某事而引起的烦恼或沮丧。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Dealing with slow internet can be very frustrating.",
+            "chinese": "网速很慢会让人非常沮丧。"
+          }
+        ],
+        "synonyms": ["exasperating", "irritating"],
+        "antonyms": ["gratifying"]
+      }
+    ]
+  },
+  {
+    "word": "resistant",
+    "pronunciation": "/rɪˈzɪstənt/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "resistant",
+            "comparative": "more resistant",
+            "superlative": "most resistant"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Offering resistance to something or someone; not easily affected by something.",
+        "chineseDefinition": "对某物或某人具有抵抗力，不容易受到影响。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "This material is resistant to water damage.",
+            "chinese": "这种材料能防水损坏。"
+          }
+        ],
+        "synonyms": ["immune", "impervious"],
+        "antonyms": ["susceptible"]
+      }
+    ]
+  }
+]

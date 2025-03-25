@@ -1,0 +1,1088 @@
+[
+  {
+    "word": "coordinator",
+    "pronunciation": "/koʊˈɔːrdɪneɪtər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "coordinator",
+            "plural": "coordinators"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person who organizes people or groups so that they work together properly and well.",
+        "chineseDefinition": "负责组织或协调人或团队，使其协同工作的角色。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He is the coordinator of the event.",
+            "chinese": "他是这次活动的协调人。"
+          }
+        ],
+        "synonyms": ["organizer", "facilitator"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "nourish",
+    "pronunciation": "/ˈnɝɪʃ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "nourish",
+            "thirdPersonSingular": "nourishes",
+            "presentParticiple": "nourishing",
+            "pastTense": "nourished",
+            "pastParticiple": "nourished"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To provide (someone or something) with food and other things that are needed to live, be healthy, etc.",
+        "chineseDefinition": "提供必需的食物或其他物质使其健康成长。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "A balanced diet will nourish your body.",
+            "chinese": "均衡的饮食会滋养你的身体。"
+          }
+        ],
+        "synonyms": ["feed", "sustain", "foster"],
+        "antonyms": []
+      },
+      {
+        "definition": "To keep (a feeling or belief) in one's mind for a long time, allowing it to grow and develop.",
+        "chineseDefinition": "在心中长期保持（某种感觉或信念），使之成长。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She nourished the hope of becoming an artist someday.",
+            "chinese": "她一直怀揣着成为艺术家的希望。"
+          }
+        ],
+        "synonyms": ["cherish", "harbor"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "crisp",
+    "pronunciation": "/krɪsp/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "crisp",
+            "comparative": "crisper",
+            "superlative": "crispest"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Firm, dry, and brittle, especially describing food or weather conditions.",
+        "chineseDefinition": "描述食物或天气时，表示干爽而且略带脆性的状态。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "I love a crisp apple in the morning.",
+            "chinese": "我喜欢早晨吃一个脆爽的苹果。"
+          }
+        ],
+        "synonyms": ["crunchy", "brittle"],
+        "antonyms": ["soft", "soggy"]
+      }
+    ]
+  },
+  {
+    "word": "guilty",
+    "pronunciation": "/ˈɡɪlti/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "guilty",
+            "comparative": "guiltier",
+            "superlative": "guiltiest"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Responsible for a specified wrongdoing or offense.",
+        "chineseDefinition": "对某种过错或罪行负有责任。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He felt guilty about not telling the truth.",
+            "chinese": "他因为没有说实话而感到内疚。"
+          }
+        ],
+        "synonyms": ["culpable", "at fault"],
+        "antonyms": ["innocent"]
+      }
+    ]
+  },
+  {
+    "word": "crack",
+    "pronunciation": "/kræk/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "crack",
+            "thirdPersonSingular": "cracks",
+            "presentParticiple": "cracking",
+            "pastTense": "cracked",
+            "pastParticiple": "cracked"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "crack",
+            "plural": "cracks"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To break or split something apart.",
+        "chineseDefinition": "使某物断裂或破裂。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He cracked the egg into the frying pan.",
+            "chinese": "他把鸡蛋打破后倒入煎锅。"
+          }
+        ],
+        "synonyms": ["fracture", "break"],
+        "antonyms": []
+      },
+      {
+        "definition": "A line on the surface of something along which it has split without breaking apart.",
+        "chineseDefinition": "物体表面破裂但尚未分离的裂缝。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "There's a crack in the windshield.",
+            "chinese": "挡风玻璃上有一道裂缝。"
+          }
+        ],
+        "synonyms": ["fissure", "split"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "flourish",
+    "pronunciation": "/ˈflɝɪʃ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "flourish",
+            "thirdPersonSingular": "flourishes",
+            "presentParticiple": "flourishing",
+            "pastTense": "flourished",
+            "pastParticiple": "flourished"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To grow or develop successfully.",
+        "chineseDefinition": "茁壮成长或发展良好。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Small businesses can flourish in a supportive environment.",
+            "chinese": "小型企业在有利环境下可以蓬勃发展。"
+          }
+        ],
+        "synonyms": ["prosper", "thrive"],
+        "antonyms": ["wither"]
+      }
+    ]
+  },
+  {
+    "word": "reserve",
+    "pronunciation": "/rɪˈzɝv/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "reserve",
+            "thirdPersonSingular": "reserves",
+            "presentParticiple": "reserving",
+            "pastTense": "reserved",
+            "pastParticiple": "reserved"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "reserve",
+            "plural": "reserves"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To arrange to keep something for use at a later time.",
+        "chineseDefinition": "预留或保留某物以备后用。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "I want to reserve a table for tomorrow night.",
+            "chinese": "我想预订明晚的餐桌。"
+          }
+        ],
+        "synonyms": ["book"],
+        "antonyms": []
+      },
+      {
+        "definition": "A supply of a commodity not needed for immediate use but available if required.",
+        "chineseDefinition": "暂时不需要但可在需要时使用的存储或供应。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We always keep a cash reserve for emergencies.",
+            "chinese": "我们总是留有现金储备以备紧急情况。"
+          }
+        ],
+        "synonyms": ["stock", "supply"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "dimensional",
+    "pronunciation": "/daɪˈmɛnʃənəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "dimensional",
+            "comparative": "more dimensional",
+            "superlative": "most dimensional"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Relating to measurements or aspects of space.",
+        "chineseDefinition": "与空间的测量或方面相关。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "This sculpture is highly three-dimensional.",
+            "chinese": "这件雕塑具有很强的三维效果。"
+          }
+        ],
+        "synonyms": ["spatial"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "gravel",
+    "pronunciation": "/ˈɡrævəl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "gravel",
+            "plural": "gravels"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Small rounded stones often mixed with sand.",
+        "chineseDefinition": "通常与沙子混合的小碎石。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The road was covered with gravel.",
+            "chinese": "道路上铺满了碎石。"
+          }
+        ],
+        "synonyms": ["pebbles", "stone chips"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "advertisement",
+    "pronunciation": "/ədˈvɝtɪsmənt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "advertisement",
+            "plural": "advertisements"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A notice or announcement in a public medium promoting a product, service, or event.",
+        "chineseDefinition": "在公共媒介上发布的推广产品、服务或活动的通知或公告。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "I saw an advertisement for that car on TV.",
+            "chinese": "我在电视上看到了那辆车的广告。"
+          }
+        ],
+        "synonyms": ["ad", "promo"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "insulation",
+    "pronunciation": "/ˌɪnsjəˈleɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "insulation",
+            "plural": "insulations"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Material used to insulate something, especially a building.",
+        "chineseDefinition": "用于隔绝某物（尤其是建筑物）的材料。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We added extra insulation to keep the house warm.",
+            "chinese": "我们添加了额外的隔热材料来保暖。"
+          }
+        ],
+        "synonyms": ["padding", "lining"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "hesitation",
+    "pronunciation": "/ˌhɛzɪˈteɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "hesitation",
+            "plural": "hesitations"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The action of pausing or hesitating before saying or doing something.",
+        "chineseDefinition": "在说话或做事前的停顿或犹豫行为。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "There was a brief hesitation before she answered.",
+            "chinese": "她在回答前稍作犹豫。"
+          }
+        ],
+        "synonyms": ["pause", "uncertainty"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "undermine",
+    "pronunciation": "/ˌʌndərˈmaɪn/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "undermine",
+            "thirdPersonSingular": "undermines",
+            "presentParticiple": "undermining",
+            "pastTense": "undermined",
+            "pastParticiple": "undermined"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To lessen the effectiveness or power of something, often gradually or insidiously.",
+        "chineseDefinition": "逐渐或暗中削弱某事物的效力或力量。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Criticism can undermine their confidence.",
+            "chinese": "批评可能会削弱他们的信心。"
+          }
+        ],
+        "synonyms": ["weaken", "sabotage"],
+        "antonyms": ["strengthen", "bolster"]
+      }
+    ]
+  },
+  {
+    "word": "eliminate",
+    "pronunciation": "/ɪˈlɪməˌneɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "eliminate",
+            "thirdPersonSingular": "eliminates",
+            "presentParticiple": "eliminating",
+            "pastTense": "eliminated",
+            "pastParticiple": "eliminated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To remove or get rid of something.",
+        "chineseDefinition": "去除某物或摆脱之。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "We need to eliminate unnecessary expenses.",
+            "chinese": "我们需要消除不必要的开支。"
+          }
+        ],
+        "synonyms": ["remove", "eradicate"],
+        "antonyms": ["keep", "retain"]
+      }
+    ]
+  },
+  {
+    "word": "volcano",
+    "pronunciation": "/vɒlˈkeɪnoʊ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "volcano",
+            "plural": "volcanoes"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A mountain or hill with a crater or vent through which lava, rock fragments, and gas erupt.",
+        "chineseDefinition": "一种山丘或高地，中有火山口或通道会喷出岩浆、石块和气体。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Mount Fuji is a famous volcano in Japan.",
+            "chinese": "富士山是日本著名的火山。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "exclude",
+    "pronunciation": "/ɪkˈskluːd/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "exclude",
+            "thirdPersonSingular": "excludes",
+            "presentParticiple": "excluding",
+            "pastTense": "excluded",
+            "pastParticiple": "excluded"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To leave out or not include something or someone.",
+        "chineseDefinition": "将某事或某人排除或不包括在内。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They decided to exclude him from the meeting.",
+            "chinese": "他们决定不让他参加会议。"
+          }
+        ],
+        "synonyms": ["omit", "keep out"],
+        "antonyms": ["include", "admit"]
+      }
+    ]
+  },
+  {
+    "word": "laundry",
+    "pronunciation": "/ˈlɔːndri/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "laundry",
+            "plural": "laundries"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Clothes and linens that need to be washed or that have been newly washed.",
+        "chineseDefinition": "需要洗的或刚洗干净的衣物和床单。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "I have to do the laundry this afternoon.",
+            "chinese": "我今天下午得洗衣服。"
+          }
+        ],
+        "synonyms": ["washing"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "apparently",
+    "pronunciation": "/əˈpærəntli/",
+    "forms": [
+      {
+        "partOfSpeech": "adverb",
+        "form": {
+          "type": "invariable",
+          "data": "apparently"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "As far as one knows or can see; seemingly.",
+        "chineseDefinition": "据所知或所见；看起来似乎。",
+        "partOfSpeech": "adverb",
+        "examples": [
+          {
+            "english": "Apparently, he left without saying goodbye.",
+            "chinese": "看起来，他没有和任何人道别就离开了。"
+          }
+        ],
+        "synonyms": ["seemingly", "evidently"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "gelatin",
+    "pronunciation": "/ˈdʒɛlətin/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "gelatin",
+            "plural": "gelatins"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A virtually colorless and tasteless water-soluble protein prepared from collagen.",
+        "chineseDefinition": "由胶原制成的几乎无色无味、可溶于水的蛋白质。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Use gelatin to set the dessert mix.",
+            "chinese": "使用明胶来使甜点混合物凝固。"
+          }
+        ],
+        "synonyms": ["jelly", "gel"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "stimulate",
+    "pronunciation": "/ˈstɪmjəˌleɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "stimulate",
+            "thirdPersonSingular": "stimulates",
+            "presentParticiple": "stimulating",
+            "pastTense": "stimulated",
+            "pastParticiple": "stimulated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To excite to greater activity or growth.",
+        "chineseDefinition": "使某事物更活跃或更具成长性。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The government plans to stimulate the economy with new policies.",
+            "chinese": "政府计划用新政策来刺激经济发展。"
+          }
+        ],
+        "synonyms": ["encourage", "boost"],
+        "antonyms": ["stifle", "suppress"]
+      }
+    ]
+  },
+  {
+    "word": "fuel",
+    "pronunciation": "/ˈfjuːəl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "fuel",
+            "plural": "fuels"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "fuel",
+            "thirdPersonSingular": "fuels",
+            "presentParticiple": "fueling",
+            "pastTense": "fueled",
+            "pastParticiple": "fueled"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Material such as coal, gas, or oil that is burned to produce heat or power.",
+        "chineseDefinition": "如煤、气或油等可燃烧以产生热量或能量的物质。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We need to buy more fuel for the car.",
+            "chinese": "我们需要为汽车购买更多的燃料。"
+          }
+        ],
+        "synonyms": ["energy source", "propellant"],
+        "antonyms": []
+      },
+      {
+        "definition": "To supply or power with fuel.",
+        "chineseDefinition": "为某物提供燃料或动力。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They fueled the generator before the storm hit.",
+            "chinese": "暴风雨来临前他们为发电机加满了燃料。"
+          }
+        ],
+        "synonyms": ["power", "energize"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "operational",
+    "pronunciation": "/ˌɑːpəˈreɪʃənəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "operational",
+            "comparative": "more operational",
+            "superlative": "most operational"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "In or ready for use; relating to the operation of a device or system.",
+        "chineseDefinition": "处于可用或已经可以使用的状态；与设备或系统运作相关。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The new security system is now fully operational.",
+            "chinese": "新的安全系统现在已全面投入使用。"
+          }
+        ],
+        "synonyms": ["functional"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "image",
+    "pronunciation": "/ˈɪmɪdʒ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "image",
+            "plural": "images"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A visual representation of something, such as a photo or drawing.",
+        "chineseDefinition": "对某物的视觉呈现，如照片或图画。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He shared an image of the painting online.",
+            "chinese": "他在网上分享了那幅画的图像。"
+          }
+        ],
+        "synonyms": ["picture", "illustration"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "distribute",
+    "pronunciation": "/dɪˈstrɪbjuːt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "distribute",
+            "thirdPersonSingular": "distributes",
+            "presentParticiple": "distributing",
+            "pastTense": "distributed",
+            "pastParticiple": "distributed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To give out or deliver something to a number of people.",
+        "chineseDefinition": "将某物分发或交付给一群人。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The office will distribute masks to all employees.",
+            "chinese": "办公室将给所有员工发放口罩。"
+          }
+        ],
+        "synonyms": ["hand out", "allocate"],
+        "antonyms": ["collect", "gather"]
+      }
+    ]
+  },
+  {
+    "word": "notice",
+    "pronunciation": "/ˈnoʊtɪs/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "notice",
+            "thirdPersonSingular": "notices",
+            "presentParticiple": "noticing",
+            "pastTense": "noticed",
+            "pastParticiple": "noticed"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "notice",
+            "plural": "notices"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To become aware of (something or someone) by seeing, hearing, or feeling.",
+        "chineseDefinition": "通过看、听或感受而留意到某事或某人。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Did you notice any changes in her behavior?",
+            "chinese": "你注意到她的行为有什么变化吗？"
+          }
+        ],
+        "synonyms": ["observe", "detect"],
+        "antonyms": []
+      },
+      {
+        "definition": "A written or printed announcement.",
+        "chineseDefinition": "书面或印刷的通知或公告。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They put a notice on the door about the closure.",
+            "chinese": "他们在门上贴了关于停业的通知。"
+          }
+        ],
+        "synonyms": ["announcement", "warning"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "intend",
+    "pronunciation": "/ɪnˈtɛnd/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "intend",
+            "thirdPersonSingular": "intends",
+            "presentParticiple": "intending",
+            "pastTense": "intended",
+            "pastParticiple": "intended"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To have (a course of action) as one's purpose or objective; plan.",
+        "chineseDefinition": "将（某项行动）作为目的或目标；计划。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "I intend to finish my work by Friday.",
+            "chinese": "我打算在周五之前完成我的工作。"
+          }
+        ],
+        "synonyms": ["plan", "aim"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "empirical",
+    "pronunciation": "/ɛmˈpɪrɪkəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "empirical",
+            "comparative": "more empirical",
+            "superlative": "most empirical"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Based on observation or experience rather than theory or pure logic.",
+        "chineseDefinition": "基于观察或经验，而非理论或纯逻辑。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "This study provides empirical evidence for the theory.",
+            "chinese": "这项研究为该理论提供了实证证据。"
+          }
+        ],
+        "synonyms": ["observational", "experimental"],
+        "antonyms": ["theoretical", "speculative"]
+      }
+    ]
+  },
+  {
+    "word": "probation",
+    "pronunciation": "/proʊˈbeɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "probation",
+            "plural": "probations"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A period of time in which a person who has committed a crime is allowed to stay out of prison if that person behaves well.",
+        "chineseDefinition": "对于犯了罪但表现良好而被允许不入狱的一段观察期。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He was released on probation for good behavior.",
+            "chinese": "他因表现良好而被缓刑释放。"
+          }
+        ],
+        "synonyms": ["trial period", "conditional release"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "depression",
+    "pronunciation": "/dɪˈprɛʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "depression",
+            "plural": "depressions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Feelings of severe despondency and dejection; a mental health disorder.",
+        "chineseDefinition": "严重的沮丧和忧愁情绪；一种心理健康障碍。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He sought help for his clinical depression.",
+            "chinese": "他因临床抑郁而寻求帮助。"
+          }
+        ],
+        "synonyms": ["melancholy", "despair"],
+        "antonyms": ["happiness", "contentment"]
+      },
+      {
+        "definition": "A long and severe recession in an economy or market.",
+        "chineseDefinition": "经济或市场长时间且严重的衰退。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The Great Depression had a huge impact worldwide.",
+            "chinese": "大萧条对全世界都产生了巨大影响。"
+          }
+        ],
+        "synonyms": ["slump", "downturn"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "proximity",
+    "pronunciation": "/prɒkˈsɪmɪti/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "proximity",
+            "plural": "proximities"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Nearness in space, time, or relationship.",
+        "chineseDefinition": "在空间、时间或关系上的接近或靠近。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The proximity of the supermarket makes shopping convenient.",
+            "chinese": "超市的近距离使购物很方便。"
+          }
+        ],
+        "synonyms": ["closeness", "nearness"],
+        "antonyms": ["distance", "remoteness"]
+      }
+    ]
+  }
+]

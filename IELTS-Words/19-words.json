@@ -1,0 +1,1012 @@
+[
+  {
+    "word": "creep",
+    "pronunciation": "/kriːp/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "creep",
+            "plural": "creeps"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "creep",
+            "thirdPersonSingular": "creeps",
+            "presentParticiple": "creeping",
+            "pastTense": "crept",
+            "pastParticiple": "crept"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A slow movement in a particular direction.",
+        "chineseDefinition": "在特定方向上的缓慢移动。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The creep of the glacier is gradual but unstoppable.",
+            "chinese": "冰川的缓慢移动是逐渐且无法停止的。"
+          }
+        ],
+        "synonyms": ["slow movement"],
+        "antonyms": []
+      },
+      {
+        "definition": "To move slowly and carefully in order to avoid being heard or noticed.",
+        "chineseDefinition": "小心地缓慢移动，以避免被听到或注意到。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "I tried to creep downstairs without waking anyone up.",
+            "chinese": "我试图悄悄地下楼而不惊动任何人。"
+          }
+        ],
+        "synonyms": ["crawl"],
+        "antonyms": ["rush"]
+      }
+    ]
+  },
+  {
+    "word": "casual",
+    "pronunciation": "/ˈkæʒuəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "casual",
+            "comparative": "more casual",
+            "superlative": "most casual"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Relaxed and unconcerned.",
+        "chineseDefinition": "放松并且不拘谨。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He was very casual about his new job.",
+            "chinese": "他对他的新工作表现得非常随意。"
+          }
+        ],
+        "synonyms": ["informal", "relaxed"],
+        "antonyms": ["formal"]
+      }
+    ]
+  },
+  {
+    "word": "interpretation",
+    "pronunciation": "/ɪnˌtɜːrprɪˈteɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "interpretation",
+            "plural": "interpretations"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The action of explaining the meaning of something.",
+        "chineseDefinition": "对某事的含义进行解释的行为。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "His interpretation of the poem was quite different from mine.",
+            "chinese": "他对这首诗的解读与我的截然不同。"
+          }
+        ],
+        "synonyms": ["explanation", "analysis"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "trimester",
+    "pronunciation": "/traɪˈmɛstər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "trimester",
+            "plural": "trimesters"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A period of three months, especially as a division of the duration of pregnancy.",
+        "chineseDefinition": "三个月的时间段，尤其是指怀孕期的三个阶段之一。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She is in her second trimester of pregnancy.",
+            "chinese": "她正处于怀孕的第二个三个月。"
+          }
+        ],
+        "synonyms": ["term", "quarter"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "consensus",
+    "pronunciation": "/kənˈsɛnsəs/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "consensus",
+            "plural": "consensuses"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "General agreement among a group of people.",
+        "chineseDefinition": "一群人之间达成的普遍共识。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The committee reached a consensus after several hours of discussion.",
+            "chinese": "委员会在讨论了几个小时后达成了一致意见。"
+          }
+        ],
+        "synonyms": ["agreement", "harmony"],
+        "antonyms": ["disagreement"]
+      }
+    ]
+  },
+  {
+    "word": "redevelopment",
+    "pronunciation": "/ˌriːdɪˈvɛləpmənt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "redevelopment",
+            "plural": "redevelopments"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The act or process of developing something again or differently.",
+        "chineseDefinition": "对某事物再次或以不同方式进行开发的行为或过程。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Urban redevelopment projects have revived the old downtown area.",
+            "chinese": "城市改造项目重新振兴了旧市中心地区。"
+          }
+        ],
+        "synonyms": ["revitalization", "renovation"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "auditorium",
+    "pronunciation": "/ˌɔːdɪˈtɔːriəm/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "auditorium",
+            "plural": "auditoriums"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A large building or hall used for public gatherings and performances.",
+        "chineseDefinition": "用于公众集会和表演的大型建筑或大厅。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The speech will be held in the main auditorium.",
+            "chinese": "演讲将在主礼堂举行。"
+          }
+        ],
+        "synonyms": ["hall", "theater"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "condition",
+    "pronunciation": "/kənˈdɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "condition",
+            "plural": "conditions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The state of something with regard to its appearance, quality, or working order.",
+        "chineseDefinition": "某物在外观、质量或工作状态方面的状况。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The car is in excellent condition for its age.",
+            "chinese": "就车龄而言，这辆车的状况非常好。"
+          }
+        ],
+        "synonyms": ["state", "shape"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "furnish",
+    "pronunciation": "/ˈfɜːrnɪʃ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "furnish",
+            "thirdPersonSingular": "furnishes",
+            "presentParticiple": "furnishing",
+            "pastTense": "furnished",
+            "pastParticiple": "furnished"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To provide a house or room with furniture and fittings.",
+        "chineseDefinition": "为房屋或房间提供家具和装饰。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They plan to furnish their new apartment this weekend.",
+            "chinese": "他们打算这个周末为新公寓添置家具。"
+          }
+        ],
+        "synonyms": ["equip", "outfit"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "stabilise",
+    "pronunciation": "/ˈsteɪbɪlaɪz/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "stabilise",
+            "thirdPersonSingular": "stabilises",
+            "presentParticiple": "stabilising",
+            "pastTense": "stabilised",
+            "pastParticiple": "stabilised"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To make or become unlikely to change, fail, or decline.",
+        "chineseDefinition": "使...变得或变得稳定，不易改变、失败或下降。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The government introduced measures to stabilise the economy.",
+            "chinese": "政府采取措施稳定经济。"
+          }
+        ],
+        "synonyms": ["steady", "secure"],
+        "antonyms": ["destabilise"]
+      }
+    ]
+  },
+  {
+    "word": "incoming",
+    "pronunciation": "/ˈɪnˌkʌmɪŋ/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "incoming",
+            "comparative": "more incoming",
+            "superlative": "most incoming"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Arriving at or coming in.",
+        "chineseDefinition": "正到达或正在进入。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The incoming mail is sorted daily.",
+            "chinese": "每天都会对收到的邮件进行分类。"
+          }
+        ],
+        "synonyms": ["arriving", "approaching"],
+        "antonyms": ["outgoing"]
+      }
+    ]
+  },
+  {
+    "word": "alignment",
+    "pronunciation": "/əˈlaɪnmənt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "alignment",
+            "plural": "alignments"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Arrangement in a straight line or in correct relative positions.",
+        "chineseDefinition": "排成直线或在正确相对位置的状态。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Proper alignment of the wheels is critical for car safety.",
+            "chinese": "车轮的正确定位对车辆安全非常重要。"
+          }
+        ],
+        "synonyms": ["arrangement", "positioning"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "boot",
+    "pronunciation": "/buːt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "boot",
+            "plural": "boots"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "boot",
+            "thirdPersonSingular": "boots",
+            "presentParticiple": "booting",
+            "pastTense": "booted",
+            "pastParticiple": "booted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A sturdy item of footwear covering the foot and part of the leg.",
+        "chineseDefinition": "一种覆盖脚和部分腿的坚固鞋子。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He bought a new pair of hiking boots.",
+            "chinese": "他买了一双新的登山靴。"
+          }
+        ],
+        "synonyms": ["footwear"],
+        "antonyms": []
+      },
+      {
+        "definition": "To start up a computer system by loading its operating system.",
+        "chineseDefinition": "通过加载操作系统来启动计算机系统。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "It takes a minute for my old laptop to boot.",
+            "chinese": "我的旧笔记本需要一分钟才能启动。"
+          }
+        ],
+        "synonyms": ["start", "launch"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "ozone",
+    "pronunciation": "/ˈoʊzoʊn/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "ozone",
+            "plural": "ozones"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A form of oxygen with a pungent smell, formed from oxygen by electrical discharges or ultraviolet light.",
+        "chineseDefinition": "由氧在放电或紫外线照射下形成的一种带有刺鼻气味的氧的同素异形体。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The ozone layer protects the Earth from harmful UV rays.",
+            "chinese": "臭氧层保护地球免受有害紫外线的侵害。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "acid",
+    "pronunciation": "/ˈæsɪd/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "acid",
+            "plural": "acids"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A chemical substance that neutralizes alkalis, dissolves some metals, and turns litmus red.",
+        "chineseDefinition": "一种能中和碱、溶解某些金属并使石蕊变红的化学物质。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Hydrochloric acid is found in the stomach.",
+            "chinese": "胃中含有盐酸。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "booming",
+    "pronunciation": "/ˈbuːmɪŋ/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "booming",
+            "comparative": "more booming",
+            "superlative": "most booming"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Having a period of great prosperity or rapid economic growth.",
+        "chineseDefinition": "处于繁荣或快速经济增长时期。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The tech industry is booming in many countries.",
+            "chinese": "科技行业在许多国家都处于蓬勃发展阶段。"
+          }
+        ],
+        "synonyms": ["thriving", "flourishing"],
+        "antonyms": ["declining"]
+      }
+    ]
+  },
+  {
+    "word": "definite",
+    "pronunciation": "/ˈdɛfɪnɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "definite",
+            "comparative": "more definite",
+            "superlative": "most definite"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Clearly stated or decided; not vague or doubtful.",
+        "chineseDefinition": "明确陈述或决定的；不含糊或不确定的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "I need a definite answer before tomorrow.",
+            "chinese": "我需要在明天之前得到一个明确的答复。"
+          }
+        ],
+        "synonyms": ["certain", "explicit"],
+        "antonyms": ["indefinite"]
+      }
+    ]
+  },
+  {
+    "word": "deem",
+    "pronunciation": "/diːm/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "deem",
+            "thirdPersonSingular": "deems",
+            "presentParticiple": "deeming",
+            "pastTense": "deemed",
+            "pastParticiple": "deemed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To regard or consider in a specified way.",
+        "chineseDefinition": "以特定方式看待或考虑。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The event was deemed a success by all participants.",
+            "chinese": "所有参与者都认为该活动非常成功。"
+          }
+        ],
+        "synonyms": ["consider", "judge"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "narrator",
+    "pronunciation": "/ˈnæreɪtər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "narrator",
+            "plural": "narrators"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person who narrates something, especially a character who recounts the events of a novel.",
+        "chineseDefinition": "叙述某事的人，尤其是在小说中讲述事件的角色。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The narrator of the story is a young journalist.",
+            "chinese": "故事的叙述者是一名年轻的记者。"
+          }
+        ],
+        "synonyms": ["storyteller", "speaker"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "reorient",
+    "pronunciation": "/riːˈɔːriˌɛnt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "reorient",
+            "thirdPersonSingular": "reorients",
+            "presentParticiple": "reorienting",
+            "pastTense": "reoriented",
+            "pastParticiple": "reoriented"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Change the focus or direction of.",
+        "chineseDefinition": "改变焦点或方向。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "We need to reorient our approach to meet the new challenges.",
+            "chinese": "我们需要重新调整方法来应对新的挑战。"
+          }
+        ],
+        "synonyms": ["redirect", "realign"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "reckon",
+    "pronunciation": "/ˈrɛkən/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "reckon",
+            "thirdPersonSingular": "reckons",
+            "presentParticiple": "reckoning",
+            "pastTense": "reckoned",
+            "pastParticiple": "reckoned"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To consider or think about something in a particular way.",
+        "chineseDefinition": "以特定方式考虑或思考某事。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "I reckon he’ll be late as usual.",
+            "chinese": "我想他会像往常一样迟到。"
+          }
+        ],
+        "synonyms": ["think", "believe", "suppose"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "tutorial",
+    "pronunciation": "/tuːˈtɔːriəl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "tutorial",
+            "plural": "tutorials"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A period of tuition given by a university or college tutor to an individual or very small group.",
+        "chineseDefinition": "大学或学院导师对个人或小组进行辅导的时段。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "I attended a tutorial on data structures this morning.",
+            "chinese": "我今天早上参加了一个关于数据结构的辅导课。"
+          }
+        ],
+        "synonyms": ["lesson", "class"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "reference",
+    "pronunciation": "/ˈrɛfərəns/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "reference",
+            "plural": "references"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The use of a source of information in order to ascertain something.",
+        "chineseDefinition": "使用信息源来调查或确认某事。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "You can find the data in the reference section of the library.",
+            "chinese": "你可以在图书馆的参考书部分找到这些数据。"
+          }
+        ],
+        "synonyms": ["source", "citation"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "sledge",
+    "pronunciation": "/slɛdʒ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "sledge",
+            "plural": "sledges"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A vehicle on runners for conveying loads or passengers over snow or ice, often pulled by draft animals.",
+        "chineseDefinition": "一种有滑条的工具车，用于在雪或冰上运载货物或乘客，通常由驮兽拉动。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They used a dog sledge to travel across the snowy plains.",
+            "chinese": "他们用狗拉雪橇穿越了白雪覆盖的平原。"
+          }
+        ],
+        "synonyms": ["sled", "sleigh"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "exaggerate",
+    "pronunciation": "/ɪɡˈzædʒəreɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "exaggerate",
+            "thirdPersonSingular": "exaggerates",
+            "presentParticiple": "exaggerating",
+            "pastTense": "exaggerated",
+            "pastParticiple": "exaggerated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Represent something as being larger, better, or worse than it really is.",
+        "chineseDefinition": "将某事物表达得比实际更大、更好或更糟。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He always exaggerates his achievements.",
+            "chinese": "他总是夸大自己的成就。"
+          }
+        ],
+        "synonyms": ["overstate", "embellish"],
+        "antonyms": ["understate"]
+      }
+    ]
+  },
+  {
+    "word": "restriction",
+    "pronunciation": "/rɪˈstrɪkʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "restriction",
+            "plural": "restrictions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A limiting condition or measure, especially a legal one.",
+        "chineseDefinition": "一种限制性条件或措施，尤其是法律层面的。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "There is a restriction on the export of certain goods.",
+            "chinese": "某些货物的出口受到了限制。"
+          }
+        ],
+        "synonyms": ["limitation", "constraint"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "abandon",
+    "pronunciation": "/əˈbændən/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "abandon",
+            "thirdPersonSingular": "abandons",
+            "presentParticiple": "abandoning",
+            "pastTense": "abandoned",
+            "pastParticiple": "abandoned"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To give up completely or leave behind.",
+        "chineseDefinition": "彻底放弃或遗弃。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They had to abandon the car when it broke down.",
+            "chinese": "当汽车发生故障后，他们只能把车弃掉。"
+          }
+        ],
+        "synonyms": ["forsake", "quit"],
+        "antonyms": ["keep", "continue"]
+      }
+    ]
+  },
+  {
+    "word": "priority",
+    "pronunciation": "/praɪˈɔːrɪti/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "priority",
+            "plural": "priorities"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A thing that is regarded as more important than another.",
+        "chineseDefinition": "被视为比其他事更重要的事。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Safety is our main priority.",
+            "chinese": "安全是我们的首要任务。"
+          }
+        ],
+        "synonyms": ["precedence", "importance"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "terrify",
+    "pronunciation": "/ˈtɛrɪfaɪ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "terrify",
+            "thirdPersonSingular": "terrifies",
+            "presentParticiple": "terrifying",
+            "pastTense": "terrified",
+            "pastParticiple": "terrified"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Cause to feel extreme fear.",
+        "chineseDefinition": "使…感到极度恐惧。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The movie managed to terrify the audience.",
+            "chinese": "这部电影成功地让观众感到恐惧。"
+          }
+        ],
+        "synonyms": ["frighten", "alarm"],
+        "antonyms": ["reassure", "comfort"]
+      }
+    ]
+  },
+  {
+    "word": "habitat",
+    "pronunciation": "/ˈhæbɪtæt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "habitat",
+            "plural": "habitats"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The natural home or environment of an animal, plant, or other organism.",
+        "chineseDefinition": "动物、植物或其他生物的自然栖息地或环境。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Polar bears live in the Arctic habitat.",
+            "chinese": "北极熊生活在北极的自然栖息地。"
+          }
+        ],
+        "synonyms": ["environment", "home"],
+        "antonyms": []
+      }
+    ]
+  }
+]

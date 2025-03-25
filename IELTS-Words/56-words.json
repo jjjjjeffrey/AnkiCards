@@ -1,0 +1,1451 @@
+[
+  {
+    "word": "inclination",
+    "pronunciation": "/ˌɪnklɪˈneɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "inclination",
+            "plural": "inclinations"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A feeling that makes someone want to do something.",
+        "chineseDefinition": "使某人想做某事的感觉或倾向。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She had no inclination to pursue a career in medicine.",
+            "chinese": "她没有从事医学职业的意愿。"
+          }
+        ],
+        "synonyms": ["tendency", "disposition", "propensity", "predisposition"],
+        "antonyms": ["aversion", "reluctance", "disinclination"]
+      },
+      {
+        "definition": "A slope or slant of something.",
+        "chineseDefinition": "某物的斜坡或倾斜度。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The road has a steep inclination at this point.",
+            "chinese": "这条路在这个地方有一个陡峭的斜坡。"
+          }
+        ],
+        "synonyms": ["slope", "gradient", "slant", "angle"],
+        "antonyms": ["flatness", "levelness"]
+      }
+    ]
+  },
+  {
+    "word": "pressure",
+    "pronunciation": "/ˈprɛʃər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "pressure",
+            "plural": "pressures"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "pressure",
+            "thirdPersonSingular": "pressures",
+            "presentParticiple": "pressuring",
+            "pastTense": "pressured",
+            "pastParticiple": "pressured"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The continuous physical force exerted on or against an object by something in contact with it.",
+        "chineseDefinition": "由接触物体施加在物体上的持续物理力。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The pressure of the water damaged the dam.",
+            "chinese": "水的压力损坏了大坝。"
+          }
+        ],
+        "synonyms": ["force", "weight", "stress", "load"],
+        "antonyms": ["vacuum", "decompression"]
+      },
+      {
+        "definition": "The use of persuasion, influence, or intimidation to make someone do something.",
+        "chineseDefinition": "使用说服、影响或恐吓来使某人做某事。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He felt under pressure to accept the offer.",
+            "chinese": "他感到有压力必须接受这个提议。"
+          }
+        ],
+        "synonyms": ["coercion", "duress", "strain", "stress"],
+        "antonyms": ["freedom", "liberty"]
+      },
+      {
+        "definition": "To attempt to persuade or coerce someone into doing something.",
+        "chineseDefinition": "试图说服或强迫某人做某事。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "His parents pressured him to become a doctor.",
+            "chinese": "他的父母给他施压要他成为一名医生。"
+          }
+        ],
+        "synonyms": ["force", "coerce", "push", "compel"],
+        "antonyms": ["dissuade", "discourage"]
+      }
+    ]
+  },
+  {
+    "word": "conviction",
+    "pronunciation": "/kənˈvɪkʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "conviction",
+            "plural": "convictions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A firmly held belief or opinion.",
+        "chineseDefinition": "坚定持有的信念或观点。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She spoke with conviction about the need for change.",
+            "chinese": "她坚定地谈论了变革的必要性。"
+          }
+        ],
+        "synonyms": ["belief", "certainty", "confidence", "faith"],
+        "antonyms": ["doubt", "uncertainty", "hesitation"]
+      },
+      {
+        "definition": "A formal declaration that someone is guilty of a criminal offense.",
+        "chineseDefinition": "正式宣告某人犯有刑事罪行。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He has several prior convictions for theft.",
+            "chinese": "他有数次盗窃罪的前科。"
+          }
+        ],
+        "synonyms": ["guilty verdict", "judgment", "sentencing"],
+        "antonyms": ["acquittal", "exoneration"]
+      }
+    ]
+  },
+  {
+    "word": "tranquility",
+    "pronunciation": "/træŋˈkwɪləti/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "tranquility",
+            "plural": "tranquilities"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The quality or state of being calm, peaceful, and untroubled.",
+        "chineseDefinition": "平静、安宁和无忧无虑的品质或状态。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The tranquility of the lake at dawn was breathtaking.",
+            "chinese": "黎明时分湖面的宁静令人叹为观止。"
+          }
+        ],
+        "synonyms": ["calmness", "serenity", "peace", "quietness"],
+        "antonyms": ["agitation", "turbulence", "commotion", "disturbance"]
+      }
+    ]
+  },
+  {
+    "word": "facilitate",
+    "pronunciation": "/fəˈsɪlɪteɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "facilitate",
+            "thirdPersonSingular": "facilitates",
+            "presentParticiple": "facilitating",
+            "pastTense": "facilitated",
+            "pastParticiple": "facilitated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To make an action or process easier or more possible.",
+        "chineseDefinition": "使行动或过程更容易或更可能实现。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The new software will facilitate data sharing between departments.",
+            "chinese": "这款新软件将促进各部门之间的数据共享。"
+          }
+        ],
+        "synonyms": ["assist", "aid", "help", "enable", "simplify"],
+        "antonyms": ["hinder", "impede", "obstruct", "complicate"]
+      }
+    ]
+  },
+  {
+    "word": "grand",
+    "pronunciation": "/ɡrænd/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "grand",
+            "comparative": "grander",
+            "superlative": "grandest"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "grand",
+            "plural": "grands"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Impressive and imposing in appearance, size, or style.",
+        "chineseDefinition": "在外观、大小或风格上令人印象深刻且气势宏伟的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "They lived in a grand house on the hill.",
+            "chinese": "他们住在山上的一座宏伟的房子里。"
+          }
+        ],
+        "synonyms": ["magnificent", "splendid", "majestic", "impressive"],
+        "antonyms": ["modest", "humble", "simple", "plain"]
+      },
+      {
+        "definition": "Important and large in scope.",
+        "chineseDefinition": "范围重要且广泛的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She had grand plans for the company's future.",
+            "chinese": "她对公司的未来有宏伟的计划。"
+          }
+        ],
+        "synonyms": ["ambitious", "large-scale", "far-reaching", "elaborate"],
+        "antonyms": ["minor", "insignificant", "limited"]
+      },
+      {
+        "definition": "Informal term for a thousand dollars or pounds.",
+        "chineseDefinition": "非正式用语，指一千美元或英镑。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The car cost him twenty grand.",
+            "chinese": "这辆车花了他两万块。"
+          }
+        ],
+        "synonyms": ["thousand", "G", "K"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "acumen",
+    "pronunciation": "/əˈkjuːmən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "invariable",
+          "data": "acumen"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The ability to make good judgments and quick decisions, typically in a particular domain.",
+        "chineseDefinition": "做出良好判断和快速决策的能力，通常在特定领域。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Her business acumen has helped the company thrive.",
+            "chinese": "她的商业敏锐度帮助公司蓬勃发展。"
+          }
+        ],
+        "synonyms": ["shrewdness", "astuteness", "sharpness", "intelligence"],
+        "antonyms": ["stupidity", "foolishness", "ineptitude"]
+      }
+    ]
+  },
+  {
+    "word": "dissertation",
+    "pronunciation": "/ˌdɪsərˈteɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "dissertation",
+            "plural": "dissertations"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A long essay on a particular subject, especially one written for a university degree or diploma.",
+        "chineseDefinition": "关于特定主题的长篇论文，尤指为获得大学学位或文凭而撰写的论文。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She's currently working on her doctoral dissertation.",
+            "chinese": "她目前正在撰写她的博士论文。"
+          }
+        ],
+        "synonyms": ["thesis", "paper", "treatise", "monograph"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "heap",
+    "pronunciation": "/hiːp/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "heap",
+            "plural": "heaps"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "heap",
+            "thirdPersonSingular": "heaps",
+            "presentParticiple": "heaping",
+            "pastTense": "heaped",
+            "pastParticiple": "heaped"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A disorderly pile or collection of objects.",
+        "chineseDefinition": "物体的杂乱堆积或集合。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "There was a heap of clothes on the floor.",
+            "chinese": "地板上有一堆衣服。"
+          }
+        ],
+        "synonyms": ["pile", "stack", "mound", "mass"],
+        "antonyms": []
+      },
+      {
+        "definition": "A large amount or number of something.",
+        "chineseDefinition": "大量或大数量的某物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We've got heaps of time before the train leaves.",
+            "chinese": "在火车离开前我们还有大把时间。"
+          }
+        ],
+        "synonyms": ["lot", "plenty", "abundance", "multitude"],
+        "antonyms": ["scarcity", "shortage"]
+      },
+      {
+        "definition": "To pile or stack in a disorderly manner.",
+        "chineseDefinition": "以杂乱的方式堆积或叠放。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He heaped the books on the table.",
+            "chinese": "他把书堆在桌子上。"
+          }
+        ],
+        "synonyms": ["pile up", "stack", "amass", "accumulate"],
+        "antonyms": ["scatter", "disperse"]
+      }
+    ]
+  },
+  {
+    "word": "blame",
+    "pronunciation": "/bleɪm/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "blame",
+            "thirdPersonSingular": "blames",
+            "presentParticiple": "blaming",
+            "pastTense": "blamed",
+            "pastParticiple": "blamed"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "invariable",
+          "data": "blame"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To consider someone responsible for a fault or wrong.",
+        "chineseDefinition": "认为某人对过错或错误负有责任。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Don't blame me for the traffic jam.",
+            "chinese": "别把交通堵塞归咎于我。"
+          }
+        ],
+        "synonyms": ["hold responsible", "accuse", "condemn", "criticize"],
+        "antonyms": ["absolve", "exonerate", "pardon", "forgive"]
+      },
+      {
+        "definition": "Responsibility for a fault or wrong.",
+        "chineseDefinition": "对过错或错误的责任。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The blame for the accident lies with the driver.",
+            "chinese": "这起事故的责任在于驾驶员。"
+          }
+        ],
+        "synonyms": ["responsibility", "fault", "culpability", "guilt"],
+        "antonyms": ["credit", "praise", "commendation"]
+      }
+    ]
+  },
+  {
+    "word": "frame",
+    "pronunciation": "/freɪm/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "frame",
+            "plural": "frames"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "frame",
+            "thirdPersonSingular": "frames",
+            "presentParticiple": "framing",
+            "pastTense": "framed",
+            "pastParticiple": "framed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A rigid structure that surrounds something such as a picture, door, or window.",
+        "chineseDefinition": "围绕图片、门或窗户等物体的刚性结构。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The painting looks better in a wooden frame.",
+            "chinese": "这幅画在木框里看起来更好。"
+          }
+        ],
+        "synonyms": ["border", "casing", "mount", "setting"],
+        "antonyms": []
+      },
+      {
+        "definition": "The basic structure of something, especially a building or vehicle.",
+        "chineseDefinition": "某物的基本结构，尤指建筑物或车辆。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The steel frame of the building was already in place.",
+            "chinese": "建筑物的钢架结构已经就位。"
+          }
+        ],
+        "synonyms": ["skeleton", "structure", "framework", "chassis"],
+        "antonyms": []
+      },
+      {
+        "definition": "To put a border around something.",
+        "chineseDefinition": "给某物加上边框。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She had the certificate framed and hung it on the wall.",
+            "chinese": "她把证书装裱起来挂在墙上。"
+          }
+        ],
+        "synonyms": ["border", "enclose", "surround", "encase"],
+        "antonyms": []
+      },
+      {
+        "definition": "To formulate or express in a particular way.",
+        "chineseDefinition": "以特定方式制定或表达。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "How you frame the question will determine the kind of answers you get.",
+            "chinese": "你如何构建问题将决定你得到的答案类型。"
+          }
+        ],
+        "synonyms": ["phrase", "word", "express", "formulate"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "installment",
+    "pronunciation": "/ɪnˈstɔːlmənt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "installment",
+            "plural": "installments"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A sum of money due as one of several equal payments for something, spread over an agreed period of time.",
+        "chineseDefinition": "分期付款中的一笔款项，是在约定时间内分摊的几笔等额付款之一。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She pays for her car in monthly installments.",
+            "chinese": "她按月分期付款购买她的汽车。"
+          }
+        ],
+        "synonyms": ["payment", "contribution", "deposit", "portion"],
+        "antonyms": ["lump sum"]
+      },
+      {
+        "definition": "One part of a story or account that is published or broadcast in separate parts at regular intervals.",
+        "chineseDefinition": "故事或叙述的一部分，以定期间隔分开发布或广播。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The final installment of the trilogy will be released next year.",
+            "chinese": "这部三部曲的最后一部将于明年发布。"
+          }
+        ],
+        "synonyms": ["episode", "part", "chapter", "section"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "symbolism",
+    "pronunciation": "/ˈsɪmbəlɪzəm/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "invariable",
+          "data": "symbolism"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The use of symbols to represent ideas or qualities.",
+        "chineseDefinition": "使用符号来表示思想或品质。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The dove is a symbol of peace, and this symbolism is recognized across many cultures.",
+            "chinese": "鸽子是和平的象征，这种象征意义在许多文化中都被认可。"
+          }
+        ],
+        "synonyms": ["representation", "imagery", "metaphor", "allegory"],
+        "antonyms": ["literalism", "realism"]
+      },
+      {
+        "definition": "An artistic and poetic movement or style using symbolic images and indirect suggestion to express mystical ideas, emotions, and states of mind.",
+        "chineseDefinition": "一种艺术和诗歌运动或风格，使用象征性图像和间接暗示来表达神秘的思想、情感和心态。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The poem is rich in symbolism, with the forest representing the unknown.",
+            "chinese": "这首诗富含象征主义，其中森林代表未知。"
+          }
+        ],
+        "synonyms": ["symbolic art", "figurative art"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "ascribe",
+    "pronunciation": "/əˈskraɪb/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "ascribe",
+            "thirdPersonSingular": "ascribes",
+            "presentParticiple": "ascribing",
+            "pastTense": "ascribed",
+            "pastParticiple": "ascribed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To attribute something to a cause or source.",
+        "chineseDefinition": "将某事物归因于某个原因或来源。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He ascribed his success to hard work and determination.",
+            "chinese": "他把自己的成功归功于努力工作和决心。"
+          }
+        ],
+        "synonyms": ["attribute", "assign", "credit", "impute"],
+        "antonyms": ["deny", "disclaim", "disavow"]
+      },
+      {
+        "definition": "To regard a work or remark as belonging to or originating from someone.",
+        "chineseDefinition": "将作品或言论视为属于或源于某人。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The painting was ascribed to Rembrandt, but experts now doubt its authenticity.",
+            "chinese": "这幅画被认为是伦勃朗的作品，但专家们现在怀疑其真实性。"
+          }
+        ],
+        "synonyms": ["credit", "attribute", "assign", "accredit"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "abstract",
+    "pronunciation": "/ˈæbstrækt/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "abstract",
+            "comparative": "more abstract",
+            "superlative": "most abstract"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "abstract",
+            "plural": "abstracts"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "abstract",
+            "thirdPersonSingular": "abstracts",
+            "presentParticiple": "abstracting",
+            "pastTense": "abstracted",
+            "pastParticiple": "abstracted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Existing in thought or as an idea but not having a physical or concrete existence.",
+        "chineseDefinition": "存在于思想或作为一种想法，但没有物理或具体的存在。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Abstract concepts like love and justice are difficult to define precisely.",
+            "chinese": "爱和正义等抽象概念很难精确定义。"
+          }
+        ],
+        "synonyms": ["theoretical", "conceptual", "notional", "intangible"],
+        "antonyms": ["concrete", "specific", "tangible", "physical"]
+      },
+      {
+        "definition": "Relating to or denoting art that does not attempt to represent external reality, but seeks to achieve its effect using shapes, forms, colors, and textures.",
+        "chineseDefinition": "与不试图表现外部现实，而是寻求使用形状、形式、颜色和纹理来达到效果的艺术有关或表示。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She prefers abstract art to realistic paintings.",
+            "chinese": "她更喜欢抽象艺术而非写实画作。"
+          }
+        ],
+        "synonyms": ["non-representational", "non-figurative", "non-objective"],
+        "antonyms": ["representational", "figurative", "realistic"]
+      },
+      {
+        "definition": "A summary of the contents of a book, article, or speech.",
+        "chineseDefinition": "书籍、文章或演讲内容的摘要。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The journal requires an abstract of no more than 200 words.",
+            "chinese": "该期刊要求摘要不超过200字。"
+          }
+        ],
+        "synonyms": ["summary", "synopsis", "précis", "outline"],
+        "antonyms": []
+      },
+      {
+        "definition": "To consider something theoretically or separately from concrete realities, specific objects, or actual instances.",
+        "chineseDefinition": "从理论上或与具体现实、特定对象或实际实例分开考虑某事物。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "It's difficult to abstract the principles of the theory from the experimental results.",
+            "chinese": "从实验结果中抽象出理论原则是很困难的。"
+          }
+        ],
+        "synonyms": ["extract", "remove", "separate", "isolate"],
+        "antonyms": ["combine", "integrate"]
+      }
+    ]
+  },
+  {
+    "word": "disruption",
+    "pronunciation": "/dɪsˈrʌpʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "disruption",
+            "plural": "disruptions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Disturbance or problems which interrupt an event, activity, or process.",
+        "chineseDefinition": "干扰或中断事件、活动或过程的问题。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The strike caused major disruption to train services.",
+            "chinese": "这次罢工对火车服务造成了重大中断。"
+          }
+        ],
+        "synonyms": ["disturbance", "interruption", "obstruction", "interference"],
+        "antonyms": ["continuity", "stability", "order"]
+      },
+      {
+        "definition": "Radical change to an existing industry or market due to technological innovation.",
+        "chineseDefinition": "由于技术创新对现有行业或市场的根本性改变。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The internet has caused significant disruption in the publishing industry.",
+            "chinese": "互联网对出版行业造成了重大颠覆。"
+          }
+        ],
+        "synonyms": ["transformation", "revolution", "upheaval", "shake-up"],
+        "antonyms": ["stagnation", "constancy"]
+      }
+    ]
+  },
+  {
+    "word": "self-esteem",
+    "pronunciation": "/ˌsɛlf əˈstiːm/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "invariable",
+          "data": "self-esteem"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Confidence in one's own worth or abilities; self-respect.",
+        "chineseDefinition": "对自己的价值或能力的信心；自尊。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The program aims to build self-esteem in teenagers.",
+            "chinese": "该计划旨在培养青少年的自尊心。"
+          }
+        ],
+        "synonyms": ["self-respect", "self-regard", "self-confidence", "self-worth"],
+        "antonyms": ["self-doubt", "insecurity", "self-hatred"]
+      }
+    ]
+  },
+  {
+    "word": "literate",
+    "pronunciation": "/ˈlɪtərət/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "literate",
+            "comparative": "more literate",
+            "superlative": "most literate"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "literate",
+            "plural": "literates"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Able to read and write.",
+        "chineseDefinition": "能够读写的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The campaign aims to make all adults literate by 2030.",
+            "chinese": "该活动旨在到2030年使所有成年人都具备读写能力。"
+          }
+        ],
+        "synonyms": ["educated", "learned", "scholarly", "well-read"],
+        "antonyms": ["illiterate", "unlettered", "uneducated"]
+      },
+      {
+        "definition": "Knowledgeable or educated in a particular field or fields.",
+        "chineseDefinition": "在特定领域或多个领域有知识或受过教育的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She is computer literate and can use most office software.",
+            "chinese": "她懂电脑，能使用大多数办公软件。"
+          }
+        ],
+        "synonyms": ["knowledgeable", "educated", "well-informed", "well-versed"],
+        "antonyms": ["ignorant", "uninformed", "uneducated"]
+      },
+      {
+        "definition": "A person who can read and write.",
+        "chineseDefinition": "能够读写的人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The percentage of literates in the country has increased significantly.",
+            "chinese": "该国有读写能力的人口比例显著增加。"
+          }
+        ],
+        "synonyms": ["educated person", "scholar", "intellectual"],
+        "antonyms": ["illiterate"]
+      }
+    ]
+  },
+  {
+    "word": "extinction",
+    "pronunciation": "/ɪkˈstɪŋkʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "extinction",
+            "plural": "extinctions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The process of a species, family, or larger group being or becoming extinct.",
+        "chineseDefinition": "物种、科属或更大群体灭绝或正在灭绝的过程。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Human activities are causing the extinction of many species.",
+            "chinese": "人类活动正导致许多物种灭绝。"
+          }
+        ],
+        "synonyms": ["dying out", "disappearance", "vanishing", "elimination"],
+        "antonyms": ["survival", "preservation", "conservation"]
+      },
+      {
+        "definition": "The reduction or loss of a conditioned response as a result of the absence or withdrawal of reinforcement.",
+        "chineseDefinition": "由于强化的缺失或撤回而导致条件反应的减少或丧失。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The psychologist studied extinction in classical conditioning experiments.",
+            "chinese": "这位心理学家研究了经典条件反射实验中的消退现象。"
+          }
+        ],
+        "synonyms": ["elimination", "cessation", "termination"],
+        "antonyms": ["reinforcement", "conditioning"]
+      }
+    ]
+  },
+  {
+    "word": "endanger",
+    "pronunciation": "/ɪnˈdeɪndʒər/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "endanger",
+            "thirdPersonSingular": "endangers",
+            "presentParticiple": "endangering",
+            "pastTense": "endangered",
+            "pastParticiple": "endangered"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To put someone or something at risk or in danger.",
+        "chineseDefinition": "使某人或某物处于风险或危险之中。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Texting while driving endangers both the driver and other road users.",
+            "chinese": "开车时发短信会危及驾驶员和其他道路使用者。"
+          }
+        ],
+        "synonyms": ["threaten", "jeopardize", "imperil", "risk"],
+        "antonyms": ["protect", "safeguard", "secure", "shield"]
+      },
+      {
+        "definition": "To cause a species to be at risk of extinction.",
+        "chineseDefinition": "使物种面临灭绝的风险。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Habitat loss has endangered many native species.",
+            "chinese": "栖息地丧失使许多本土物种濒临灭绝。"
+          }
+        ],
+        "synonyms": ["threaten", "imperil", "jeopardize"],
+        "antonyms": ["conserve", "preserve", "protect"]
+      }
+    ]
+  },
+  {
+    "word": "perception",
+    "pronunciation": "/pərˈsɛpʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "perception",
+            "plural": "perceptions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The ability to see, hear, or become aware of something through the senses.",
+        "chineseDefinition": "通过感官看到、听到或意识到某事物的能力。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The drug affected his perception of time and space.",
+            "chinese": "这种药物影响了他对时间和空间的感知。"
+          }
+        ],
+        "synonyms": ["awareness", "sense", "recognition", "discernment"],
+        "antonyms": ["unawareness", "ignorance", "insensibility"]
+      },
+      {
+        "definition": "The way in which something is regarded, understood, or interpreted.",
+        "chineseDefinition": "某事物被看待、理解或解释的方式。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The public's perception of the company has improved since the new CEO took over.",
+            "chinese": "自从新CEO接任以来，公众对该公司的看法有所改善。"
+          }
+        ],
+        "synonyms": ["impression", "idea", "notion", "interpretation"],
+        "antonyms": ["misunderstanding", "misconception"]
+      }
+    ]
+  },
+  {
+    "word": "prediction",
+    "pronunciation": "/prɪˈdɪkʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "prediction",
+            "plural": "predictions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A statement about what will happen or might happen in the future.",
+        "chineseDefinition": "关于未来将会或可能发生的事情的陈述。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The weather prediction for tomorrow is rain.",
+            "chinese": "明天的天气预报是下雨。"
+          }
+        ],
+        "synonyms": ["forecast", "prognosis", "projection", "prophecy"],
+        "antonyms": ["hindsight", "retrospection"]
+      },
+      {
+        "definition": "The action of predicting something.",
+        "chineseDefinition": "预测某事物的行为。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Economic prediction is notoriously difficult.",
+            "chinese": "经济预测是出了名的困难。"
+          }
+        ],
+        "synonyms": ["forecasting", "prognostication", "divination"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "foster",
+    "pronunciation": "/ˈfɒstər/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "foster",
+            "thirdPersonSingular": "fosters",
+            "presentParticiple": "fostering",
+            "pastTense": "fostered",
+            "pastParticiple": "fostered"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "foster"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To encourage or promote the development of something.",
+        "chineseDefinition": "鼓励或促进某事物的发展。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The school aims to foster a love of learning in its students.",
+            "chinese": "学校旨在培养学生对学习的热爱。"
+          }
+        ],
+        "synonyms": ["encourage", "promote", "cultivate", "nurture"],
+        "antonyms": ["discourage", "hinder", "suppress", "stifle"]
+      },
+      {
+        "definition": "To bring up a child that is not one's own by birth.",
+        "chineseDefinition": "抚养非亲生的孩子。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They decided to foster three children from the local orphanage.",
+            "chinese": "他们决定收养当地孤儿院的三个孩子。"
+          }
+        ],
+        "synonyms": ["bring up", "raise", "rear", "care for"],
+        "antonyms": ["neglect", "abandon"]
+      },
+      {
+        "definition": "Relating to, or characteristic of, a foster parent or foster child.",
+        "chineseDefinition": "与寄养父母或寄养儿童有关的，或具有其特征的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She grew up in a foster home after her parents died.",
+            "chinese": "在父母去世后，她在寄养家庭长大。"
+          }
+        ],
+        "synonyms": ["surrogate", "substitute", "adoptive"],
+        "antonyms": ["biological", "natural", "birth"]
+      }
+    ]
+  },
+  {
+    "word": "ancestral",
+    "pronunciation": "/ænˈsɛstrəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "ancestral"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Of, relating to, or inherited from an ancestor or ancestors.",
+        "chineseDefinition": "与祖先有关的，或从祖先继承的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "They returned to their ancestral homeland after generations abroad.",
+            "chinese": "在海外生活了几代人后，他们回到了祖先的家园。"
+          }
+        ],
+        "synonyms": ["hereditary", "inherited", "familial", "traditional"],
+        "antonyms": ["modern", "contemporary", "recent"]
+      },
+      {
+        "definition": "Primitive or ancient, especially relating to early evolutionary forms.",
+        "chineseDefinition": "原始的或古老的，尤其是与早期进化形式有关的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "This species shows many ancestral traits that have been lost in related modern species.",
+            "chinese": "这个物种显示了许多在相关现代物种中已经丧失的祖先特征。"
+          }
+        ],
+        "synonyms": ["primitive", "ancient", "primordial", "primeval"],
+        "antonyms": ["evolved", "advanced", "derived"]
+      }
+    ]
+  },
+  {
+    "word": "rekindle",
+    "pronunciation": "/riːˈkɪndl/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "rekindle",
+            "thirdPersonSingular": "rekindles",
+            "presentParticiple": "rekindling",
+            "pastTense": "rekindled",
+            "pastParticiple": "rekindled"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To revive or renew something that has been forgotten or lost.",
+        "chineseDefinition": "重新唤起或恢复已被遗忘或失去的事物。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The reunion helped to rekindle their friendship after many years apart.",
+            "chinese": "这次重聚帮助他们在分别多年后重新点燃了友谊。"
+          }
+        ],
+        "synonyms": ["revive", "renew", "resurrect", "restore"],
+        "antonyms": ["extinguish", "smother", "quench", "douse"]
+      },
+      {
+        "definition": "To light or set fire to something again.",
+        "chineseDefinition": "再次点燃或使某物着火。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He rekindled the campfire that had almost gone out.",
+            "chinese": "他重新点燃了几乎熄灭的营火。"
+          }
+        ],
+        "synonyms": ["reignite", "restart", "relight", "revive"],
+        "antonyms": ["extinguish", "put out", "douse"]
+      }
+    ]
+  },
+  {
+    "word": "revival",
+    "pronunciation": "/rɪˈvaɪvəl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "revival",
+            "plural": "revivals"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An improvement in the condition or strength of something.",
+        "chineseDefinition": "某事物状况或强度的改善。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The economy showed signs of revival after the recession.",
+            "chinese": "经济衰退后，经济出现了复苏的迹象。"
+          }
+        ],
+        "synonyms": ["recovery", "renewal", "resurgence", "comeback"],
+        "antonyms": ["decline", "downturn", "deterioration"]
+      },
+      {
+        "definition": "A renewed interest in or attention to something, especially in the arts.",
+        "chineseDefinition": "对某事物重新产生兴趣或关注，尤其是在艺术领域。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "There has been a revival of interest in traditional crafts.",
+            "chinese": "人们对传统工艺重新产生了兴趣。"
+          }
+        ],
+        "synonyms": ["renaissance", "reawakening", "rebirth", "resurgence"],
+        "antonyms": ["decline", "fall", "disappearance"]
+      },
+      {
+        "definition": "A new production of an old play or similar work.",
+        "chineseDefinition": "对旧剧目或类似作品的重新制作。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The revival of the classic musical was a huge success.",
+            "chinese": "这部经典音乐剧的重演取得了巨大成功。"
+          }
+        ],
+        "synonyms": ["reproduction", "restaging", "remounting"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "inevitable",
+    "pronunciation": "/ɪnˈɛvɪtəbl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "inevitable"
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "inevitable",
+            "plural": "inevitables"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Certain to happen; unavoidable.",
+        "chineseDefinition": "必然发生的；不可避免的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "War seemed inevitable as tensions between the countries increased.",
+            "chinese": "随着国家间紧张局势的加剧，战争似乎不可避免。"
+          }
+        ],
+        "synonyms": ["unavoidable", "inescapable", "inexorable", "certain"],
+        "antonyms": ["avoidable", "preventable", "optional", "uncertain"]
+      },
+      {
+        "definition": "Something that is unavoidable.",
+        "chineseDefinition": "不可避免的事物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Death and taxes are the two inevitables in life.",
+            "chinese": "死亡和税收是生活中的两个必然。"
+          }
+        ],
+        "synonyms": ["certainty", "necessity", "foregone conclusion"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "disenchantment",
+    "pronunciation": "/ˌdɪsɪnˈtʃæntmənt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "invariable",
+          "data": "disenchantment"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A feeling of disappointment about someone or something you previously respected or admired; disillusionment.",
+        "chineseDefinition": "对先前尊重或钦佩的人或事物感到失望；幻灭感。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Her disenchantment with politics grew after the corruption scandal.",
+            "chinese": "腐败丑闻后，她对政治的幻灭感越来越强。"
+          }
+        ],
+        "synonyms": ["disillusionment", "disappointment", "dissatisfaction", "discontent"],
+        "antonyms": ["enchantment", "illusion", "satisfaction", "contentment"]
+      }
+    ]
+  },
+  {
+    "word": "acupuncture",
+    "pronunciation": "/ˈækjʊˌpʌŋktʃər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "invariable",
+          "data": "acupuncture"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A system of complementary medicine that involves pricking the skin or tissues with needles, used to alleviate pain and to treat various physical, mental, and emotional conditions.",
+        "chineseDefinition": "一种补充医学系统，涉及用针刺皮肤或组织，用于缓解疼痛和治疗各种身体、精神和情绪状况。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She tried acupuncture to help with her chronic back pain.",
+            "chinese": "她尝试针灸来缓解慢性背痛。"
+          }
+        ],
+        "synonyms": ["needling", "dry needling", "Chinese medicine"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "loath",
+    "pronunciation": "/loʊθ/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "loath"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Reluctant or unwilling to do something.",
+        "chineseDefinition": "不情愿或不愿意做某事。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "I am loath to admit that I made a mistake.",
+            "chinese": "我不愿承认我犯了错误。"
+          }
+        ],
+        "synonyms": ["reluctant", "unwilling", "disinclined", "averse"],
+        "antonyms": ["willing", "eager", "keen", "inclined"]
+      }
+    ]
+  }
+]

@@ -1,0 +1,960 @@
+[
+  {
+    "word": "encourage",
+    "pronunciation": "/ɪnˈkʌrɪdʒ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "encourage",
+            "thirdPersonSingular": "encourages",
+            "presentParticiple": "encouraging",
+            "pastTense": "encouraged",
+            "pastParticiple": "encouraged"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To give someone support or confidence; to stimulate.",
+        "chineseDefinition": "给某人以支持或信心；鼓励。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They encouraged each other through difficult times.",
+            "chinese": "他们在困难时期彼此鼓励。"
+          }
+        ],
+        "synonyms": ["promote", "boost", "support"],
+        "antonyms": ["discourage", "deter"]
+      }
+    ]
+  },
+  {
+    "word": "celebrity",
+    "pronunciation": "/səˈlɛbrəti/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "celebrity",
+            "plural": "celebrities"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A famous person, especially in entertainment or sport.",
+        "chineseDefinition": "著名的人，尤其是在娱乐或体育领域。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She became a celebrity after her movie broke box office records.",
+            "chinese": "她的电影打破票房纪录后，她成为了名人。"
+          }
+        ],
+        "synonyms": ["star", "notable", "personality"],
+        "antonyms": ["nobody", "unknown"]
+      }
+    ]
+  },
+  {
+    "word": "significance",
+    "pronunciation": "/sɪɡˈnɪfɪkəns/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "significance",
+            "plural": "significances"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The quality of being worthy of attention; importance.",
+        "chineseDefinition": "值得关注的重要性；重要性。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The discovery of this artifact has great historical significance.",
+            "chinese": "这一文物的发现具有重大的历史意义。"
+          }
+        ],
+        "synonyms": ["importance", "weight", "consequence"],
+        "antonyms": ["insignificance", "triviality"]
+      }
+    ]
+  },
+  {
+    "word": "magnetic",
+    "pronunciation": "/mæɡˈnɛtɪk/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "magnetic",
+            "comparative": "more magnetic",
+            "superlative": "most magnetic"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Having the properties of a magnet; exhibiting magnetism.",
+        "chineseDefinition": "具有磁性的；表现出磁性的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The magnetic field of the earth protects us from solar winds.",
+            "chinese": "地球的磁场保护我们免受太阳风的侵袭。"
+          }
+        ],
+        "synonyms": ["mesmeric", "attractive", "electromagnetic"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "slippery",
+    "pronunciation": "/ˈslɪpəri/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "slippery",
+            "comparative": "slipperier",
+            "superlative": "slipperiest"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Difficult to hold firmly or stand on because it is smooth, wet, or slimy.",
+        "chineseDefinition": "由于其光滑、湿或黏滑而难以牢牢握住或站立。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Be careful, the floor is slippery when wet.",
+            "chinese": "小心，地板湿了会变得很滑。"
+          }
+        ],
+        "synonyms": ["smooth", "greasy", "slick"],
+        "antonyms": ["rough", "grippy"]
+      }
+    ]
+  },
+  {
+    "word": "graphic",
+    "pronunciation": "/ˈɡræfɪk/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "graphic",
+            "comparative": "more graphic",
+            "superlative": "most graphic"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Relating to visual art, especially involving drawing, engraving, or lettering.",
+        "chineseDefinition": "与视觉艺术相关，尤其是涉及绘画、雕刻或书写。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She studied graphic design in college.",
+            "chinese": "她在大学学习平面设计。"
+          }
+        ],
+        "synonyms": ["visual", "pictorial", "illustrative"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "examine",
+    "pronunciation": "/ɪɡˈzæmɪn/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "examine",
+            "thirdPersonSingular": "examines",
+            "presentParticiple": "examining",
+            "pastTense": "examined",
+            "pastParticiple": "examined"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Inspect or scrutinize carefully.",
+        "chineseDefinition": "仔细检查或审查。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Doctors examined the patient thoroughly.",
+            "chinese": "医生对病人进行了彻底检查。"
+          }
+        ],
+        "synonyms": ["inspect", "investigate", "analyze"],
+        "antonyms": ["ignore", "overlook"]
+      }
+    ]
+  },
+  {
+    "word": "opportunity",
+    "pronunciation": "/ˌɒpəˈtjuːnɪti/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "opportunity",
+            "plural": "opportunities"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A time or set of circumstances that makes it possible to do something.",
+        "chineseDefinition": "使某事成为可能的一段时间或条件。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "This job offers new opportunities for growth.",
+            "chinese": "这份工作提供了新的成长机会。"
+          }
+        ],
+        "synonyms": ["chance", "opening", "prospect"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "distinguish",
+    "pronunciation": "/dɪˈstɪŋɡwɪʃ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "distinguish",
+            "thirdPersonSingular": "distinguishes",
+            "presentParticiple": "distinguishing",
+            "pastTense": "distinguished",
+            "pastParticiple": "distinguished"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To recognize or note differences; discriminate.",
+        "chineseDefinition": "识别或注意差异；区分。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "It's important to distinguish fact from opinion.",
+            "chinese": "区分事实和观点非常重要。"
+          }
+        ],
+        "synonyms": ["differentiate", "discern", "separate"],
+        "antonyms": ["confuse", "mix up"]
+      }
+    ]
+  },
+  {
+    "word": "blanket",
+    "pronunciation": "/ˈblæŋkɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "blanket",
+            "plural": "blankets"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A large piece of woolen or similar material used as a bed covering or other covering for warmth.",
+        "chineseDefinition": "一大块羊毛或类似材料，用作床上或其他保暖覆盖物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She pulled the blanket over her shoulders.",
+            "chinese": "她把毯子披在肩上。"
+          }
+        ],
+        "synonyms": ["cover", "quilt", "throw"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "arrogance",
+    "pronunciation": "/ˈærəɡəns/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "arrogance",
+            "plural": "arrogances"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The quality of being arrogant; haughtiness.",
+        "chineseDefinition": "傲慢的品质；傲气。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "His arrogance made him difficult to work with.",
+            "chinese": "他的傲慢让他很难与人共事。"
+          }
+        ],
+        "synonyms": ["hubris", "conceit", "egotism"],
+        "antonyms": ["humility", "modesty"]
+      }
+    ]
+  },
+  {
+    "word": "era",
+    "pronunciation": "/ˈɪərə/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "era",
+            "plural": "eras"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A long and distinct period of history with a particular feature or characteristic.",
+        "chineseDefinition": "一段具有特定特征或特点的长期历史时期。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The steam engine marked the beginning of a new era.",
+            "chinese": "蒸汽机的出现标志着新时代的开始。"
+          }
+        ],
+        "synonyms": ["epoch", "age", "period"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "stimulus",
+    "pronunciation": "/ˈstɪmjʊləs/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "stimulus",
+            "plural": "stimuli"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A thing or event that evokes a specific functional reaction in an organ or tissue.",
+        "chineseDefinition": "引起器官或组织特定功能反应的事物或事件。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Light is a stimulus for the plants to start photosynthesis.",
+            "chinese": "光是让植物开始光合作用的刺激因素。"
+          }
+        ],
+        "synonyms": ["incentive", "spur", "impetus"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "roam",
+    "pronunciation": "/roʊm/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "roam",
+            "thirdPersonSingular": "roams",
+            "presentParticiple": "roaming",
+            "pastTense": "roamed",
+            "pastParticiple": "roamed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Move about or travel aimlessly or unsystematically, especially over a wide area.",
+        "chineseDefinition": "随意或无系统地四处走动或旅行，尤其是大范围内。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They roamed the hills, enjoying the scenery.",
+            "chinese": "他们在山丘上漫步，欣赏风景。"
+          }
+        ],
+        "synonyms": ["wander", "ramble", "rove"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "provided",
+    "pronunciation": "/prəˈvaɪdɪd/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "provide",
+            "thirdPersonSingular": "provides",
+            "presentParticiple": "providing",
+            "pastTense": "provided",
+            "pastParticiple": "provided"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Past tense of provide; to make available for use.",
+        "chineseDefinition": "动词 provide 的过去式；提供可供使用。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She provided all the necessary materials for the project.",
+            "chinese": "她为这个项目提供了所有必要的材料。"
+          }
+        ],
+        "synonyms": ["gave", "supplied", "furnished"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "comparison",
+    "pronunciation": "/kəmˈpærɪsən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "comparison",
+            "plural": "comparisons"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A consideration or estimate of the similarities or dissimilarities between two things or people.",
+        "chineseDefinition": "对两件事物或两个人之间相似性或差异性的考量或估计。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Comparison of these products shows minimal differences.",
+            "chinese": "对这些产品的比较显示差异极小。"
+          }
+        ],
+        "synonyms": ["contrast", "evaluation", "juxtaposition"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "publicity",
+    "pronunciation": "/pʌbˈlɪsɪti/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "publicity",
+            "plural": "publicities"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Notice or attention given to someone or something by the media.",
+        "chineseDefinition": "媒体对某人或某事物的关注或报道。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The new movie got a lot of publicity before its release.",
+            "chinese": "这部新电影在上映前获得了大量宣传。"
+          }
+        ],
+        "synonyms": ["exposure", "advertising", "promotion"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "depend",
+    "pronunciation": "/dɪˈpɛnd/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "depend",
+            "thirdPersonSingular": "depends",
+            "presentParticiple": "depending",
+            "pastTense": "depended",
+            "pastParticiple": "depended"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To be controlled or determined by.",
+        "chineseDefinition": "受……支配或决定。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Your success depends on your effort.",
+            "chinese": "你的成功取决于你的努力。"
+          }
+        ],
+        "synonyms": ["rely", "count on", "hinge on"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "composition",
+    "pronunciation": "/ˌkɒmpəˈzɪʃ(ə)n/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "composition",
+            "plural": "compositions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The nature of something's ingredients or constituents; the way in which a whole or mixture is made up.",
+        "chineseDefinition": "某物的成分或组成；整体或混合物的构成方式。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The composition of the atmosphere is mainly nitrogen and oxygen.",
+            "chinese": "大气的成分主要是氮和氧。"
+          }
+        ],
+        "synonyms": ["makeup", "constitution", "structure"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "architecture",
+    "pronunciation": "/ˈɑːkɪtɛktʃə/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "architecture",
+            "plural": "architectures"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The art or practice of designing and constructing buildings.",
+        "chineseDefinition": "设计和建造建筑物的艺术或实践。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Modern architecture often uses innovative materials.",
+            "chinese": "现代建筑通常使用创新材料。"
+          }
+        ],
+        "synonyms": ["building design", "construction"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "hurdle",
+    "pronunciation": "/ˈhɜːrdl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "hurdle",
+            "plural": "hurdles"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An obstacle or difficulty.",
+        "chineseDefinition": "一种障碍或困难。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Financing the project was the biggest hurdle they faced.",
+            "chinese": "为项目融资是他们面临的最大障碍。"
+          }
+        ],
+        "synonyms": ["obstacle", "barrier", "impediment"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "teamwork",
+    "pronunciation": "/ˈtiːmwɜːrk/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "teamwork",
+            "plural": "teamworks"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The combined action of a group, especially when effective and efficient.",
+        "chineseDefinition": "一个群体的联合行动，尤其是在有效和高效时。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Teamwork is essential for success in sports.",
+            "chinese": "在体育运动中，团队合作对于成功至关重要。"
+          }
+        ],
+        "synonyms": ["collaboration", "cooperation", "joint effort"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "damp",
+    "pronunciation": "/dæmp/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "damp",
+            "comparative": "damper",
+            "superlative": "dampest"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Slightly wet, often in a way that is unpleasant.",
+        "chineseDefinition": "略微潮湿，通常让人感觉不适。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The clothes were still damp after a short spin in the dryer.",
+            "chinese": "衣服在烘干机中短暂处理后仍然有些潮湿。"
+          }
+        ],
+        "synonyms": ["moist", "wet", "humid"],
+        "antonyms": ["dry", "arid"]
+      }
+    ]
+  },
+  {
+    "word": "staff",
+    "pronunciation": "/stɑːf/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "staff",
+            "plural": "staffs"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "All the people employed by a particular organization.",
+        "chineseDefinition": "由某个组织雇用的所有人员。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The hospital staff worked overtime.",
+            "chinese": "医院的职员加班了。"
+          }
+        ],
+        "synonyms": ["employees", "personnel", "workforce"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "symbol",
+    "pronunciation": "/ˈsɪmbəl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "symbol",
+            "plural": "symbols"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A thing that represents or stands for something else, especially a material object representing something abstract.",
+        "chineseDefinition": "代表或象征其他事物的东西，尤其是代表抽象概念的实物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The dove is a symbol of peace.",
+            "chinese": "鸽子是和平的象征。"
+          }
+        ],
+        "synonyms": ["sign", "emblem", "icon"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "apt",
+    "pronunciation": "/æpt/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "apt",
+            "comparative": "apter",
+            "superlative": "aptest"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Appropriate or suitable in the circumstances.",
+        "chineseDefinition": "在当时条件下适当或合适的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "It was an apt description of the situation.",
+            "chinese": "这是对该情况恰如其分的描述。"
+          }
+        ],
+        "synonyms": ["fitting", "pertinent", "likely"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "homogeneous",
+    "pronunciation": "/ˌhəʊməˈdʒiːniəs/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "homogeneous",
+            "comparative": "more homogeneous",
+            "superlative": "most homogeneous"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Of the same kind; alike.",
+        "chineseDefinition": "同一种类的；相似的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The population of the small town is relatively homogeneous.",
+            "chinese": "这个小镇的人口相对同质。"
+          }
+        ],
+        "synonyms": ["uniform", "similar", "comparable"],
+        "antonyms": ["heterogeneous", "diverse"]
+      }
+    ]
+  },
+  {
+    "word": "conserve",
+    "pronunciation": "/kənˈsɜːrv/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "conserve",
+            "thirdPersonSingular": "conserves",
+            "presentParticiple": "conserving",
+            "pastTense": "conserved",
+            "pastParticiple": "conserved"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Protect (something, especially an environmentally or culturally important place or thing) from harm or destruction.",
+        "chineseDefinition": "保护（某物，尤其是环境或文化上重要的地方或事物）免受伤害或破坏。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "We must conserve water during the drought.",
+            "chinese": "在干旱期间我们必须节约用水。"
+          }
+        ],
+        "synonyms": ["preserve", "save", "maintain"],
+        "antonyms": ["waste", "squander"]
+      }
+    ]
+  },
+  {
+    "word": "spasm",
+    "pronunciation": "/ˈspæzəm/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "spasm",
+            "plural": "spasms"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A sudden involuntary muscular contraction or convulsive movement.",
+        "chineseDefinition": "突然的、无法自控的肌肉收缩或抽搐。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She felt a spasm in her calf muscle.",
+            "chinese": "她感觉小腿肌肉发生了痉挛。"
+          }
+        ],
+        "synonyms": ["contraction", "convulsion", "twitch"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "invisible",
+    "pronunciation": "/ɪnˈvɪzəbəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "invisible",
+            "comparative": "more invisible",
+            "superlative": "most invisible"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Unable to be seen; not visible to the eye.",
+        "chineseDefinition": "无法被看到；眼睛看不见的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Air is invisible, but we know it's there.",
+            "chinese": "空气是看不见的，但我们知道它存在。"
+          }
+        ],
+        "synonyms": ["unseen", "imperceptible", "indiscernible"],
+        "antonyms": ["visible", "noticeable"]
+      }
+    ]
+  }
+]

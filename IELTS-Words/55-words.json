@@ -1,0 +1,1629 @@
+[
+  {
+    "word": "reliable",
+    "pronunciation": "/rɪˈlaɪəbəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "reliable",
+            "comparative": "more reliable",
+            "superlative": "most reliable"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Consistently good in quality or performance; able to be trusted.",
+        "chineseDefinition": "可靠的；可信赖的；可依赖的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He is a reliable employee who never misses deadlines.",
+            "chinese": "他是个可靠的员工，从不错过截止日期。"
+          }
+        ],
+        "synonyms": ["dependable", "trustworthy", "consistent", "steady"],
+        "antonyms": ["unreliable", "undependable", "untrustworthy"]
+      },
+      {
+        "definition": "Able to be trusted to do or provide what is needed.",
+        "chineseDefinition": "可靠的；值得信赖的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The company offers reliable service 24 hours a day.",
+            "chinese": "该公司提供24小时可靠服务。"
+          }
+        ],
+        "synonyms": ["trusty", "faithful", "responsible", "unfailing"],
+        "antonyms": ["unreliable", "irresponsible", "flaky"]
+      }
+    ]
+  },
+  {
+    "word": "abstraction",
+    "pronunciation": "/æbˈstrækʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "abstraction",
+            "plural": "abstractions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The quality of dealing with ideas rather than events; something that exists only as an idea.",
+        "chineseDefinition": "抽象；抽象概念；抽象性",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The concept of justice is an abstraction that different cultures interpret differently.",
+            "chinese": "正义的概念是一种抽象概念，不同文化有不同的解释。"
+          }
+        ],
+        "synonyms": ["concept", "idea", "notion", "theory"],
+        "antonyms": ["concreteness", "reality", "actuality"]
+      },
+      {
+        "definition": "The process of considering something independently of its associations or attributes.",
+        "chineseDefinition": "抽象化；抽象过程",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The scientist used abstraction to focus only on the essential properties of the phenomenon.",
+            "chinese": "科学家使用抽象化方法只关注现象的本质特性。"
+          }
+        ],
+        "synonyms": ["extraction", "removal", "separation"],
+        "antonyms": ["addition", "inclusion"]
+      }
+    ]
+  },
+  {
+    "word": "mount",
+    "pronunciation": "/maʊnt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "mount",
+            "thirdPersonSingular": "mounts",
+            "presentParticiple": "mounting",
+            "pastTense": "mounted",
+            "pastParticiple": "mounted"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "mount",
+            "plural": "mounts"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To climb up or get up on something.",
+        "chineseDefinition": "爬上；登上；骑上",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The rider mounted his horse and rode away.",
+            "chinese": "骑手骑上他的马离开了。"
+          }
+        ],
+        "synonyms": ["climb", "ascend", "scale", "clamber up"],
+        "antonyms": ["dismount", "descend", "get down"]
+      },
+      {
+        "definition": "To organize and initiate an activity or event.",
+        "chineseDefinition": "组织；发起；筹办",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The gallery is mounting an exhibition of modern art.",
+            "chinese": "画廊正在举办一场现代艺术展览。"
+          }
+        ],
+        "synonyms": ["organize", "arrange", "stage", "put on"],
+        "antonyms": ["cancel", "terminate"]
+      },
+      {
+        "definition": "A backing or setting on which something is presented or displayed.",
+        "chineseDefinition": "底座；支架；装裱",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The photograph was displayed in a wooden mount.",
+            "chinese": "这张照片被放在木质底座上展示。"
+          }
+        ],
+        "synonyms": ["support", "backing", "setting", "frame"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "announce",
+    "pronunciation": "/əˈnaʊns/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "announce",
+            "thirdPersonSingular": "announces",
+            "presentParticiple": "announcing",
+            "pastTense": "announced",
+            "pastParticiple": "announced"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To make a public or formal statement about a fact, occurrence, or intention.",
+        "chineseDefinition": "宣布；公布；发表",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The company announced its plans to open a new factory.",
+            "chinese": "公司宣布了开设新工厂的计划。"
+          }
+        ],
+        "synonyms": ["declare", "proclaim", "state", "broadcast"],
+        "antonyms": ["conceal", "hide", "suppress"]
+      },
+      {
+        "definition": "To make known the arrival or presence of someone.",
+        "chineseDefinition": "通报；通告；宣告",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The butler announced the guests as they arrived.",
+            "chinese": "管家在客人到达时通报他们的到来。"
+          }
+        ],
+        "synonyms": ["introduce", "present", "herald"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "headline",
+    "pronunciation": "/ˈhɛdlaɪn/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "headline",
+            "plural": "headlines"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "headline",
+            "thirdPersonSingular": "headlines",
+            "presentParticiple": "headlining",
+            "pastTense": "headlined",
+            "pastParticiple": "headlined"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A heading at the top of a newspaper article or page.",
+        "chineseDefinition": "标题；大字标题；报纸头条",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The newspaper headline announced the election results.",
+            "chinese": "报纸标题宣布了选举结果。"
+          }
+        ],
+        "synonyms": ["heading", "title", "caption", "header"],
+        "antonyms": []
+      },
+      {
+        "definition": "To provide with a headline; to be the main performer or attraction.",
+        "chineseDefinition": "给...加标题；担任主角；成为头条新闻",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The famous band will headline the music festival this year.",
+            "chinese": "这个著名乐队将在今年的音乐节上担任主角。"
+          }
+        ],
+        "synonyms": ["star", "feature", "lead", "top the bill"],
+        "antonyms": ["support"]
+      }
+    ]
+  },
+  {
+    "word": "horror",
+    "pronunciation": "/ˈhɔrər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "horror",
+            "plural": "horrors"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An intense feeling of fear, shock, or disgust.",
+        "chineseDefinition": "恐惧；惊骇；厌恶",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She watched in horror as the accident unfolded before her eyes.",
+            "chinese": "她惊恐地看着事故在她眼前发生。"
+          }
+        ],
+        "synonyms": ["terror", "dread", "fear", "revulsion"],
+        "antonyms": ["delight", "pleasure", "joy"]
+      },
+      {
+        "definition": "A genre of fiction that aims to frighten, scare, or disgust.",
+        "chineseDefinition": "恐怖小说；恐怖片；恐怖类型",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He enjoys reading horror novels before going to sleep.",
+            "chinese": "他喜欢在睡前阅读恐怖小说。"
+          }
+        ],
+        "synonyms": ["scary movie", "thriller", "frightening story"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "collapse",
+    "pronunciation": "/kəˈlæps/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "collapse",
+            "thirdPersonSingular": "collapses",
+            "presentParticiple": "collapsing",
+            "pastTense": "collapsed",
+            "pastParticiple": "collapsed"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "collapse",
+            "plural": "collapses"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To fall down or give way suddenly.",
+        "chineseDefinition": "倒塌；崩溃；坍塌",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The old building collapsed during the earthquake.",
+            "chinese": "这座老建筑在地震中倒塌了。"
+          }
+        ],
+        "synonyms": ["cave in", "fall down", "crumble", "topple"],
+        "antonyms": ["stand", "remain upright", "endure"]
+      },
+      {
+        "definition": "To fail suddenly and completely.",
+        "chineseDefinition": "失败；瓦解；崩溃",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Negotiations between the two countries collapsed after months of tension.",
+            "chinese": "经过数月的紧张局势后，两国之间的谈判破裂了。"
+          }
+        ],
+        "synonyms": ["break down", "fail", "founder", "fall apart"],
+        "antonyms": ["succeed", "thrive", "prosper"]
+      },
+      {
+        "definition": "A sudden failure of an institution, structure, or system.",
+        "chineseDefinition": "崩溃；瓦解；倒塌",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The collapse of the financial system led to a global recession.",
+            "chinese": "金融系统的崩溃导致了全球性衰退。"
+          }
+        ],
+        "synonyms": ["breakdown", "failure", "downfall", "ruin"],
+        "antonyms": ["recovery", "revival", "resurgence"]
+      }
+    ]
+  },
+  {
+    "word": "assistance",
+    "pronunciation": "/əˈsɪstəns/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "assistance",
+            "plural": "assistances"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The action of helping someone by sharing work or resources.",
+        "chineseDefinition": "帮助；援助；协助",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Thank you for your assistance with the project.",
+            "chinese": "感谢您对这个项目的帮助。"
+          }
+        ],
+        "synonyms": ["help", "aid", "support", "backing"],
+        "antonyms": ["hindrance", "obstruction", "impediment"]
+      },
+      {
+        "definition": "Financial or practical help provided for people in need.",
+        "chineseDefinition": "救济；援助；补助",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The government provides financial assistance to low-income families.",
+            "chinese": "政府为低收入家庭提供经济援助。"
+          }
+        ],
+        "synonyms": ["relief", "welfare", "benefit", "subsidy"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "discriminate",
+    "pronunciation": "/dɪˈskrɪmɪneɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "discriminate",
+            "thirdPersonSingular": "discriminates",
+            "presentParticiple": "discriminating",
+            "pastTense": "discriminated",
+            "pastParticiple": "discriminated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To recognize a distinction; to differentiate.",
+        "chineseDefinition": "区分；辨别；识别",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The test is designed to discriminate between different levels of ability.",
+            "chinese": "这个测试旨在区分不同的能力水平。"
+          }
+        ],
+        "synonyms": ["distinguish", "differentiate", "separate", "categorize"],
+        "antonyms": ["confuse", "mix up", "conflate"]
+      },
+      {
+        "definition": "To treat a person or group unfairly, especially on the grounds of race, gender, or age.",
+        "chineseDefinition": "歧视；区别对待",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "It is illegal to discriminate against employees based on their religion.",
+            "chinese": "基于员工的宗教信仰而歧视他们是违法的。"
+          }
+        ],
+        "synonyms": ["prejudice", "be biased against", "treat unfairly"],
+        "antonyms": ["accept", "include", "treat equally"]
+      }
+    ]
+  },
+  {
+    "word": "destructive",
+    "pronunciation": "/dɪˈstrʌktɪv/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "destructive",
+            "comparative": "more destructive",
+            "superlative": "most destructive"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Causing great and irreparable damage or harm.",
+        "chineseDefinition": "破坏性的；毁灭性的；有害的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The hurricane was one of the most destructive in recent history.",
+            "chinese": "这场飓风是近年来破坏性最强的飓风之一。"
+          }
+        ],
+        "synonyms": ["damaging", "harmful", "ruinous", "devastating"],
+        "antonyms": ["constructive", "beneficial", "helpful", "productive"]
+      },
+      {
+        "definition": "Tending to refute or disparage; negative rather than constructive.",
+        "chineseDefinition": "消极的；否定的；破坏性批评的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "His destructive criticism offered no alternative solutions.",
+            "chinese": "他的破坏性批评没有提供任何替代解决方案。"
+          }
+        ],
+        "synonyms": ["negative", "critical", "disparaging", "undermining"],
+        "antonyms": ["constructive", "positive", "supportive", "encouraging"]
+      }
+    ]
+  },
+  {
+    "word": "authority",
+    "pronunciation": "/əˈθɔrəti/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "authority",
+            "plural": "authorities"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The power or right to give orders, make decisions, and enforce obedience.",
+        "chineseDefinition": "权力；权威；职权",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The manager has the authority to approve expenses up to $1,000.",
+            "chinese": "经理有权批准高达1000美元的费用。"
+          }
+        ],
+        "synonyms": ["power", "jurisdiction", "control", "command"],
+        "antonyms": ["powerlessness", "subordination"]
+      },
+      {
+        "definition": "A person or organization having political or administrative power and control.",
+        "chineseDefinition": "当局；官方；管理机构",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The local authorities are responsible for waste collection.",
+            "chinese": "地方当局负责垃圾收集。"
+          }
+        ],
+        "synonyms": ["government", "administration", "officials", "executives"],
+        "antonyms": []
+      },
+      {
+        "definition": "The power to influence others because of one's recognized knowledge or expertise.",
+        "chineseDefinition": "权威；专家；权威人士",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She is an authority on medieval history.",
+            "chinese": "她是中世纪历史方面的权威。"
+          }
+        ],
+        "synonyms": ["expert", "specialist", "master", "guru"],
+        "antonyms": ["amateur", "novice"]
+      }
+    ]
+  },
+  {
+    "word": "mild",
+    "pronunciation": "/maɪld/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "mild",
+            "comparative": "milder",
+            "superlative": "mildest"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Not severe, serious, or harsh; gentle in nature or behavior.",
+        "chineseDefinition": "温和的；轻微的；和善的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She suffered only mild symptoms from the infection.",
+            "chinese": "她只出现了轻微的感染症状。"
+          }
+        ],
+        "synonyms": ["gentle", "moderate", "light", "slight"],
+        "antonyms": ["severe", "harsh", "intense", "extreme"]
+      },
+      {
+        "definition": "Not strong in flavor, effect, or degree.",
+        "chineseDefinition": "淡味的；温和的；不浓烈的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He prefers mild cheese to sharp varieties.",
+            "chinese": "他喜欢淡味奶酪而不是浓烈的品种。"
+          }
+        ],
+        "synonyms": ["bland", "mellow", "soft", "delicate"],
+        "antonyms": ["strong", "sharp", "spicy", "intense"]
+      },
+      {
+        "definition": "(of weather) moderately warm, especially less cold than expected.",
+        "chineseDefinition": "温和的；暖和的；不冷的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "We've had a surprisingly mild winter this year.",
+            "chinese": "今年我们的冬天出奇地温和。"
+          }
+        ],
+        "synonyms": ["temperate", "clement", "balmy", "pleasant"],
+        "antonyms": ["harsh", "severe", "extreme", "bitter"]
+      }
+    ]
+  },
+  {
+    "word": "capacity",
+    "pronunciation": "/kəˈpæsəti/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "capacity",
+            "plural": "capacities"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The maximum amount that something can contain or produce.",
+        "chineseDefinition": "容量；产量；能力",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The stadium has a capacity of 50,000 spectators.",
+            "chinese": "这个体育场可容纳50,000名观众。"
+          }
+        ],
+        "synonyms": ["volume", "size", "limit", "capability"],
+        "antonyms": []
+      },
+      {
+        "definition": "The ability or power to do, experience, or understand something.",
+        "chineseDefinition": "能力；才能；资质",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Children have an amazing capacity to learn languages.",
+            "chinese": "儿童有惊人的语言学习能力。"
+          }
+        ],
+        "synonyms": ["ability", "capability", "potential", "faculty"],
+        "antonyms": ["inability", "incapacity"]
+      },
+      {
+        "definition": "A specified role or position.",
+        "chineseDefinition": "身份；职位；职责",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She attended the meeting in her capacity as chairperson.",
+            "chinese": "她以主席的身份出席了会议。"
+          }
+        ],
+        "synonyms": ["role", "function", "position", "job"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "latitude",
+    "pronunciation": "/ˈlætɪtjuːd/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "latitude",
+            "plural": "latitudes"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The angular distance of a place north or south of the earth's equator, expressed in degrees.",
+        "chineseDefinition": "纬度；纬线；纬度数",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "New York City is located at approximately 40 degrees north latitude.",
+            "chinese": "纽约市位于北纬约40度。"
+          }
+        ],
+        "synonyms": ["parallel", "line of latitude"],
+        "antonyms": ["longitude"]
+      },
+      {
+        "definition": "Freedom from narrow restrictions; scope to do something.",
+        "chineseDefinition": "自由；余地；回旋空间",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The manager gives her team considerable latitude in how they complete their projects.",
+            "chinese": "经理给她的团队相当大的自由度来完成他们的项目。"
+          }
+        ],
+        "synonyms": ["freedom", "scope", "leeway", "flexibility"],
+        "antonyms": ["restriction", "constraint", "limitation"]
+      }
+    ]
+  },
+  {
+    "word": "circus",
+    "pronunciation": "/ˈsɜrkəs/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "circus",
+            "plural": "circuses"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A traveling company of acrobats, clowns, and other entertainers which gives performances, typically in a large tent.",
+        "chineseDefinition": "马戏团；杂技团；流动表演团",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The children were excited to see the elephants at the circus.",
+            "chinese": "孩子们很兴奋能在马戏团看到大象。"
+          }
+        ],
+        "synonyms": ["big top", "traveling show", "carnival"],
+        "antonyms": []
+      },
+      {
+        "definition": "A circular open space at a street junction.",
+        "chineseDefinition": "环形广场；圆形交叉路口",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Piccadilly Circus is a famous road junction in London.",
+            "chinese": "皮卡迪利广场是伦敦著名的环形交叉路口。"
+          }
+        ],
+        "synonyms": ["roundabout", "circle", "plaza"],
+        "antonyms": []
+      },
+      {
+        "definition": "A scene of lively action, confusion, or uproar.",
+        "chineseDefinition": "混乱场面；喧闹场景",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The office was a complete circus on the day before the deadline.",
+            "chinese": "在截止日期前一天，办公室完全是一片混乱。"
+          }
+        ],
+        "synonyms": ["chaos", "mayhem", "pandemonium", "madhouse"],
+        "antonyms": ["order", "calm", "tranquility"]
+      }
+    ]
+  },
+  {
+    "word": "comet",
+    "pronunciation": "/ˈkɑmɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "comet",
+            "plural": "comets"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A celestial object consisting of a nucleus of ice and dust and, when near the sun, a 'tail' of gas and dust particles pointing away from the sun.",
+        "chineseDefinition": "彗星；扫帚星",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Halley's Comet is visible from Earth approximately every 76 years.",
+            "chinese": "哈雷彗星大约每76年从地球上可见一次。"
+          }
+        ],
+        "synonyms": ["celestial body", "heavenly body"],
+        "antonyms": []
+      },
+      {
+        "definition": "A person or thing that moves very fast and attracts attention.",
+        "chineseDefinition": "迅速崛起的人；流星似的人物",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She was a comet in the fashion industry, rising to fame very quickly.",
+            "chinese": "她在时尚界如彗星般崛起，迅速成名。"
+          }
+        ],
+        "synonyms": ["meteor", "shooting star", "sensation"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "grin",
+    "pronunciation": "/ɡrɪn/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "grin",
+            "thirdPersonSingular": "grins",
+            "presentParticiple": "grinning",
+            "pastTense": "grinned",
+            "pastParticiple": "grinned"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "grin",
+            "plural": "grins"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To smile broadly, often showing the teeth.",
+        "chineseDefinition": "露齿而笑；咧嘴笑",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He grinned with delight when he saw his birthday presents.",
+            "chinese": "看到生日礼物时，他高兴地咧嘴笑了。"
+          }
+        ],
+        "synonyms": ["beam", "smile broadly", "smirk"],
+        "antonyms": ["frown", "scowl", "grimace"]
+      },
+      {
+        "definition": "A broad smile, typically showing the teeth.",
+        "chineseDefinition": "咧嘴笑；露齿笑",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She had a mischievous grin on her face.",
+            "chinese": "她脸上带着调皮的笑容。"
+          }
+        ],
+        "synonyms": ["smile", "beam", "smirk"],
+        "antonyms": ["frown", "scowl", "grimace"]
+      }
+    ]
+  },
+  {
+    "word": "democratic",
+    "pronunciation": "/ˌdɛməˈkrætɪk/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "democratic",
+            "comparative": "more democratic",
+            "superlative": "most democratic"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Relating to or supporting democracy or its principles.",
+        "chineseDefinition": "民主的；民主制的；民主主义的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The country is transitioning to a more democratic system of government.",
+            "chinese": "这个国家正在向更加民主的政府体制过渡。"
+          }
+        ],
+        "synonyms": ["elected", "representative", "parliamentary", "popular"],
+        "antonyms": ["undemocratic", "authoritarian", "totalitarian", "dictatorial"]
+      },
+      {
+        "definition": "Treating all people equally; not showing favoritism or discrimination.",
+        "chineseDefinition": "平等的；人人平等的；不偏不倚的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The school has a democratic approach to education, valuing each student's contribution.",
+            "chinese": "这所学校采用民主的教育方式，重视每个学生的贡献。"
+          }
+        ],
+        "synonyms": ["egalitarian", "equal", "fair", "classless"],
+        "antonyms": ["elitist", "discriminatory", "biased", "unfair"]
+      }
+    ]
+  },
+  {
+    "word": "install",
+    "pronunciation": "/ɪnˈstɔl/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "install",
+            "thirdPersonSingular": "installs",
+            "presentParticiple": "installing",
+            "pastTense": "installed",
+            "pastParticiple": "installed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To place or fix equipment or machinery in position ready for use.",
+        "chineseDefinition": "安装；设置；安置",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The technician will install your new air conditioning system tomorrow.",
+            "chinese": "技术人员明天将安装您的新空调系统。"
+          }
+        ],
+        "synonyms": ["set up", "fit", "mount", "put in"],
+        "antonyms": ["remove", "uninstall", "take out"]
+      },
+      {
+        "definition": "To place (software) on a computer system.",
+        "chineseDefinition": "安装（软件）；装入",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "You need to install the latest update for the operating system.",
+            "chinese": "你需要安装操作系统的最新更新。"
+          }
+        ],
+        "synonyms": ["load", "set up", "implement"],
+        "antonyms": ["uninstall", "remove", "delete"]
+      },
+      {
+        "definition": "To place someone in an official position or role.",
+        "chineseDefinition": "任命；就职；安排",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The new president will be installed in office next month.",
+            "chinese": "新总统将于下个月就职。"
+          }
+        ],
+        "synonyms": ["appoint", "induct", "inaugurate", "invest"],
+        "antonyms": ["remove", "dismiss", "depose"]
+      }
+    ]
+  },
+  {
+    "word": "faculty",
+    "pronunciation": "/ˈfækəlti/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "faculty",
+            "plural": "faculties"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The teaching staff of a university or college, or of one of its departments or divisions.",
+        "chineseDefinition": "教师；教职员；教职员工",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The university has a distinguished faculty in the physics department.",
+            "chinese": "这所大学的物理系有杰出的教师队伍。"
+          }
+        ],
+        "synonyms": ["staff", "teaching staff", "educators", "professors"],
+        "antonyms": []
+      },
+      {
+        "definition": "A department or group of related departments within a university.",
+        "chineseDefinition": "学院；系；院系",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She is studying in the Faculty of Law.",
+            "chinese": "她在法学院学习。"
+          }
+        ],
+        "synonyms": ["department", "school", "division", "college"],
+        "antonyms": []
+      },
+      {
+        "definition": "An inherent mental or physical power or ability.",
+        "chineseDefinition": "能力；才能；官能",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Even in old age, he retained all his mental faculties.",
+            "chinese": "即使在老年，他仍保持着所有的心智能力。"
+          }
+        ],
+        "synonyms": ["ability", "capability", "capacity", "power"],
+        "antonyms": ["inability", "incapacity", "impairment"]
+      }
+    ]
+  },
+  {
+    "word": "cucumber",
+    "pronunciation": "/ˈkjuːkʌmbər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "cucumber",
+            "plural": "cucumbers"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A long, green-skinned fruit with watery flesh, usually eaten raw in salads or pickled.",
+        "chineseDefinition": "黄瓜；胡瓜",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She added slices of cucumber to the salad.",
+            "chinese": "她在沙拉中加入了黄瓜片。"
+          }
+        ],
+        "synonyms": ["gherkin (when small and pickled)"],
+        "antonyms": []
+      },
+      {
+        "definition": "The creeping plant of the gourd family that yields the cucumber fruit.",
+        "chineseDefinition": "黄瓜植物；黄瓜藤",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Cucumbers grow well on trellises in the garden.",
+            "chinese": "黄瓜在花园的格架上生长良好。"
+          }
+        ],
+        "synonyms": ["cucumber plant", "cucumber vine"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "institution",
+    "pronunciation": "/ˌɪnstɪˈtuːʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "institution",
+            "plural": "institutions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An organization founded for a religious, educational, professional, or social purpose.",
+        "chineseDefinition": "机构；组织；团体",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Harvard is one of the oldest educational institutions in the United States.",
+            "chinese": "哈佛是美国最古老的教育机构之一。"
+          }
+        ],
+        "synonyms": ["organization", "establishment", "foundation", "body"],
+        "antonyms": []
+      },
+      {
+        "definition": "An established law, practice, or custom.",
+        "chineseDefinition": "制度；习俗；惯例",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Marriage is an institution that exists in most cultures.",
+            "chinese": "婚姻是存在于大多数文化中的一种制度。"
+          }
+        ],
+        "synonyms": ["custom", "practice", "convention", "tradition"],
+        "antonyms": []
+      },
+      {
+        "definition": "A large building used for a public or charitable purpose, such as a hospital or school.",
+        "chineseDefinition": "大型建筑；公共建筑",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The mental institution was closed down in the 1980s.",
+            "chinese": "这家精神病院在20世纪80年代关闭了。"
+          }
+        ],
+        "synonyms": ["facility", "establishment", "premises", "center"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "Kung",
+    "pronunciation": "/kʊŋ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "invariable",
+          "data": "Kung"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A term used in English to refer to Chinese martial arts, often as part of the phrase 'kung fu'.",
+        "chineseDefinition": "功夫；中国武术",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He has been practicing Kung Fu for over ten years.",
+            "chinese": "他练习功夫已经超过十年了。"
+          }
+        ],
+        "synonyms": ["martial arts", "Chinese boxing", "wushu"],
+        "antonyms": []
+      },
+      {
+        "definition": "The name of an indigenous people of southern Africa, also known as the San or Bushmen.",
+        "chineseDefinition": "库恩人；非洲南部的一个土著民族",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The Kung people have a rich tradition of rock art.",
+            "chinese": "库恩人有丰富的岩画传统。"
+          }
+        ],
+        "synonyms": ["San", "Bushmen"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "probability",
+    "pronunciation": "/ˌprɒbəˈbɪləti/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "probability",
+            "plural": "probabilities"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The extent to which something is likely to happen or be the case.",
+        "chineseDefinition": "可能性；概率；或然性",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "There is a high probability of rain tomorrow.",
+            "chinese": "明天很可能会下雨。"
+          }
+        ],
+        "synonyms": ["likelihood", "chance", "odds", "possibility"],
+        "antonyms": ["improbability", "unlikelihood"]
+      },
+      {
+        "definition": "The branch of mathematics concerned with numerical descriptions of how likely an event is to occur or how likely a proposition is to be true.",
+        "chineseDefinition": "概率论；概率学",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Students learn about probability and statistics in their mathematics course.",
+            "chinese": "学生在数学课程中学习概率和统计。"
+          }
+        ],
+        "synonyms": ["statistics", "chance theory"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "bizarre",
+    "pronunciation": "/bɪˈzɑr/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "bizarre",
+            "comparative": "more bizarre",
+            "superlative": "most bizarre"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Very strange or unusual, especially so as to cause interest or amusement.",
+        "chineseDefinition": "奇怪的；古怪的；异乎寻常的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The film had a bizarre plot that left many viewers confused.",
+            "chinese": "这部电影有一个奇怪的情节，让许多观众感到困惑。"
+          }
+        ],
+        "synonyms": ["strange", "peculiar", "odd", "weird"],
+        "antonyms": ["normal", "ordinary", "conventional", "usual"]
+      },
+      {
+        "definition": "Strikingly out of the ordinary; eccentric or fantastically unusual.",
+        "chineseDefinition": "离奇的；怪诞的；异想天开的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She wore a bizarre costume to the party that turned heads.",
+            "chinese": "她在派对上穿着一件怪异的服装，引人注目。"
+          }
+        ],
+        "synonyms": ["outlandish", "eccentric", "grotesque", "fantastic"],
+        "antonyms": ["conventional", "mainstream", "standard"]
+      }
+    ]
+  },
+  {
+    "word": "gravity",
+    "pronunciation": "/ˈɡrævəti/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "gravity",
+            "plural": "gravities"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The force that attracts a body toward the center of the earth, or toward any other physical body having mass.",
+        "chineseDefinition": "重力；引力；地心引力",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The apple fell from the tree due to gravity.",
+            "chinese": "苹果因重力从树上掉下来。"
+          }
+        ],
+        "synonyms": ["gravitational force", "gravitational attraction", "weight"],
+        "antonyms": ["weightlessness", "levity"]
+      },
+      {
+        "definition": "Extreme or alarming importance; seriousness.",
+        "chineseDefinition": "严重性；严肃性；庄重",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They failed to appreciate the gravity of the situation.",
+            "chinese": "他们没有意识到情况的严重性。"
+          }
+        ],
+        "synonyms": ["seriousness", "importance", "magnitude", "severity"],
+        "antonyms": ["triviality", "insignificance", "frivolity"]
+      },
+      {
+        "definition": "Solemnity or dignity of manner.",
+        "chineseDefinition": "庄严；庄重；严肃",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The judge spoke with appropriate gravity during the sentencing.",
+            "chinese": "法官在宣判时以适当的庄重语气讲话。"
+          }
+        ],
+        "synonyms": ["dignity", "solemnity", "seriousness", "formality"],
+        "antonyms": ["levity", "frivolity", "lightheartedness"]
+      }
+    ]
+  },
+  {
+    "word": "cap",
+    "pronunciation": "/kæp/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "cap",
+            "plural": "caps"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "cap",
+            "thirdPersonSingular": "caps",
+            "presentParticiple": "capping",
+            "pastTense": "capped",
+            "pastParticiple": "capped"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A type of soft, flat headwear without a brim and typically with a peak.",
+        "chineseDefinition": "帽子；便帽；鸭舌帽",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He wore a baseball cap to shield his eyes from the sun.",
+            "chinese": "他戴着棒球帽遮挡阳光。"
+          }
+        ],
+        "synonyms": ["hat", "headgear", "headwear"],
+        "antonyms": []
+      },
+      {
+        "definition": "A protective cover or lid for an object such as a bottle, pen, or camera lens.",
+        "chineseDefinition": "盖子；帽盖；套",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Don't forget to put the cap back on the toothpaste tube.",
+            "chinese": "别忘了把牙膏盖子盖回去。"
+          }
+        ],
+        "synonyms": ["lid", "top", "cover", "stopper"],
+        "antonyms": []
+      },
+      {
+        "definition": "To put a limit or restriction on something.",
+        "chineseDefinition": "限制；限定；封顶",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The government has capped the amount that banks can charge for overdraft fees.",
+            "chinese": "政府已经限制了银行可以收取的透支费用金额。"
+          }
+        ],
+        "synonyms": ["limit", "restrict", "curb", "control"],
+        "antonyms": ["remove limits", "deregulate"]
+      },
+      {
+        "definition": "To surpass or outdo something in an impressive way.",
+        "chineseDefinition": "超过；胜过；为...锦上添花",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She capped her brilliant career with an Olympic gold medal.",
+            "chinese": "她以奥运金牌为她辉煌的职业生涯画上了完美的句号。"
+          }
+        ],
+        "synonyms": ["crown", "top", "exceed", "surpass"],
+        "antonyms": ["fall short of", "fail to match"]
+      }
+    ]
+  },
+  {
+    "word": "external",
+    "pronunciation": "/ɪkˈstɜrnəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "external",
+            "comparative": "more external",
+            "superlative": "most external"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "external",
+            "plural": "externals"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Belonging to or forming the outer surface or structure of something.",
+        "chineseDefinition": "外部的；外面的；外表的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The external walls of the building need repainting.",
+            "chinese": "建筑物的外墙需要重新粉刷。"
+          }
+        ],
+        "synonyms": ["outer", "exterior", "outside", "surface"],
+        "antonyms": ["internal", "inner", "interior", "inside"]
+      },
+      {
+        "definition": "Coming or derived from outside a particular place or organization.",
+        "chineseDefinition": "外来的；外部的；外界的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The company hired an external consultant to review their procedures.",
+            "chinese": "公司聘请了外部顾问来审查他们的程序。"
+          }
+        ],
+        "synonyms": ["outside", "foreign", "extraneous", "alien"],
+        "antonyms": ["internal", "domestic", "indigenous"]
+      },
+      {
+        "definition": "An outward feature or appearance.",
+        "chineseDefinition": "外表；外观；外在特征",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He was more concerned with externals than with substance.",
+            "chinese": "他更关注外表而非实质内容。"
+          }
+        ],
+        "synonyms": ["appearance", "exterior", "surface", "facade"],
+        "antonyms": ["internals", "essence", "substance"]
+      }
+    ]
+  },
+  {
+    "word": "absurd",
+    "pronunciation": "/əbˈsɜrd/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "absurd",
+            "comparative": "more absurd",
+            "superlative": "most absurd"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "absurd",
+            "plural": "absurds"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Wildly unreasonable, illogical, or inappropriate.",
+        "chineseDefinition": "荒谬的；荒唐的；不合理的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The suggestion that we should work without pay is completely absurd.",
+            "chinese": "建议我们无薪工作的提议完全是荒谬的。"
+          }
+        ],
+        "synonyms": ["ridiculous", "ludicrous", "preposterous", "nonsensical"],
+        "antonyms": ["reasonable", "sensible", "logical", "rational"]
+      },
+      {
+        "definition": "Arousing amusement or derision; ridiculous.",
+        "chineseDefinition": "可笑的；滑稽的；令人发笑的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She wore an absurd hat to the formal dinner.",
+            "chinese": "她在正式晚宴上戴了一顶可笑的帽子。"
+          }
+        ],
+        "synonyms": ["silly", "foolish", "laughable", "comical"],
+        "antonyms": ["serious", "sensible", "solemn"]
+      },
+      {
+        "definition": "The state or condition of being absurd; absurdity.",
+        "chineseDefinition": "荒谬；荒诞；不合理",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The philosopher wrote about the absurd in human existence.",
+            "chinese": "这位哲学家写了关于人类存在中的荒诞性。"
+          }
+        ],
+        "synonyms": ["absurdity", "ridiculousness", "ludicrousness"],
+        "antonyms": ["logic", "reason", "sense"]
+      }
+    ]
+  },
+  {
+    "word": "separate",
+    "pronunciation": "/ˈsɛpərət/ (adj), /ˈsɛpəreɪt/ (verb)",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "separate",
+            "comparative": "more separate",
+            "superlative": "most separate"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "separate",
+            "thirdPersonSingular": "separates",
+            "presentParticiple": "separating",
+            "pastTense": "separated",
+            "pastParticiple": "separated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Forming or viewed as a unit apart or by itself.",
+        "chineseDefinition": "分开的；单独的；不同的",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The house has a separate dining room and kitchen.",
+            "chinese": "这所房子有独立的餐厅和厨房。"
+          }
+        ],
+        "synonyms": ["distinct", "individual", "different", "discrete"],
+        "antonyms": ["connected", "joined", "combined", "united"]
+      },
+      {
+        "definition": "To cause to be apart; to divide or disunite.",
+        "chineseDefinition": "分开；隔开；使分离",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The teacher separated the two students who were fighting.",
+            "chinese": "老师把打架的两个学生分开了。"
+          }
+        ],
+        "synonyms": ["divide", "part", "split", "disconnect"],
+        "antonyms": ["join", "combine", "unite", "connect"]
+      },
+      {
+        "definition": "To set apart; to select from among others.",
+        "chineseDefinition": "区分；区别；辨别",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "It's important to separate fact from fiction.",
+            "chinese": "区分事实和虚构是很重要的。"
+          }
+        ],
+        "synonyms": ["distinguish", "differentiate", "discriminate", "sort"],
+        "antonyms": ["confuse", "mix", "blend"]
+      }
+    ]
+  }
+]

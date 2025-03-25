@@ -1,0 +1,1168 @@
+[
+  {
+    "word": "conditioner",
+    "pronunciation": "/kənˈdɪʃ.ən.ər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "conditioner",
+            "plural": "conditioners"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A substance used to improve the condition of hair.",
+        "chineseDefinition": "用于改善头发状况的物质。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "I use conditioner after shampooing.",
+            "chinese": "洗发后我使用护发素。"
+          },
+          {
+            "english": "This hair conditioner makes my hair smooth.",
+            "chinese": "这种护发素使我的头发顺滑。"
+          }
+        ],
+        "synonyms": [
+          "hair product"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "reduce",
+    "pronunciation": "/rɪˈdjuːs/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "reduce",
+            "thirdPersonSingular": "reduces",
+            "presentParticiple": "reducing",
+            "pastTense": "reduced",
+            "pastParticiple": "reduced"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To make something smaller in size, amount, or number.",
+        "chineseDefinition": "使某物在尺寸、数量或数目上变小。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "We need to reduce our expenses.",
+            "chinese": "我们需要减少开支。"
+          },
+          {
+            "english": "The cook will reduce the sauce over low heat.",
+            "chinese": "厨师会在小火上收浓酱汁。"
+          }
+        ],
+        "synonyms": [
+          "decrease",
+          "diminish"
+        ],
+        "antonyms": [
+          "increase"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "controversy",
+    "pronunciation": "/ˈkɒn.trə.vɜː.si/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "controversy",
+            "plural": "controversies"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A prolonged public dispute or debate.",
+        "chineseDefinition": "一场长期的公众争议或辩论。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The new policy caused a major controversy.",
+            "chinese": "这项新政策引起了一场重大争议。"
+          },
+          {
+            "english": "There was controversy over the results of the election.",
+            "chinese": "选举结果引发了争议。"
+          }
+        ],
+        "synonyms": [
+          "dispute",
+          "argument"
+        ],
+        "antonyms": [
+          "agreement"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "service",
+    "pronunciation": "/ˈsɜː.vɪs/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "service",
+            "plural": "services"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "service",
+            "thirdPersonSingular": "services",
+            "presentParticiple": "servicing",
+            "pastTense": "serviced",
+            "pastParticiple": "serviced"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The action of helping or doing work for someone.",
+        "chineseDefinition": "帮助或为他人工作的行为。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They offer a cleaning service.",
+            "chinese": "他们提供清洁服务。"
+          },
+          {
+            "english": "Customer service is available 24/7.",
+            "chinese": "客服24小时提供服务。"
+          }
+        ],
+        "synonyms": [
+          "assistance"
+        ],
+        "antonyms": []
+      },
+      {
+        "definition": "To perform routine maintenance or repair work on equipment.",
+        "chineseDefinition": "对设备进行例行维护或修理。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He services the car once a month.",
+            "chinese": "他每月对汽车进行一次保养。"
+          }
+        ],
+        "synonyms": [
+          "maintain"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "dwell",
+    "pronunciation": "/dwɛl/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "dwell",
+            "thirdPersonSingular": "dwells",
+            "presentParticiple": "dwelling",
+            "pastTense": "dwelt",
+            "pastParticiple": "dwelt"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To live in a particular place.",
+        "chineseDefinition": "居住在某个地方。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They dwell in a small cottage by the river.",
+            "chinese": "他们住在河边的一间小屋里。"
+          },
+          {
+            "english": "He dwelt on the past for too long.",
+            "chinese": "他在过去的事情上纠结太久了。"
+          }
+        ],
+        "synonyms": [
+          "reside",
+          "inhabit"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "sensation",
+    "pronunciation": "/sɛnˈseɪ.ʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "sensation",
+            "plural": "sensations"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A physical feeling or perception resulting from something that happens to or comes into contact with the body.",
+        "chineseDefinition": "身体对接触或发生的事物产生的感觉或知觉。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He felt a burning sensation in his chest.",
+            "chinese": "他感到胸口有灼烧感。"
+          },
+          {
+            "english": "The new movie became a global sensation.",
+            "chinese": "这部新电影成为了全球轰动的现象。"
+          }
+        ],
+        "synonyms": [
+          "feeling",
+          "perception"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "scrap",
+    "pronunciation": "/skræp/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "scrap",
+            "plural": "scraps"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "scrap",
+            "thirdPersonSingular": "scraps",
+            "presentParticiple": "scrapping",
+            "pastTense": "scrapped",
+            "pastParticiple": "scrapped"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A small piece or amount of something, especially one that is left over after the greater part has been used.",
+        "chineseDefinition": "某物的小块或少量，尤其是在大部分已被使用后剩下的部分。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He kept every scrap of paper.",
+            "chinese": "他保留了每一张纸屑。"
+          }
+        ],
+        "synonyms": [
+          "fragment"
+        ],
+        "antonyms": []
+      },
+      {
+        "definition": "To discard or remove from service.",
+        "chineseDefinition": "丢弃或停止使用。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They decided to scrap the old car.",
+            "chinese": "他们决定报废那辆旧车。"
+          }
+        ],
+        "synonyms": [
+          "discard",
+          "abandon"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "anxious",
+    "pronunciation": "/ˈæŋk.ʃəs/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "anxious",
+            "comparative": "more anxious",
+            "superlative": "most anxious"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Experiencing worry, unease, or nervousness.",
+        "chineseDefinition": "感到焦虑、不安或紧张。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She was anxious about her exam results.",
+            "chinese": "她对自己的考试成绩感到焦虑。"
+          }
+        ],
+        "synonyms": [
+          "worried",
+          "nervous"
+        ],
+        "antonyms": [
+          "calm"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "recipient",
+    "pronunciation": "/rɪˈsɪp.i.ənt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "recipient",
+            "plural": "recipients"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person or thing that receives or is awarded something.",
+        "chineseDefinition": "接收或被授予某物的人或事物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He was the recipient of the award.",
+            "chinese": "他是该奖项的获得者。"
+          }
+        ],
+        "synonyms": [
+          "beneficiary",
+          "receiver"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "identical",
+    "pronunciation": "/aɪˈdɛn.tɪk.l̩/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "identical",
+            "comparative": "more identical",
+            "superlative": "most identical"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Similar or alike in every way.",
+        "chineseDefinition": "在各方面都相似或相同。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The two documents were identical.",
+            "chinese": "这两份文件完全相同。"
+          }
+        ],
+        "synonyms": [
+          "same"
+        ],
+        "antonyms": [
+          "different"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "clay",
+    "pronunciation": "/kleɪ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "clay",
+            "plural": "clays"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A stiff, sticky fine-grained earth that can be molded when wet.",
+        "chineseDefinition": "一种细粒的黏性很强的泥土，在潮湿时可以塑形。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She sculpted the vase from clay.",
+            "chinese": "她用黏土雕塑了这个花瓶。"
+          }
+        ],
+        "synonyms": [
+          "mud",
+          "earth"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "rival",
+    "pronunciation": "/ˈraɪ.vəl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "rival",
+            "plural": "rivals"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "rival",
+            "thirdPersonSingular": "rivals",
+            "presentParticiple": "rivaling",
+            "pastTense": "rivaled",
+            "pastParticiple": "rivaled"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person or thing competing with another for the same objective.",
+        "chineseDefinition": "与他人或事物竞争相同目标的人或事物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He faced a strong rival in the final round.",
+            "chinese": "他在最后一轮面临一个强劲对手。"
+          }
+        ],
+        "synonyms": [
+          "competitor"
+        ],
+        "antonyms": []
+      },
+      {
+        "definition": "To be or seem to be equal or comparable to.",
+        "chineseDefinition": "与...相当或可相比。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "No other city can rival Paris for beauty.",
+            "chinese": "没有其他城市在美丽方面可以与巴黎媲美。"
+          }
+        ],
+        "synonyms": [
+          "match",
+          "compete with"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "tropospheric",
+    "pronunciation": "/ˌtrɒp.əˈsfɛr.ɪk/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "tropospheric",
+            "comparative": "more tropospheric",
+            "superlative": "most tropospheric"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Relating to or situated in the troposphere, the lowest layer of the Earth's atmosphere.",
+        "chineseDefinition": "与对流层相关或位于地球大气的最底层。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Tropospheric ozone can affect air quality.",
+            "chinese": "对流层臭氧会影响空气质量。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "attraction",
+    "pronunciation": "/əˈtræk.ʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "attraction",
+            "plural": "attractions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A quality or feature that evokes interest, liking, or desire.",
+        "chineseDefinition": "激发兴趣、喜爱或欲望的特质或特征。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The theme park is a popular attraction.",
+            "chinese": "这个主题公园是一个热门景点。"
+          }
+        ],
+        "synonyms": [
+          "appeal",
+          "charm"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "earthwork",
+    "pronunciation": "/ˈɜːθ.wɜːk/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "earthwork",
+            "plural": "earthworks"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A large artificial bank of soil, especially one made as a defense.",
+        "chineseDefinition": "大型人造土堤，尤其是作为防御而建的。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Archaeologists discovered ancient earthworks in this region.",
+            "chinese": "考古学家在该地区发现了古代土木工事。"
+          }
+        ],
+        "synonyms": [
+          "embankment"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "surround",
+    "pronunciation": "/səˈraʊnd/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "surround",
+            "thirdPersonSingular": "surrounds",
+            "presentParticiple": "surrounding",
+            "pastTense": "surrounded",
+            "pastParticiple": "surrounded"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To be all around someone or something.",
+        "chineseDefinition": "在某人或某物的周围。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Tall trees surround the house.",
+            "chinese": "高大的树木环绕着这所房子。"
+          }
+        ],
+        "synonyms": [
+          "encircle",
+          "encompass"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "impression",
+    "pronunciation": "/ɪmˈprɛʃ.ən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "impression",
+            "plural": "impressions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An idea, feeling, or opinion about something or someone.",
+        "chineseDefinition": "对某事或某人的想法、感觉或观点。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He made a good impression on his new boss.",
+            "chinese": "他给新老板留下了好印象。"
+          }
+        ],
+        "synonyms": [
+          "impact",
+          "effect"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "horrify",
+    "pronunciation": "/ˈhɒr.ɪ.faɪ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "horrify",
+            "thirdPersonSingular": "horrifies",
+            "presentParticiple": "horrifying",
+            "pastTense": "horrified",
+            "pastParticiple": "horrified"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To fill with horror or shock.",
+        "chineseDefinition": "使充满恐惧或震惊。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The movie horrified its audience.",
+            "chinese": "这部电影让观众感到恐惧。"
+          }
+        ],
+        "synonyms": [
+          "terrify",
+          "shock"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "introduction",
+    "pronunciation": "/ˌɪn.trəˈdʌk.ʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "introduction",
+            "plural": "introductions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The action of introducing something or someone.",
+        "chineseDefinition": "介绍某事物或某人的行为。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "His introduction of new rules was met with resistance.",
+            "chinese": "他推出新规则的行为遭到了抵制。"
+          }
+        ],
+        "synonyms": [
+          "initiation",
+          "presentation"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "compact",
+    "pronunciation": "/kəmˈpækt/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "compact",
+            "comparative": "more compact",
+            "superlative": "most compact"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Closely and neatly packed together.",
+        "chineseDefinition": "紧密且整齐地聚集在一起。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The apartment is small but very compact.",
+            "chinese": "这个公寓很小但十分紧凑。"
+          }
+        ],
+        "synonyms": [
+          "dense",
+          "condensed"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "enquire",
+    "pronunciation": "/ɪnˈkwaɪər/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "enquire",
+            "thirdPersonSingular": "enquires",
+            "presentParticiple": "enquiring",
+            "pastTense": "enquired",
+            "pastParticiple": "enquired"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To ask for information.",
+        "chineseDefinition": "询问信息。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "I would like to enquire about the train schedule.",
+            "chinese": "我想询问一下火车时刻表。"
+          }
+        ],
+        "synonyms": [
+          "ask",
+          "investigate"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "onwards",
+    "pronunciation": "/ˈɒn.wədz/",
+    "forms": [
+      {
+        "partOfSpeech": "adverb",
+        "form": {
+          "type": "invariable",
+          "data": "onwards"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Moving or continuing forward.",
+        "chineseDefinition": "向前或继续进行。",
+        "partOfSpeech": "adverb",
+        "examples": [
+          {
+            "english": "From that day onwards, she worked harder.",
+            "chinese": "从那天起，她更加努力地工作。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "memorandum",
+    "pronunciation": "/ˌmɛm.əˈræn.dəm/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "memorandum",
+            "plural": "memoranda"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A written message, especially in business or diplomacy.",
+        "chineseDefinition": "一种书面的消息，尤其用于商业或外交。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He sent a memorandum to all employees.",
+            "chinese": "他向所有员工发送了一份备忘录。"
+          }
+        ],
+        "synonyms": [
+          "note",
+          "memo"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "rectangular",
+    "pronunciation": "/rɛkˈtæŋ.gjʊ.lər/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "rectangular",
+            "comparative": "more rectangular",
+            "superlative": "most rectangular"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Shaped like a rectangle.",
+        "chineseDefinition": "呈矩形状的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "We need a rectangular table for this room.",
+            "chinese": "我们需要一张矩形桌子放在这个房间里。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "kidney",
+    "pronunciation": "/ˈkɪd.ni/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "kidney",
+            "plural": "kidneys"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Each of a pair of organs in the abdominal cavity of mammals that excrete urine.",
+        "chineseDefinition": "哺乳动物腹腔内成对的排泄尿液的器官。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She has donated a kidney to her brother.",
+            "chinese": "她捐献了一个肾给她的哥哥。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "standpoint",
+    "pronunciation": "/ˈstænd.pɔɪnt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "standpoint",
+            "plural": "standpoints"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An attitude to or outlook on issues, typically arising from one's circumstances or beliefs.",
+        "chineseDefinition": "对问题的态度或看法，通常来自于自身的处境或信仰。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "From my standpoint, the plan seems feasible.",
+            "chinese": "从我的立场来看，这个计划似乎可行。"
+          }
+        ],
+        "synonyms": [
+          "perspective",
+          "point of view"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "curative",
+    "pronunciation": "/ˈkjʊr.ə.tɪv/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "curative",
+            "comparative": "more curative",
+            "superlative": "most curative"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Able to cure something, typically disease.",
+        "chineseDefinition": "能够治愈某种疾病的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "This herb is said to have curative properties.",
+            "chinese": "据说这种草药具有疗效。"
+          }
+        ],
+        "synonyms": [
+          "healing"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "predominantly",
+    "pronunciation": "/prɪˈdɒm.ɪ.nənt.li/",
+    "forms": [
+      {
+        "partOfSpeech": "adverb",
+        "form": {
+          "type": "invariable",
+          "data": "predominantly"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Mainly; for the most part.",
+        "chineseDefinition": "主要地；大部分。",
+        "partOfSpeech": "adverb",
+        "examples": [
+          {
+            "english": "The region is predominantly rural.",
+            "chinese": "这个地区主要是农村。"
+          }
+        ],
+        "synonyms": [
+          "mainly",
+          "mostly"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "clutch",
+    "pronunciation": "/klʌtʃ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "clutch",
+            "plural": "clutches"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "clutch",
+            "thirdPersonSingular": "clutches",
+            "presentParticiple": "clutching",
+            "pastTense": "clutched",
+            "pastParticiple": "clutched"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A tight grasp or an act of grasping something.",
+        "chineseDefinition": "紧握或抓紧某物的动作。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She held her purse in a firm clutch.",
+            "chinese": "她牢牢地抓着自己的钱包。"
+          }
+        ],
+        "synonyms": [
+          "grip",
+          "grasp"
+        ],
+        "antonyms": []
+      },
+      {
+        "definition": "To grasp or seize something tightly or eagerly.",
+        "chineseDefinition": "紧紧或急切地抓住某物。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He clutched the railing as he climbed the stairs.",
+            "chinese": "他在爬楼梯时紧紧抓住栏杆。"
+          }
+        ],
+        "synonyms": [
+          "grab",
+          "seize"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "combine",
+    "pronunciation": "/kəmˈbaɪn/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "combine",
+            "thirdPersonSingular": "combines",
+            "presentParticiple": "combining",
+            "pastTense": "combined",
+            "pastParticiple": "combined"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To unite or merge into a single entity or body.",
+        "chineseDefinition": "联合或合并为一个整体。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "We can combine both methods to achieve better results.",
+            "chinese": "我们可以结合两种方法以获得更好的结果。"
+          }
+        ],
+        "synonyms": [
+          "merge",
+          "unite"
+        ],
+        "antonyms": []
+      }
+    ]
+  }
+]

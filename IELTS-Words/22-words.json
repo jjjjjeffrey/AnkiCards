@@ -1,0 +1,1200 @@
+[
+  {
+    "word": "status",
+    "pronunciation": "/ˈsteɪtəs/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "invariable",
+          "data": "status"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A state or condition of affairs; the social or professional position of someone or something.",
+        "chineseDefinition": "状况或条件；某人或某事物的社会或职业地位。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He wanted to improve his financial status.",
+            "chinese": "他想改善自己的财务状况。"
+          }
+        ],
+        "synonyms": [
+          "standing",
+          "position"
+        ],
+        "antonyms": [
+          "disregard"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "document",
+    "pronunciation": "/ˈdɒkjʊmɛnt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "document",
+            "plural": "documents"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "document",
+            "thirdPersonSingular": "documents",
+            "presentParticiple": "documenting",
+            "pastTense": "documented",
+            "pastParticiple": "documented"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A piece of written, printed, or electronic matter that provides information.",
+        "chineseDefinition": "提供信息的书面、印刷或电子材料。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Please send the document by the end of the day.",
+            "chinese": "请在今天结束前发送文件。"
+          }
+        ],
+        "synonyms": [
+          "record",
+          "paper"
+        ],
+        "antonyms": []
+      },
+      {
+        "definition": "To record the details of something, often in writing or another permanent form.",
+        "chineseDefinition": "记录某事的细节，通常以书面或其他永久形式。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She carefully documented each step of the experiment.",
+            "chinese": "她仔细记录了实验的每一步。"
+          }
+        ],
+        "synonyms": [
+          "record",
+          "log"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "mattress",
+    "pronunciation": "/ˈmætrəs/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "mattress",
+            "plural": "mattresses"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A fabric case filled with soft, firm, or springy material, used for sleeping on.",
+        "chineseDefinition": "用柔软或有弹性材料填充的织物垫，用于睡觉。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We bought a comfortable mattress for the new bed.",
+            "chinese": "我们为新床买了一个舒适的床垫。"
+          }
+        ],
+        "synonyms": [
+          "bed",
+          "padding"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "hostile",
+    "pronunciation": "/ˈhɒstaɪl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "hostile",
+            "comparative": "more hostile",
+            "superlative": "most hostile"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Unfriendly; antagonistic.",
+        "chineseDefinition": "不友好的；敌对的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The crowd became hostile during the protest.",
+            "chinese": "在抗议期间，人群变得敌对。"
+          }
+        ],
+        "synonyms": [
+          "unfriendly",
+          "antagonistic"
+        ],
+        "antonyms": [
+          "friendly"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "intervene",
+    "pronunciation": "/ˌɪntəˈviːn/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "intervene",
+            "thirdPersonSingular": "intervenes",
+            "presentParticiple": "intervening",
+            "pastTense": "intervened",
+            "pastParticiple": "intervened"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To come between so as to prevent or alter a result or course of events.",
+        "chineseDefinition": "介入以防止或改变结果或进程。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She had to intervene before the argument escalated.",
+            "chinese": "她不得不介入以防争论升级。"
+          }
+        ],
+        "synonyms": [
+          "interfere",
+          "mediate"
+        ],
+        "antonyms": [
+          "ignore"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "promote",
+    "pronunciation": "/prəˈməʊt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "promote",
+            "thirdPersonSingular": "promotes",
+            "presentParticiple": "promoting",
+            "pastTense": "promoted",
+            "pastParticiple": "promoted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To support or actively encourage (a cause, venture, etc.); to further the progress of.",
+        "chineseDefinition": "支持或积极鼓励（某个事业、企业等）；促进其进展。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The company aims to promote a healthy lifestyle.",
+            "chinese": "该公司旨在推广健康的生活方式。"
+          }
+        ],
+        "synonyms": [
+          "advance",
+          "encourage"
+        ],
+        "antonyms": [
+          "hinder"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bump",
+    "pronunciation": "/bʌmp/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "bump",
+            "thirdPersonSingular": "bumps",
+            "presentParticiple": "bumping",
+            "pastTense": "bumped",
+            "pastParticiple": "bumped"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "bump",
+            "plural": "bumps"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To knock or run into someone or something with a jolt.",
+        "chineseDefinition": "碰撞或与某人或某物轻微撞击。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "I bumped into my old friend at the mall.",
+            "chinese": "我在商场碰到了我的老朋友。"
+          }
+        ],
+        "synonyms": [
+          "collide",
+          "knock"
+        ],
+        "antonyms": []
+      },
+      {
+        "definition": "A light blow or a jolting collision.",
+        "chineseDefinition": "轻微的撞击或碰撞。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He had a small bump on his forehead.",
+            "chinese": "他额头上有一个小肿块。"
+          }
+        ],
+        "synonyms": [
+          "collision",
+          "knock"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "reunion",
+    "pronunciation": "/ˌriːˈjuːniən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "reunion",
+            "plural": "reunions"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An instance of two or more people coming together again after a period of separation.",
+        "chineseDefinition": "分离一段时间后再次相聚。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The family reunion was filled with laughter and memories.",
+            "chinese": "家庭聚会充满了欢笑和回忆。"
+          }
+        ],
+        "synonyms": [
+          "gathering",
+          "homecoming"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "digestive",
+    "pronunciation": "/daɪˈdʒɛstɪv/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "digestive",
+            "comparative": "more digestive",
+            "superlative": "most digestive"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Relating to the process of digesting food.",
+        "chineseDefinition": "与消化食物的过程相关。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Her digestive system is very sensitive.",
+            "chinese": "她的消化系统非常敏感。"
+          }
+        ],
+        "synonyms": [
+          "stomach-related"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "homestay",
+    "pronunciation": "/ˈhoʊmsteɪ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "homestay",
+            "plural": "homestays"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A visit in which a guest stays at a residence of a local family of the place they are visiting.",
+        "chineseDefinition": "在旅行目的地与当地家庭一起居住的体验。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They chose a homestay to experience the local culture.",
+            "chinese": "他们选择家庭寄宿来体验当地文化。"
+          }
+        ],
+        "synonyms": [
+          "lodging"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "commit",
+    "pronunciation": "/kəˈmɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "commit",
+            "thirdPersonSingular": "commits",
+            "presentParticiple": "committing",
+            "pastTense": "committed",
+            "pastParticiple": "committed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To carry out or perpetrate (a mistake, crime, or immoral act).",
+        "chineseDefinition": "实施或犯下（错误、犯罪或不道德行为）。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He committed a serious mistake in the code.",
+            "chinese": "他在代码中犯了一个严重的错误。"
+          }
+        ],
+        "synonyms": [
+          "perpetrate",
+          "execute"
+        ],
+        "antonyms": []
+      },
+      {
+        "definition": "To pledge or bind (a person or an organization) to a certain course or policy.",
+        "chineseDefinition": "承诺或约束（某人或某组织）遵循某一特定的方针或政策。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They committed to completing the project on time.",
+            "chinese": "他们承诺按时完成项目。"
+          }
+        ],
+        "synonyms": [
+          "pledge",
+          "guarantee"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "practically",
+    "pronunciation": "/ˈpræktɪkli/",
+    "forms": [
+      {
+        "partOfSpeech": "adverb",
+        "form": {
+          "type": "invariable",
+          "data": "practically"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Virtually; almost.",
+        "chineseDefinition": "几乎；差不多。",
+        "partOfSpeech": "adverb",
+        "examples": [
+          {
+            "english": "It's practically impossible to finish this in one day.",
+            "chinese": "在一天内完成这件事几乎不可能。"
+          }
+        ],
+        "synonyms": [
+          "nearly",
+          "almost"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "acrobat",
+    "pronunciation": "/ˈækrəˌbæt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "acrobat",
+            "plural": "acrobats"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An entertainer who performs spectacular gymnastic feats.",
+        "chineseDefinition": "表演壮观体操技巧的艺人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The acrobat wowed the audience with a series of flips.",
+            "chinese": "那位杂技演员以一系列翻腾动作令观众惊叹。"
+          }
+        ],
+        "synonyms": [
+          "gymnast",
+          "performer"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "revenue",
+    "pronunciation": "/ˈrɛvɪnjuː/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "invariable",
+          "data": "revenue"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Income, especially when of an organization and of a substantial nature.",
+        "chineseDefinition": "收入，尤其指组织的可观收入。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The company reported a 10% increase in revenue.",
+            "chinese": "这家公司报告收入增长了10%。"
+          }
+        ],
+        "synonyms": [
+          "income",
+          "earnings"
+        ],
+        "antonyms": [
+          "expenditure"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nickel",
+    "pronunciation": "/ˈnɪkəl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "nickel",
+            "plural": "nickels"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A silvery-white metal, the chemical element of atomic number 28.",
+        "chineseDefinition": "一种银白色金属，原子序数为28。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Nickel is used in many alloys for its corrosion resistance.",
+            "chinese": "镍因其耐腐蚀性而被用于多种合金。"
+          }
+        ],
+        "synonyms": [
+          "metal"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "limp",
+    "pronunciation": "/lɪmp/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "limp",
+            "thirdPersonSingular": "limps",
+            "presentParticiple": "limping",
+            "pastTense": "limped",
+            "pastParticiple": "limped"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "limp",
+            "comparative": "limper",
+            "superlative": "limpest"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Walk with difficulty, typically because of a damaged or stiff leg or foot.",
+        "chineseDefinition": "因腿或脚受伤或僵硬而行走困难。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He limped off the field after twisting his ankle.",
+            "chinese": "他扭伤脚踝后一瘸一拐地离开了球场。"
+          }
+        ],
+        "synonyms": [
+          "hobble"
+        ],
+        "antonyms": []
+      },
+      {
+        "definition": "Lacking internal strength or structure; not stiff or firm.",
+        "chineseDefinition": "缺乏内在强度或结构的；不坚硬或不牢固的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The flowers went limp without water.",
+            "chinese": "没有水后花朵就蔫了。"
+          }
+        ],
+        "synonyms": [
+          "floppy",
+          "weak"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "spit",
+    "pronunciation": "/spɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "spit",
+            "thirdPersonSingular": "spits",
+            "presentParticiple": "spitting",
+            "pastTense": "spat",
+            "pastParticiple": "spat"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Eject saliva forcibly from one's mouth.",
+        "chineseDefinition": "用力将唾液从口中吐出。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He spat on the ground to show his anger.",
+            "chinese": "他向地上吐口水以表示愤怒。"
+          }
+        ],
+        "synonyms": [
+          "expectorate"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "irregularity",
+    "pronunciation": "/ɪˌrɛgjʊˈlærɪti/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "irregularity",
+            "plural": "irregularities"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The state or quality of being irregular; something that is not in accordance with accepted patterns.",
+        "chineseDefinition": "不规则或与常规模式不符。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The audit revealed several financial irregularities.",
+            "chinese": "审计发现了几处财务违规。"
+          }
+        ],
+        "synonyms": [
+          "anomaly",
+          "inconsistency"
+        ],
+        "antonyms": [
+          "consistency"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "breeze",
+    "pronunciation": "/briːz/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "breeze",
+            "plural": "breezes"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A gentle wind.",
+        "chineseDefinition": "微风。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "A light breeze made the afternoon comfortable.",
+            "chinese": "一阵微风使下午很舒适。"
+          }
+        ],
+        "synonyms": [
+          "wind",
+          "air"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "avenue",
+    "pronunciation": "/ˈævənjuː/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "avenue",
+            "plural": "avenues"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A broad road or street in a town or city, typically having trees at regular intervals along its sides.",
+        "chineseDefinition": "城市中宽阔的道路，两旁通常有规律地种植树木。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They walked down the main avenue lined with shops.",
+            "chinese": "他们走在两旁林立商店的主要大道上。"
+          }
+        ],
+        "synonyms": [
+          "boulevard",
+          "street"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "magnify",
+    "pronunciation": "/ˈmæɡnɪfaɪ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "magnify",
+            "thirdPersonSingular": "magnifies",
+            "presentParticiple": "magnifying",
+            "pastTense": "magnified",
+            "pastParticiple": "magnified"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Make (something) appear larger than it is, especially with a lens or microscope.",
+        "chineseDefinition": "使（某物）显得比实际更大，尤其使用透镜或显微镜。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Microscopes are used to magnify tiny objects.",
+            "chinese": "显微镜用于放大微小的物体。"
+          }
+        ],
+        "synonyms": [
+          "enlarge",
+          "amplify"
+        ],
+        "antonyms": [
+          "reduce"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "hive",
+    "pronunciation": "/haɪv/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "hive",
+            "plural": "hives"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A beehive, or the colony of bees in it.",
+        "chineseDefinition": "蜂巢，或其中的蜂群。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The hive was buzzing with activity.",
+            "chinese": "蜂巢里忙碌不停。"
+          }
+        ],
+        "synonyms": [
+          "beehive"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "oxide",
+    "pronunciation": "/ˈɒksaɪd/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "invariable",
+          "data": "oxide"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A binary compound of oxygen with another element or group.",
+        "chineseDefinition": "氧与另一种元素或基团形成的二元化合物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Iron oxide is commonly known as rust.",
+            "chinese": "氧化铁通常被称为铁锈。"
+          }
+        ],
+        "synonyms": [
+          "compound"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "calf",
+    "pronunciation": "/kɑːf/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "calf",
+            "plural": "calves"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A young bovine animal, especially a domestic cow or bull in its first year.",
+        "chineseDefinition": "幼小的牛，尤指处于第一年的家牛或公牛。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The calf stayed close to its mother in the field.",
+            "chinese": "那只小牛紧挨着它的母亲在田里。"
+          }
+        ],
+        "synonyms": [
+          "young cow"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "foremost",
+    "pronunciation": "/ˈfɔːməʊst/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "foremost",
+            "comparative": "more foremost",
+            "superlative": "most foremost"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Most prominent in rank, importance, or position.",
+        "chineseDefinition": "在地位、重要性或职位上最突出的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He is one of the foremost experts in his field.",
+            "chinese": "他是该领域最重要的专家之一。"
+          }
+        ],
+        "synonyms": [
+          "leading",
+          "principal"
+        ],
+        "antonyms": [
+          "minor",
+          "unimportant"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "procedure",
+    "pronunciation": "/prəˈsiːdʒə/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "invariable",
+          "data": "procedure"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An established or official way of doing something.",
+        "chineseDefinition": "执行某事的既定或官方方式。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Please follow the standard operating procedure.",
+            "chinese": "请遵循标准操作流程。"
+          }
+        ],
+        "synonyms": [
+          "process",
+          "method"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "assemble",
+    "pronunciation": "/əˈsɛmbəl/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "assemble",
+            "thirdPersonSingular": "assembles",
+            "presentParticiple": "assembling",
+            "pastTense": "assembled",
+            "pastParticiple": "assembled"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Gather together in one place for a common purpose, or fit together the separate component parts of something.",
+        "chineseDefinition": "为了一个共同的目的而聚集在一个地方，或将事物的各个部件组合在一起。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They assembled the new furniture in the living room.",
+            "chinese": "他们在客厅里装配了新家具。"
+          }
+        ],
+        "synonyms": [
+          "gather",
+          "construct"
+        ],
+        "antonyms": [
+          "disperse"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "plagiarism",
+    "pronunciation": "/ˈpleɪdʒərɪzəm/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "invariable",
+          "data": "plagiarism"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The practice of taking someone else's work or ideas and passing them off as one's own.",
+        "chineseDefinition": "将他人的作品或想法据为己有的行为。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He was expelled for plagiarism in his paper.",
+            "chinese": "他因论文抄袭而被开除。"
+          }
+        ],
+        "synonyms": [
+          "copying",
+          "stealing"
+        ],
+        "antonyms": [
+          "originality"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "gallop",
+    "pronunciation": "/ˈɡæləp/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "gallop",
+            "thirdPersonSingular": "gallops",
+            "presentParticiple": "galloping",
+            "pastTense": "galloped",
+            "pastParticiple": "galloped"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "gallop",
+            "plural": "gallops"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To move or run forward fast, especially with a four-beat gait of a horse.",
+        "chineseDefinition": "向前快速移动或奔跑，尤其指马的四拍奔跑。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The horse galloped across the field.",
+            "chinese": "那匹马在田野上飞奔。"
+          }
+        ],
+        "synonyms": [
+          "charge",
+          "rush"
+        ],
+        "antonyms": []
+      },
+      {
+        "definition": "A fast gait of a horse or other quadruped, with all the feet off the ground together in each stride.",
+        "chineseDefinition": "马或其他四足动物处于快速奔跑的步态，每步都有四肢同时腾空。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He could hear the gallop of approaching horses.",
+            "chinese": "他能听到马匹快速奔跑的声音。"
+          }
+        ],
+        "synonyms": [
+          "run",
+          "sprint"
+        ],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "pledge",
+    "pronunciation": "/plɛdʒ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "pledge",
+            "thirdPersonSingular": "pledges",
+            "presentParticiple": "pledging",
+            "pastTense": "pledged",
+            "pastParticiple": "pledged"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "pledge",
+            "plural": "pledges"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To commit (a person or organization) by a solemn promise.",
+        "chineseDefinition": "通过郑重承诺使（某人或组织）作出承诺。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They pledged to support the charity event.",
+            "chinese": "他们承诺支持该慈善活动。"
+          }
+        ],
+        "synonyms": [
+          "promise",
+          "vow"
+        ],
+        "antonyms": []
+      },
+      {
+        "definition": "A solemn promise or undertaking.",
+        "chineseDefinition": "郑重的承诺或保证。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He made a pledge to help those in need.",
+            "chinese": "他承诺帮助有需要的人。"
+          }
+        ],
+        "synonyms": [
+          "commitment",
+          "assurance"
+        ],
+        "antonyms": []
+      }
+    ]
+  }
+]

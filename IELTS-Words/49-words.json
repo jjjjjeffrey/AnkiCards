@@ -1,0 +1,1186 @@
+[
+  {
+    "word": "aggravation",
+    "pronunciation": "/ˌæɡrəˈveɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "aggravation",
+            "plural": "aggravations"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The act or result of aggravating something; the condition of being aggravated.",
+        "chineseDefinition": "加剧或恶化的行为或结果；被激怒的状态。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "His constant complaints are a source of aggravation.",
+            "chinese": "他不断的抱怨是让人恼火的根源。"
+          }
+        ],
+        "synonyms": ["irritation", "annoyance"],
+        "antonyms": ["comfort", "relief"]
+      }
+    ]
+  },
+  {
+    "word": "incident",
+    "pronunciation": "/ˈɪnsɪdənt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "incident",
+            "plural": "incidents"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An event or occurrence, often of minor importance.",
+        "chineseDefinition": "一件事件或发生，通常较小但值得注意。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "There was a minor incident at the conference.",
+            "chinese": "会议上发生了一起小事件。"
+          }
+        ],
+        "synonyms": ["occurrence", "event"],
+        "antonyms": ["non-event"]
+      }
+    ]
+  },
+  {
+    "word": "previous",
+    "pronunciation": "/ˈpriːviəs/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "previous",
+            "comparative": "more previous",
+            "superlative": "most previous"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Existing or occurring before in time or order.",
+        "chineseDefinition": "在时间或顺序上更早出现或发生的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "This is the previous version of the document.",
+            "chinese": "这是该文件的上一个版本。"
+          }
+        ],
+        "synonyms": ["prior", "earlier"],
+        "antonyms": ["subsequent", "following"]
+      }
+    ]
+  },
+  {
+    "word": "spice",
+    "pronunciation": "/spaɪs/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "spice",
+            "plural": "spices"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "spice",
+            "thirdPersonSingular": "spices",
+            "presentParticiple": "spicing",
+            "pastTense": "spiced",
+            "pastParticiple": "spiced"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A substance used to flavor food, typically extracted from plants.",
+        "chineseDefinition": "调味品，用于给食物增添风味，通常来自植物提取物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She added too much spice to the stew.",
+            "chinese": "她在炖菜里放了太多香料。"
+          }
+        ],
+        "synonyms": ["seasoning"],
+        "antonyms": []
+      },
+      {
+        "definition": "To add spices or flavor to food.",
+        "chineseDefinition": "给食物添加香料或风味。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He decided to spice the dish with chili peppers.",
+            "chinese": "他决定用辣椒给菜肴增添风味。"
+          }
+        ],
+        "synonyms": ["season", "flavor"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "bore",
+    "pronunciation": "/bɔːr/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "bore",
+            "plural": "bores"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "bore",
+            "thirdPersonSingular": "bores",
+            "presentParticiple": "boring",
+            "pastTense": "bored",
+            "pastParticiple": "bored"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Something or someone that is dull and uninteresting.",
+        "chineseDefinition": "无聊且无趣的事物或人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "That lecture was a real bore.",
+            "chinese": "那场演讲实在太无聊了。"
+          }
+        ],
+        "synonyms": ["drudge", "snooze"],
+        "antonyms": ["excitement"]
+      },
+      {
+        "definition": "To cause someone to feel weary and uninterested.",
+        "chineseDefinition": "让某人感到厌倦或提不起兴趣。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He bores everyone with his endless stories.",
+            "chinese": "他用没完没了的故事让所有人感到厌烦。"
+          }
+        ],
+        "synonyms": ["weary", "tire"],
+        "antonyms": ["interest", "engage"]
+      }
+    ]
+  },
+  {
+    "word": "lull",
+    "pronunciation": "/lʌl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "lull",
+            "plural": "lulls"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "lull",
+            "thirdPersonSingular": "lulls",
+            "presentParticiple": "lulling",
+            "pastTense": "lulled",
+            "pastParticiple": "lulled"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A temporary interval of quiet or lack of activity.",
+        "chineseDefinition": "短暂的安静或活动暂停。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "There was a lull in the conversation.",
+            "chinese": "谈话中出现了短暂的沉默。"
+          }
+        ],
+        "synonyms": ["pause", "break"],
+        "antonyms": ["continuation", "intensity"]
+      },
+      {
+        "definition": "To calm or send to sleep, typically with soothing sounds or movements.",
+        "chineseDefinition": "通过舒缓的声音或动作使人平静或入睡。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The mother lulled her baby to sleep.",
+            "chinese": "那位母亲哄着她的宝宝入睡。"
+          }
+        ],
+        "synonyms": ["soothe", "calm"],
+        "antonyms": ["agitate", "excite"]
+      }
+    ]
+  },
+  {
+    "word": "county",
+    "pronunciation": "/ˈkaʊnti/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "county",
+            "plural": "counties"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A region created by territorial division for the purpose of local government.",
+        "chineseDefinition": "为地方政府设立的行政区域单元。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He lives in the largest county in the state.",
+            "chinese": "他居住在该州最大的行政县里。"
+          }
+        ],
+        "synonyms": ["district", "region"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "betray",
+    "pronunciation": "/bɪˈtreɪ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "betray",
+            "thirdPersonSingular": "betrays",
+            "presentParticiple": "betraying",
+            "pastTense": "betrayed",
+            "pastParticiple": "betrayed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To be disloyal to someone or something that trusts you.",
+        "chineseDefinition": "对信任你的人或事物表现出不忠诚。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He betrayed his best friend by revealing his secret.",
+            "chinese": "他出卖了他最好的朋友，泄露了他的秘密。"
+          }
+        ],
+        "synonyms": ["deceive", "double-cross"],
+        "antonyms": ["loyal", "protect"]
+      }
+    ]
+  },
+  {
+    "word": "underlying",
+    "pronunciation": "/ˌʌndərˈlaɪɪŋ/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "underlying",
+            "comparative": "more underlying",
+            "superlative": "most underlying"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Significant in influence or cause but not immediately obvious.",
+        "chineseDefinition": "在影响或原因上起重要作用，但并不立即显而易见。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The underlying reasons for the crisis were financial.",
+            "chinese": "这场危机的深层原因是金融方面的问题。"
+          }
+        ],
+        "synonyms": ["fundamental", "basic"],
+        "antonyms": ["obvious", "superficial"]
+      }
+    ]
+  },
+  {
+    "word": "dispiriting",
+    "pronunciation": "/dɪˈspɪrɪtɪŋ/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "dispiriting",
+            "comparative": "more dispiriting",
+            "superlative": "most dispiriting"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Causing someone to lose enthusiasm and hope; disheartening.",
+        "chineseDefinition": "使人丧失热情和希望；令人气馁。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "It was dispiriting to see so little progress.",
+            "chinese": "看到这么少的进展真是令人沮丧。"
+          }
+        ],
+        "synonyms": ["depressing", "discouraging"],
+        "antonyms": ["encouraging", "inspiring"]
+      }
+    ]
+  },
+  {
+    "word": "opulent",
+    "pronunciation": "/ˈɒpjʊlənt/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "opulent",
+            "comparative": "more opulent",
+            "superlative": "most opulent"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Ostentatiously rich and luxurious or lavish.",
+        "chineseDefinition": "极度富有且奢华的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "They lived in an opulent mansion filled with artwork.",
+            "chinese": "他们住在一座奢华的豪宅里，里面摆满了艺术品。"
+          }
+        ],
+        "synonyms": ["luxurious", "lavish"],
+        "antonyms": ["meager", "poor"]
+      }
+    ]
+  },
+  {
+    "word": "plush",
+    "pronunciation": "/plʌʃ/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "plush",
+            "comparative": "plusher",
+            "superlative": "plushest"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Richly luxurious and expensive.",
+        "chineseDefinition": "极其奢华且昂贵的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The plush hotel suite had its own private sauna.",
+            "chinese": "那间豪华的酒店套房里有私人桑拿房。"
+          }
+        ],
+        "synonyms": ["lavish", "luxurious"],
+        "antonyms": ["plain", "cheap"]
+      }
+    ]
+  },
+  {
+    "word": "dispense",
+    "pronunciation": "/dɪˈspɛns/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "dispense",
+            "thirdPersonSingular": "dispenses",
+            "presentParticiple": "dispensing",
+            "pastTense": "dispensed",
+            "pastParticiple": "dispensed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To distribute or provide a service or product to a number of people.",
+        "chineseDefinition": "向许多人分发或提供某种服务或产品。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Pharmacists dispense medicine to patients.",
+            "chinese": "药剂师向病人分发药物。"
+          }
+        ],
+        "synonyms": ["distribute", "allocate"],
+        "antonyms": ["withhold", "keep"]
+      }
+    ]
+  },
+  {
+    "word": "behalf",
+    "pronunciation": "/bɪˈhæf/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "invariable",
+          "data": "behalf"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Interest, benefit, or support (used in the phrase 'on behalf of').",
+        "chineseDefinition": "利益、好处或支持（常出现在“代表......”的短语中）。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "I'm speaking on behalf of our whole team.",
+            "chinese": "我代表我们整个团队发言。"
+          }
+        ],
+        "synonyms": ["interest", "favor"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "initial",
+    "pronunciation": "/ɪˈnɪʃəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "initial",
+            "comparative": "more initial",
+            "superlative": "most initial"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "initial",
+            "plural": "initials"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Existing or occurring at the beginning.",
+        "chineseDefinition": "存在或发生于开始阶段的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "We made an initial assessment of the situation.",
+            "chinese": "我们对情况进行了初步评估。"
+          }
+        ],
+        "synonyms": ["first", "early"],
+        "antonyms": ["final", "last"]
+      },
+      {
+        "definition": "The first letter of a name or word, typically a person's name.",
+        "chineseDefinition": "名字或单词的首字母，通常指人的名字。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She carved her initials on the wooden bench.",
+            "chinese": "她在木制长凳上刻下了她的首字母。"
+          }
+        ],
+        "synonyms": ["first letter", "monogram"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "govern",
+    "pronunciation": "/ˈɡʌvərn/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "govern",
+            "thirdPersonSingular": "governs",
+            "presentParticiple": "governing",
+            "pastTense": "governed",
+            "pastParticiple": "governed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To conduct the policy, actions, and affairs of a state, organization, or people.",
+        "chineseDefinition": "管理国家、组织或人群的政策、行动和事务。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He was elected to govern the country.",
+            "chinese": "他当选来管理这个国家。"
+          }
+        ],
+        "synonyms": ["rule", "lead"],
+        "antonyms": ["serve", "obey"]
+      }
+    ]
+  },
+  {
+    "word": "mingle",
+    "pronunciation": "/ˈmɪŋɡl/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "mingle",
+            "thirdPersonSingular": "mingles",
+            "presentParticiple": "mingling",
+            "pastTense": "mingled",
+            "pastParticiple": "mingled"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To mix or cause to mix together.",
+        "chineseDefinition": "使混合或相互交融。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "At the party, everyone began to mingle freely.",
+            "chinese": "在聚会上，每个人都开始自由地交往。"
+          }
+        ],
+        "synonyms": ["mix", "blend"],
+        "antonyms": ["separate", "divide"]
+      }
+    ]
+  },
+  {
+    "word": "charter",
+    "pronunciation": "/ˈtʃɑːrtər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "charter",
+            "plural": "charters"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "charter",
+            "thirdPersonSingular": "charters",
+            "presentParticiple": "chartering",
+            "pastTense": "chartered",
+            "pastParticiple": "chartered"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A written grant by a country's legislative or sovereign power.",
+        "chineseDefinition": "由国家立法部门或最高当局颁布的书面特许状。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They were granted a charter to form their own organization.",
+            "chinese": "他们获得了特许状来组建自己的组织。"
+          }
+        ],
+        "synonyms": ["contract", "document"],
+        "antonyms": []
+      },
+      {
+        "definition": "To lease or hire a vehicle, especially an aircraft, for private use.",
+        "chineseDefinition": "租用或包下交通工具，尤其是飞机，以供私人使用。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They chartered a yacht for the weekend.",
+            "chinese": "他们为周末包下了一艘游艇。"
+          }
+        ],
+        "synonyms": ["rent", "lease"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "formidable",
+    "pronunciation": "/fɔːrˈmɪdəbəl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "formidable",
+            "comparative": "more formidable",
+            "superlative": "most formidable"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Inspiring fear or respect through being impressively large, powerful, or capable.",
+        "chineseDefinition": "由于体型庞大、力量强大或能力出众而令人敬畏或害怕。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "He was faced with a formidable opponent in the debate.",
+            "chinese": "在辩论中他面临了一位强大的对手。"
+          }
+        ],
+        "synonyms": ["intimidating", "daunting"],
+        "antonyms": ["weak", "feeble"]
+      }
+    ]
+  },
+  {
+    "word": "belt",
+    "pronunciation": "/bɛlt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "belt",
+            "plural": "belts"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "belt",
+            "thirdPersonSingular": "belts",
+            "presentParticiple": "belting",
+            "pastTense": "belted",
+            "pastParticiple": "belted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A strip of leather or other material worn around the waist.",
+        "chineseDefinition": "围绕腰部系上的皮革或其他材料带。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He tightened his belt for a better fit.",
+            "chinese": "他收紧皮带以使其更合身。"
+          }
+        ],
+        "synonyms": ["strap"],
+        "antonyms": []
+      },
+      {
+        "definition": "To fasten or secure with a belt.",
+        "chineseDefinition": "用皮带系紧或固定。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She belted her coat before leaving the house.",
+            "chinese": "她在出门前系好了外套的腰带。"
+          }
+        ],
+        "synonyms": ["fasten", "strap"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "relay",
+    "pronunciation": "/rɪˈleɪ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "relay",
+            "plural": "relays"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "relay",
+            "thirdPersonSingular": "relays",
+            "presentParticiple": "relaying",
+            "pastTense": "relayed",
+            "pastParticiple": "relayed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A race or activity in which several team members take turns.",
+        "chineseDefinition": "由多名团队成员轮流参加的接力赛或活动。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We won the 400-meter relay race.",
+            "chinese": "我们赢得了400米接力赛。"
+          }
+        ],
+        "synonyms": ["shift", "succession"],
+        "antonyms": []
+      },
+      {
+        "definition": "To receive and pass on (information or a message).",
+        "chineseDefinition": "接收并传递（信息或消息）。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He relayed the instructions to his colleagues.",
+            "chinese": "他把指令传达给他的同事。"
+          }
+        ],
+        "synonyms": ["transmit", "pass on"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "crockery",
+    "pronunciation": "/ˈkrɑːkəri/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "crockery",
+            "plural": "crockeries"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Plates, dishes, cups, and other similar items used for serving and eating food.",
+        "chineseDefinition": "用来上菜和用餐的盘子、碗、杯子等炊具和餐具。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We bought new crockery for the dinner party.",
+            "chinese": "我们为聚餐买了新的餐具。"
+          }
+        ],
+        "synonyms": ["dishes", "tableware"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "diversify",
+    "pronunciation": "/daɪˈvɜːrsɪfaɪ/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "diversify",
+            "thirdPersonSingular": "diversifies",
+            "presentParticiple": "diversifying",
+            "pastTense": "diversified",
+            "pastParticiple": "diversified"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To make or become more varied in form, nature, or range.",
+        "chineseDefinition": "使形式、性质或范围更加多样化。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The company decided to diversify into new markets.",
+            "chinese": "公司决定向新的市场进行多元化扩张。"
+          }
+        ],
+        "synonyms": ["vary", "expand"],
+        "antonyms": ["focus", "concentrate"]
+      }
+    ]
+  },
+  {
+    "word": "threshold",
+    "pronunciation": "/ˈθrɛʃhoʊld/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "threshold",
+            "plural": "thresholds"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The level or point at which something starts or changes.",
+        "chineseDefinition": "某事开始或发生变化的水平或临界点。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We are on the threshold of a major discovery.",
+            "chinese": "我们正处在一个重大发现的门槛上。"
+          }
+        ],
+        "synonyms": ["limit", "boundary"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "vacation",
+    "pronunciation": "/veɪˈkeɪʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "vacation",
+            "plural": "vacations"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "vacation",
+            "thirdPersonSingular": "vacations",
+            "presentParticiple": "vacationing",
+            "pastTense": "vacationed",
+            "pastParticiple": "vacationed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An extended period of leisure and recreation.",
+        "chineseDefinition": "较长时间的休闲和娱乐活动。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "I'm planning a two-week vacation this summer.",
+            "chinese": "我计划今年夏天度过两周的假期。"
+          }
+        ],
+        "synonyms": ["holiday", "break"],
+        "antonyms": []
+      },
+      {
+        "definition": "To spend a period of time away from home for rest or recreation.",
+        "chineseDefinition": "离开家进行休息或娱乐的活动。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They usually vacation in Europe during the winter.",
+            "chinese": "他们通常在冬天去欧洲度假。"
+          }
+        ],
+        "synonyms": ["holiday", "take a break"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "skyscraper",
+    "pronunciation": "/ˈskaɪˌskreɪpər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "skyscraper",
+            "plural": "skyscrapers"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A very tall building with many stories.",
+        "chineseDefinition": "拥有多层楼层的高耸建筑。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The skyline is dominated by skyscrapers.",
+            "chinese": "天际线上高耸的摩天大楼十分醒目。"
+          }
+        ],
+        "synonyms": ["high-rise", "tower"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "draft",
+    "pronunciation": "/dræft/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "draft",
+            "plural": "drafts"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "draft",
+            "thirdPersonSingular": "drafts",
+            "presentParticiple": "drafting",
+            "pastTense": "drafted",
+            "pastParticiple": "drafted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A preliminary version of a written work.",
+        "chineseDefinition": "文稿的初始版本。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He finished the first draft of his novel last week.",
+            "chinese": "他上周完成了小说的第一稿。"
+          }
+        ],
+        "synonyms": ["outline", "version"],
+        "antonyms": []
+      },
+      {
+        "definition": "To prepare a preliminary version of a text or plan.",
+        "chineseDefinition": "准备文稿或计划的初始版本。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She drafted a contract for the new partnership.",
+            "chinese": "她为新的合作关系起草了一份合约。"
+          }
+        ],
+        "synonyms": ["outline", "compose"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "deter",
+    "pronunciation": "/dɪˈtɜːr/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "deter",
+            "thirdPersonSingular": "deters",
+            "presentParticiple": "deterring",
+            "pastTense": "deterred",
+            "pastParticiple": "deterred"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To discourage or prevent someone from taking action.",
+        "chineseDefinition": "阻止或劝阻某人采取行动。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Strict security measures will deter most criminals.",
+            "chinese": "严格的安保措施会阻挡大多数罪犯。"
+          }
+        ],
+        "synonyms": ["discourage", "prevent"],
+        "antonyms": ["encourage", "support"]
+      }
+    ]
+  },
+  {
+    "word": "promising",
+    "pronunciation": "/ˈprɑːmɪsɪŋ/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "promising",
+            "comparative": "more promising",
+            "superlative": "most promising"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Showing signs of future success or achievement.",
+        "chineseDefinition": "表现出未来成功或成就迹象的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She is a promising young artist.",
+            "chinese": "她是一位很有前途的年轻艺术家。"
+          }
+        ],
+        "synonyms": ["hopeful", "encouraging"],
+        "antonyms": ["unpromising", "discouraging"]
+      }
+    ]
+  },
+  {
+    "word": "goal",
+    "pronunciation": "/ɡoʊl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "goal",
+            "plural": "goals"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The object of a person's ambition or effort; an aim or desired result.",
+        "chineseDefinition": "一个人雄心或努力的目标；期望达到的结果。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "His main goal is to become a successful writer.",
+            "chinese": "他的主要目标是成为一名成功的作家。"
+          }
+        ],
+        "synonyms": ["aim", "target"],
+        "antonyms": []
+      }
+    ]
+  }
+]

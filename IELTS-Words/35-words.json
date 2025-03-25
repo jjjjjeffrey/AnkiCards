@@ -1,0 +1,1333 @@
+[
+  {
+    "word": "typhoon",
+    "pronunciation": "/taɪˈfuːn/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "typhoon",
+            "plural": "typhoons"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A tropical cyclone in the western Pacific or Indian Oceans.",
+        "chineseDefinition": "在西太平洋或印度洋形成的热带气旋。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The typhoon caused widespread damage along the coast.",
+            "chinese": "台风在沿海地区造成了大范围的破坏。"
+          }
+        ],
+        "synonyms": ["cyclone", "hurricane"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "appointment",
+    "pronunciation": "/əˈpɔɪnt.mənt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "appointment",
+            "plural": "appointments"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A scheduled meeting time with someone.",
+        "chineseDefinition": "与某人约定的会面时间。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "I have a dentist appointment at 9 AM.",
+            "chinese": "我早上九点有一个牙医预约。"
+          }
+        ],
+        "synonyms": ["meeting", "engagement"],
+        "antonyms": ["cancellation"]
+      }
+    ]
+  },
+  {
+    "word": "slope",
+    "pronunciation": "/sloʊp/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "slope",
+            "plural": "slopes"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "slope",
+            "thirdPersonSingular": "slopes",
+            "presentParticiple": "sloping",
+            "pastTense": "sloped",
+            "pastParticiple": "sloped"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An inclined surface or line.",
+        "chineseDefinition": "倾斜的表面或线。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Skiers love the steep slopes here in winter.",
+            "chinese": "滑雪者喜欢这里冬季时陡峭的斜坡。"
+          }
+        ],
+        "synonyms": ["incline", "gradient"],
+        "antonyms": []
+      },
+      {
+        "definition": "To slant or incline from a horizontal or vertical line.",
+        "chineseDefinition": "从水平或垂直方向倾斜。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The road slopes gently down to the valley.",
+            "chinese": "这条路向山谷轻轻地倾斜下去。"
+          }
+        ],
+        "synonyms": ["incline", "tilt"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "complex",
+    "pronunciation": "/ˈkɒm.pleks/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "complex",
+            "comparative": "more complex",
+            "superlative": "most complex"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "complex",
+            "plural": "complexes"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Consisting of many different and connected parts.",
+        "chineseDefinition": "由多个不同且相互关联的部分组成的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "It's a complex problem that requires detailed analysis.",
+            "chinese": "这是一个需要详细分析的复杂问题。"
+          }
+        ],
+        "synonyms": ["complicated", "intricate"],
+        "antonyms": ["simple"]
+      },
+      {
+        "definition": "A group of similar buildings or facilities on the same site.",
+        "chineseDefinition": "在同一地点的一组相似建筑或设施。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They live in a large apartment complex near the station.",
+            "chinese": "他们住在车站附近的一个大型公寓区。"
+          }
+        ],
+        "synonyms": ["compound", "facility"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "overhead",
+    "pronunciation": "/ˌoʊ.vɚˈhɛd/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "overhead",
+            "plural": "overheads"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "overhead"
+        }
+      },
+      {
+        "partOfSpeech": "adverb",
+        "form": {
+          "type": "invariable",
+          "data": "overhead"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Cost of running a business that is not directly tied to a product or service.",
+        "chineseDefinition": "与产品或服务无直接关联的企业运营成本。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The company's overheads include rent and utilities.",
+            "chinese": "这家公司的开销包括租金和水电费。"
+          }
+        ],
+        "synonyms": ["expenses", "fixed costs"],
+        "antonyms": []
+      },
+      {
+        "definition": "Situated or operating above the level of a person's head.",
+        "chineseDefinition": "位于或在人的头顶上方。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The overhead lights flickered during the storm.",
+            "chinese": "暴风雨期间头顶上的灯闪烁不定。"
+          }
+        ],
+        "synonyms": ["above", "aloft"],
+        "antonyms": []
+      },
+      {
+        "definition": "Above one's head; in the sky.",
+        "chineseDefinition": "在头顶上方；在天空中。",
+        "partOfSpeech": "adverb",
+        "examples": [
+          {
+            "english": "Planes flew overhead throughout the evening.",
+            "chinese": "飞机整个晚上都在头顶上方飞过。"
+          }
+        ],
+        "synonyms": ["above", "aloft"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "population",
+    "pronunciation": "/ˌpɒp.jʊˈleɪ.ʃən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "population",
+            "plural": "populations"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "All the inhabitants of a particular place.",
+        "chineseDefinition": "某特定地方的所有居民。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The population of the city has increased rapidly.",
+            "chinese": "这个城市的人口迅速增长。"
+          }
+        ],
+        "synonyms": ["inhabitants", "people"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "prey",
+    "pronunciation": "/preɪ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "prey",
+            "plural": "preys"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "prey",
+            "thirdPersonSingular": "preys",
+            "presentParticiple": "preying",
+            "pastTense": "preyed",
+            "pastParticiple": "preyed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An animal hunted or seized for food.",
+        "chineseDefinition": "被捕猎或用于食物的动物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The lion watched its prey from a distance.",
+            "chinese": "狮子从远处盯着它的猎物。"
+          }
+        ],
+        "synonyms": ["victim", "quarry"],
+        "antonyms": []
+      },
+      {
+        "definition": "To hunt or catch for food.",
+        "chineseDefinition": "捕猎或捕捉食物。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Wolves often prey on smaller mammals.",
+            "chinese": "狼经常以体型较小的哺乳动物为食。"
+          }
+        ],
+        "synonyms": ["hunt", "feed on"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "catalogue",
+    "pronunciation": "/ˈkæt.əl.ɒɡ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "catalogue",
+            "plural": "catalogues"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "catalogue",
+            "thirdPersonSingular": "catalogues",
+            "presentParticiple": "cataloguing",
+            "pastTense": "catalogued",
+            "pastParticiple": "catalogued"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A complete list of items, typically in alphabetical order.",
+        "chineseDefinition": "按字母顺序排列的目录或清单。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She checked the library catalogue for the new novel.",
+            "chinese": "她在图书馆目录中查找那本新小说。"
+          }
+        ],
+        "synonyms": ["directory", "index"],
+        "antonyms": []
+      },
+      {
+        "definition": "To make a systematic list of items.",
+        "chineseDefinition": "系统地为物品编制目录。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They spent weeks cataloguing the museum's artifacts.",
+            "chinese": "他们花了几周时间为博物馆的手工艺品编目。"
+          }
+        ],
+        "synonyms": ["list", "record"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "prerequisite",
+    "pronunciation": "/ˌpriːˈrɛk.wɪ.zɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "prerequisite",
+            "plural": "prerequisites"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "prerequisite"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Something that is required as a prior condition.",
+        "chineseDefinition": "作为先决条件所需的事物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "English 101 is a prerequisite for this advanced course.",
+            "chinese": "英语101是这门进阶课程的先决条件。"
+          }
+        ],
+        "synonyms": ["requirement", "precondition"],
+        "antonyms": []
+      },
+      {
+        "definition": "Required as a prior condition for something else.",
+        "chineseDefinition": "作为其他事情的前提条件所必需的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Strong math skills are prerequisite for studying physics.",
+            "chinese": "学习物理需具备良好的数学基础作为前提。"
+          }
+        ],
+        "synonyms": ["necessary", "mandatory"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "assessment",
+    "pronunciation": "/əˈsɛs.mənt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "assessment",
+            "plural": "assessments"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The evaluation or estimation of the nature, quality, or ability of someone or something.",
+        "chineseDefinition": "对某人或某事物的性质、质量或能力进行评估或估计。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We need a thorough assessment of the risks involved.",
+            "chinese": "我们需要对所涉及的风险进行全面评估。"
+          }
+        ],
+        "synonyms": ["evaluation", "analysis"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "suggest",
+    "pronunciation": "/səˈdʒɛst/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "suggest",
+            "thirdPersonSingular": "suggests",
+            "presentParticiple": "suggesting",
+            "pastTense": "suggested",
+            "pastParticiple": "suggested"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To put forward for consideration.",
+        "chineseDefinition": "提出以供考虑。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "I suggest we take a short break now.",
+            "chinese": "我建议我们现在稍作休息。"
+          }
+        ],
+        "synonyms": ["propose", "recommend"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "volt",
+    "pronunciation": "/voʊlt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "volt",
+            "plural": "volts"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The SI unit of electromotive force, the difference of potential that drives one ampere of current across a resistance of one ohm.",
+        "chineseDefinition": "国际单位制中电动势的单位，在一欧姆的电阻上驱动一安培电流的电势差。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The battery provides 12 volts to the circuit.",
+            "chinese": "电池为电路提供12伏的电压。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "weed",
+    "pronunciation": "/wiːd/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "weed",
+            "plural": "weeds"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "weed",
+            "thirdPersonSingular": "weeds",
+            "presentParticiple": "weeding",
+            "pastTense": "weeded",
+            "pastParticiple": "weeded"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A wild plant that grows where it is not wanted.",
+        "chineseDefinition": "生长在不受欢迎地方的野草或杂草。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The garden is overgrown with weeds.",
+            "chinese": "花园里长满了杂草。"
+          }
+        ],
+        "synonyms": ["undesirable plant"],
+        "antonyms": []
+      },
+      {
+        "definition": "To remove unwanted plants from a garden or lawn.",
+        "chineseDefinition": "从花园或草坪中清除不需要的植物。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "We need to weed the flower beds this weekend.",
+            "chinese": "我们需要在周末清除花坛里的杂草。"
+          }
+        ],
+        "synonyms": ["clear", "remove"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "screw",
+    "pronunciation": "/skruː/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "screw",
+            "plural": "screws"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "screw",
+            "thirdPersonSingular": "screws",
+            "presentParticiple": "screwing",
+            "pastTense": "screwed",
+            "pastParticiple": "screwed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A metal fastener with a spiral thread.",
+        "chineseDefinition": "带有螺旋纹理的金属紧固件。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He used a Phillips screwdriver to tighten the screw.",
+            "chinese": "他用十字螺丝刀紧了一下这个螺丝。"
+          }
+        ],
+        "synonyms": ["fastener"],
+        "antonyms": []
+      },
+      {
+        "definition": "To fasten or tighten with screws.",
+        "chineseDefinition": "用螺丝固定或拧紧。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "We need to screw these boards together.",
+            "chinese": "我们需要用螺丝把这些板子固定在一起。"
+          }
+        ],
+        "synonyms": ["fasten", "tighten"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "enlighten",
+    "pronunciation": "/ɪnˈlaɪ.tən/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "enlighten",
+            "thirdPersonSingular": "enlightens",
+            "presentParticiple": "enlightening",
+            "pastTense": "enlightened",
+            "pastParticiple": "enlightened"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To give someone greater knowledge and understanding about a subject or situation.",
+        "chineseDefinition": "使某人对某个主题或状况有更多的了解和理解。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Could you enlighten me on this complex issue?",
+            "chinese": "你能为我解释一下这个复杂的问题吗？"
+          }
+        ],
+        "synonyms": ["illuminate", "inform"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "textile",
+    "pronunciation": "/ˈtɛks.taɪl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "textile",
+            "plural": "textiles"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A type of cloth or woven fabric.",
+        "chineseDefinition": "一种类型的布料或织物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "This region is known for its excellent silk textiles.",
+            "chinese": "这个地区以其优质的丝绸纺织品而闻名。"
+          }
+        ],
+        "synonyms": ["fabric", "cloth"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "hesitate",
+    "pronunciation": "/ˈhɛz.ɪ.teɪt/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "hesitate",
+            "thirdPersonSingular": "hesitates",
+            "presentParticiple": "hesitating",
+            "pastTense": "hesitated",
+            "pastParticiple": "hesitated"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To pause before saying or doing something, often due to uncertainty.",
+        "chineseDefinition": "在说或做某事前犹豫不决，通常因为不确定。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She hesitated momentarily before agreeing to the proposal.",
+            "chinese": "她在同意提案前稍微犹豫了一下。"
+          }
+        ],
+        "synonyms": ["pause", "dither"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "tutor",
+    "pronunciation": "/ˈtuː.tər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "tutor",
+            "plural": "tutors"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "tutor",
+            "thirdPersonSingular": "tutors",
+            "presentParticiple": "tutoring",
+            "pastTense": "tutored",
+            "pastParticiple": "tutored"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A private teacher, typically one who teaches a single pupil or a small group.",
+        "chineseDefinition": "私人教师，通常教授一个学生或一小组学生。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He works as a math tutor in the evenings.",
+            "chinese": "他晚上做数学家教工作。"
+          }
+        ],
+        "synonyms": ["instructor", "educator"],
+        "antonyms": []
+      },
+      {
+        "definition": "To teach or instruct, especially privately.",
+        "chineseDefinition": "教授或教导，尤其是以私人形式。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "She tutors students in English grammar on weekends.",
+            "chinese": "她在周末教学生英语语法。"
+          }
+        ],
+        "synonyms": ["teach", "coach"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "topsoil",
+    "pronunciation": "/ˈtɒp.sɔɪl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "topsoil",
+            "plural": "topsoils"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The top layer of soil where most plant roots grow.",
+        "chineseDefinition": "土壤的表层，大多数植物根系在那里生长。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Farmers try to prevent erosion of the topsoil.",
+            "chinese": "农民们努力防止表层土壤的流失。"
+          }
+        ],
+        "synonyms": ["surface soil"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "background",
+    "pronunciation": "/ˈbæk.ɡraʊnd/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "background",
+            "plural": "backgrounds"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "invariable",
+          "data": "background"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The part of a scene that is behind a main figure or object.",
+        "chineseDefinition": "场景中在主要人物或物体后面的部分。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "In the background, you can see the mountains.",
+            "chinese": "在背景处可以看到群山。"
+          }
+        ],
+        "synonyms": ["backdrop"],
+        "antonyms": []
+      },
+      {
+        "definition": "Information about or supporting an event, situation, or person.",
+        "chineseDefinition": "关于事件、情况或人物的背景信息。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "We checked the background information before hiring her.",
+            "chinese": "我们在雇用她之前查看了背景信息。"
+          }
+        ],
+        "synonyms": ["supporting", "contextual"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "impossible",
+    "pronunciation": "/ɪmˈpɒs.ɪ.bl̩/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "impossible",
+            "comparative": "more impossible",
+            "superlative": "most impossible"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Not able to occur, exist, or be done.",
+        "chineseDefinition": "无法发生、存在或完成。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "It's impossible to complete this task alone.",
+            "chinese": "独自完成这项任务是不可能的。"
+          }
+        ],
+        "synonyms": ["unfeasible", "unachievable"],
+        "antonyms": ["possible"]
+      }
+    ]
+  },
+  {
+    "word": "surgeon",
+    "pronunciation": "/ˈsɜː.dʒən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "surgeon",
+            "plural": "surgeons"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A medical practitioner qualified to practice surgery.",
+        "chineseDefinition": "有资格进行外科手术的医生。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The surgeon performed a complex operation.",
+            "chinese": "这位外科医生做了一台复杂的手术。"
+          }
+        ],
+        "synonyms": ["doctor", "operating physician"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "promise",
+    "pronunciation": "/ˈprɒm.ɪs/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "promise",
+            "plural": "promises"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "promise",
+            "thirdPersonSingular": "promises",
+            "presentParticiple": "promising",
+            "pastTense": "promised",
+            "pastParticiple": "promised"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A declaration or assurance that one will do something or that a particular thing will happen.",
+        "chineseDefinition": "表示或保证自己会做某事或某事将发生的宣言。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "She made a promise to help him study.",
+            "chinese": "她许诺要帮助他学习。"
+          }
+        ],
+        "synonyms": ["pledge", "commitment"],
+        "antonyms": []
+      },
+      {
+        "definition": "To assure someone that one will definitely do something.",
+        "chineseDefinition": "向某人保证一定会做某事。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "I promise to call you tonight.",
+            "chinese": "我保证今晚给你打电话。"
+          }
+        ],
+        "synonyms": ["vow", "pledge"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "battery",
+    "pronunciation": "/ˈbæt.ər.i/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "battery",
+            "plural": "batteries"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A container of one or more cells in which chemical energy is converted into electrical energy and used as a source of power.",
+        "chineseDefinition": "由一个或多个电池组合而成的装置，将化学能转化为电能并作为电源使用。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "I need to replace the battery in my phone.",
+            "chinese": "我需要更换手机电池。"
+          }
+        ],
+        "synonyms": ["cell", "power source"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "thunder",
+    "pronunciation": "/ˈθʌn.dər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "thunder",
+            "plural": "thunders"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "thunder",
+            "thirdPersonSingular": "thunders",
+            "presentParticiple": "thundering",
+            "pastTense": "thundered",
+            "pastParticiple": "thundered"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A loud rumbling or crashing noise heard after a lightning flash.",
+        "chineseDefinition": "闪电之后听到的轰隆或撞击般的巨响。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We counted the seconds between the lightning and the thunder.",
+            "chinese": "我们数着闪电和雷声之间的秒数。"
+          }
+        ],
+        "synonyms": ["rumble"],
+        "antonyms": []
+      },
+      {
+        "definition": "To produce a loud rumbling noise like thunder.",
+        "chineseDefinition": "发出类似雷鸣的巨大轰隆声。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The train thundered past the station.",
+            "chinese": "火车轰隆隆地驶过车站。"
+          }
+        ],
+        "synonyms": ["roar", "rumble"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "delicate",
+    "pronunciation": "/ˈdɛl.ɪ.kət/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "delicate",
+            "comparative": "more delicate",
+            "superlative": "most delicate"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Very fine in texture or structure; of intricate workmanship or quality.",
+        "chineseDefinition": "质地或结构非常精细；做工或质量精致。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She held the delicate porcelain vase carefully.",
+            "chinese": "她小心地拿着那个精致的瓷瓶。"
+          }
+        ],
+        "synonyms": ["fragile", "fine"],
+        "antonyms": ["robust"]
+      }
+    ]
+  },
+  {
+    "word": "account",
+    "pronunciation": "/əˈkaʊnt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "account",
+            "plural": "accounts"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "account",
+            "thirdPersonSingular": "accounts",
+            "presentParticiple": "accounting",
+            "pastTense": "accounted",
+            "pastParticiple": "accounted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A record or statement of financial expenditure and receipts.",
+        "chineseDefinition": "对财务支出和收入的记录或报告。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "I need to check my bank account balance.",
+            "chinese": "我需要查看我的银行账户余额。"
+          }
+        ],
+        "synonyms": ["record", "statement"],
+        "antonyms": []
+      },
+      {
+        "definition": "To give a satisfactory record of something; to explain.",
+        "chineseDefinition": "对某事给出令人满意的记录或解释。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "He had to account for every penny he spent.",
+            "chinese": "他必须对所花的每一分钱做出解释。"
+          }
+        ],
+        "synonyms": ["explain", "justify"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "booklet",
+    "pronunciation": "/ˈbʊk.lət/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "booklet",
+            "plural": "booklets"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A small book consisting of a few sheets, typically with a paper cover.",
+        "chineseDefinition": "由几页纸构成的小册子，通常带有纸质封面。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They handed out an information booklet at the event.",
+            "chinese": "他们在活动中分发了一本信息小册子。"
+          }
+        ],
+        "synonyms": ["pamphlet", "leaflet"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "layout",
+    "pronunciation": "/ˈleɪ.aʊt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "layout",
+            "plural": "layouts"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "layout",
+            "thirdPersonSingular": "layouts",
+            "presentParticiple": "layouting",
+            "pastTense": "layouted",
+            "pastParticiple": "layouted"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The way in which text or pictures are set out on a page.",
+        "chineseDefinition": "文字或图片在页面上的排版方式。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The magazine's layout is easy to read.",
+            "chinese": "这本杂志的排版很易于阅读。"
+          }
+        ],
+        "synonyms": ["design", "format"],
+        "antonyms": []
+      },
+      {
+        "definition": "To arrange or plan a specific design for something (less common usage).",
+        "chineseDefinition": "为某物安排或规划特定设计（不常见用法）。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They spent hours layouting the new poster.",
+            "chinese": "他们花了好几个小时设计这张新海报的布局。"
+          }
+        ],
+        "synonyms": ["design", "arrange"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "venture",
+    "pronunciation": "/ˈvɛn.tʃər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "venture",
+            "plural": "ventures"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "venture",
+            "thirdPersonSingular": "ventures",
+            "presentParticiple": "venturing",
+            "pastTense": "ventured",
+            "pastParticiple": "ventured"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A risky or daring journey or undertaking.",
+        "chineseDefinition": "一项具有风险或大胆的旅行或事业。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "His latest business venture failed due to lack of funding.",
+            "chinese": "他最新的商业冒险因资金不足而失败。"
+          }
+        ],
+        "synonyms": ["enterprise", "initiative"],
+        "antonyms": []
+      },
+      {
+        "definition": "To dare to do something or go somewhere that may be dangerous.",
+        "chineseDefinition": "敢于做某事或去可能危险的地方。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They ventured into the dark cave to explore.",
+            "chinese": "他们冒险进入黑暗的洞穴探险。"
+          }
+        ],
+        "synonyms": ["risk", "dare"],
+        "antonyms": []
+      }
+    ]
+  }
+]

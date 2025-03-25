@@ -1,0 +1,1002 @@
+[
+  {
+    "word": "branch",
+    "pronunciation": "/bræntʃ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "branch",
+            "plural": "branches"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "branch",
+            "thirdPersonSingular": "branches",
+            "presentParticiple": "branching",
+            "pastTense": "branched",
+            "pastParticiple": "branched"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A part of a tree that grows out from the trunk.",
+        "chineseDefinition": "从树干上分出的树枝。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He climbed onto the tree branch.",
+            "chinese": "他爬到了那根树枝上。"
+          }
+        ],
+        "synonyms": ["limb", "shoot"],
+        "antonyms": []
+      },
+      {
+        "definition": "To divide into separate parts or subdivisions.",
+        "chineseDefinition": "分成不同的部分或分支。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The road branches off to the left.",
+            "chinese": "道路向左分岔。"
+          }
+        ],
+        "synonyms": ["divide", "split"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "chancellor",
+    "pronunciation": "/ˈtʃɑːnsələ/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "chancellor",
+            "plural": "chancellors"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A senior state or legal official.",
+        "chineseDefinition": "高级国家或法律官员。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The chancellor met with foreign diplomats.",
+            "chinese": "总理会见了外国外交官。"
+          }
+        ],
+        "synonyms": ["head", "leader", "president"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "vertical",
+    "pronunciation": "/ˈvɜːtɪkl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "vertical",
+            "comparative": "more vertical",
+            "superlative": "most vertical"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Being in a position or orientation perpendicular to the horizontal.",
+        "chineseDefinition": "处于与水平面垂直的位置或方向。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The walls were perfectly vertical.",
+            "chinese": "这些墙完全是垂直的。"
+          }
+        ],
+        "synonyms": ["upright", "perpendicular"],
+        "antonyms": ["horizontal"]
+      }
+    ]
+  },
+  {
+    "word": "herbivore",
+    "pronunciation": "/ˈhɜːbɪvɔːr/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "herbivore",
+            "plural": "herbivores"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An animal that feeds on plants.",
+        "chineseDefinition": "一种以植物为食的动物。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Cows and sheep are herbivores.",
+            "chinese": "牛和羊是食草动物。"
+          }
+        ],
+        "synonyms": ["plant-eater"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "flat",
+    "pronunciation": "/flæt/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "flat",
+            "comparative": "flatter",
+            "superlative": "flattest"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Having a level surface; without raised areas or indentations.",
+        "chineseDefinition": "表面平整，没有凸起或凹陷。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The countryside here is very flat.",
+            "chinese": "这里的乡村地势非常平坦。"
+          }
+        ],
+        "synonyms": ["level", "plane"],
+        "antonyms": ["uneven", "bumpy"]
+      }
+    ]
+  },
+  {
+    "word": "occasionally",
+    "pronunciation": "/əˈkeɪʒnəli/",
+    "forms": [
+      {
+        "partOfSpeech": "adverb",
+        "form": {
+          "type": "invariable",
+          "data": "occasionally"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "At infrequent or irregular intervals; now and then.",
+        "chineseDefinition": "偶尔，有时。",
+        "partOfSpeech": "adverb",
+        "examples": [
+          {
+            "english": "We occasionally go to the cinema.",
+            "chinese": "我们偶尔会去看电影。"
+          }
+        ],
+        "synonyms": ["sometimes", "now and then"],
+        "antonyms": ["frequently", "often"]
+      }
+    ]
+  },
+  {
+    "word": "harridan",
+    "pronunciation": "/ˈhærɪdən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "harridan",
+            "plural": "harridans"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A strict, bossy, or belligerent old woman.",
+        "chineseDefinition": "严厉、专横或好斗的老妇人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The old harridan scolded the children for playing in her yard.",
+            "chinese": "那个老妇人责骂孩子们在她的院子里玩耍。"
+          }
+        ],
+        "synonyms": ["shrew", "hag"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "accommodation",
+    "pronunciation": "/əˌkɒməˈdeɪʃn/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "accommodation",
+            "plural": "accommodations"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A room, group of rooms, or building in which someone may live or stay.",
+        "chineseDefinition": "可供人居住或逗留的单间或楼房。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We found accommodation in a small hotel.",
+            "chinese": "我们在一家小旅馆找到了住处。"
+          }
+        ],
+        "synonyms": ["lodging", "residence"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "static",
+    "pronunciation": "/ˈstætɪk/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "static",
+            "comparative": "more static",
+            "superlative": "most static"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Lacking in movement, action, or change.",
+        "chineseDefinition": "缺乏运动、动作或变化。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "The situation has remained static for too long.",
+            "chinese": "局势一直停滞太久了。"
+          }
+        ],
+        "synonyms": ["unchanging", "immobile"],
+        "antonyms": ["dynamic", "active"]
+      }
+    ]
+  },
+  {
+    "word": "section",
+    "pronunciation": "/ˈsɛkʃn/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "section",
+            "plural": "sections"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A distinct part or subdivision of anything.",
+        "chineseDefinition": "任何事物中独立的一部分或分区。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Read the next section of the report.",
+            "chinese": "阅读报告的下一部分。"
+          }
+        ],
+        "synonyms": ["part", "segment"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "scale",
+    "pronunciation": "/skeɪl/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "scale",
+            "plural": "scales"
+          }
+        }
+      },
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "scale",
+            "thirdPersonSingular": "scales",
+            "presentParticiple": "scaling",
+            "pastTense": "scaled",
+            "pastParticiple": "scaled"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A device for weighing things; an instrument for showing weight.",
+        "chineseDefinition": "用于称重的装置；显示重量的仪器。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He stepped on the scale to check his weight.",
+            "chinese": "他站到秤上量体重。"
+          }
+        ],
+        "synonyms": ["balance", "weighing machine"],
+        "antonyms": []
+      },
+      {
+        "definition": "To climb up or over something high and steep.",
+        "chineseDefinition": "攀登某个高且陡的东西。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "They scaled the mountain in three hours.",
+            "chinese": "他们在三小时内爬上了那座山。"
+          }
+        ],
+        "synonyms": ["climb", "ascend"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "constantly",
+    "pronunciation": "/ˈkɒnstəntli/",
+    "forms": [
+      {
+        "partOfSpeech": "adverb",
+        "form": {
+          "type": "invariable",
+          "data": "constantly"
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Continuously over a period of time; always.",
+        "chineseDefinition": "在一段时间内连续地；总是。",
+        "partOfSpeech": "adverb",
+        "examples": [
+          {
+            "english": "She is constantly complaining about the weather.",
+            "chinese": "她一直在抱怨天气。"
+          }
+        ],
+        "synonyms": ["continuously", "always"],
+        "antonyms": ["occasionally", "rarely"]
+      }
+    ]
+  },
+  {
+    "word": "ailment",
+    "pronunciation": "/ˈeɪlmənt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "ailment",
+            "plural": "ailments"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An illness, typically a minor one.",
+        "chineseDefinition": "一种疾病，通常是轻微的。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He visited the doctor to treat a minor ailment.",
+            "chinese": "他去看医生治疗小病。"
+          }
+        ],
+        "synonyms": ["illness", "disease"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "adhere",
+    "pronunciation": "/ədˈhɪər/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "adhere",
+            "thirdPersonSingular": "adheres",
+            "presentParticiple": "adhering",
+            "pastTense": "adhered",
+            "pastParticiple": "adhered"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To stick fast to a surface or substance.",
+        "chineseDefinition": "紧紧粘在某个表面或物质上。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "Tape can adhere to many surfaces.",
+            "chinese": "胶带可以粘到很多表面上。"
+          }
+        ],
+        "synonyms": ["stick", "cling"],
+        "antonyms": ["detach", "loosen"]
+      }
+    ]
+  },
+  {
+    "word": "extracurricular",
+    "pronunciation": "/ˌekstrəkəˈrɪkjələ/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "extracurricular",
+            "comparative": "more extracurricular",
+            "superlative": "most extracurricular"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Pursued in addition to the normal course of study.",
+        "chineseDefinition": "在正常课程之外进行的活动。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She participates in many extracurricular sports.",
+            "chinese": "她参加许多课外体育活动。"
+          }
+        ],
+        "synonyms": ["after-school", "non-academic"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "propel",
+    "pronunciation": "/prəˈpɛl/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "propel",
+            "thirdPersonSingular": "propels",
+            "presentParticiple": "propelling",
+            "pastTense": "propelled",
+            "pastParticiple": "propelled"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To drive or push something forward.",
+        "chineseDefinition": "推动或推进某物前进。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The strong wind propelled the boat across the lake.",
+            "chinese": "强风推动船穿过湖面。"
+          }
+        ],
+        "synonyms": ["drive", "thrust"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "posture",
+    "pronunciation": "/ˈpɒstʃə/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "posture",
+            "plural": "postures"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The position in which someone holds their body when standing or sitting.",
+        "chineseDefinition": "一个人在站立或坐着时的身体姿势。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "Good posture helps reduce back pain.",
+            "chinese": "良好的姿势有助于减轻背部疼痛。"
+          }
+        ],
+        "synonyms": ["stance", "position"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "overseas",
+    "pronunciation": "/ˌəʊvərˈsiːz/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "overseas",
+            "comparative": "more overseas",
+            "superlative": "most overseas"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "From, to, or relating to a foreign country, especially one across the sea.",
+        "chineseDefinition": "来自、前往或与外国（尤其是跨海的国家）有关。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "She studies at an overseas university.",
+            "chinese": "她在海外的一所大学就读。"
+          }
+        ],
+        "synonyms": ["foreign", "abroad"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "industrialise",
+    "pronunciation": "/ɪnˈdʌstriəlaɪz/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "industrialise",
+            "thirdPersonSingular": "industrialises",
+            "presentParticiple": "industrialising",
+            "pastTense": "industrialised",
+            "pastParticiple": "industrialised"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To develop industries in (a country or region) on a wide scale.",
+        "chineseDefinition": "在某个国家或地区大规模发展工业。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The nation began to industrialise in the late 19th century.",
+            "chinese": "这个国家在19世纪末开始工业化。"
+          }
+        ],
+        "synonyms": ["industrialize", "modernize"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "empire",
+    "pronunciation": "/ˈɛmpaɪər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "empire",
+            "plural": "empires"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An extensive group of states or countries under a single supreme authority.",
+        "chineseDefinition": "在单一最高权力之下的广泛国家或地区集合。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The Roman Empire was vast at its peak.",
+            "chinese": "罗马帝国在鼎盛时期疆域辽阔。"
+          }
+        ],
+        "synonyms": ["realm", "kingdom"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "mechanic",
+    "pronunciation": "/mɪˈkænɪk/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "mechanic",
+            "plural": "mechanics"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A person who repairs and maintains machinery.",
+        "chineseDefinition": "修理和维护机械的人。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He took his car to the mechanic for an oil change.",
+            "chinese": "他把车送到机械师那里换机油。"
+          }
+        ],
+        "synonyms": ["technician", "repairman"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "fracture",
+    "pronunciation": "/ˈfræktʃər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "fracture",
+            "plural": "fractures"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "The cracking or breaking of a hard object or material.",
+        "chineseDefinition": "硬物或材料的破裂或断裂。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "He suffered a fracture in his left arm.",
+            "chinese": "他的左臂骨折了。"
+          }
+        ],
+        "synonyms": ["break", "crack"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "glacial",
+    "pronunciation": "/ˈɡleɪʃl/",
+    "forms": [
+      {
+        "partOfSpeech": "adjective",
+        "form": {
+          "type": "adjective",
+          "data": {
+            "base": "glacial",
+            "comparative": "more glacial",
+            "superlative": "most glacial"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "Relating to, resulting from, or denoting the presence or agency of ice.",
+        "chineseDefinition": "与冰有关或由冰的存在或作用引起的。",
+        "partOfSpeech": "adjective",
+        "examples": [
+          {
+            "english": "Glacial landscapes are shaped by moving ice.",
+            "chinese": "冰川景观由移动的冰川塑造。"
+          }
+        ],
+        "synonyms": ["icy", "frozen"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "badminton",
+    "pronunciation": "/ˈbædmɪntən/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "badminton",
+            "plural": "badmintons"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A game with rackets in which a shuttlecock is played back and forth across a net.",
+        "chineseDefinition": "一种使用球拍的运动，球经过球网上下往返。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "We often play badminton in the backyard.",
+            "chinese": "我们经常在后院打羽毛球。"
+          }
+        ],
+        "synonyms": [],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "dock",
+    "pronunciation": "/dɒk/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "dock",
+            "plural": "docks"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A platform built on the shore or out from the shore; a pier.",
+        "chineseDefinition": "在岸边或从岸边修建的平台；码头。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "The boat is tied up at the dock.",
+            "chinese": "船停靠在码头。"
+          }
+        ],
+        "synonyms": ["pier", "wharf"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "argument",
+    "pronunciation": "/ˈɑːɡjʊmənt/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "argument",
+            "plural": "arguments"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "An exchange of diverging or opposite views, typically a heated or angry one.",
+        "chineseDefinition": "一场分歧或对立观点的交流，通常是激烈或愤怒的。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "They had an argument about politics.",
+            "chinese": "他们就政治问题发生了争执。"
+          }
+        ],
+        "synonyms": ["dispute", "debate"],
+        "antonyms": ["agreement", "consensus"]
+      }
+    ]
+  },
+  {
+    "word": "chase",
+    "pronunciation": "/tʃeɪs/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "chase",
+            "thirdPersonSingular": "chases",
+            "presentParticiple": "chasing",
+            "pastTense": "chased",
+            "pastParticiple": "chased"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To pursue in order to catch or catch up with.",
+        "chineseDefinition": "追赶以便抓住或赶上。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The cat is chasing the mouse.",
+            "chinese": "猫正在追赶老鼠。"
+          }
+        ],
+        "synonyms": ["pursue", "hunt"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "brochure",
+    "pronunciation": "/ˈbrəʊʃjʊər/",
+    "forms": [
+      {
+        "partOfSpeech": "noun",
+        "form": {
+          "type": "noun",
+          "data": {
+            "singular": "brochure",
+            "plural": "brochures"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "A small book or magazine containing pictures and information about a product or service.",
+        "chineseDefinition": "一本包含产品或服务信息和图片的小册子。",
+        "partOfSpeech": "noun",
+        "examples": [
+          {
+            "english": "I picked up a holiday brochure at the travel agency.",
+            "chinese": "我在旅行社拿了一本度假小册子。"
+          }
+        ],
+        "synonyms": ["pamphlet", "leaflet"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "convince",
+    "pronunciation": "/kənˈvɪns/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "convince",
+            "thirdPersonSingular": "convinces",
+            "presentParticiple": "convincing",
+            "pastTense": "convinced",
+            "pastParticiple": "convinced"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To cause someone to believe firmly in the truth of something.",
+        "chineseDefinition": "使某人坚信某事的真实性。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "I finally convinced her to join the trip with us.",
+            "chinese": "我终于说服她和我们一起去旅行。"
+          }
+        ],
+        "synonyms": ["persuade", "assure"],
+        "antonyms": []
+      }
+    ]
+  },
+  {
+    "word": "teem",
+    "pronunciation": "/tiːm/",
+    "forms": [
+      {
+        "partOfSpeech": "verb",
+        "form": {
+          "type": "verb",
+          "data": {
+            "base": "teem",
+            "thirdPersonSingular": "teems",
+            "presentParticiple": "teeming",
+            "pastTense": "teemed",
+            "pastParticiple": "teemed"
+          }
+        }
+      }
+    ],
+    "meanings": [
+      {
+        "definition": "To be full of or swarming with.",
+        "chineseDefinition": "充满或被密集挤满。",
+        "partOfSpeech": "verb",
+        "examples": [
+          {
+            "english": "The ocean teems with marine life.",
+            "chinese": "海洋中充满了海洋生物。"
+          }
+        ],
+        "synonyms": ["abound", "overflow"],
+        "antonyms": []
+      }
+    ]
+  }
+]
