@@ -28,17 +28,19 @@ func validateGeneratedFile(filePath: String) {
         
         let components = line.components(separatedBy: "|")
         
-        // Ensure the line has enough components
-        guard components.count >= 3 else {
-            print("Error on line \(lineNumber): Not enough fields (found \(components.count))")
+        // Ensure the line has enough components (at least 11 fields in the new format)
+        guard components.count >= 11 else {
+            print("Error on line \(lineNumber): Not enough fields (found \(components.count), expected at least 11)")
             invalidLines += 1
             mismatchLineNumbers.append(lineNumber)
             mismatchedLines.append((lineNumber, line, "", ""))
             continue
         }
         
+        // New format: Answer|Form|Example|OriginalExample|TranslationOfExample|Definition|ChineseDefinition|Word|PartOfSpeech|Synonyms|Antonyms
         let answer = components[0]
-        let example = components[1]
+        let formType = components[1]  // New field for form type
+        let example = components[2]   // Example is now at index 2
         
         // Extract the word from {{c1::word}} in the example
         let pattern = "\\{\\{c1::([^}]+)\\}\\}"
@@ -65,6 +67,7 @@ func validateGeneratedFile(filePath: String) {
                 print("Mismatch on line \(lineNumber):")
                 print("  Answer: '\(answer)'")
                 print("  Word in example: '\(extractedWord)'")
+                print("  Form type: '\(formType)'")
                 invalidLines += 1
                 mismatchLineNumbers.append(lineNumber)
                 mismatchedLines.append((lineNumber, line, answer, extractedWord))

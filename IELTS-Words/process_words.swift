@@ -260,6 +260,43 @@ func loadEnglishWordsFromJSONFiles() -> [EnglishWord] {
     return allWords
 }
 
+// Function to determine the form type of a word
+func getFormType(word: String, wordForm: WordForm, formValue: String) -> String {
+    switch wordForm.form {
+    case .noun(let nounForms):
+        if formValue == nounForms.singular {
+            return "singular"
+        } else if formValue == nounForms.plural {
+            return "plural"
+        }
+    case .verb(let verbForms):
+        if formValue == verbForms.base {
+            return "base"
+        } else if formValue == verbForms.thirdPersonSingular {
+            return "thirdPersonSingular"
+        } else if formValue == verbForms.presentParticiple {
+            return "presentParticiple"
+        } else if formValue == verbForms.pastTense {
+            return "pastTense"
+        } else if formValue == verbForms.pastParticiple {
+            return "pastParticiple"
+        }
+    case .adjective(let adjectiveForms):
+        if formValue == adjectiveForms.base {
+            return "base"
+        } else if formValue == adjectiveForms.comparative {
+            return "comparative"
+        } else if formValue == adjectiveForms.superlative {
+            return "superlative"
+        }
+    case .invariable(let invariableForm):
+        if formValue == invariableForm {
+            return "invariable"
+        }
+    }
+    return "unknown"
+}
+
 // Function to generate the output text for each meaning
 func generateOutputLines(from words: [EnglishWord]) -> [String] {
     var outputLines: [String] = []
@@ -270,29 +307,29 @@ func generateOutputLines(from words: [EnglishWord]) -> [String] {
             guard let firstExample = meaning.examples.first else { continue }
             
             // Get all possible forms to match against the example
-            var allForms: [String] = []
+            var allForms: [(form: String, wordForm: WordForm)] = []
             for wordForm in word.forms {
                 switch wordForm.form {
                 case .noun(let nounForms):
-                    allForms.append(nounForms.singular)
-                    allForms.append(nounForms.plural)
+                    allForms.append((nounForms.singular, wordForm))
+                    allForms.append((nounForms.plural, wordForm))
                 case .verb(let verbForms):
-                    allForms.append(verbForms.base)
-                    allForms.append(verbForms.thirdPersonSingular)
-                    allForms.append(verbForms.presentParticiple)
-                    allForms.append(verbForms.pastTense)
-                    allForms.append(verbForms.pastParticiple)
+                    allForms.append((verbForms.base, wordForm))
+                    allForms.append((verbForms.thirdPersonSingular, wordForm))
+                    allForms.append((verbForms.presentParticiple, wordForm))
+                    allForms.append((verbForms.pastTense, wordForm))
+                    allForms.append((verbForms.pastParticiple, wordForm))
                 case .adjective(let adjectiveForms):
-                    allForms.append(adjectiveForms.base)
-                    allForms.append(adjectiveForms.comparative)
-                    allForms.append(adjectiveForms.superlative)
+                    allForms.append((adjectiveForms.base, wordForm))
+                    allForms.append((adjectiveForms.comparative, wordForm))
+                    allForms.append((adjectiveForms.superlative, wordForm))
                 case .invariable(let invariableForm):
-                    allForms.append(invariableForm)
+                    allForms.append((invariableForm, wordForm))
                 }
             }
             
             // Sort forms by length (descending) to match longer forms first
-            allForms.sort { $0.count > $1.count }
+            allForms.sort { $0.form.count > $1.form.count }
             
             // Find the form that appears in the example
             let originalExample = firstExample.english
@@ -300,10 +337,15 @@ func generateOutputLines(from words: [EnglishWord]) -> [String] {
             
             var answer = word.word // Default to the base word if no match found
             var example = originalExample
+            var formType = "unknown"
+            var matchedWordForm: WordForm? = nil
             
-            for form in allForms {
+            for (form, wordForm) in allForms {
                 if lowercaseExample.contains(form.lowercased()) {
                     answer = form
+                    matchedWordForm = wordForm
+                    formType = getFormType(word: word.word, wordForm: wordForm, formValue: form)
+                    
                     // Create the example with the answer blanked out
                     do {
                         let pattern = "(?i)\(NSRegularExpression.escapedPattern(for: form))"
@@ -330,9 +372,10 @@ func generateOutputLines(from words: [EnglishWord]) -> [String] {
             let synonyms = meaning.synonyms.joined(separator: ", ")
             let antonyms = meaning.antonyms.joined(separator: ", ")
             
-            // Construct the output line
+            // Construct the output line with the new form field
             let outputLine = [
                 answer,
+                formType,
                 example,
                 originalExample,
                 firstExample.chinese,
@@ -375,3 +418,4 @@ func main() {
 
 // Run the script
 main()
+
